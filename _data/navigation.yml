@@ -88,8 +88,8 @@ toc:
               url: /recruit/webdev.html
         - page: "選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteboard Interview"
           url: /recruit/whiteboard.html
-        - page: "選項C：資深面試 - 直接認識團隊（半天）In-Person Super Accelerated Interview"
-          url: /recruit/inperson.html
+        - page: "選項C：資深資歷查核 Technical Reference Check"
+          url: /recruit/referencecheck.html
       - page: 性別平等就業機會 Equal Opportunity Employment
         url: /recruit/women.html
       - page: 開源貢獻 Open Source Contribution

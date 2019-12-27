@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 學生及職場新人
+title: 實習生培訓計劃：學生及職場新人
 description: Students & New Graduates
 ---
 

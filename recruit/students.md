@@ -9,6 +9,101 @@ description: Students & New Graduates
 > Do important work.
 > Create meaningful impact.
 
+## For 大學生和畢業生.
+
+許多公司通常會將實習生視為非關鍵的免費勞力。 我們不認同。
+ 
+我們相信有許多聰明、有企圖心的學生被忽視。 在AVL，我們不注重大學名氣，或缺乏工作經驗，或沒有職場上的關係。
+
+我們重視肯努力學習，工作上表現積極有能力的學生，能帶給團隊出貢獻，無論背景或經驗。 我們希望為有才華、有動力的學生提供培訓機會  
+ 
+如果您思慮敏捷、積極主動、勤奮，我們希望有機會與您合作。
+
+<br>
+
+---
+
+<br>
+
+## Solve real challenges. Help real people.
+
+> 實習生會有機會擁有自己的個案，直接影響公司產品。 
+
+每位實習生都會受到指導並需要應對重要的技術挑戰。我們的實習 program 不會模擬工作環境。您會在實際的工作環境，是我們團隊的一份子。這表示我們期望您的表現像是全職員工一樣。Project Demo Day、論壇會、團隊活動和公司旅遊提供實習生更多的實際工作經驗和機會。 
+ 
+在AVL，您將：
+
+### EXPERIENCE REAL WORK
+
+學習專業職場需要的實際技能。做真正的工作，寫會被執行的代碼。不浪費時間在 “sample project”。
+
+### LEARN TO BUILD A LEAN STARTUP
+
+1. 有實際工作經驗，使用最新的科技軟體、最專業的開發 SOP、產品管理方式。
+1. 學習如何策略、計劃、執行、開會、報告、做商業與科技決定。
+1. 學習經營公司必備的非 engineering 才能，如行銷、分析、等。
+
+### HAVE OWNERSHIP
+
+您會擁有所有權執行自己的關鍵 project，從頭到尾。 你也會像我們的全職員工一樣有個人 OKR 和 KPI。
+
+### RECEIVE MENTORSHIP AND CAREER DEVELOPMENT
+
+Stanford 和 MIT 校友的定期回饋，獲得真實經驗，幫助發展未來職業方向。
+
+### RECEIVE COMPENSATION
+
+根據 OKR 的表現獲得獎金、獎學金或補貼。
+
+<br>
+
+---
+
+<br>
+
+## **#MIT PROGRAM**
+## Pioneer Taiwan’s tech startup ecosystem on a fundamental level.
+
+這是您參與 Made in Taiwan 新創團隊並做出貢獻的機會。 您會受到挑戰執行出色的結果。 如果您積極進取，勤奮敬業，技術精湛，
+
+[加入我們]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+
+**實習多久？**
+​
+我們提供彈性實習計畫，至少10個禮拜。
+​
+**誰能申請？**
+​
+我們期望勤奮的學生/剛畢業生，想要做軟體、網頁、app 開發。
+​
+**實習生畢業後會有全職機會嗎？**
+​
+我們的實習生計劃的主要目的是讓您有機會探索您畢業後是否想與我們進行全職工作。 我們僱用許多前實習生。 我們也僱用許多沒有與我們實習的畢業生。
+
+**實習地點在哪裡？**
+​
+跟我們的一般全職員工一樣，我們遠程工作，定期面對面會議和活動。
+​
+**什麼時候聘請實習生？**
+​
+我們提供全年實習。夏季是最多實習生的時候。 
+​
+**實習生會去哪一個團隊/產品？**
+​
+我們會看您的技能背景和喜好，考慮團隊需求，然後為您分配一個最適合的團隊。
+
+<br>
+
+---
+
+<br>
+
+## **Mentored Intern Training MIT Program**
+
+> Do important work.
+> Create meaningful impact.
+
 ## For college students and recent graduates.
 
 Companies often treat interns as free labor for non-vital projects’ non-vital parts. We disagree.

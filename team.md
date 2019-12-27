@@ -46,9 +46,9 @@ _Co-Founder. MIT-grad. Startup rockstar._
 
 <br>
 
-## 我們的顧問 Our Advisors
+## 顧問團隊 Our Advisors
 
-我們的顧問團隊來自：
+我們的顧問來自：
 
 * Alibaba
 * Amazon.com

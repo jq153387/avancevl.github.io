@@ -77,7 +77,7 @@ Currently, the navigation tree is at the bottom of our pages. Some of these are 
 
 ## How to Contribute
 
-1. Fork our repo [here](https://github.com/avancevl/avl.github.io){:target="_blank"}.
+1. Fork our repo [here](https://github.com/avancevl/avancevl.github.io){:target="_blank"}.
 1. Submit pull request.
 1. Approve and merged within 1 week.
 

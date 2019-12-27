@@ -34,13 +34,13 @@ description: Team
 
 <img src='https://lh3.googleusercontent.com/wwqfXV89Cm6iMqBH85dzjSex59waKO9TuxiUbuk5df1A4EI55NUITFsVVOQ5rNkzivgJuOBUN-eG5Mct_OO0eWw1z0Hp45JMBz3mlIGO8jUfnBZbLWdT7agk9Lhtzjzl6D-8wDhEZqZOf7euCy9MTVZdQrueCYlPpwTkYwYwTuEoK6HOaQGjltPsacX-NnnOghsFiNnUuTJ0BM1QwxDExoSy5jd8U8S4MUs4WQxSBqjLep4oKyh6HF1QhSnMF_QKue7EGE2lJ3N3WNDX9I_76GLbGKvboL_YrBPDJN-ayFg3276mdKPJZMWvVOdX8aEpU2HXujwYs1PdOxBRxdFhs4DwmO_1MT35AQQKEInyr2lbWc6vlOTxdzG0DZjWGgmZUU0NMxDa5C0RhWpbh1CmMii7JSNMM2GXp5KqGyRVCjvzErxMos_95uvvdjOrgXEsd3oRIn5A-EDuCSjXU94NBSSI9WAAxslkya9zbOvQco_U4gXILCWfjSvltk8C03U6LaX-dT4I-kk915iL9MoCc-8gjk8sZcg21SyCEel7TJOsPHqavZ3EtHHzPWVDppgfBVMriLyx3mXxdwF_tQinoIMpt2hUXwx2oQvYfzPaLBmRH7CuPJEZ7AXUfpXK_qckgQwUton0ym0JIeTlNYiWR6X88dK1SQ1lN0ijFHFgu1qdtcicozT3ku52=s346-no' width="222"/>
 
-**[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
+### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
 
 _Co-Founder. Stanford-grad. Tech genius._
 
 <img src='https://lh3.googleusercontent.com/mHUr_0t4g83kutVGnYvPRvi2z4qyql4ffQcNnpCifQZI8g4cvXUE7g8CPch4-9j6MI8JNPw4VVjrTlUaFmk1vEz-Vg_Of3eQTADrjopeX4c7t0yVvxRJOq41mu8P1brr0R3j6IzlTUHoNMLg7-Q9qDyWsBz9MDlVlyt_T6xenQDy_iin6vlBWsKSCdYAATs8FXy4ynvzKrr5TqTdyfPMNSKeOhkLSazJtiHcp_JGbrCfGJ033OtT395OSHQ1mbRYI8ms2XWuspqBqF9saaUT8-DrptJeAb7Ckhy9ni7dC0c3m6OSHyLW-hkZM1TbhbMJBD2s-HRvnaw2CMLbqWLSFcXxZpW0rxBHsYSPvXSJuIVdhrugE-sEvoNjIlIUZI3lT0EDsDGM5h8pskPzAe9-AU-WU_ibaphiLp0-SKWUBxoo1NVRoXBbfroXMkq4YT4AuDp_IFUoodN6V3_Q_FGYvB4Rz52ifFRGEpXbKIsuMB5lrOqIScPfnag1F3QhEpImkHpDR4PDT0plg-8WXB014ts-WWOM7HuOAC6zwhMVh91W6M8SQd-4GyzOQkJzKw2TBa3_mh-aS0i0tWRZa_ztdGJaXiNGfjjhwdXWs09RTD-HyylB-mEXICtLR0lGEsjQv01t7BD1UseTDvWb-oaX7yfZrgbUyS3nAPmjtNML3MOe_p_SOgquwNZa=s1028-no' width="222"/>
 
-**[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
+### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
 
 _Co-Founder. MIT-grad. Startup rockstar._
 

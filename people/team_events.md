@@ -5,6 +5,7 @@ description: Team Events
 ---
 
 > **註：**為了保護員工隱私，有些照片必須濾鏡效果處理
+
 > **Note:** In order to respect employee privacy, some photos are filtered.
 
 ---

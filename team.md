@@ -32,13 +32,13 @@ description: Team
 
 ## 創辦團隊 Founders
 
-<img src='https://lh3.googleusercontent.com/t-iyzY9j78iGv8rOx-oJMpJzEA5lyhNP_Gj4g7iNxgCbANjDDYyOAbPyaKOEPpIPor3OAHQT_SbO0Zc2FKvNaONWeCCxgm-oUfZSh4v16HGXPBHHu9vkF3BzgUG2ZMrmDBi-7bRARgFh2EnD6o-XoUl-OxyTnwRuMutjNRwvQA47Hel9t_gtNW2knxfGUacIL4yqEAf120qFT6BDK0DQ0CZ3OiWY5M1L47E4WY9uBz2qDieFic0iOl2l9awtAr-1zMKvNDrmErkYB3NCe5XbKD8jmZwgWcljkYijBscMmtLcWBdcSf0Hkk8TaMCgdP4REWR227fl1K8jEZZCoYGm6kVC7_uWHJakdWsda8Usgp18J-IL6SxRLqioXfl0un7EdSoiqkNc24AdQIFIoQ-GjMo16-MmRCIqfL85oxoYhDy_Iqbn_Pc3KmPrih06i-qDsplDFICkM2Ka0QC1z3eAi18A7-0MzqCXkIozRio4wsrgHhZmP3BOzmf007UIRLMl5VeW42XB9yvRb5nwydV6L1M5CCkmcfoyT0RCkpzLEZHYektblz5TURCVJWs1vwjPpPisWODyr8c0nFSpomWAUu1TIj6_U_FzFVD_rxDze_yAeF_fgGYUnaneGqwWPbcw_5GoYHmQi7wKpl3U60Zo3NepTc7ORnwP-3_U0AO7EeRawIUkMZAnK2v4=s953-no' width="222"/>
+<img src='https://lh3.googleusercontent.com/ZVYB3JbfI5u9VbujgpSpCpaspCzCXLaiqb4DcniQIdZDPoKqwEPdhhv3biEIccwTs0ac-SkW5iBTtS-NpPZx8K-WAAtF6zelbxQqHxmYsruIZqMq2XuA79jWpGFJ0r0bM-32PqQ4QPM=w2400' width="222"/>
 
 ### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
 
 _Co-Founder. Stanford-grad. Tech genius._
 
-<img src='https://lh3.googleusercontent.com/mHUr_0t4g83kutVGnYvPRvi2z4qyql4ffQcNnpCifQZI8g4cvXUE7g8CPch4-9j6MI8JNPw4VVjrTlUaFmk1vEz-Vg_Of3eQTADrjopeX4c7t0yVvxRJOq41mu8P1brr0R3j6IzlTUHoNMLg7-Q9qDyWsBz9MDlVlyt_T6xenQDy_iin6vlBWsKSCdYAATs8FXy4ynvzKrr5TqTdyfPMNSKeOhkLSazJtiHcp_JGbrCfGJ033OtT395OSHQ1mbRYI8ms2XWuspqBqF9saaUT8-DrptJeAb7Ckhy9ni7dC0c3m6OSHyLW-hkZM1TbhbMJBD2s-HRvnaw2CMLbqWLSFcXxZpW0rxBHsYSPvXSJuIVdhrugE-sEvoNjIlIUZI3lT0EDsDGM5h8pskPzAe9-AU-WU_ibaphiLp0-SKWUBxoo1NVRoXBbfroXMkq4YT4AuDp_IFUoodN6V3_Q_FGYvB4Rz52ifFRGEpXbKIsuMB5lrOqIScPfnag1F3QhEpImkHpDR4PDT0plg-8WXB014ts-WWOM7HuOAC6zwhMVh91W6M8SQd-4GyzOQkJzKw2TBa3_mh-aS0i0tWRZa_ztdGJaXiNGfjjhwdXWs09RTD-HyylB-mEXICtLR0lGEsjQv01t7BD1UseTDvWb-oaX7yfZrgbUyS3nAPmjtNML3MOe_p_SOgquwNZa=s1028-no' width="222"/>
+<img src='https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400' width="222"/>
 
 ### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
 

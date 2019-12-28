@@ -8,6 +8,8 @@ description: Engineering
 
 Our engineering stack broken down by lines of code and programming language.
 
+> `Metrics updated Dec, 2019`
+
 <img src='https://lh3.googleusercontent.com/-TlZUxV1mEeJ42K-OkpjUMgUClJSaty-in5uP5Ab14V7sx3HYKPLxLBwn70BojJ8tUzXQ86Qi9oGiegrdsr-mqPws9JTOT5PiqTONjQnBSqAnPTmTXUg7QBgm1v66YiEGzUbunwbgA=w2400' />
 
 <br>

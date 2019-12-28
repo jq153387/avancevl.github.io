@@ -15,7 +15,10 @@ description: Online Resource
 ### Back-End
 
 * [A beginner's guide to backend development](https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/){:target="_blank"}
+* [Ask HN: What are must know concepts for backend development?](https://news.ycombinator.com/item?id=18961793){:target="_blank"}
 
+
+<br>
 
 ## Communities
 

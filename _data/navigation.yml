@@ -58,6 +58,9 @@ toc:
         url: /people/team_events.html
       - page: 學習培訓 Learning & Training
         url: /people/learning_training.html
+        subsubfolderitems:
+          - page: 線上資源 Online Resources
+            url: /people/online_resources.html
       - page: 外派國外 Relocation
         url: /people/relocation.html
       - page: 績效評估 General Performance Review

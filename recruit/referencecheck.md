@@ -22,9 +22,9 @@ description: Technical Reference Check
 
 我們會檢閱您的資料，再與您聯絡。這個選項沒有固定的回覆時間。
 
-## 加速申請線上測驗
+## 直接加薪
 
-我們強力推薦您申請2.5小時的**[選項A：加速申請 - 線上測驗]({{ site.baseurl }}/recruit/takehome.html)**，節省時間並跟確實的測量您的實力，給予公平的職位與客觀的薪資範圍，一週內給您回覆。
+如果資歷查核都沒問題，我們會直接依照查核的薪資加至少5%。
 
 [立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 

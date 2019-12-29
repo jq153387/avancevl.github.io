@@ -4,6 +4,11 @@ title: "選項C：資深資歷查核"
 description: Technical Reference Check
 ---
 
+## 不用在家測驗或白板考試
+
+* **不需在家線上測驗**
+* **白板考試**
+
 ## 高階工程師職位以上
 
 這個選項是給最資深，對自己的能力與經驗最有自信的高階工程師，才可以不用線上測驗或是白板考試。您必須擁有5年以上的全端開發工作經驗。
@@ -30,9 +35,16 @@ description: Technical Reference Check
 
 <br>
 
+## No technical interviews or exams
+
+For senior engineers with 5 years of technical experience or more:
+
+* **NO take home exams.**
+* **NO white board interviews.**
+
 ## Only for Senior Engineers and above
 
-Option C is reserved for experienced veterans who are confident in their experience and skills. You must be a senior engineer with at least 5 years of full-stack working experience. The process will take **half a day** for you to meet our entire team, including our founding members and executives. You will need to provide:
+Option C is reserved for experienced veterans who are confident in their experience and skills. You must be a senior engineer with at least 5 years of engineering working experience. The process will take **half a day** for you to meet our entire team, including our founding members and executives. You will need to provide:
 
 > 1. GitHub / GitLab profiles and resume
 > 2. Work references
@@ -41,9 +53,9 @@ Option C is reserved for experienced veterans who are confident in their experie
 
 This option is non-objective and highly subjective, and thus only reserved for highly-skilled executive level position. We will not provide any prepatory instructions ahead of time for this high-level technical interview.
 
-## Accelerated Alternative
+## Salary Match
 
-We **highly encourage** you to apply through our **[Accelerated Take Home Exam]({{ site.baseurl }}/recruit/takehome.html)** instead. The entire technical evaluation process is only 2.5 hours, instead of half a day.
+If we decied to proceed with an offer based on your references alone, we will automatically **match your current or previous salary (with proof) at least 5% or higher.**
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 

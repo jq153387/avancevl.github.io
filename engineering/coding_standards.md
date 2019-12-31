@@ -12,7 +12,7 @@ We have **automated processes** for checking compliance with our coding standard
 
 ## Google Style Guides by Default
 
-We follow [**Google Style Guides**](https://google.github.io/styleguide/){:target="_blank"} for all langauges *UNLESS SPECIFIED OTHERWISE*. 
+We follow [**Google Style Guides**](https://google.github.io/styleguide/){:target="_blank"} for all langauges **_UNLESS SPECIFIED OTHERWISE_**.
 
 ## Code Review
 

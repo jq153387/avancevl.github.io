@@ -104,6 +104,8 @@ toc:
   - title: 工程流程 Engineering
     url: /engineering/engineering.html
     subfolderitems:
+      - page: 工作數度 Velocity of Work
+        url: /engineering/velocity_work.html
       - page: 產品開發流程 Product Development Cycle
         url: /engineering/product_cycle.html
       - page: 績效評估 Performance Review

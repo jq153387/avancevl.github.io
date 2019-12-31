@@ -47,43 +47,31 @@ Engineering JIRA issues are grouped into 1-week sprints. Each engineer, remote o
 
 ---
 
-# Velocity of Work
+# Agile
 
-Delivering value to our customers in the fastest way possible is the driver for how engineering processes are structured at AVL. Being able to execute as a velocity faster than the competition is absolutely paramount to the success of our business. As the old adage goes, time is money.
+## Three Laws of Agile
 
-## Measurement
+The three laws of Agile are thus:
 
-We measure velocity of work by dividing time into **1-week sprints**, and measuring the amount of work completed within each sprint. We use JIRA to manage your Agile sprint process. Each task is assigned a **Story Point**, which is a relative unit of work.
+* the **Law of the Customer**—an obsession with delivering value to customers as the be-all and end-all of the organization.
+* the **Law of the Small Team**—a presumption that all work be carried out by small self -organizing teams, working in short cycles and focused on delivering value to customers—and
+* the **Law of the Network**—a continuing effort to obliterate bureaucracy and top-down hierarchy so that the firm operates as an interacting network of teams, all focused on working together to deliver increasing value to customers.
 
-### KPIs
+## Agile Manifesto
 
-We track the number of story points completed within each sprint, and the summed number is our **Key Performance Indicator (KPI)**.
-
-> KPI: Story points completed in a sprint.
-
-We will compare your KPI across many sprints over sprints, with your peers within the same team, and across the firm.
-
-### OKRs
-
-We will set a goal we hope each individual contributor is able to achive for their KPI number. This goal system that defines a certain KPI value at a certain point in time in the future, is a **Objective and Key Result (OKR)**. Each engineer will have OKRs for their KPIs.
-
-
-## Iterations
-
-Prioritizing the velocity at which we deliver new value and features to our customers means a cosntantly changing product. We believe in the [**Innovator's Dilemma**](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma){:target="_blank"} and the constant need to innovate. 
-
-We believe in launching an imperfect product fast over delivering a perfect product. Iterate fast. Fail fast. Learn.
-
-## Refactoring
-
-Our philosophy on refactoring is that it must serve our customers. If refactoring will demomnstratably allow us serve our customers better, then we will refactor.
-
-In our experience, the best time to refactor is immmediately after a big product launch. Refactoring should be done *before* adding any updates or new features to existing code. Developers also have more time to refactor immediatley after delivering a product to market.
-
-<br>
-<br>
-
----
+We follow these principles:
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+1. Business people and developers must worktogether daily throughout the project.
+1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+1. Working software is the primary measure of progress.
+1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+1. Continuous attention to technical excellence and good design enhances agility.
+1. Simplicity--the art of maximizing the amount of work not done--is essential.
+1. The best architectures, requirements, and designs emerge from self-organizing teams.
+1. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 # Produciton & Site Reliability
 

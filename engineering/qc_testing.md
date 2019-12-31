@@ -42,6 +42,19 @@ As a basic rule of thumb if
 
 With the naming out of the way, we can dive into the list. The order of anti-patterns roughly follows their appearance in the wild. Frequent problems are gathered in the top positions.
 
+### End-to-End (E2E) Tests
+
+Even with both unit tests and integration tests, you probably still will want a small number of end-to-end tests to verify the system as a whole. To find the right balance between all three test types, the best visual aid to use is the testing pyramid.
+
+The bulk of your tests are unit tests at the bottom of the pyramid. As you move up the pyramid, your tests gets larger, but at the same time the number of tests (the width of your pyramid) gets smaller.
+
+As a good first guess, Google often suggests a 70/20/10 split: 70% unit tests, 20% integration tests, and 10% end-to-end tests. The exact mix will be different for each team, but in general, it should retain that pyramid shape. Try to avoid these anti-patterns:
+
+* **Inverted pyramid/ice cream cone.** The team relies primarily on end-to-end tests, using few integration tests and even fewer unit tests. 
+* **Hourglass.** The team starts with a lot of unit tests, then uses end-to-end tests where integration tests should be used. The hourglass has many unit tests at the bottom and many end-to-end tests at the top, but few integration tests in the middle.
+
+Just like a regular pyramid tends to be the most stable structure in real life, the testing pyramid also tends to be the most stable testing strategy.
+
 ## Software Testing Anti-pattern
 
 Read this excellent resource on [**Testing Anti-Patterns**](http://blog.codepipes.com/testing/software-testing-antipatterns.html){:target="_blank"} first.

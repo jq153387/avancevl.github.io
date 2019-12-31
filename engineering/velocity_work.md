@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  工作數度
+title:  工作速率
 description: Velocity of Work
 ---
 

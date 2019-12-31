@@ -106,3 +106,5 @@ toc:
     subfolderitems:
       - page: 績效評估 Performance Review
         url: /engineering/performance_review.html
+      - page: 程式代碼規範 Coding Standards
+        url: /engineering/coding_standards.html

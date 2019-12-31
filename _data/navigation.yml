@@ -108,3 +108,5 @@ toc:
         url: /engineering/performance_review.html
       - page: 程式代碼規範 Coding Standards
         url: /engineering/coding_standards.html
+      - page: 品質管制及測試 Quality Control & Testing
+        url: /engineering/qc_testing.html

@@ -85,17 +85,6 @@ In our experience, the best time to refactor is immmediately after a big product
 
 ---
 
-# Quality Control & Testing
-
-* Testing should be done by a different person than the one who wrote the code.
-* Therefore, testing is the responsiblity of QC / QA Engineers, and not the developers.
-* QC Engineers will write automated tests that run after each pull request into the main branch.
-
-<br>
-<br>
-
----
-
 # Produciton & Site Reliability
 
 * Production monitoring and troubleshooting is the responsibility of DevOps / SRE.

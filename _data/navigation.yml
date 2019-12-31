@@ -89,6 +89,8 @@ toc:
           subsubsubfolderitems:
             - page: 線上測驗指南 Web Developer Exam
               url: /recruit/webdev.html
+            - page: 測驗樣本 Sample Exam
+              url: /recruit/webdev_sample.html
         - page: "選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteboard Interview"
           url: /recruit/whiteboard.html
         - page: "選項C：資深資歷查核 Technical Reference Check"

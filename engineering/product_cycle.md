@@ -26,8 +26,9 @@ Much our of product cycle is inspired by Michael Seibel on [**Product Developmen
 
 **Product Person**
 
-* Don't change the spec
-* Don't change the features list
+* Don't change the spec.
+* Don't change the features list.
+* No context switching after product meeting in the middle of 2 week product cycle.
 * Focus on getting product out the door.
 
 **Testing**

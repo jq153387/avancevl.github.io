@@ -36,6 +36,10 @@ We have a shared drive of technical documents, papers, and e-books on programmin
 
 Every time an engineer finishes a project or at the end of each quarter, he or she has the opportunity to transfer to different team or portfolio project.
 
+#### Context Switching
+
+Context switching for software developers is expensive in terms of productivity and concentration. We limit context switching to only after each product release cycle, and prohibit changing sprints, scopes, features, or projects in the middle of a product release cycle.
+
 ## New Roles
 
 #### Become a Full Stack Developer

@@ -10,6 +10,9 @@ description: Quality Control & Testing
 * Therefore, testing is the responsiblity of QC / QA Engineers, and not the developers.
 * QC Engineers will write automated tests that run after each pull request into the main branch.
 
+<br>
+<br>
+
 ## Test Pyramid
 
 [**Martin Fowler**](https://martinfowler.com/bliki/TestPyramid.html){:target="_blank"}
@@ -54,6 +57,9 @@ As a good first guess, Google often suggests a 70/20/10 split: 70% unit tests, 2
 * **Hourglass.** The team starts with a lot of unit tests, then uses end-to-end tests where integration tests should be used. The hourglass has many unit tests at the bottom and many end-to-end tests at the top, but few integration tests in the middle.
 
 Just like a regular pyramid tends to be the most stable structure in real life, the testing pyramid also tends to be the most stable testing strategy.
+
+<br>
+<br>
 
 ## Software Testing Anti-pattern
 

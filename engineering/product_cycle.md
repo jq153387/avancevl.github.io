@@ -27,12 +27,14 @@ Much our of product cycle is inspired by Michael Seibel on [**Product Developmen
 
 ## Product Person
 
+The product manager is responsible for:
+
 * Don't change the spec.
 * Don't change the features list.
-* No context switching after product meeting in the middle of 2 week product cycle.
-* Focus on getting product out the door.
+* **No context switching after product meeting in the middle of 2 week product cycle.**
+
+The focus after the product meeting is to get product out the door, nothing else.
 
 ## Testing
 
-* Everyone tests
-* Added to each product cycle's list
+* Testing requirements are part of each product cycle's list

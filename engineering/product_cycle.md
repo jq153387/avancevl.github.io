@@ -6,12 +6,13 @@ description: Product Development Cycle
 
 Much our of product cycle is inspired by Michael Seibel on [**Product Development Cycle**](https://www.youtube.com/watch?v=kzVvjKLdAbk){:target="_blank"}
 
-**Process for Getting Product Out the Door**
+
+## Process for Getting Product Out the Door
 1. Release product every 2 weeks.
 1. Someone in charge of product. They are responsible for making sure team meets product goals, and team got product out the door.
 1. KPIs (new content, new users, retained users)
 
-**Product Meeting**
+## Product Meeting
 
 * Only one meeting, at the beginning of the product development cycle
 * Meeting as long as it took to come to a decision / conclusion
@@ -24,14 +25,14 @@ Much our of product cycle is inspired by Michael Seibel on [**Product Developmen
 * Pick the hards first, then pick mediums, then pick easies
 * Spec ideas out.
 
-**Product Person**
+## Product Person
 
 * Don't change the spec.
 * Don't change the features list.
 * No context switching after product meeting in the middle of 2 week product cycle.
 * Focus on getting product out the door.
 
-**Testing**
+## Testing
 
 * Everyone tests
 * Added to each product cycle's list

@@ -7,6 +7,8 @@ description: DevOps & Site Reliability
 * Production monitoring and troubleshooting is the responsibility of DevOps / SRE.
 * DevOps is responsible for escalating issues and bugs to the relevant engineer.
 
+# Tools
+
 The major tool categories include: 
 
 * **Version control:** Tools that track software versions as they are released, whether manually or automatically. This means numbering versions, as well as tracking the configuration and any environmental dependencies that are present, such as the type, brand, and version of the database; the operating system details; and even the type of physical or virtual server that’s needed. This category is related to change management tools.

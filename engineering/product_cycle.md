@@ -6,8 +6,8 @@ description: Product Development Cycle
 
 Much our of product cycle is inspired by Michael Seibel on [**Product Development Cycle**](https://www.youtube.com/watch?v=kzVvjKLdAbk){:target="_blank"}
 
-
 ## Process for Getting Product Out the Door
+
 1. Release product every 2 weeks.
 1. Someone in charge of product. They are responsible for making sure team meets product goals, and team got product out the door.
 1. KPIs (new content, new users, retained users)

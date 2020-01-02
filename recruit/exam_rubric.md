@@ -54,3 +54,37 @@ description: Exam Rubric
 	1. Your first commit should be at the start of your exam time. Your **first commit** should only be an almost blank, basic, starter code to get a webpage up and running, likley with some simple pre-built framework setup.
 	1. You should **commit every 30-minute**, with a total around 5 commits overall.
 	1. Your commits should **show your progress** in the 2.5hr. Your final commit should not contain all or most of your work. 
+
+## Feature Rubric
+
+For each feature, we will assign a score from 0% to 100%.
+
+### Lead Engineer (90-100%)
+* **Zero bugs.**
+	* Complete features and options, nothing missing.
+	* All edges taken into account.
+* **UI/UX.**
+	* UI looks like a real finished, production-ready product, as good as a real competitor.
+	* Intuitive and easy to use. We should have to ask you how to use a product.
+	* Product looks beautiful, something we would love to use ourselves.
+	* Responsive Web Design
+* **Code Quality.** Code organization and style is perfect example of quality code.
+	* Code style and organization be used as ** example for other engineers to follow.**
+    * Easier for other engineers to read and understand.
+    * Clear, consistent naming conventions for functions and variables.
+* **Surprise Us.** Some new method or way of doing something that we didn't know about before.
+
+
+### Senior Engineer (70-90%)
+
+
+
+### Junior Engineer (50-70%)
+
+
+### Intern Engineer (10-50%)
+* 
+
+### Beginner Engineer (0-10%)
+* No working live website.
+* Nothing committed to GitHub.

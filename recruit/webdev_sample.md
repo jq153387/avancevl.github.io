@@ -38,7 +38,7 @@ description: Sample Exam
 
 ### 1. 表格顯示：網頁首頁顯示現在目前所有在營業的餐廳 (40分)
 
-* 下載[**csv檔案**](https://docs.google.com/spreadsheets/d/1OanzakC9Uuo6fLLLyKScTSWDH6twnPOrSN-uWvoTz-U/edit?usp=sharing){:target="_blank"}（有餐廳名字，台北營業時間）(用您的Gmail帳號登入下載）
+* 下載csv檔案（有餐廳名字，台北營業時間）(用您的Gmail帳號登入下載）
 * 使用者的時間查看 “此刻現在時間”（手機時間為準
 * 網頁表格只要顯示現在有開的餐廳
 * 注意不同使用者的手機時間、時區
@@ -53,10 +53,6 @@ description: Sample Exam
 * 搜尋結果是表格：顯示有在指定搜尋時段內，有營業的餐廳和餐廳營業時間（台北時間）
 
 <img src="https://lh3.googleusercontent.com/Gi1AyGX39dyePa8VMzKlNEOAMb8tBoRD1U-EMkLfXKhS2s4ELJil38lPOCNoDYBKnog8g_7T8HHNyUrYCwEb13HaKeZutikNWbz61eBzBfW4dlrvjdWtcXID83n2zWRKBWqcqPLVrg=w300">
-
-* 加分題: 用日曆 UI 讓 user 點選
-
-<img src="https://lh3.googleusercontent.com/tsUgHi5U9Y7B0JBfMk7lOvrJWJ-wL3PaUg9WQMadjpGgmFH5vo06mGIXT7uPNmCYBVu8fSIzZ4J_kNle8SlbY2_UgCWybi4Sz4M1dQrgZjnGm2VSFN20nG37zGRYp2nhKvWjgagmKQ=w300">
 
 ### 3. 後端管理員控制台 (50分)
 
@@ -79,3 +75,19 @@ description: Sample Exam
 * 有帳戶的使用者可登入。我們會以新使用者的身分測試。
 
 <img src="https://lh3.googleusercontent.com/L0vRm53RiceH8eYMRxnVlzon7NDg1kW7tMPZoIPKwHbC5jf27zk60FyIxm2zhKCoWXU9plYd7oYodBZedSVTh8KCTE0FGUWT-C9PO3k1eJ5GWj1qihATkbYMYaraRj67hhmNlUaRJg=w300">
+
+## 如何交卷
+
+> **注意：**
+> 不管進度，請使用以下問卷提交你的網頁 live demo URL 網址。
+
+1. 上傳進度到 GitHub 或 GitLab。
+1. 時間到時，**請上架**，並提供網站 URL。
+1. 讓你的網頁跑一週。
+1. **請用以下的按鈕【上傳考試結果】。**
+	1. 提供你的 GitHub 或 GitLab。
+	1. 也提供網頁上架的live demo URL 網址。
+
+<br>
+
+[上傳考試結果]({{ site.exam_submit_form_url }}){: .btn#page-btn}

@@ -34,12 +34,12 @@ description: Sample Exam
 
 	1. 下載[**csv檔案**](https://docs.google.com/spreadsheets/d/1OanzakC9Uuo6fLLLyKScTSWDH6twnPOrSN-uWvoTz-U/edit?usp=sharing){:target="_blank"}（有餐廳名字，台北營業時間）(用您的Gmail帳號登入下載）
   	
-  	1. 使用使用者的時間查看 “此刻現在時間”（手機時間為準
+  	1. 使用者的時間查看 “此刻現在時間”（手機時間為準
 
   	1. 網頁表格只要顯示現在有開的餐廳
 
   	1. 注意不同使用者的手機時間、時區
-  	
+
   	1. 這也是您要開發網頁的首頁。使用者到您的網頁首頁，就要能看到這個表格：只顯示現在此刻時間有在營業的餐廳名字清單
 
 1. 搜尋功能：使用者可以用營業時段去搜尋有營業的餐廳 (60分)

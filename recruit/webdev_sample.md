@@ -75,7 +75,7 @@ description: Sample Exam
 
 ```
 
-因為這位candidate分數是51%，他的工程階級考慮範圍就是Junior Engineer。
+> **因為這位candidate分數是51%，他的工程階級考慮範圍就是Junior Engineer。**
 
 <br>
 

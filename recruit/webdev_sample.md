@@ -66,8 +66,9 @@ description: Sample Exam
 [x] 有提供網頁上架的live demo網址[（Heroku 免費）](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8)
 
 分數如下：
+
 | 滿分 | 分數 ｜ 網頁功能 |
-| --- | --- |
+| --- | --- | --- |
 | 40 | 72% ｜ 顯示現在有在營業的餐廳 - 下方提供.csv檔 |
 | 60 | 55% ｜ 使用者可以搜尋有在營業的餐廳 |
 | 50 | 81% ｜ Google OAuth 登記帳戶 |

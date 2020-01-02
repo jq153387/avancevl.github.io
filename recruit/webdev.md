@@ -10,9 +10,6 @@ description: Web Developer Exam
 1. [後端軟體工程師]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
 [立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
-## 考試樣本
-
 [參考考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 
 ## 考前指示

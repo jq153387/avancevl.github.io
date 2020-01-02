@@ -80,7 +80,7 @@ description: Sample Exam
 總分 = 102.3 / 200 * 100 = 51.15%
 ```
 
-> **因為這位candidate分數是51%，他的工程階級考慮範圍就是[Junior Engineer]({{ site.baseurl }}/people/engineering_level.html)。**
+> **因為這位candidate分數是51%，他的工程階級考慮範圍就是 [Junior Engineer]({{ site.baseurl }}/people/engineering_level.html)。**
 
 <br>
 

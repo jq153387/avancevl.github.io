@@ -49,7 +49,7 @@ description: Sample Exam
 
 請開發一個可以使用，有前、後端的網站：
 
-| 分數 | 網頁功能 |
+| 滿分 | 網頁功能 |
 | --- | --- |
 | 40 | 顯示現在有在營業的餐廳 - 下方提供.csv檔 |
 | 60 | 使用者可以搜尋有在營業的餐廳 |
@@ -57,6 +57,31 @@ description: Sample Exam
 | 50 | 後台管理員系統 管理：餐廳資訊 |
 
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
+
+### 分數薪資計算例子
+
+假設一位candidate他的測驗完成了以下：
+
+- [x]  [貼了測驗完成表格]({{ site.exam_submit_form_url }}){:target="_blank"}
+- [x]  有提供考試代碼GitHub/GitLab網址
+- [x]  有提供網頁上架的live demo網址[（Heroku 免費）](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8){:target="_blank"}
+
+分數如下：
+
+| 滿分 | 分數 | 網頁功能 |
+| --- | --- | --- |
+| 40 | 72% | 顯示現在有在營業的餐廳 - 下方提供.csv檔 |
+| 60 | 55% | 使用者可以搜尋有在營業的餐廳 |
+| 50 | 81% | Google OAuth 登記帳戶 |
+| 50 | 0% | 後台管理員系統 管理：餐廳資訊 |
+
+總分計算：
+```
+總分數 = 72% * 40 + 55% * 60 + 81% * 50 = 102.3
+總分 = 102.3 / 200 * 100 = 51.15%
+```
+
+> **因為這位candidate分數是51%，他的工程階級考慮範圍就是 [Junior Engineer]({{ site.baseurl }}/people/engineering_level.html)。**
 
 <br>
 

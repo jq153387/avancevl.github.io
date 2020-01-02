@@ -26,6 +26,105 @@ description: Exam Rubric
 	1. 你應該大概**每30分鐘 commit 一次**，總共大約5個 commits。
 	1. 你在 2.5 小時裡，需要用你的 commits 來**顯示你的進度**。你最後的 commit 不應該包含全部或大部分的程式碼。
 
+## Feature Rubric
+
+* **Maximum Points** is the maximum number of points each feature is worth.
+	* This will be listed on the actual exam.
+	* Correlated with the difficulty of the problem.
+* **Score Percentage** of feature based on submission quality.
+	* For each feature, we will assign a score from 0% to 100%.
+	* 0% is lowest possible score, 100% is highest possible score.
+* **Total Points = (Maximum Points) x (Score Percentage)**
+	* We sum up the total points scored for each feature to get the **Exam Total Points.**
+* **Exam Total Points** = sum up points scored on all features
+* **Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%**
+
+```
+// Per Feature
+Total Points = (Maximum Points) x (Score Percentage)
+
+// Exam Total
+Exam Total Points = Sum for all features(Total Points)
+Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
+
+```
+
+### Lead Engineer (90-100%)
+* **Zero bugs.**
+	* Complete features and options, nothing missing.
+	* All edge cases taken into account.
+* **UI/UX.**
+	* UI looks like a real finished, production-ready product, as good as a real competitor.
+	* Intuitive and easy to use. We should have to ask you how to use a product.
+	* Product looks beautiful, something we would love to use ourselves.
+	* Responsive Web Design
+* **Code Quality.** Code organization and style is perfect example of quality code.
+	* Code style and organization be used as ** example for other engineers to follow.**
+    * Easier for other engineers to read, understand, and maintain.
+    * Clear, consistent naming conventions for functions and variables.
+* **Surprise Us.**
+	* Some new method or way of doing something that we didn't know about before.
+
+### Senior Engineer (70-90%)
+* **No major bugs.**
+	* All major functionality should be there.
+	* All edge cases taken into account.
+* **UI/UX.**
+	* UI looks like a functional, working production-ready product. Close in quality to a real, competitor product.
+	* Intuitive and easy to use.
+	* Product looks functional. Does not have to be beautiful, but user has to "get" how to use it.
+	* Responsive Web Design.
+* **Code Quality.** Code organization and style has to be consistent and clean.
+	* Does not have to be perfect example, but good enough for others to follow.
+	* Easy for other engineers to read, understand, and maintain.
+	* Clear, consistent naming conventions for functions and variables.
+
+### Junior Engineer (40-70%)
+* **Some bugs.**
+	* All major functionality is there, but buggy.
+	* Some edge cases missing.
+* **UI/UX.**
+	* UI looks functional, but needs some work before production.
+	* Generally easy to use, some leeway allowed.
+* **Code Quality.**
+	* Code organization and sytle has inconsistencies.
+	* Not good enough for others to follow.
+	* Not easy to read, understand, or maintain.
+	* Unclear, inconsistent naming conventions for functions and variables.
+
+### Intern Engineer (10-40%)
+* **Lots of bugs.**
+	* Feature mostly incomplete or very buggy.
+	* Most edge cases imcomplete.
+* **UI/UX.**
+	* Unclear what the function is.
+	* Incomplete.
+* **Code Quality.**
+	* Code organization and sytle has inconsistencies.
+	* Not good enough for others to follow.
+	* Not easy to read, understand, or maintain.
+	* Unclear, inconsistent naming conventions for functions and variables.
+
+### No Attempt (0-10%)
+* No working live website.
+* Nothing committed to GitHub.
+
+## Total Score Mapping to Engineer Level
+
+Your Engineer Level (E0-10) and therefore salary package will be roughly be decided by this table, depending on where your score falls under.
+
+| Total Exam Score | Hiring Engineer Level |
+| --- | --- |
+| 90+% | Lead Engineer |
+| 70-90% | Senior Engineer |
+| 40-70% | Junior Engineer |
+| 10-40% | Intern Engineer |
+| 0-10% | No Attempt |
+
+### Example Calculations
+
+[See Example Calculations]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
+
 <br>
 
 ---
@@ -81,7 +180,7 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 ### Lead Engineer (90-100%)
 * **Zero bugs.**
 	* Complete features and options, nothing missing.
-	* All edges taken into account.
+	* All edge cases taken into account.
 * **UI/UX.**
 	* UI looks like a real finished, production-ready product, as good as a real competitor.
 	* Intuitive and easy to use. We should have to ask you how to use a product.
@@ -89,22 +188,69 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 	* Responsive Web Design
 * **Code Quality.** Code organization and style is perfect example of quality code.
 	* Code style and organization be used as ** example for other engineers to follow.**
-    * Easier for other engineers to read and understand.
+    * Easier for other engineers to read, understand, and maintain.
     * Clear, consistent naming conventions for functions and variables.
 * **Surprise Us.**
 	* Some new method or way of doing something that we didn't know about before.
 
-
 ### Senior Engineer (70-90%)
+* **No major bugs.**
+	* All major functionality should be there.
+	* All edge cases taken into account.
+* **UI/UX.**
+	* UI looks like a functional, working production-ready product. Close in quality to a real, competitor product.
+	* Intuitive and easy to use.
+	* Product looks functional. Does not have to be beautiful, but user has to "get" how to use it.
+	* Responsive Web Design.
+* **Code Quality.** Code organization and style has to be consistent and clean.
+	* Does not have to be perfect example, but good enough for others to follow.
+	* Easy for other engineers to read, understand, and maintain.
+	* Clear, consistent naming conventions for functions and variables.
 
+### Junior Engineer (40-70%)
+* **Some bugs.**
+	* All major functionality is there, but buggy.
+	* Some edge cases missing.
+* **UI/UX.**
+	* UI looks functional, but needs some work before production.
+	* Generally easy to use, some leeway allowed.
+* **Code Quality.**
+	* Code organization and sytle has inconsistencies.
+	* Not good enough for others to follow.
+	* Not easy to read, understand, or maintain.
+	* Unclear, inconsistent naming conventions for functions and variables.
 
+### Intern Engineer (10-40%)
+* **Lots of bugs.**
+	* Feature mostly incomplete or very buggy.
+	* Most edge cases imcomplete.
+* **UI/UX.**
+	* Unclear what the function is.
+	* Incomplete.
+* **Code Quality.**
+	* Code organization and sytle has inconsistencies.
+	* Not good enough for others to follow.
+	* Not easy to read, understand, or maintain.
+	* Unclear, inconsistent naming conventions for functions and variables.
 
-### Junior Engineer (50-70%)
-
-
-### Intern Engineer (10-50%)
-* 
-
-### Beginner Engineer (0-10%)
+### No Attempt (0-10%)
 * No working live website.
 * Nothing committed to GitHub.
+
+## Total Score Mapping to Engineer Level
+
+Your Engineer Level (E0-10) and therefore salary package will be roughly be decided by this table, depending on where your score falls under.
+
+| Total Exam Score | Hiring Engineer Level |
+| --- | --- |
+| 90+% | Lead Engineer |
+| 70-90% | Senior Engineer |
+| 40-70% | Junior Engineer |
+| 10-40% | Intern Engineer |
+| 0-10% | No Attempt |
+
+### Example Calculations
+
+[See Example Calculations]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
+
+

@@ -67,8 +67,10 @@ _Co-Founder. MIT-grad. Startup rockstar._
 * Nike
 * PayPal
 * Samsung
+* Spotify
 * Tencent
 * Visa
+* WeWork
 
 
 <br>

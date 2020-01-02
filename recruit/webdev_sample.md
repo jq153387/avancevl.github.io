@@ -30,30 +30,26 @@ description: Sample Exam
 ## 考題細節：網頁功能
 請自由選擇你想要開發的功能，沒有先後次序**（照片是參考，不是指示）：**
 
-1. 表格顯示：網頁首頁顯示現在目前所有在營業的餐廳 (40分)
+#### 1. 表格顯示：網頁首頁顯示現在目前所有在營業的餐廳 (40分)
 
-	1. 下載[**csv檔案**](https://docs.google.com/spreadsheets/d/1OanzakC9Uuo6fLLLyKScTSWDH6twnPOrSN-uWvoTz-U/edit?usp=sharing){:target="_blank"}（有餐廳名字，台北營業時間）(用您的Gmail帳號登入下載）
-  	
-  	1. 使用者的時間查看 “此刻現在時間”（手機時間為準
+* 下載[**csv檔案**](https://docs.google.com/spreadsheets/d/1OanzakC9Uuo6fLLLyKScTSWDH6twnPOrSN-uWvoTz-U/edit?usp=sharing){:target="_blank"}（有餐廳名字，台北營業時間）(用您的Gmail帳號登入下載）
+* 使用者的時間查看 “此刻現在時間”（手機時間為準
+* 網頁表格只要顯示現在有開的餐廳
+* 注意不同使用者的手機時間、時區
+* 這也是您要開發網頁的首頁。使用者到您的網頁首頁，就要能看到這個表格：只顯示現在此刻時間有在營業的餐廳名字清單
 
-  	1. 網頁表格只要顯示現在有開的餐廳
+#### 2. 搜尋功能：使用者可以用營業時段去搜尋有營業的餐廳 (60分)
 
-  	1. 注意不同使用者的手機時間、時區
-
-  	1. 這也是您要開發網頁的首頁。使用者到您的網頁首頁，就要能看到這個表格：只顯示現在此刻時間有在營業的餐廳名字清單
-
-1. 搜尋功能：使用者可以用營業時段去搜尋有營業的餐廳 (60分)
-
-  	1. 使用者可以輸入天、時間，查看搜尋的時段有在營業的餐廳
+* 使用者可以輸入天、時間，查看搜尋的時段有在營業的餐廳
 
  	<img src="https://lh3.googleusercontent.com/E6qnWm-lHo5qDfBypb0HYc3qmV6IfzQTKc1TkR36HAEAvcGkZ4pxYEEfrBj_VfemiIUkN9W1gCFxfgmNgPhsLPLJlNAxPiX17SJXsASeNPK26dlocDmDa7wYZYaTITM3y1SlqoFlKg=w300">
 
-    1. 搜尋結果是表格：顯示有在指定搜尋時段內，有營業的餐廳和餐廳營業時間（台北時間）
+* 搜尋結果是表格：顯示有在指定搜尋時段內，有營業的餐廳和餐廳營業時間（台北時間）
+* 加分題: 用日曆 UI 讓 user 點選
 
-    1. 加分題: 用日曆 UI 讓 user 點選
+#### 3. 後端管理員控制台 (50分)
 
-1. 後端管理員控制台 (50分)
-  1. 管理台有權限可以管理使用者和餐廳資訊  (15分)
+* 管理台有權限可以管理使用者和餐廳資訊  (15分)
 
     1. 設立一個管理員帳號
       1. Login 管理台帳戶 : admin

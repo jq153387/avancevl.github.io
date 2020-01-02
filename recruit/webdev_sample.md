@@ -22,6 +22,22 @@ description: Sample Exam
   * 並填寫[問卷](https://forms.gle/yJsvL3zyHJLWasQM8){:target="_blank"}
   * 有開發多少，就交卷多少，考試並沒有所謂的 “完成”
 
+## 如何交卷
+
+> **注意：**
+> 不管進度，請使用以下問卷提交你的網頁 live demo URL 網址。
+
+1. 上傳進度到 GitHub 或 GitLab。
+1. 時間到時，**請上架**，並提供網站 URL。
+1. 讓你的網頁跑一週。
+1. **請用以下的按鈕【上傳考試結果】。**
+	1. 提供你的 GitHub 或 GitLab。
+	1. 也提供網頁上架的live demo URL 網址。
+
+<br>
+
+[上傳考試結果]({{ site.exam_submit_form_url }}){: .btn#page-btn}
+
 ## 考題大綱
 
 請開發一個可以使用，有前、後端的網站：
@@ -32,6 +48,12 @@ description: Sample Exam
 | 60 | 使用者可以搜尋有在營業的餐廳 |
 | 50 | Google OAuth 登記帳戶 |
 | 50 | 後台管理員系統 管理：餐廳資訊 |
+
+<br>
+
+---
+
+<br>
 
 ## 考題細節：網頁功能
 請自由選擇你想要開發的功能，沒有先後次序**（照片是參考，不是指示）：**
@@ -75,19 +97,3 @@ description: Sample Exam
 * 有帳戶的使用者可登入。我們會以新使用者的身分測試。
 
 <img src="https://lh3.googleusercontent.com/L0vRm53RiceH8eYMRxnVlzon7NDg1kW7tMPZoIPKwHbC5jf27zk60FyIxm2zhKCoWXU9plYd7oYodBZedSVTh8KCTE0FGUWT-C9PO3k1eJ5GWj1qihATkbYMYaraRj67hhmNlUaRJg=w300">
-
-## 如何交卷
-
-> **注意：**
-> 不管進度，請使用以下問卷提交你的網頁 live demo URL 網址。
-
-1. 上傳進度到 GitHub 或 GitLab。
-1. 時間到時，**請上架**，並提供網站 URL。
-1. 讓你的網頁跑一週。
-1. **請用以下的按鈕【上傳考試結果】。**
-	1. 提供你的 GitHub 或 GitLab。
-	1. 也提供網頁上架的live demo URL 網址。
-
-<br>
-
-[上傳考試結果]({{ site.exam_submit_form_url }}){: .btn#page-btn}

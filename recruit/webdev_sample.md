@@ -10,7 +10,9 @@ description: Sample Exam
 
 ## 考試指示 
 
-請檢閱[考試指示]({{ site.baseurl }}/recruit/webdev.html)。重要提醒：
+[檢閱考試指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
+
+重要提醒：
 
 * 我們並不期望你完整開發每個功能。重點不是要全部 “做完”，是要查看有嘗試部分的能力、進度。盡力而為就可以
 * 請使用 GitHub/GitLab

@@ -17,7 +17,7 @@ description: Web Developer Exam
 > **注意：**
 > 為節省時間，我們強烈建議您在**考試前**先提前預備設置好一個空白的網頁開發架框和環境基本設定
 
-1. 參考[考試樣本](({{ site.baseurl }}/recruit/webdev_sample.html)
+1. 參考[考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html)
 1. 這份線上測驗分數會決定您的職級與薪資範圍。請必定要交卷。
 1. 你會有**2.5小時**盡量完成開發一個網頁，會包括一些前後端網站功能。
 1. 在你預定的考試時間，我們會 email 你的考題和需要開發的網頁功能。請先檢閱次次考前準備。
@@ -36,7 +36,7 @@ description: Web Developer Exam
 > **注意：**
 > 為節省時間，我們強烈建議您在**考試前**先提前預備設置好一個空白的網頁開發架框和環境基本設定
 
-1. 參考[考試樣本](({{ site.baseurl }}/recruit/webdev_sample.html)
+1. 參考[考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html)
 1. **開發環境：** 預先準備好網頁開發環境，。
 	1. 設定好 JavaScript 或任何你喜歡用的現代網頁開發語言。
 	1. 設定好你最熟悉的**網頁架構** （比如 Django，Rails，React.js，Express.js，等）
@@ -108,7 +108,7 @@ description: Web Developer Exam
 > **IMPORTANT:**
 > We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. (e.g. Django, Rails, Node.js) 
 
-1. Please take a look at a [sample exam](({{ site.baseurl }}/recruit/webdev_sample.html) before hand.
+1. Please take a look at a [sample exam]({{ site.baseurl }}/recruit/webdev_sample.html) before hand.
 1. This online assessment's score will determine your engineering level (position) and your salary range.
 1. You will have **2.5 hours**.
 1. You will be given a list of web app features at the start of the exam via email.
@@ -151,7 +151,7 @@ description: Web Developer Exam
 > **IMPORTANT:**
 > We highly, HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam.
 
-1. Please take a look at a [sample exam](({{ site.baseurl }}/recruit/webdev_sample.html) before hand.
+1. Please take a look at a [sample exam]({{ site.baseurl }}/recruit/webdev_sample.html) before hand.
 1. **Development Environment.** Setup a linux-based development environment. We recommend MacOS or Ubuntu.
 	1. Setup JavaScript or any language you wish to use.
 	1. Setup any web framework you’re most familiar with (e.g. Django, Rails, React.js, Express.js)

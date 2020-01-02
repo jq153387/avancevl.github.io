@@ -57,7 +57,14 @@ description: Exam Rubric
 
 ## Feature Rubric
 
-For each feature, we will assign a score from 0% to 100%.
+* **Maximum Points** is the maximum number of points each feature is worth.
+	* This will be listed on the actual exam.
+	* Correlated with the difficulty of the problem.
+* **Score Percentage** of feature based on submission quality.
+	* For each feature, we will assign a score from 0% to 100%.
+	* 0% is lowest possible score, 100% is highest possible score.
+* **Total Points = (Maximum Points) x (Score Percentage)
+	* We sum up the total points scored for each feature to get the **Exam Total Points.**
 
 ### Lead Engineer (90-100%)
 * **Zero bugs.**

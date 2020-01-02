@@ -65,6 +65,8 @@ description: Exam Rubric
 	* 0% is lowest possible score, 100% is highest possible score.
 * **Total Points = (Maximum Points) x (Score Percentage)**
 	* We sum up the total points scored for each feature to get the **Exam Total Points.**
+* **Exam Total Points** = sum up points scored on all features
+* **Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%**
 
 ```
 // Per Feature
@@ -72,6 +74,7 @@ Total Points = (Maximum Points) x (Score Percentage)
 
 // Exam Total
 Exam Total Points = Sum for all features(Total Points)
+Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 
 ```
 

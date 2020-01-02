@@ -81,7 +81,7 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 ### Lead Engineer (90-100%)
 * **Zero bugs.**
 	* Complete features and options, nothing missing.
-	* All edges taken into account.
+	* All edge cases taken into account.
 * **UI/UX.**
 	* UI looks like a real finished, production-ready product, as good as a real competitor.
 	* Intuitive and easy to use. We should have to ask you how to use a product.
@@ -89,22 +89,57 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 	* Responsive Web Design
 * **Code Quality.** Code organization and style is perfect example of quality code.
 	* Code style and organization be used as ** example for other engineers to follow.**
-    * Easier for other engineers to read and understand.
+    * Easier for other engineers to read, understand, and maintain.
     * Clear, consistent naming conventions for functions and variables.
 * **Surprise Us.**
 	* Some new method or way of doing something that we didn't know about before.
 
 
 ### Senior Engineer (70-90%)
+* **No major bugs.**
+	* All major functionality should be there.
+	* All edge cases taken into account.
+* **UI/UX.**
+	* UI looks like a functional, working production-ready product. Close in quality to a real, competitor product.
+	* Intuitive and easy to use.
+	* Product looks functional. Does not have to be beautiful, but user has to "get" how to use it.
+	* Responsive Web Design.
+* **Code Quality.** Code organization and style has to be consistent and clean.
+	* Does not have to be perfect example, but good enough for others to follow.
+	* Easy for other engineers to read, understand, and maintain.
+	* Clear, consistent naming conventions for functions and variables.
 
 
+### Junior Engineer (40-70%)
+* **Some bugs.**
+	* All major functionality is there, but buggy.
+	* Some edge cases missing.
+* **UI/UX.**
+	* UI looks functional, but needs some work before production.
+	* Generally easy to use, some leeway allowed.
+* **Code Quality.**
+	* Code organization and sytle has inconsistencies.
+	* Not good enough for others to follow.
+	* Not easy to read, understand, or maintain.
+	* Unclear, inconsistent naming conventions for functions and variables.
 
-### Junior Engineer (50-70%)
+### Intern Engineer (10-40%)
+* Live website.
+* Code committed to GitHub / GitLab.
+* Some semblence of a web app.
 
-
-### Intern Engineer (10-50%)
-* 
-
-### Beginner Engineer (0-10%)
+### No Attempt (0-10%)
 * No working live website.
 * Nothing committed to GitHub.
+
+## Total Score Mapping to Engineer Level
+
+| Total Exam Score | Hiring Engineer Level |
+| --- | --- |
+| 90+% | Lead Engineer |
+| 70-90% | Senior Engineer |
+| 40-70% | Junior Engineer |
+| 10-40% | Intern Engineer |
+| 0-10% | No Attempt |
+
+

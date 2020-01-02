@@ -85,10 +85,8 @@ description: Web Developer Exam
 1. [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
-## Sample Exam
-
 [View Sample Exam]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
+[View Exam Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 ## Exam Instructions
 > **IMPORTANT:**

@@ -11,13 +11,14 @@ description: Web Developer Exam
 
 [立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br>
+## 考試樣本
+
+[參考考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 
 ## 考前指示
 > **注意：**
 > 為節省時間，我們強烈建議您在**考試前**先提前預備設置好一個空白的網頁開發架框和環境基本設定
 
-1. 參考[考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html)
 1. 這份線上測驗分數會決定您的職級與薪資範圍。請必定要交卷。
 1. 你會有**2.5小時**盡量完成開發一個網頁，會包括一些前後端網站功能。
 1. 在你預定的考試時間，我們會 email 你的考題和需要開發的網頁功能。請先檢閱次次考前準備。
@@ -102,7 +103,9 @@ description: Web Developer Exam
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br>
+## Sample Exam
+
+[View Sample Exam]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 
 ## Exam Instructions
 > **IMPORTANT:**

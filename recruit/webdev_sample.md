@@ -50,7 +50,7 @@ description: Sample Exam
 
 * 加分題: 用日曆 UI 讓 user 點選
 
-<img src="https://lh3.googleusercontent.com/L0vRm53RiceH8eYMRxnVlzon7NDg1kW7tMPZoIPKwHbC5jf27zk60FyIxm2zhKCoWXU9plYd7oYodBZedSVTh8KCTE0FGUWT-C9PO3k1eJ5GWj1qihATkbYMYaraRj67hhmNlUaRJg=w300">
+<img src="https://lh3.googleusercontent.com/tsUgHi5U9Y7B0JBfMk7lOvrJWJ-wL3PaUg9WQMadjpGgmFH5vo06mGIXT7uPNmCYBVu8fSIzZ4J_kNle8SlbY2_UgCWybi4Sz4M1dQrgZjnGm2VSFN20nG37zGRYp2nhKvWjgagmKQ=w300">
 
 ### 3. 後端管理員控制台 (50分)
 
@@ -71,4 +71,6 @@ description: Sample Exam
 * 使用 Google OAuth API 帳戶登入連結
 * 新的使用者可以登記帳戶
 * 有帳戶的使用者可登入。我們會以新使用者的身分測試。
+
+<img src="https://lh3.googleusercontent.com/L0vRm53RiceH8eYMRxnVlzon7NDg1kW7tMPZoIPKwHbC5jf27zk60FyIxm2zhKCoWXU9plYd7oYodBZedSVTh8KCTE0FGUWT-C9PO3k1eJ5GWj1qihATkbYMYaraRj67hhmNlUaRJg=w300">
 

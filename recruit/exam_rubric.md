@@ -94,7 +94,6 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 * **Surprise Us.**
 	* Some new method or way of doing something that we didn't know about before.
 
-
 ### Senior Engineer (70-90%)
 * **No major bugs.**
 	* All major functionality should be there.
@@ -150,5 +149,9 @@ Your Engineer Level (E0-10) and therefore salary package will be roughly be deci
 | 40-70% | Junior Engineer |
 | 10-40% | Intern Engineer |
 | 0-10% | No Attempt |
+
+### Example Calculations
+
+[See Example Calculations]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 
 

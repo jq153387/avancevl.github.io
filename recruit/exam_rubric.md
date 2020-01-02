@@ -88,7 +88,8 @@ Exam Total Points = Sum for all features(Total Points)
 	* Code style and organization be used as ** example for other engineers to follow.**
     * Easier for other engineers to read and understand.
     * Clear, consistent naming conventions for functions and variables.
-* **Surprise Us.** Some new method or way of doing something that we didn't know about before.
+* **Surprise Us.**
+	* Some new method or way of doing something that we didn't know about before.
 
 
 ### Senior Engineer (70-90%)

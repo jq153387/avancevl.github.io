@@ -141,6 +141,8 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 
 ## Total Score Mapping to Engineer Level
 
+Your Engineer Level (E0-10) and therefore salary package will be roughly be decided by this table, depending on where your score falls under.
+
 | Total Exam Score | Hiring Engineer Level |
 | --- | --- |
 | 90+% | Lead Engineer |

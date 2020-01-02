@@ -37,14 +37,16 @@ description: Sample Exam
   	1. 使用使用者的時間查看 “此刻現在時間”（手機時間為準
 
   	1. 網頁表格只要顯示現在有開的餐廳
+
   	1. 注意不同使用者的手機時間、時區
+  	
   	1. 這也是您要開發網頁的首頁。使用者到您的網頁首頁，就要能看到這個表格：只顯示現在此刻時間有在營業的餐廳名字清單
 
 1. 搜尋功能：使用者可以用營業時段去搜尋有營業的餐廳 (60分)
 
   	1. 使用者可以輸入天、時間，查看搜尋的時段有在營業的餐廳
 
- 	<img src="https://lh3.googleusercontent.com/E6qnWm-lHo5qDfBypb0HYc3qmV6IfzQTKc1TkR36HAEAvcGkZ4pxYEEfrBj_VfemiIUkN9W1gCFxfgmNgPhsLPLJlNAxPiX17SJXsASeNPK26dlocDmDa7wYZYaTITM3y1SlqoFlKg=w200">
+ 	<img src="https://lh3.googleusercontent.com/E6qnWm-lHo5qDfBypb0HYc3qmV6IfzQTKc1TkR36HAEAvcGkZ4pxYEEfrBj_VfemiIUkN9W1gCFxfgmNgPhsLPLJlNAxPiX17SJXsASeNPK26dlocDmDa7wYZYaTITM3y1SlqoFlKg=w300">
 
     1. 搜尋結果是表格：顯示有在指定搜尋時段內，有營業的餐廳和餐廳營業時間（台北時間）
 
@@ -66,21 +68,3 @@ description: Sample Exam
   1. 使用 Google OAuth API 帳戶登入連結
   1. 新的使用者可以登記帳戶
   1. 有帳戶的使用者可登入。我們會以新使用者的身分測試。
-
-<br>
-
----
-
-<br>
-
-## Instructions
-
-See [instructions here]({{ site.baseurl }}/recruit/webdev.html). Important reminders:
-
-* The goal is NOT for you to complete all features, or any feature. The goal is to see how far you get.
-* Please use GitHub / GitLab as your code repo.
-* Please run your site and provide us with URL **regardless of whether you've completed the exam or not.**
-* After 2.5 hours,
-  * Please launch live site, regardless of the current state
-  * Complete the following [survey](https://forms.gle/yJsvL3zyHJLWasQM8){:target="_blank"}
-  * The goal is not to "finish", only to assess your ability

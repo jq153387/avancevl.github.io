@@ -31,81 +31,81 @@ description: Exam Rubric
 * **滿分**是每項功能最多分。
 	* 每題的滿分數都會直接寫在考卷上。測驗當天才會知道。
 	* 越難越長的考題，滿分會越多。
-* **Score Percentage** of feature based on submission quality.
-	* For each feature, we will assign a score from 0% to 100%.
-	* 0% is lowest possible score, 100% is highest possible score.
-* **Total Points = (Maximum Points) x (Score Percentage)**
-	* We sum up the total points scored for each feature to get the **Exam Total Points.**
-* **Exam Total Points** = sum up points scored on all features
-* **Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%**
+* **分數百分比**是依照每項功能的實做品質。
+	* 每個項目我們會個0%到100%的分數。
+	* 0%是最低的分數, 100%是最高的分數。
+* **總分 = (滿分) x (分數百分比)**
+	* 我們把每項功能加起來達到**測驗總分數.**
+* **測驗總分數** = 每項功能加起來
+* **測驗總百分比 = (測驗總分數) / (測驗總滿分) * 100%**
 
 ```
-// Per Feature
-Total Points = (Maximum Points) x (Score Percentage)
+// 每項功能
+總分 = (滿分) x (分數百分比)
 
-// Exam Total
-Exam Total Points = Sum for all features(Total Points)
-Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
+// 測驗總
+測驗總分數 = 每項功能加起來(功能項目總分)
+測驗總百分比 = (測驗總分數) / (測驗總滿分) * 100%
 
 ```
 
 ### 首席工程師 (90-100%)
-* **完全沒bug。**
-	* Complete features and options, nothing missing.
-	* All edge cases taken into account.
+* **完全無bug。**
+	* 全部功能都完成，沒缺乏。
+	* 全部edge case都完成。
 * **UI/UX。**
-	* UI looks like a real finished, production-ready product, as good as a real competitor.
-	* Intuitive and easy to use. We should have to ask you how to use a product.
-	* Product looks beautiful, something we would love to use ourselves.
+	* UI長得像完成的產品，跟市面上的產品一樣。
+	* 功能都非常容易用，不需看說明書。
+	* 產品前端很漂亮，會是我們自己想用的。
 	* Responsive Web Design
 * **程式代碼品質。**
-	* Code organization and style is perfect example of quality code.
-	* Code style and organization be used as ** example for other engineers to follow.**
-    * Easier for other engineers to read, understand, and maintain.
-    * Clear, consistent naming conventions for functions and variables.
+	* 代碼架構及風格都是很完美的範本。
+	* 代碼架構及風格適合當作**其他工程師跟隨的範本。**
+    * 代碼容易讀懂，維護。
+    * Functions及variables取名一致又清楚
 * **超越我們的技術**
-	* Some new method or way of doing something that we didn't know about before.
+	* 我們沒看過的很厲害的方式或技術
 
 ### 資深工程師 (70-90%)
-* **No major bugs.**
-	* All major functionality should be there.
-	* All edge cases taken into account.
-* **UI/UX.**
-	* UI looks like a functional, working production-ready product. Close in quality to a real, competitor product.
-	* Intuitive and easy to use.
-	* Product looks functional. Does not have to be beautiful, but user has to "get" how to use it.
-	* Responsive Web Design.
+* **完全無bug。**
+	* 全部重要功能都完成。
+	* 全部edge case都完成。
+* **UI/UX。**
+	* UI長得像完成的產品，跟市面上的產品差不多。
+	* 功能都非常容易用，不需看說明書。
+	* 產品前端功能性齊全，用者不需特別去了解。
+	* Responsive Web Design。
 * **程式代碼品質。**
-	* Code organization and style has to be consistent and clean.
-	* Does not have to be perfect example, but good enough for others to follow.
-	* Easy for other engineers to read, understand, and maintain.
-	* Clear, consistent naming conventions for functions and variables.
+	* 代碼組織和風格有些地方不一致。
+	* 代碼不需是完美的例子，但品質夠格給其他工程師當範本。
+	* 代碼容易讀懂，維護。
+	* Functions及variables取名一致又清楚
 
 ### 初級工程師 (40-70%)
-* **Some bugs.**
-	* All major functionality is there, but buggy.
-	* Some edge cases missing.
+* **有些bug。**
+	* 功能性都有了，但還是有些bug。
+	* 有些edge case缺乏。
 * **UI/UX.**
-	* UI looks functional, but needs some work before production.
-	* Generally easy to use, some leeway allowed.
+	* UI看起來功能性都有了，但上架之前還是需要修復一下。
+	* 基本上功能都好用，但還是有些比較不易的地方。
 * **程式代碼品質。**
-	* Code organization and sytle has inconsistencies.
-	* Not good enough for others to follow.
-	* Not easy to read, understand, or maintain.
-	* Unclear, inconsistent naming conventions for functions and variables.
+	* 代碼的架構和風格還是有些不一致的地方。
+	* 代碼不適合當作範本。
+	* 代碼不容易讀懂，維護。
+	* Functions及variables取名沒有一致或清楚。
 
 ### 實習生 (10-40%)
 * **很多bug。**
-	* Feature mostly incomplete or very buggy.
-	* Most edge cases imcomplete.
+	* 大部分功能還沒完成或非常多bug。
+	* 大部分edge case都沒完成。
 * **UI/UX。**
-	* Unclear what the function is.
-	* Incomplete.
+	* 不清楚功能在做什麼。
+	* 不完整。
 * **程式代碼品質。**
-	* Code organization and sytle has inconsistencies.
-	* Not good enough for others to follow.
-	* Not easy to read, understand, or maintain.
-	* Unclear, inconsistent naming conventions for functions and variables.
+	* 代碼組織和風格有些地方不一致。
+	* 代碼不適合當作範本。
+	* 代碼不容易讀懂，維護。
+	* Functions及variables取名沒有一致或清楚。
 
 ### 未完成 (0-10%)
 * 網頁沒上架。

@@ -109,7 +109,6 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 	* Easy for other engineers to read, understand, and maintain.
 	* Clear, consistent naming conventions for functions and variables.
 
-
 ### Junior Engineer (40-70%)
 * **Some bugs.**
 	* All major functionality is there, but buggy.
@@ -124,9 +123,17 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 	* Unclear, inconsistent naming conventions for functions and variables.
 
 ### Intern Engineer (10-40%)
-* Live website.
-* Code committed to GitHub / GitLab.
-* Some semblence of a web app.
+* **Lots of bugs.**
+	* Feature mostly incomplete or very buggy.
+	* Most edge cases imcomplete.
+* **UI/UX.**
+	* Unclear what the function is.
+	* Incomplete.
+* **Code Quality.**
+	* Code organization and sytle has inconsistencies.
+	* Not good enough for others to follow.
+	* Not easy to read, understand, or maintain.
+	* Unclear, inconsistent naming conventions for functions and variables.
 
 ### No Attempt (0-10%)
 * No working live website.

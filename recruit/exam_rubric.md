@@ -50,19 +50,20 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 ```
 
 ### 首席工程師 (90-100%)
-* **Zero bugs.**
+* **完全沒bug。**
 	* Complete features and options, nothing missing.
 	* All edge cases taken into account.
-* **UI/UX.**
+* **UI/UX。**
 	* UI looks like a real finished, production-ready product, as good as a real competitor.
 	* Intuitive and easy to use. We should have to ask you how to use a product.
 	* Product looks beautiful, something we would love to use ourselves.
 	* Responsive Web Design
-* **Code Quality.** Code organization and style is perfect example of quality code.
+* **程式代碼品質。**
+	* Code organization and style is perfect example of quality code.
 	* Code style and organization be used as ** example for other engineers to follow.**
     * Easier for other engineers to read, understand, and maintain.
     * Clear, consistent naming conventions for functions and variables.
-* **Surprise Us.**
+* **超越我們的技術**
 	* Some new method or way of doing something that we didn't know about before.
 
 ### 資深工程師 (70-90%)
@@ -74,7 +75,8 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 	* Intuitive and easy to use.
 	* Product looks functional. Does not have to be beautiful, but user has to "get" how to use it.
 	* Responsive Web Design.
-* **Code Quality.** Code organization and style has to be consistent and clean.
+* **程式代碼品質。**
+	* Code organization and style has to be consistent and clean.
 	* Does not have to be perfect example, but good enough for others to follow.
 	* Easy for other engineers to read, understand, and maintain.
 	* Clear, consistent naming conventions for functions and variables.
@@ -86,32 +88,32 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 * **UI/UX.**
 	* UI looks functional, but needs some work before production.
 	* Generally easy to use, some leeway allowed.
-* **Code Quality.**
+* **程式代碼品質。**
 	* Code organization and sytle has inconsistencies.
 	* Not good enough for others to follow.
 	* Not easy to read, understand, or maintain.
 	* Unclear, inconsistent naming conventions for functions and variables.
 
 ### 實習生 (10-40%)
-* **Lots of bugs.**
+* **很多bug。**
 	* Feature mostly incomplete or very buggy.
 	* Most edge cases imcomplete.
-* **UI/UX.**
+* **UI/UX。**
 	* Unclear what the function is.
 	* Incomplete.
-* **Code Quality.**
+* **程式代碼品質。**
 	* Code organization and sytle has inconsistencies.
 	* Not good enough for others to follow.
 	* Not easy to read, understand, or maintain.
 	* Unclear, inconsistent naming conventions for functions and variables.
 
 ### 未完成 (0-10%)
-* No working live website.
-* Nothing committed to GitHub.
+* 網頁沒上架。
+* 程式代碼沒上傳上GitHub/GitLab。
 
-## Total Score Mapping to Engineer Level
+## 測驗分數如何對照工程職級
 
-Your Engineer Level (E0-10) and therefore salary package will be roughly be decided by this table, depending on where your score falls under.
+您的職級與薪資（E0-10）會大概以以下的表格決定，依照您的測驗分數決定。
 
 | 測驗總分數 | 職級與薪資 |
 | --- | --- |
@@ -123,7 +125,7 @@ Your Engineer Level (E0-10) and therefore salary package will be roughly be deci
 
 ### 分數計算例子
 
-[See Example Calculations]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
+[查看測驗計算例子]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 
 <br>
 

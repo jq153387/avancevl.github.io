@@ -11,6 +11,7 @@ description: Web Developer Exam
 
 [立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 [參考考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
+[測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 ## 考前指示
 > **注意：**

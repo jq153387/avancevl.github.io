@@ -8,6 +8,7 @@ description: Sample Exam
 
 [立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 [檢閱考試指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
+[測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 ## 考試指示 
 
@@ -54,6 +55,8 @@ description: Sample Exam
 | 60 | 使用者可以搜尋有在營業的餐廳 |
 | 50 | Google OAuth 登記帳戶 |
 | 50 | 後台管理員系統 管理：餐廳資訊 |
+
+[測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 <br>
 

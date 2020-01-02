@@ -78,9 +78,3 @@ description: Sample Exam
 * 有帳戶的使用者可登入。我們會以新使用者的身分測試。
 
 <img src="https://lh3.googleusercontent.com/L0vRm53RiceH8eYMRxnVlzon7NDg1kW7tMPZoIPKwHbC5jf27zk60FyIxm2zhKCoWXU9plYd7oYodBZedSVTh8KCTE0FGUWT-C9PO3k1eJ5GWj1qihATkbYMYaraRj67hhmNlUaRJg=w300">
-
-<br>
-
----
-
-[立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

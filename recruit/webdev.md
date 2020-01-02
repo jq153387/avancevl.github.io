@@ -13,10 +13,11 @@ description: Web Developer Exam
 
 <br>
 
-## 考前準備
+## 考前指示
 > **注意：**
 > 為節省時間，我們強烈建議您在**考試前**先提前預備設置好一個空白的網頁開發架框和環境基本設定
 
+1. 參考[考試樣本](({{ site.baseurl }}/recruit/webdev_sample.html)
 1. 這份線上測驗分數會決定您的職級與薪資範圍。請必定要交卷。
 1. 你會有**2.5小時**盡量完成開發一個網頁，會包括一些前後端網站功能。
 1. 在你預定的考試時間，我們會 email 你的考題和需要開發的網頁功能。請先檢閱次次考前準備。
@@ -30,13 +31,19 @@ description: Web Developer Exam
 	1. 考試時，請勿使用：Java, PHP, jQuery, ASP.NET, C#
 1. 我們想看的是一個**前後端可以使用的網站**，有完善的功能，可以完整測試使用最好。
 1. 我們鼓勵你重複使用現有的架構，像是 Redux、Bootstrap，**不需要從零開始**。
-1. 自備伺服器或是 cloud server, 比如 AWS, [Heroku 免費](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8).
+
+## 考前準備
+> **注意：**
+> 為節省時間，我們強烈建議您在**考試前**先提前預備設置好一個空白的網頁開發架框和環境基本設定
+
+1. 參考[考試樣本](({{ site.baseurl }}/recruit/webdev_sample.html)
 1. **開發環境：** 預先準備好網頁開發環境，。
 	1. 設定好 JavaScript 或任何你喜歡用的現代網頁開發語言。
 	1. 設定好你最熟悉的**網頁架構** （比如 Django，Rails，React.js，Express.js，等）
 	1. 提前先建立好資料庫環境。
 	1. **預先設定好幫助開發的工具**，例如：GitHub, Sublime, Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS, unittest/pyUnit, RSpec。
 1. **自備電腦或雲端測試：** 確認你的網頁可上架 live demo。
+	1. 自備伺服器或是 cloud server, 比如 AWS, [Heroku 免費](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8).
 	1. 設定比較安全的port。
 	1. 確認防火牆沒把網頁擋住。
 1. **GitHub 或 GitLab帳戶：** 確認帳戶是公開我們才看的到您的作品。
@@ -71,7 +78,6 @@ description: Web Developer Exam
 > **注意：**
 > 不管進度，請使用以下問卷提交你的網頁 live demo URL 網址。
 
-
 1. 上傳進度到 GitHub 或 GitLab。
 1. 時間到時，**請上架**，並提供網站 URL。
 1. 讓你的網頁跑一週。
@@ -87,6 +93,8 @@ description: Web Developer Exam
 
 ---
 
+<br>
+
 ## For Positions
 1. [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 1. [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
@@ -100,6 +108,7 @@ description: Web Developer Exam
 > **IMPORTANT:**
 > We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. (e.g. Django, Rails, Node.js) 
 
+1. Please take a look at a [sample exam](({{ site.baseurl }}/recruit/webdev_sample.html) before hand.
 1. This online assessment's score will determine your engineering level (position) and your salary range.
 1. You will have **2.5 hours**.
 1. You will be given a list of web app features at the start of the exam via email.
@@ -142,12 +151,14 @@ description: Web Developer Exam
 > **IMPORTANT:**
 > We highly, HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam.
 
+1. Please take a look at a [sample exam](({{ site.baseurl }}/recruit/webdev_sample.html) before hand.
 1. **Development Environment.** Setup a linux-based development environment. We recommend MacOS or Ubuntu.
 	1. Setup JavaScript or any language you wish to use.
 	1. Setup any web framework you’re most familiar with (e.g. Django, Rails, React.js, Express.js)
 	1. Setup a database you are most familar with to store customer data. Both SQL or no SQL database are OK.
 	1. Setup IDEs or any developer tools to maximize your efficiency during the exam. e.g. Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS, unittest/pyUnit, RSpec.
 1. **Self or Cloud Hosted Test.** Make sure you can host a webpage from your development box or cloud on the world wide web.
+	1. Use a self-hosted or cloud server, such as AWS or [Heroku (FREE)](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8).
 	1. Open a port that is more secure than commonly scanned ports (e.g. Port 22)
 	1. Make sure firewall configured so you can see your web page outside of your local area or cloud network.
 1. **GitHub or GitLab Account.** Make sure you have a public GitHub/GitLab account that you can host your exam submission code for us to evaluate.

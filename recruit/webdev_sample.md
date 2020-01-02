@@ -42,10 +42,15 @@ description: Sample Exam
 
 * 使用者可以輸入天、時間，查看搜尋的時段有在營業的餐廳
 
- 	<img src="https://lh3.googleusercontent.com/E6qnWm-lHo5qDfBypb0HYc3qmV6IfzQTKc1TkR36HAEAvcGkZ4pxYEEfrBj_VfemiIUkN9W1gCFxfgmNgPhsLPLJlNAxPiX17SJXsASeNPK26dlocDmDa7wYZYaTITM3y1SlqoFlKg=w300">
+<img src="https://lh3.googleusercontent.com/E6qnWm-lHo5qDfBypb0HYc3qmV6IfzQTKc1TkR36HAEAvcGkZ4pxYEEfrBj_VfemiIUkN9W1gCFxfgmNgPhsLPLJlNAxPiX17SJXsASeNPK26dlocDmDa7wYZYaTITM3y1SlqoFlKg=w300">
 
 * 搜尋結果是表格：顯示有在指定搜尋時段內，有營業的餐廳和餐廳營業時間（台北時間）
+
+<img src="https://lh3.googleusercontent.com/Gi1AyGX39dyePa8VMzKlNEOAMb8tBoRD1U-EMkLfXKhS2s4ELJil38lPOCNoDYBKnog8g_7T8HHNyUrYCwEb13HaKeZutikNWbz61eBzBfW4dlrvjdWtcXID83n2zWRKBWqcqPLVrg=w300">
+
 * 加分題: 用日曆 UI 讓 user 點選
+
+<img src="https://lh3.googleusercontent.com/L0vRm53RiceH8eYMRxnVlzon7NDg1kW7tMPZoIPKwHbC5jf27zk60FyIxm2zhKCoWXU9plYd7oYodBZedSVTh8KCTE0FGUWT-C9PO3k1eJ5GWj1qihATkbYMYaraRj67hhmNlUaRJg=w300">
 
 ### 3. 後端管理員控制台 (50分)
 

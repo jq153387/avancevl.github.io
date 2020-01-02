@@ -111,7 +111,6 @@ description: Web Developer Exam
 > **IMPORTANT:**
 > We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. (e.g. Django, Rails, Node.js) 
 
-1. Please take a look at a [sample exam]({{ site.baseurl }}/recruit/webdev_sample.html) before hand.
 1. This online assessment's score will determine your engineering level (position) and your salary range.
 1. You will have **2.5 hours**.
 1. You will be given a list of web app features at the start of the exam via email.

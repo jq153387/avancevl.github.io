@@ -4,6 +4,9 @@ title: 測驗分數評估
 description: Exam Rubric
 ---
 
+[參考測驗指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
+[參考考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
+
 ## 考試結果如何被評估
 * 考試的目的是用實際面準確的測量實力，題目跟工作上的應用類似。
 * 你的考試成就會決定你的職位與薪資範圍。
@@ -28,6 +31,9 @@ description: Exam Rubric
 ---
 
 <br>
+
+[View Instructions]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
+[View Sample Exam]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 
 ## How You Will Be Evaluated
 * Our exam is designed to be an accurate reflection of the type of work you will be doing at our fast growing, lean startup.

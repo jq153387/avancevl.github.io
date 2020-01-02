@@ -10,15 +10,15 @@ description: Product
 
 我們現有不同的軟體產品組合，在不同的領域，有不同的進度，同時進行運作：
 
-1. [PerfectScore](https://www.getperfectscore.com/?utm_source=git){:target="_blank"} 教育科技
+1. *[PerfectScore](https://www.getperfectscore.com/?utm_source=git){:target="_blank"}* 教育科技
 
 	我們使用人工智慧 AI 與機器學習 machine learning 最有效幫忙考生準備考試，無限的客製化的考題軟體讓考生充分、有信心的靠高分。
 
-2. [VTF](https://www.getvtf.com/?utm_source=git){:target="_blank"} 金融科技
+2. *[VTF](https://www.getvtf.com/?utm_source=git){:target="_blank"}* 金融科技
 
 	我們的獨特軟體讓世界各地的任何投資者可以無 comission 的投資任何國際股市。首創不透過持有表彰指數標的證券權益的受益憑證，直接投資一籃子證券，比指數型證券投資信託交易所交易買賣基金更有流動性。
 
-3. [WorkTime](https://www.getworktime.com/?utm_source=git){:target="_blank"} 團隊工作軟體
+3. *[WorkTime](https://www.getworktime.com/?utm_source=git){:target="_blank"}* 團隊工作軟體
 
 	讓團隊的每一份子清楚的追蹤花費的時間與工作進度，是公司更自動化，知道如何最有效的分配時間、資金、紅利、資源。
 

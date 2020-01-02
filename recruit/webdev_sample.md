@@ -64,7 +64,7 @@ description: Sample Exam
 
 - [x]  [貼了測驗完成表格]({{ site.exam_submit_form_url }}){:target="_blank"}
 - [x]  有提供考試代碼GitHub/GitLab網址
-- [x]  有提供網頁上架的live demo網址[（Heroku 免費）](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8)
+- [x]  有提供網頁上架的live demo網址[（Heroku 免費）](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8){:target="_blank"}
 
 分數如下：
 

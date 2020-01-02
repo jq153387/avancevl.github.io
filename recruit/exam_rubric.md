@@ -26,11 +26,11 @@ description: Exam Rubric
 	1. 你應該大概**每30分鐘 commit 一次**，總共大約5個 commits。
 	1. 你在 2.5 小時裡，需要用你的 commits 來**顯示你的進度**。你最後的 commit 不應該包含全部或大部分的程式碼。
 
-## Feature Rubric
+## 功能分數講解
 
-* **Maximum Points** is the maximum number of points each feature is worth.
-	* This will be listed on the actual exam.
-	* Correlated with the difficulty of the problem.
+* **滿分**是每項功能最多分。
+	* 每題的滿分數都會直接寫在考卷上。測驗當天才會知道。
+	* 越難越長的考題，滿分會越多。
 * **Score Percentage** of feature based on submission quality.
 	* For each feature, we will assign a score from 0% to 100%.
 	* 0% is lowest possible score, 100% is highest possible score.
@@ -49,7 +49,7 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 
 ```
 
-### Lead Engineer (90-100%)
+### 首席工程師 (90-100%)
 * **Zero bugs.**
 	* Complete features and options, nothing missing.
 	* All edge cases taken into account.
@@ -65,7 +65,7 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 * **Surprise Us.**
 	* Some new method or way of doing something that we didn't know about before.
 
-### Senior Engineer (70-90%)
+### 資深工程師 (70-90%)
 * **No major bugs.**
 	* All major functionality should be there.
 	* All edge cases taken into account.
@@ -79,7 +79,7 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 	* Easy for other engineers to read, understand, and maintain.
 	* Clear, consistent naming conventions for functions and variables.
 
-### Junior Engineer (40-70%)
+### 初級工程師 (40-70%)
 * **Some bugs.**
 	* All major functionality is there, but buggy.
 	* Some edge cases missing.
@@ -92,7 +92,7 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 	* Not easy to read, understand, or maintain.
 	* Unclear, inconsistent naming conventions for functions and variables.
 
-### Intern Engineer (10-40%)
+### 實習生 (10-40%)
 * **Lots of bugs.**
 	* Feature mostly incomplete or very buggy.
 	* Most edge cases imcomplete.
@@ -105,7 +105,7 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 	* Not easy to read, understand, or maintain.
 	* Unclear, inconsistent naming conventions for functions and variables.
 
-### No Attempt (0-10%)
+### 未完成 (0-10%)
 * No working live website.
 * Nothing committed to GitHub.
 
@@ -113,15 +113,15 @@ Exam Total Score = (Exam Total Points) / (Exam Maximum Points) * 100%
 
 Your Engineer Level (E0-10) and therefore salary package will be roughly be decided by this table, depending on where your score falls under.
 
-| Total Exam Score | Hiring Engineer Level |
+| 測驗總分數 | 職級與薪資 |
 | --- | --- |
-| 90+% | Lead Engineer |
-| 70-90% | Senior Engineer |
-| 40-70% | Junior Engineer |
-| 10-40% | Intern Engineer |
-| 0-10% | No Attempt |
+| 90+% | 首席工程師 |
+| 70-90% | 資深工程師 |
+| 40-70% | 初級工程師 |
+| 10-40% | 實習生 |
+| 0-10% | 未完成 |
 
-### Example Calculations
+### 分數計算例子
 
 [See Example Calculations]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 

@@ -8,7 +8,7 @@ description: Interview Process
 
 | # | 階段 | 時間 | 評估 |
 | --- | --- | --- | --- |
-| 1 | [線上申請]({{ site.job_form_url }}){:target="_blank"} | 15分鐘 | 團隊文化融合 |
+| 1 | [線上申請]({{ site.job_form_url }}){:target="_blank"} | 5分鐘 | 團隊文化融合 |
 | 2 | 技術測驗 | 2.5小時 | 技術面 |
 | 3 | 電話面試 | 30分鐘 | 個性 |
 | 4 | 本人面試 | 1小時 | 個性 |
@@ -53,7 +53,7 @@ description: Interview Process
 
 | # | Stage | Time Duration | Evaluation |
 | --- | --- | --- | --- |
-| 1 | [Online Application]({{ site.job_form_url }}){:target="_blank"} | 15 min | Cultural Fit |
+| 1 | [Online Application]({{ site.job_form_url }}){:target="_blank"} | 5 min | Cultural Fit |
 | 2 | Technical Evaluation | 2.5 hour | Technical |
 | 3 | Phone Interview | 30 min | Personality |
 | 4 | In-Person Interview | 1 hour | Personality |

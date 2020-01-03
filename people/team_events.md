@@ -6,7 +6,7 @@ description: Team Events
 
 ## 2020年1月，跨年倒數派對 | January 2020, New Year's Eve Countdown Party
 
-<img src='https://lh3.googleusercontent.com/KgJR_6KOiJtIz6_LO02bWsmQfOgA8u15k6YDzvffKPGDVeDsNvM0GvC4UsLKGTSterCZ-CbluAx3OkTmL4j5--NohkhRBW1_AJNGGMXL873qzvcXSo2rgujWSB6zje8wiLm7IIYRDplHMwLoRZqY_pt9VrATXmevjiEieAvZcx0JLaDNH84E_U1YPKELFOF_7Irx0dZoxXnE_R7O9wsSDX1YlGOWA1g2aMJWGXwUSuHeA8kTDuUHmD8C8QU_eHHyMzkckTs3VaL_M5gq2JzpMM7k_vdhecc2VWrAoIdiQLY-4bPGgEeN8o75ISMDTFZtbNGB3Dg62D326UBrJnJcii4JuhwHxXPC5ALIhtAC-f9SvUzmtIO2U7Rwe8MAR7wC_x0Nk6mT852rEnLbaEJkFZ9KPALyp_jf_DHeOF7VT7e6sPOg7t5gUd-74IxCQaZeYk9xhIq7SiAJQecjeW_Q4a6HPCTs0pt6G6LdFc1-VzoJmICwFkFf67kVgeWt__JBIz_HV2B4t-ksp2YWEW3dhIBDX0QlifO-H_EmVUJtpb7q02nISsEa8lWTKpNTfSsiK1oitOwkJMdjaqXXnZAIH-elPG5UoBYoUX-NOFzmJp_I8ux8oOeOYGtB4Nr-L-uPTQGf-zBSyHJsvkt5aQfnUxP9A8a2BrDcW00d7FDK2QIyzRhgCgOCzCis=w924-h1642-no' width="400"/>
+<img src='https://lh3.googleusercontent.com/9TnixxI819NUYgUs0R-EGy_Z2hfc4O3ZhBHhttdnaI3mh-9P0nwQNkGW7MprhFTqpz6XKGVw9uQTl1CUS_ml5xEbPvIpT9EMqwcc7BTl7PPQbixwvHBO9gDWm7-5sjezvkF4hzD0sx_qRUg-lJ41QTX_w6plgvBNfPYsKLsdUIZh1KQdxgIVJNwEggXznXVt5ewSZshBXgXNKK5Ho12611fnXS5POYhzTmpfYvZu8dtEURjL-ODo25OnVIXafLRO--Ic9k3DEriWViNRvoLRpia98jnA4nARG_sKVF10ROQKy-tkT_PmBMFXbD60DD4chJeqtkTMl1JNiLX7vrq1MOXOPTFg3YOheTdSFmNadwigeAbgh8XUqPyfaDJqHiswfMA92xczsTabjnQgHIdrS0TwUKH8-VlGz3egO0E5sxqlqemOxOnBPFJx_VK2xp_sNgufFLzMz0MMbfOhyLzD9KMD3t4xm4bwZ9D-b9oWjetyDIeSL1Yt_rO814zRnJ1Rlvgu_9iQ1dtdHSbRUaZb2w3-C0IM1A0vV-1zxhgxrq2S4grFcmNUOLDixmOvpHOAuVLfqnf2-eBhQ4jbvAgseESBrFLoIjjT6nEhZD-IBlnxlz_fWWhhouuP_g9GFciPRDtClQIGZpsrK8_OEoFrY_2C4ZkZNeJCWtI3HAvANm4Gatqr8pDGV-PM1Jp3h-rXZhfY_tDFWT-koK9Hi1eQZtJcPFIqrviuz_BdjWLcEWUzxezq-g=w924-h1642-no' width="400"/>
 
 #### 活動目的
 
@@ -17,8 +17,10 @@ description: Team Events
 #### Activity Goals
 
 * Team bonding
-* Netoworking opportunities
-* Relaxing and celebrating the year-end
+* Netoworking opportunity
+* Count down and start the new year together
+
+<br>
 
 ---
 
@@ -40,6 +42,8 @@ description: Team Events
 * Netoworking opportunities
 * Relaxing and celebrating the year-end
 
+<br>
+
 ---
 
 <br>
@@ -59,5 +63,3 @@ description: Team Events
 * Team building excercises
 * Educational activities
 * Relaxing, uncoupling, context switching, changing mindsets
-
-<br>

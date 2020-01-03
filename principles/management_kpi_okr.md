@@ -4,7 +4,7 @@ title: 管理KPI及OKR
 description: Management KPI & OKR
 ---
 
-## 2020 Company Wide Goals
+## 2020 Company Goals
 
 * Build team.
 * Build and test 5 MVPs.

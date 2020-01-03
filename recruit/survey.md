@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 申請職缺問卷
+title: 申請職缺問卷（5分）
 description: Job Application Survey
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "選項C：資歷查核取代技術測驗"
+title: "選項C：資歷查核 - 取代技術測驗"
 description: Technical Reference Check
 ---
 

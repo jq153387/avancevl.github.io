@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "選項C：資深資歷查核"
+title: "選項C：資歷查核取代技術測驗"
 description: Technical Reference Check
 ---
 
-## 不用在家測驗或白板考試
+##不用在家測驗或白板考試
 
 * **不需在家線上測驗**
 * **白板考試**

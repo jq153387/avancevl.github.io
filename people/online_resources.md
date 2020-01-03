@@ -4,7 +4,22 @@ title: 線上資源
 description: Online Resource
 ---
 
+在AVL，我們重視持續進步。除了需要在工作上表現出色外，我們必須不斷的學習新技能，包括技術知識和相關行業知識。重要的是，我們的團隊成員必須不斷在擅長的領域上不斷進步，並增強自己的弱點。
+
+At AVL, we value constant improvement. In addition to exceling at our job, we must learn new skills, both technical and relevant industry knowledge. It is important that our team member are always getting better at what they are good at and strengthen their weakness.
+
 ## Links
+
+### Startup Entrepreneurship
+* [The four steps to the epiphany](https://medium.com/mbreads/the-four-steps-to-the-epiphany-7aee0c8e0f8e){:target="_blank"}
+* [The lean startup](https://youtu.be/RSaIOCHbuYw){:target="_blank"}
+* [Biggest reat startups succeed](https://youtu.be/bNpx7gpSqbY){:target="_blank"}
+* [YC lessons learned](https://youtu.be/0MGNf1BIuxA){:target="_blank"}
+* [Startup mistakes](https://youtu.be/eChOUVm9fTA){:target="_blank"}
+* [Peter Thiel Zero to One](https://youtu.be/JqxzLUE6pP8){:target="_blank"}
+* [What entrepreneurship is not](https://youtu.be/Xcsp0486olY){:target="_blank"}
+* [Problem solving](https://youtu.be/68QW15sBdKQ){:target="_blank"}
+* [Top entrepreneurship skills](https://youtu.be/86unGITRPLs){:target="_blank"}
 
 ### Front-End
 

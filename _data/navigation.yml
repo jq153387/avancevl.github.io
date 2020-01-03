@@ -86,6 +86,8 @@ toc:
       - page: 面試過程 Interview Process
         url: /recruit/interview_process.html
         subsubfolderitems:
+        - page: 申請職缺問卷 Job Application Survey
+          url: /recruit/survey.html
         - page: "選項A：加速申請 - 線上測驗（2.5小時）Accelerated Take-Home Exam"
           url: /recruit/takehome.html
           subsubsubfolderitems:

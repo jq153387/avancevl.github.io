@@ -16,6 +16,8 @@ description: Open Positions
 
 對國際市場有野心，想要追求有**未來發展性**的事業，請申請下方缺職位。
 
+工作責任詳細說明請看[工程師職級與薪資]({{ site.link_jd_salary }})。
+
 <br>
 
 ---
@@ -33,6 +35,8 @@ If you want to build high performing technology in a fast growing start-up where
 If you’re interested in playing a key role both in experimentation and in implementation, we’d love to work with you. 
 
 We hope you apply to one of our open positions below.
+
+For job roles and responsibilities, please see [Engineering Levels]({{ site.link_jd_salary }})。
 
 <br>
 

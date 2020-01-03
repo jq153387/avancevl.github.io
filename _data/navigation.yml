@@ -40,6 +40,8 @@ toc:
         subsubfolderitems:
           - page: 責任分配 Areas of Responsibility
             url: /principles/areas_responsibility.html
+          - page: 管理KPI及OKR Management KPI & OKR
+            url: /principles/management_kpi_okr.html
   - title: 人資管理 People
     url: /people/people.html
     subfolderitems:

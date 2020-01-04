@@ -10,5 +10,12 @@ description: Job Application Survey
 
 [開始申請職缺]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-## 比較大眾問卷結果
+## 問卷重要問題結合
 
+<img src="https://lh3.googleusercontent.com/U84qUfQSWUtOTUHHo6Rh0Iq69csLvLqTz5VSASZkjqudhXOuCltyotSSvgvHHDJM2UglXxdzogn1syd3CgXeXdVUOPfnWz-rFnuIy0FgilUMlZF983CisuTEGZDoy94m_ke5mZqucA=w800">
+
+<img src="https://lh3.googleusercontent.com/PeK9LoRq-ZEMHC1NLQH4d_rc2gLoSAjTwO84m1Ae7YaWaJXdR9fJxMa6ir01sueNTa02ZV01YPUjHnV1xrxtawH7HLtItKORGE8-mPjK3GGkGVcnJRWfyQn9RF-M3zvpQoXdOoLfYQ=w800">
+
+<img src="https://lh3.googleusercontent.com/88QbSbLm76_Yu3TXqdwu3sNz67HY4Jw4Z_ruIjqtoKxGmvrFZoylsD2SDKVzO4M06-TDw4P8Rxk_oMa4Ij2hTDyoXbv6HgsImQyuedRhDfQORrvPwrGuaQAe0yQtqJ4wiWR7qHSPpQ=w800">
+
+<img src="https://lh3.googleusercontent.com/JvSLSQxZem_oQ1kvJMwFvyUiwVs99CCY17t_8fzCPsVLKYg97cV3jt6IVxXSJP_Idltv08AiOdw2LXTT6V_xSVaPjpamCY0iO2jq2fi31L6foEj7TCjoAEbO-5g57xBLAOMv6JlBxQ=w800">

@@ -107,6 +107,8 @@ toc:
           url: /recruit/whiteboard.html
         - page: "選項C：資歷查核 - 取代技術測驗（5分鐘）Technical Reference Check"
           url: /recruit/referencecheck.html
+      - page: 入職流程 Onboarding
+        url: /recruit/onboarding.html
       - page: 性別平等就業機會 Equal Opportunity Employment
         url: /recruit/women.html
       - page: 開源貢獻 Open Source Contribution

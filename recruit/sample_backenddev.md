@@ -85,7 +85,7 @@ description: Back-End Sample Exam
 ### 1. 搜索一個過濾項目，支持多頁結果（pagination）
 
 過濾項目：
-
+```
 * 星期幾
 * 類型
 * 米其林
@@ -93,6 +93,7 @@ description: Back-End Sample Exam
 * 外送
 * 先繳訂金
 * 地理位子
+```
 
 ### 2. 搜索多個「及」過濾項目
 

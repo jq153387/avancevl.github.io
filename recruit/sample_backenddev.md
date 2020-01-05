@@ -21,6 +21,52 @@ description: Back-End Sample Exam
 
 ---
 
+<br>
+
+## 考題大綱
+
+請開發一個可以使用，有前、後端的網站：
+
+| 滿分 | 網頁功能 |
+| --- | --- |
+| 40 | 搜索一個過濾項目，支持多頁結果（pagination） |
+| 60 | 搜索多個「及」過濾項目 |
+| 50 | 搜索多個「或」過濾項目 |
+| 50 | 搜索營業時間符合 |
+
+[測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
+
+### 分數薪資計算例子
+
+假設一位candidate的測驗，他完成以下：
+
+- [x]  [貼了測驗完成表格]({{ site.exam_submit_form_url }}){:target="_blank"}
+- [x]  有提供考試代碼GitHub/GitLab網址
+- [x]  有提供網頁上架的live demo網址[（Heroku 免費）](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8){:target="_blank"}
+
+分數如下：
+
+| 滿分 | 分數 | 網頁功能 |
+| --- | --- | --- |
+| 40 | 72% | 搜索一個過濾項目，支持多頁結果（pagination） |
+| 60 | 55% | 搜索多個「及」過濾項目 |
+| 50 | 81% | 搜索多個「或」過濾項目 |
+| 50 | 0% | 搜索營業時間符合 |
+
+總分計算：
+```
+總分數 = 72% * 40 + 55% * 60 + 81% * 50 = 102.3
+總分 = 102.3 / 200 * 100 = 51.15%
+```
+
+> **因為這位candidate分數是51%，他的工程階級考慮範圍就是 [Junior Engineer]({{ site.baseurl }}/people/engineering_level.html)。**
+
+<br>
+
+---
+
+<br>
+
 ## 考題講解
 
 * 請設計和實作後端搜索RESTful-API。
@@ -33,7 +79,7 @@ description: Back-End Sample Exam
 
 ## 考題細節：搜索API功能
 
-### 1. 搜索一個過濾項目
+### 1. 搜索一個過濾項目，支持多頁結果（pagination）
 
 過濾項目：
 

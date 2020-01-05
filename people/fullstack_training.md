@@ -4,7 +4,7 @@ title: 全端培訓計劃
 description: Full Stack Training Program
 ---
 
-因為我們團隊精益、注重開發速度，我們希望每一位工程師可以會基本的全端開發，更了解其他隊友的工作內容，幫助團隊合作。所以我們有專門幫忙每一位前段與後端工程師成為全段的培訓計劃。無論職位，如果您是前段或是後端工程師，我們會進行**3到6個月**的全端培訓計劃。不會影響您上班的工作量、責任、時間，是完全為個人與團隊成長、開發為目的。
+因為我們團隊精益、注重開發速度，我們希望每一位工程師可以會基本的全端開發，更了解其他隊友的工作內容，幫助團隊合作。所以我們有專門幫忙每一位前段與後端工程師成為全段的培訓計劃。無論職位，如果您是前段或是後端工程師，我們會進行**3到6個月**的全端培訓計劃。不會影響您上班的工作量、責任、時間，是完全為個人與團隊成長、開發為目的。X端軟體工程師可以選擇最有興趣的Y端語言和想要學的Y端框架，公司會幫您**免費安排課程**。
 
 1. 全端網頁開發是**未來趨勢**。
 1. 全球科技公司傾向雇用 Full Stack.
@@ -16,7 +16,7 @@ description: Full Stack Training Program
 
 <br>
 
-We are lean and value speed. We believe effective collaboration is based on mutual understanding. Therefore, we expect our all our engineers to know basic full stack development. We have a dedicated **3- to 6- month onboarding program** to help front- and back- end engineers learn the basics of full stack end-to-end development to faciliate team work, understanding, and collaboration.
+We are lean and value speed. We believe effective collaboration is based on mutual understanding. Therefore, we expect our all our engineers to know basic full stack development. We have a dedicated **3- to 6- month onboarding program** to help front- and back- end engineers learn the basics of full stack end-to-end development to faciliate team work, understanding, and collaboration. You'll get to pick the language and the framework that you're interesting in learning, and we'll pay for your **class**.
 
 1. Full Stack is the **future**.
 1. Employers like full stack because hiring front and back-end is effectively hiring two people to do the job of one full stack developer.

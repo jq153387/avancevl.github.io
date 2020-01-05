@@ -28,6 +28,12 @@ description: Team
 1. **思慮敏捷**
 1. **有團隊精神**
 
+我們的價值觀決定我們的工作方式，也是我們對用團隊的期望。 
+
+* 最重要的是要專注於有效的**成果**
+* 我們相信快速的**精進**與極度的**透明**將帶來有影響力的結果。
+* 我們比其他公司更重視**合作**和**效率**。
+
 <br>
 
 ## 創辦團隊 Founders
@@ -97,6 +103,14 @@ Our 5 values are:
 1. **Transparency**
 1. **Collaboration**
 1. **Efficiency**
+
+The necessary conditions for our team members:
+
+1. **Honesty**
+1. **Proactive**
+1. **Energetic**
+1. **Intelligent** (clarity in thoughts)
+1. **Team-player**
 
 Our values govern how we behave. They describe our expectations from people we hire. They help guide us on how to behave in the organization and what to expect from others. Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager. 
 

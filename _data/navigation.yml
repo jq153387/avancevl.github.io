@@ -95,8 +95,8 @@ toc:
               url: /recruit/webdev.html
             - page: 測驗分數評估 Exam Rubric
               url: /recruit/exam_rubric.html
-            - page: 測驗樣本 Sample Exam
-              url: /recruit/webdev_sample.html
+            - page: 全端測驗樣本 Full Stack Sample Exam
+              url: /recruit/sample_fullstackdev.html
         - page: "選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteboard Interview"
           url: /recruit/whiteboard.html
         - page: "選項C：資歷查核 - 取代技術測驗（5分鐘）Technical Reference Check"

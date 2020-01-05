@@ -73,7 +73,7 @@ description: Back-End Sample Exam
 
 * 請設計和實作後端搜索RESTful-API。
 * 搜索RESTful-API需要直接對應後端資料庫的SQL query。
-* 良好的[API設計](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api){:target="_blank"}。
+* [良好的API設計](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api){:target="_blank"}。
 * 在README.md用markdown纖細解釋API。
 	* 提供API query的樣本
 	* 提供API query結果的樣本

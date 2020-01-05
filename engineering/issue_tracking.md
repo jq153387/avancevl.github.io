@@ -27,4 +27,18 @@ description: Issue Tracking
 | 3 | 100位面試者| 10K申請者 | 10K使用者 | $100K MRR |
 
 ### 優先權 (Priority)
+
+| 優先權 (Priority) | 意思 |
+| --- | --- |
+| Highest | 最後期限這個Sprint要到期 |
+| High | 這個問題會擋住其他這個Sprint的問題 |
+| Medium | 這個問題會擋住下個Sprint的問題 |
+| Low | 兩週後再討論的問題 |
+| Lowest | 一月再討論的問題 |
+
 ### 時間估計（Time Estimate）
+
+大概估計時間為：
+
+* 一天工作時間是8小時
+* 半天工作時間是4小時

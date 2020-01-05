@@ -6,13 +6,13 @@ description: Team
 
 # 關於我們
 
-我們是麻省理工學院工程師與史丹佛電機碩士創辦的台北新創公司，專門創造有用的軟體。在紐約、西雅圖、芝加哥、香港、上海，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。團隊辦公室在台北、香港、新加坡的 WeWork。目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行市場實驗，有成長也有盈利。
+我們是麻省理工學院工程師與史丹佛電機碩士創辦的台北新創公司，專門創造有用的軟體。在紐約、西雅圖、芝加哥、香港、上海，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。團隊辦公室在台北、香港、新加坡的 WeWork。目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行市場實驗，有成長也有盈利。我們重視創造影響力 impact 而不只是生產力 productivity。
 
 <br>
 
 ## 價值觀
 
-我們公司的 5 個 Values 是：
+我們公司的 5 個 **Values** 是：
 
 1. **成果**
 1. **精進**
@@ -85,7 +85,7 @@ _Co-Founder. MIT-grad. Startup rockstar._
 
 # About us
 
-We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, and Shanghai before building startups in Silicon Valley. We are now based in Hong Kong, Singapore, and Taipei. We create, build, and implement experiments quickly for profitable ideas. We make useful software.
+We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, and Shanghai before building startups in Silicon Valley. We are now based in Hong Kong, Singapore, and Taipei. We create, build, and implement experiments quickly for profitable ideas. We make useful software. We value creating impact over being productive. 
 
 
 ## Values

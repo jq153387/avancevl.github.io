@@ -4,6 +4,8 @@ title: 實習生培訓計劃：學生及職場新人
 description: Students & New Graduates
 ---
 
+台灣擁有許多年輕、努力的人才。除了幫助我們團隊在工作上有不斷的成長，我們是一個注重提拔、培養年輕人才的公司。我們成立了專門為 computer science/engineering 學生打造的 **Mentored Intern Training MIT Program** 實習生計劃，讓學生在專業的環境上，有實際的軟體開發工作經驗，正式的認識與接觸國際型的新創。我們工作時段遠端、有彈性，不限年齡、背景，中文環境 (英文輔助)，鼓勵學習新技術，發展自己的才能，履歷表和 GitHub/GitLab optional.
+
 ## **Mentored Intern Training MIT Program**
 
 > Do important work.
@@ -11,7 +13,7 @@ description: Students & New Graduates
 
 ## For 大學生和畢業生.
 
-許多公司通常會將實習生視為非關鍵的免費勞力。 我們不認同。
+許多公司通常會將實習生視為非關鍵的免費勞力。我們不認同。
  
 我們相信有許多聰明、有企圖心的學生被忽視。 在AVL，我們不注重大學名氣，或缺乏工作經驗，或沒有職場上的關係。
 

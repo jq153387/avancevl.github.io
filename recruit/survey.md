@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 申請職缺問卷（5分）
+title: 申請職缺問卷（5分鐘）
 description: Job Application Survey
 ---
 
 | 問卷時間 | 5分鐘 |
 | 問卷題目 | 13題 |
-| 申請人數 | 200+位 |
+| 申請人數 | 300+位 (01/05/2020)|
 
 [開始申請職缺]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 

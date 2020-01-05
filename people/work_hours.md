@@ -3,6 +3,7 @@ layout: default
 title: 工作時間
 description: Work Hours
 ---
+我們支持工作與生活的平衡。應次，透明的工作時間期望讓團隊更 productive。
 
 ## 基本指南
 * 彈性上下班時間，自行選擇工作時間。
@@ -16,13 +17,15 @@ description: Work Hours
 	* 下午2點
 	* 下午6點
 * 每週3次面對面的會議
-	* 星期一上午9點
-	* 星期三下午5點
-	* 期五下午5點
+	* 星期一上午 9am
+	* 星期三下午 5pm
+	* 期五下午 5pm
 
 <br>
 
 ---
+
+We value work-life balance. A transpearant expecation on work hours enable our team to be more productive.
 
 ## General Guidelines
 * Flexible start and end time.

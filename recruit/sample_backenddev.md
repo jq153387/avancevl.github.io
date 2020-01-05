@@ -111,6 +111,8 @@ description: Back-End Sample Exam
 
 ### 4. 搜索營業時間符合：
 
+```
 * 星期幾
 * 開始營業時間
 * 結束營業時間
+```

@@ -26,7 +26,7 @@ description: Issue Tracking
 | 2 | 10位面試者 | 1K申請者 | 1K位使用者 | 美金 $10K MRR |
 | 3 | 100位面試者| 10K申請者 | 10K使用者 | 美金 $100K MRR |
 
-### 優先權 (Priority)
+### 優先權 (Priority)：期限或擋住
 
 | 優先權 (Priority) | 意思 |
 | --- | --- |

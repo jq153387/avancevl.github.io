@@ -14,7 +14,7 @@ description: Issue Tracking
 1. 時間估計（Time Estimate）
 
 
-### 故事分數（Story Points）
+### 故事分數（Story Points）：KPI分數（KPI Points）
 
 * 公司跟其他主要不一樣的地方是，我們Story Points不是在估計問題的難度或時間，而是問題對於團隊KPI的共享。
 * 我們希望避免的事團隊JIRA問題一大堆，完成很多，大家很忙，但是其實問題對團隊達到KPI沒有什麼影響力或共享。

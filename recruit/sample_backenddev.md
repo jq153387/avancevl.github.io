@@ -75,7 +75,7 @@ description: Back-End Sample Exam
 	* 請使用relational的資料庫。
 * 搜索RESTful-API需要直接對應後端資料庫的SQL query。
 * [良好的API設計](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api){:target="_blank"}。
-* 在README.md用markdown纖細解釋API。
+* 在`README.md`用markdown纖細解釋API。
 	* 提供API query的樣本
 	* 提供API query結果的樣本
 * 搜索API需要考慮一張網頁最多可以顯示多少搜索結果，需要支持pagination。
@@ -85,7 +85,7 @@ description: Back-End Sample Exam
 ### 1. 搜索一個過濾項目，支持多頁結果（pagination）
 
 過濾項目：
-
+```
 * 星期幾
 * 類型
 * 米其林
@@ -93,13 +93,13 @@ description: Back-End Sample Exam
 * 外送
 * 先繳訂金
 * 地理位子
+```
 
 ### 2. 搜索多個「及」過濾項目
 
 例如：
 ```
 (類型 == 無菜單) && (米其林 == 1)
-
 ```
 
 ### 3. 搜索多個「或」過濾項目
@@ -107,11 +107,12 @@ description: Back-End Sample Exam
 例如：
 ```
 (先繳訂金 == 否) && (停車 == 有)
-
 ```
 
 ### 4. 搜索營業時間符合：
 
+```
 * 星期幾
 * 開始營業時間
 * 結束營業時間
+```

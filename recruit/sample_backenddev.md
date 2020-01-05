@@ -99,7 +99,6 @@ description: Back-End Sample Exam
 例如：
 ```
 (類型 == 無菜單) && (米其林 == 1)
-
 ```
 
 ### 3. 搜索多個「或」過濾項目
@@ -107,7 +106,6 @@ description: Back-End Sample Exam
 例如：
 ```
 (先繳訂金 == 否) && (停車 == 有)
-
 ```
 
 ### 4. 搜索營業時間符合：

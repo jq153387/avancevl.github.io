@@ -18,7 +18,7 @@ description: Open Positions
 
 工作責任詳細說明，請看[工程師職級與薪資]({{ site.link_jd_salary }})。
 
-因為我們團隊精益、注重開發速度，我們希望每一位工程師可以會基本的全端開發，更了解其他隊友的工作內容，幫助團隊合作。所以我們有專門幫忙前段與後端工程師成為全段的培訓計劃。詳細資訊，請看[入職訓練]({{ site.link_onboarding }})。
+因為我們團隊精益、注重開發速度，我們希望每一位工程師可以會基本的全端開發，更了解其他隊友的工作內容，幫助團隊合作。所以我們有專門幫忙每一位前段與後端工程師成為全段的培訓計劃。詳細資訊，請看[入職訓練]({{ site.link_onboarding }})。
 
 <br>
 
@@ -40,7 +40,7 @@ We hope you apply to one of our open positions below.
 
 For job roles and responsibilities, please see [Engineering Levels]({{ site.link_jd_salary }})。
 
-For job roles and responsibilities, please see [Onboarding Training]({{ site.link_onboarding }})。
+We are lean and value speed. Therefore, we wish our all our engineers to know basic full stack development. We have a dedicated onboarding program to help front- and back- end engineers learn the basics of full stack end-to-end development to faciliate team work, understanding, and collaboration. For details, please see [Onboarding Training]({{ site.link_onboarding }})。
 
 <br>
 

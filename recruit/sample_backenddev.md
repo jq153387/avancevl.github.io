@@ -21,3 +21,33 @@ description: Back-End Sample Exam
 
 ---
 
+## 考題講解
+
+* 請設計和實作後端搜索RESTful-API。
+* 搜索RESTful-API需要直接對應後端資料庫的SQL query。
+* 良好的[API設計](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api){:target="_blank"}。
+* 在README.md用markdown纖細解釋API。
+* 搜索API需要考慮一張網頁最多可以顯示多少搜索結果，需要支持pagination。
+
+## 考題細節：搜索API功能
+
+### 1. 搜索一個過濾項目
+
+過濾項目：
+
+* 星期幾
+* 類型
+* 停車
+* 外送
+* 先繳訂金
+* 地理位子
+
+### 2. 搜索多個「及」過濾項目
+
+### 3. 搜索多個「或」過濾項目
+
+### 4. 搜索營業時間符合：
+
+* 星期幾
+* 開始營業時間
+* 結束營業時間

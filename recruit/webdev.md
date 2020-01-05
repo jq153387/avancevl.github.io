@@ -13,6 +13,9 @@ description: Web Developer Exam
 [參考考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
+
+以下資訊包括全端、前端、後端線上測驗。如果是申請全端，請熟悉全部的指示要求。如果是申請前端或後端，請熟悉非技術面的指示和針對前端或後端的框架要求。
+
 ## 考前指示
 > **注意：**
 > 為節省時間，我們強烈建議您在**考試前**先提前預備設置好一個空白的網頁開發架框和環境基本設定

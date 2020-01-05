@@ -13,11 +13,14 @@ description: Back-End Sample Exam
 重要提醒：
 
 > * 我們並不期望你完整開發每個功能。重點不是要全部 “做完”，是要查看有嘗試部分的能力、進度，盡力而為就可以。
-> * 請使用 GitHub/GitLab
-> * 這份線上測驗分數會決定您的職級與薪資範圍。每個網頁功能有分數。請必定要交卷
+> * 請使用 GitHub/GitLab.
+> * 這份線上測驗分數會決定您的職級與薪資範圍。每個網頁功能有分數。請必定要交卷。
 > * 2.5小時到時，請：
 >   * 請必定要上架，並提供 URL
 >   * 有開發多少，就交卷多少，考試並沒有所謂的 “完成”
 
 ---
 
+考題範圍、分數計算與樣本，請參考**[全端測驗樣本]({{ site.link_sample_fullstackdev }})**。分數計算與考題會類似。
+
+For exam topics, score calculation, amd exam samples, please reference **[Full Stack Sample Exam]({{ site.link_sample_fullstackdev }})**. The scoring system and problems will be similiar.

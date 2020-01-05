@@ -53,11 +53,16 @@ Engineering JIRA issues are grouped into 1-week sprints. Each engineer, remote o
 
 The three laws of Agile are thus:
 
-* the **Law of the Customer**—an obsession with delivering value to customers as the be-all and end-all of the organization.
-* the **Law of the Small Team**—a presumption that all work be carried out by small self -organizing teams, working in short cycles and focused on delivering value to customers—and
-* the **Law of the Network**—a continuing effort to obliterate bureaucracy and top-down hierarchy so that the firm operates as an interacting network of teams, all focused on working together to deliver increasing value to customers.
+1. The **Law of the Customer**—an obsession with delivering value to customers as the be-all and end-all of the organization.
+1. The **Law of the Small Team**—a presumption that all work be carried out by small self -organizing teams, working in short cycles and focused on delivering value to customers—and
+1. The **Law of the Network**—a continuing effort to obliterate bureaucracy and top-down hierarchy so that the firm operates as an interacting network of teams, all focused on working together to deliver increasing value to customers.
 
 ## Agile Manifesto
+
+* **Individuals and interactions** over processes and tools
+* **Working software** over comprehensive documentation
+* **Customer collaboration** over contract negotiation
+* **Responding to change** over following a plan
 
 We follow these principles:
 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.

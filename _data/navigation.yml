@@ -61,6 +61,8 @@ toc:
       - page: 學習培訓 Learning & Training
         url: /people/learning_training.html
         subsubfolderitems:
+          - page: 全端培訓計劃 Full Stack Training Program
+            url: /people/fullstack_training.html
           - page: 線上資源 Online Resources
             url: /people/online_resources.html
       - page: 外派國外 Relocation
@@ -97,6 +99,8 @@ toc:
               url: /recruit/exam_rubric.html
             - page: 全端測驗樣本 Full Stack Sample Exam
               url: /recruit/sample_fullstackdev.html
+            - page: 前端測驗樣本 Front-End Sample Exam
+              url: /recruit/sample_frontenddev.html
             - page: 後端測驗樣本 Back-End Sample Exam
               url: /recruit/sample_backenddev.html
         - page: "選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteboard Interview"

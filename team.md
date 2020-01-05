@@ -36,13 +36,13 @@ description: Team
 
 ### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
 
-_Co-Founder. Stanford-grad. Tech genius._
+_Co-Founder. Stanford-grad. Tech expert._
 
 <img src='https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400' width="222"/>
 
 ### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
 
-_Co-Founder. MIT-grad. Startup rockstar._
+_Co-Founder. MIT-grad. Startup enthusiast._
 
 <br>
 

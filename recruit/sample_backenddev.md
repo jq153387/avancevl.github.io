@@ -27,6 +27,8 @@ description: Back-End Sample Exam
 * 搜索RESTful-API需要直接對應後端資料庫的SQL query。
 * 良好的[API設計](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api){:target="_blank"}。
 * 在README.md用markdown纖細解釋API。
+	* 提供API query的樣本
+	* 提供API query結果的樣本
 * 搜索API需要考慮一張網頁最多可以顯示多少搜索結果，需要支持pagination。
 
 ## 考題細節：搜索API功能

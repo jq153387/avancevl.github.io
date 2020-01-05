@@ -71,7 +71,8 @@ description: Back-End Sample Exam
 
 ## 考題講解
 
-* 請設計和實作後端搜索RESTful-API。
+* 請輸入提供的csv檔案進去資料庫，設計及實作後端搜索資料庫的RESTful-API。
+	* 請使用relational的資料庫。
 * 搜索RESTful-API需要直接對應後端資料庫的SQL query。
 * [良好的API設計](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api){:target="_blank"}。
 * 在README.md用markdown纖細解釋API。

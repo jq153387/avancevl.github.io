@@ -4,6 +4,11 @@ title: 公司理念
 description: Principles
 ---
 
+## 莫忘初衷 
+除了我們的[價值觀]({{ site.link_team }})，我們的公司理念、願景、使命將引導我們為客戶提供更好的產品和為團隊提供更好的文化與工作環境。
+
+In addition to our [Values]({{ site.link_team }}), our company Principles, Vision, and Mission will guide us towards better product for our customers and better culture and work environment for your team.
+
 ## Principles 理念
 
 We are one team working towards a common goal: we believe technology, social responsibility, and new ideas about how to create value are more important than ever before. We believe the quality standards of our product, and its experience, can never be compromised. We are honest, people-first, and operate with integrity.  We value offering practical solutions and providing unique experience to our customers, over financial results.

@@ -9,6 +9,8 @@ description: Benefits
 * 中文工作環境
 * 遠端工作制度
 * 彈性上下班、午休制度
+* 責任制
+* 無限休假
 * 美國工作機會 (申請美國 L1 簽證)
 * 獎勵表現、執行力，績效決定年終獎金
 * 有機會輪流接觸不同的 projects, workstreams, positions 

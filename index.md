@@ -76,5 +76,5 @@ We welcome feedback.
 
 Help us support the open source, startup, developer communites in Taiwan by following:
 
-* [Startup Jobs Taiwan](https://021tw.github.io/021tw.github.io/){:target="_blank"}
-* [Full Stack Developers Taiwan](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
+* [Startup Jobs Taiwan](https://021tw.github.io/){:target="_blank"}
+* [Full Stack Developers Taiwan](https://stacktw.github.io/){:target="_blank"}

@@ -43,11 +43,15 @@ description: Back End Developer
 
 <br>
 
+[現在就申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ## 專屬後端工程師3～6月培訓計劃
 
 我們有專門幫忙每一位後端工程師成為全段的培訓計劃。無論職位，如果您是前段或是後端工程師，我們會進行**3到6個月**的全端培訓計劃。不會影響您上班的工作量、責任、時間，是完全為個人與團隊成長、開發為目的。X端軟體工程師可以選擇最有興趣的Y端語言和想要學的Y端框架，公司會幫您**免費安排課程**。
 
-[**了解更多.**]({{ site.baseurl }}/people/fullstack_training.html)
+[了解更多]({{ site.baseurl }}/people/fullstack_training.html){: .btn#page-btn}
 
 <br>
 
@@ -94,15 +98,15 @@ description: Back End Developer
 
 <br>
 
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ## Optional Onboarding Training Program
 
 We have a dedicated **3- to 6- month onboarding program** to help back-end engineers learn the basics of full stack end-to-end development to faciliate team work, understanding, and collaboration. You will have freedom to choose the language and framework you wish to learn, all classes and courses will be company-sponsored.
 
-Learn more [here]({{ site.baseurl }}/people/fullstack_training.html).
-
-<br>
-
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Learn More]({{ site.baseurl }}/people/fullstack_training.html){: .btn#page-btn}
 
 <br>
 

@@ -43,6 +43,14 @@ description: Front End Developer
 
 <br>
 
+## 專屬前端工程師3～6月培訓計劃
+
+我們有專門幫忙每一位前端工程師成為全段的培訓計劃。無論職位，如果您是前段或是後端工程師，我們會進行**3到6個月**的全端培訓計劃。不會影響您上班的工作量、責任、時間，是完全為個人與團隊成長、開發為目的。X端軟體工程師可以選擇最有興趣的Y端語言和想要學的Y端框架，公司會幫您**免費安排課程**。
+
+[**了解更多.**]({{ site.baseurl }}/people/fullstack_training.html)
+
+<br>
+
 ---
 
 <br>
@@ -86,11 +94,13 @@ description: Front End Developer
 - Passionate about creating problem-solving products
 - GitHub profile preferred in addition to a resume
 
+<br>
+
 ## Optional Onboarding Training Program
 
 We have a dedicated **3- to 6- month onboarding program** to help front-end engineers learn the basics of full stack end-to-end development to faciliate team work, understanding, and collaboration. You will have freedom to choose the language and framework you wish to learn, all classes and courses will be company-sponsored.
 
-Learn more [here]({{ site.baseurl }}/people/fullstack_training.html)
+[**Learn more here.**]({{ site.baseurl }}/people/fullstack_training.html)
 
 <br>
 

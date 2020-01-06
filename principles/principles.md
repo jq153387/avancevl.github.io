@@ -5,9 +5,9 @@ description: Principles
 ---
 
 ## 莫忘初衷 
-除了我們的[價值觀]({{ site.link_team }})，我們的公司理念、願景、使命將引導我們為客戶提供更好的產品和為團隊提供更好的文化與工作環境。
+除了我們的[價值觀]({{ site.link_team }})，我們的公司理念、願景、使命將引導我們為目標市場提供更好的產品和為團隊提供更好的文化與工作環境。
 
-In addition to our [Values]({{ site.link_team }}), our company Principles, Vision, and Mission will guide us towards better product for our customers and better culture and work environment for your team.
+In addition to our [Values]({{ site.link_team }}), our company Principles, Vision, and Mission will guide us towards better product for our target market and better culture and work environment for your team.
 
 ## Principles 理念
 

@@ -10,11 +10,14 @@ description: Web Developer Exam
 1. [後端軟體工程師]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
 [立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-[參考考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 
 以下資訊包括全端、前端、後端線上測驗。如果是申請全端，請熟悉全部的指示要求。如果是申請前端或後端，請熟悉非技術面的指示和針對前端或後端的框架要求。
+
+[參考全端考試樣本]({{ site.baseurl }}/recruit/sample_fullstackdev.html){: .btn#page-btn}
+[參考前端考試樣本]({{ site.baseurl }}/recruit/sample_frontenddev.html){: .btn#page-btn}
+[參考後端考試樣本]({{ site.baseurl }}/recruit/sample_backenddev.html){: .btn#page-btn}
 
 ## 考前指示
 > **注意：**
@@ -88,8 +91,11 @@ description: Web Developer Exam
 1. [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-[View Sample Exam]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 [View Exam Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
+
+[View Full Stack Sample Exam]({{ site.baseurl }}/recruit/sample_fullstackdev.html){: .btn#page-btn}
+[View Front End Sample Exam]({{ site.baseurl }}/recruit/sample_frontenddev.html){: .btn#page-btn}
+[View Back End Sample Exam]({{ site.baseurl }}/recruit/sample_backenddev.html){: .btn#page-btn}
 
 ## Exam Instructions
 > **IMPORTANT:**

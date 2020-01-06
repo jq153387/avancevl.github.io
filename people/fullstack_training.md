@@ -14,6 +14,8 @@ description: Full Stack Training Program
 
 這樣想吧：你**一邊領薪水，一邊學習、進步，提高自己的能力**。
 
+[立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
 <br>
 
 ---
@@ -32,6 +34,10 @@ We are lean and value speed. We believe effective collaboration is based on mutu
 * Freedom in picking language and framework.
 * Company sponsored online course and class.
 
+Think of it this way: **you're paid to learn and improve yourself**.
+
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
 ## Why Full Stack?
 
 1. Full Stack is the **future**.
@@ -40,7 +46,12 @@ We are lean and value speed. We believe effective collaboration is based on mutu
 1. Learning the best, newest skills will only help your daily work.
 1. Developers will have **longer career longevity** as a full stack, compared to front-end or back-end developers.
 
-Think of it this way: **you're paid to learn and improve yourself**.
+## Full Stack Developers Taiwan
 
-## Join Full Stack Developers Taiwan
+We are also building a Full Stack Developer community in Taiwan, with the mission to:
 
+* Help front-end and back-end developers transition to a full stack role.
+* Discuss and understand synergies between front-end and back-end frameworks.
+* Build out an open sourced solution that is free forever for startup job seeking and hiring.
+
+[Join Now](https://stacktw.github.io/){: .btn#page-btn}{:target="_blank"}

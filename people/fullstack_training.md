@@ -47,7 +47,7 @@ description: Full Stack Training Program
 
 ## 3-6 Months Onboarding Program for Front / Back-End Developers
 
-We are lean and value speed. We believe effective collaboration is based on mutual understanding. Therefore, we expect our all our engineers to know basic full stack development. We have a dedicated **3- to 6- month onboarding program** to help front- and back- end engineers learn the basics of full stack end-to-end development to faciliate team work, understanding, and collaboration.
+We are lean and value speed. We believe effective collaboration is based on mutual understanding. Therefore, we expect our all our engineers to know basic full stack development. We have a dedicated **3- to 6- month onboarding program** to help front- and back- end engineers learn the basics of full stack end-to-end development to faciliate team work, understanding, and collaboration. You will have freedom to choose the language and framework you wish to learn, all classes and courses will be company-sponsored.
 
 ## Get Paid to Learn Full Stack
 

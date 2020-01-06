@@ -86,6 +86,12 @@ description: Front End Developer
 - Passionate about creating problem-solving products
 - GitHub profile preferred in addition to a resume
 
+## Optional Onboarding Training Program
+
+We have a dedicated **3- to 6- month onboarding program** to help front-end engineers learn the basics of full stack end-to-end development to faciliate team work, understanding, and collaboration. You will have freedom to choose the language and framework you wish to learn, all classes and courses will be company-sponsored.
+
+Learn more [here]({{ site.baseurl }}/people/fullstack_training.html)
+
 <br>
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

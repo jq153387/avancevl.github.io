@@ -16,7 +16,7 @@ description: Onboarding
 [x] [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
 
 
-## 建設公司帳號
+## 建立公司帳號
 
 ### 全員工
 

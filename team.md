@@ -54,7 +54,7 @@ _Co-Founder. MIT-grad. Startup enthusiast._
 
 ## 顧問團隊 Our Advisors
 
-我們的顧問來自：
+我們曾經與現在有合作的顧問與夥伴來自：
 
 * Alibaba
 * Amazon.com

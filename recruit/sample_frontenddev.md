@@ -43,9 +43,7 @@ For exam topics and score calculation, please reference **[Full Stack Sample Exa
 | 60 | 地圖-地理位子 |
 | 40 | 中/英文頁面 |
 
-
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
-
 
 ## 規則
 

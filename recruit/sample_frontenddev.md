@@ -33,14 +33,16 @@ For exam topics and score calculation, please reference **[Full Stack Sample Exa
 
 ## 考題大綱
 
-請開發一個可以使用，有前端的網站：
+請開發一個可以使用，有前端的網站。
 
 | 滿分 | 網頁功能 |
 | --- | --- |
-| 40 |  |
-| 60 |  |
-| 50 |  |
-| 50 |  |
+| 30 | 呈現訊息 |
+| 30 | 搜尋功能 |
+| 40 | 訂位按鈕與 pop-up 視窗 |
+| 60 | 地圖-地理位子 |
+| 40 | 中/英文頁面 |
+
 
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
@@ -70,7 +72,7 @@ For exam topics and score calculation, please reference **[Full Stack Sample Exa
 * 在首頁顯示檔案裡面的資訊，表格的每一行是餐廳名字，使用者可以按/點，伸縮更多的餐廳資訊（展開、收起）。
 * 展開資訊有訂位按鈕有圖標表示類型、米其林星、停車、外送、先繳訂金、評價。
 
-### 2. 搜尋功能：
+### 2. 搜尋功能
 
 * 網頁最上方有搜尋功能，使用者可以輸入的欄位與搜尋按鈕：餐廳名字(輸入時，會有下拉式的建議)、訂位人數(使用下拉式選單)、日期(使用日曆選單)、時間(使用下拉式選單)
 
@@ -81,7 +83,7 @@ For exam topics and score calculation, please reference **[Full Stack Sample Exa
 * pop-up 視窗是一個讓使用者可以填寫的表格：名字、電話(輸入數字限制)、訂位人數(使用下拉式選單)、日期(使用日曆選單)、時間(使用下拉式選單)
 * pop-up 視窗可以關閉的
 
-### 4. 地理位子
+### 4. 地圖-地理位子
 
 * pop-up 視窗裡面使用
 [Google Maps API](https://developers.google.com/maps/documentation/embed/start) 顯示小地圖（餐廳的地理位子）。

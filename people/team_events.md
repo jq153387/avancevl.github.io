@@ -28,7 +28,7 @@ description: Team Events
 
 ## 2019年12月，常春藤盟校晚會 | December 2019, Ivy Ball
 
-<img src='https://lh3.googleusercontent.com/K41PHZva126LnlpOOJnk3bQu0cxUlTr_VqF3iLyf6IqB1RKYhVdatXANI3O2oQIX-1GEj4ZiXItlUf70ikrefboc4UtAWWexSG17ZvRwN68O8mc_OW3-QofmOl1LUkMIFE78eIgo3oM=w2400' width="400"/>
+<img src='https://lh3.googleusercontent.com/K41PHZva126LnlpOOJnk3bQu0cxUlTr_VqF3iLyf6IqB1RKYhVdatXANI3O2oQIX-1GEj4ZiXItlUf70ikrefboc4UtAWWexSG17ZvRwN68O8mc_OW3-QofmOl1LUkMIFE78eIgo3oM=w2400' width="500"/>
 
 #### 活動目的
 

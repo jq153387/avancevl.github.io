@@ -54,30 +54,22 @@ _Co-Founder. MIT-grad. Startup enthusiast._
 
 ## 顧問團隊 Our Advisors
 
-我們曾經與現在有合作的顧問與夥伴來自：
+我們有合作的夥伴來自：
+Consultants we have worked with or are currently working with, formally and informally, include:
 
-* Alibaba
-* Amazon.com
-* American Express
-* Apple
-* Bain
-* BCG
-* Capital One
-* Dell
-* Facebook
-* Foxconn
-* Google
-* Mastercard
-* McKinsey
-* Microsoft
-* Nike
-* PayPal
-* Samsung
-* Spotify
-* Tencent
-* Visa
-* WeWork
-
+* Alibaba 阿里巴巴
+* Amazon.com 亞馬遜
+* American Express 美國運通
+* Apple 蘋果電腦
+* Dell 戴爾電腦
+* Facebook 臉書
+* Foxconn 富士康
+* Google 谷歌
+* McKinsey 麥肯錫
+* Microsoft 微軟
+* Samsung 三星
+* Transcend 創建
+* Tencent 騰訊
 
 <br>
 

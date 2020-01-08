@@ -8,12 +8,12 @@ description: Onboarding
 
 ### 全員工
 
-[x] [團隊期望]({{ site.baseurl }}/principles/expectations.html){:target="_blank"}
+- [團隊期望]({{ site.baseurl }}/principles/expectations.html){:target="_blank"}
 
 
 ### 軟體工程師
 
-[x] [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
+- [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
 
 
 ## 建立公司帳號

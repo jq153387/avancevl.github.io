@@ -16,19 +16,17 @@ description: Management KPI & OKR
 ## 2. Launch MVPs with Robust Product Cycle
 
 * Product-market fit
+	* Message-market fit
+	* Channel-market fit
+* KPIs
 	* 1000 signups
 	* 1000 users
 	* 1000 paying customers
 	* Week-on-week top line revenue growth
-* Message-market fit
-* Channel-market fit
 	* CAC unit profitability
-
-### Product Roadmap
-
-* 2 week product release cycle
-* Launch first iteration MVP within 1 month of engineering onboarding
-* 
+* Product cycle
+	* Launch first iteration MVP within 1 month of engineering onboarding
+	* 2 week product release cycle
 
 ## 3. Test Conviction Ideas
 
@@ -42,10 +40,10 @@ description: Management KPI & OKR
 * Generate public interest.
 * Collect sign ups.
 * Identify TA with Google and Facebook ads.
-* Test with both English and Chinese-speaking markets
+* Test with both English and Chinese-speaking markets.
+* Talk to customers.
 
 ## 4. Fundraising
 
 * Raise capital at typical YC-company seed valuation.
 * 2-3 million raised at 10-20 million pre-seed.
-* 

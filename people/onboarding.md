@@ -17,6 +17,7 @@ description: Onboarding
     - [書面交流]({{ site.baseurl }}/principles/written_communication.html){:target="_blank"}
     - [執行SOP]({{ site.baseurl }}/principles/deliverables.html){:target="_blank"}
     - [對外會議]({{ site.baseurl }}/principles/external_meetings.html){:target="_blank"}
+- [職場性騷擾政策]({{ site.baseurl }}/people/workplace_policy.html){:target="_blank"}
 
 ### 軟體工程師
 

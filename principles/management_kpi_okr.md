@@ -8,36 +8,44 @@ description: Management KPI & OKR
 
 ## 1. Build Team
 
-* Hire 1 Full Stack Developer per quarter (full-time or project-based)
+* Hire 1 Full Stack Developer per quarter
+	* Full-time or project-based
+	* Front or back-end as Plan B
 * Hire 1 experienced UI/UX graphic designer
-* 
 
-## 2. Launch PerfectScore MVP
+## 2. Launch MVPs with Robust Product Cycle
 
 * Product-market fit
 	* 1000 signups
+	* 1000 users
 	* 1000 paying customers
-	* week-on-week top line revenue growth
+	* Week-on-week top line revenue growth
 * Message-market fit
 * Channel-market fit
+	* CAC unit profitability
 
-* Unit profitability (CAC)
+### Product Roadmap
 
-### Roadmap
+* 2 week product release cycle
+* Launch first iteration MVP within 1 month of engineering onboarding
+* 
 
-2 week product cycle
+## 3. Test Conviction Ideas
 
-After first engineering hire:
-
-* Launch first iteration MVP: +1 month
-
-## 3. Test 5 Ideas
-
+* Ideas
+	* Cyrpto
+	* Mobile payment
+	* E-commerce
+	* SaaS
+	* KOL
+	* Dating
 * Generate public interest.
 * Collect sign ups.
 * Identify TA with Google and Facebook ads.
-* English Chiense market
+* Test with both English and Chinese-speaking markets
 
 ## 4. Fundraising
 
 * Raise capital at typical YC-company seed valuation.
+* 2-3 million raised at 10-20 million pre-seed.
+* 

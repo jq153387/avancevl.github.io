@@ -11,6 +11,7 @@ description: Management KPI & OKR
 * Hire 1 Full Stack Developer per quarter
 	* Full-time or project-based
 	* Front or back-end as Plan B
+* Hire 1 iOS, 1 Android mobile application developer
 * Hire 1 experienced UI/UX graphic designer
 
 ## 2. Launch MVPs with Robust Product Cycle

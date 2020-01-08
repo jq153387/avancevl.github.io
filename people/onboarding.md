@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 入职流程
+title: 入職流程
 description: Onboarding
 ---
 

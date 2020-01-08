@@ -18,10 +18,17 @@ description: Onboarding
     - [執行SOP]({{ site.baseurl }}/principles/deliverables.html){:target="_blank"}
     - [對外會議]({{ site.baseurl }}/principles/external_meetings.html){:target="_blank"}
 - [職場性騷擾政策]({{ site.baseurl }}/people/workplace_policy.html){:target="_blank"}
+- [績效評估]({{ site.baseurl }}/people/general_performance_review.html){:target="_blank"}
 
 ### 軟體工程師
 
 - [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
+	- [工作速率]({{ site.baseurl }}/engineering/velocity_work.html){:target="_blank"}
+    - [問題追中]({{ site.baseurl }}/engineering/issue_tracking.html){:target="_blank"}
+    - [產品開發流程]({{ site.baseurl }}/engineering/product_cycle.html){:target="_blank"}
+    - [績效評估]({{ site.baseurl }}/engineering/performance_review.html){:target="_blank"}
+    - [程式代碼規範]({{ site.baseurl }}/engineering/coding_standards.html){:target="_blank"}
+    - [品質管制及測試]({{ site.baseurl }}/engineering/qc_testing.html){:target="_blank"}
 
 <br>
 

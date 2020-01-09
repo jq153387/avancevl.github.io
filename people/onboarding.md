@@ -43,7 +43,7 @@ description: Onboarding
 
 1. Slack
 1. JIRA
-
+1. Zoom
 
 ### 軟體工程師
 

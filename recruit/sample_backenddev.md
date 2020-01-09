@@ -96,7 +96,7 @@ description: Back-End Sample Exam
 * 地理位子
 ```
 
-### 2. 搜索多個「及」過濾項目（AND filter）
+### 2. 搜索多個「及」過濾項目（AND condition）
 
 例如：
 ```
@@ -106,7 +106,7 @@ if ((類型 == 無菜單) && (米其林 == 1))
 }
 ```
 
-### 3. 搜索多個「或」過濾項目（OR filter）
+### 3. 搜索多個「或」過濾項目（OR condition）
 
 例如：
 ```

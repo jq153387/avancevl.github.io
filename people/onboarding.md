@@ -29,6 +29,7 @@ description: Onboarding
     - [績效評估]({{ site.baseurl }}/engineering/performance_review.html){:target="_blank"}
     - [程式代碼規範]({{ site.baseurl }}/engineering/coding_standards.html){:target="_blank"}
     - [品質管制及測試]({{ site.baseurl }}/engineering/qc_testing.html){:target="_blank"}
+- [線上資源]({{ site.baseurl }}/people/online_resources.html){:target="_blank"}
 
 <br>
 

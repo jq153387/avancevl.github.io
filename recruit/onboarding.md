@@ -12,6 +12,12 @@ description: Onboarding Training
 1. 如果是工程師，請檢閱[工程流程]({{ site.link_engineering }})。
 1. 如果您是前端或後端工程師，我們會進行3到6個月的**[全端培訓計劃]({{ site.link_fullstack_training }})**。
 
+[入職流程]({{ site.baseurl }}/people/onboarding.html){: .btn#page-btn}
+
+<br>
+
+---
+
 <br>
 
 When you onboard, you will be given materials to review and go through the following steps:
@@ -20,4 +26,6 @@ When you onboard, you will be given materials to review and go through the follo
 1. Learn our [Principles]({{ site.link_jd_culture }}) and all work expectations.
 1. Tools and environment setup.
 1. If an engineer, know [Enigneering]({{ site.link_engineering }}) expectations.
-1. If you're a front-end or a back-end engineering, you will go through a 3-6 month **[Full Stack Training Program]({{ site.link_fullstack_training }})**. 
+1. If you're a front-end or a back-end engineering, you will go through a 3-6 month **[Full Stack Training Program]({{ site.link_fullstack_training }})**.
+
+[Onboarding Process]({{ site.baseurl }}/people/onboarding.html){: .btn#page-btn}

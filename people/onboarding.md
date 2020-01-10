@@ -41,6 +41,7 @@ description: Onboarding
 
 ### 每位員工
 
+1. Gmail
 1. Slack
 1. JIRA
 1. Zoom

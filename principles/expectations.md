@@ -6,6 +6,9 @@ description: Expectations
 
 ## Expectations 期望
 
+寄予厚望能夠激發能力。
+Great expectations create great capabilities.
+
 ### 1. Be Honest 誠實
 * We are built on trust — always be honest with your team and with yourself 
 * We do not tolerate dishonesty 

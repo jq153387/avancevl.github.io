@@ -21,6 +21,11 @@ At AVL, we value constant improvement. In addition to exceling at our job, we mu
 * [Problem solving](https://youtu.be/68QW15sBdKQ){:target="_blank"}
 * [Top entrepreneurship skills](https://youtu.be/86unGITRPLs){:target="_blank"}
 
+
+### General
+* [7 Steps Problem Solving](https://www.leadershipnow.com/leadingblog/2019/10/7_steps_to_bulletproof_problem.html){:target="_blank"}
+
+
 ### Front-End
 
 * [A curated list of CSS resources](https://alligator.io/css/css-resources/){:target="_blank"}

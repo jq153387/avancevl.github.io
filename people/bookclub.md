@@ -6,15 +6,17 @@ description: Book Club
 
 我們重視團隊培訓與不斷的學習和自修。我們會在這裡分享員工讀書會的書籍選擇、資源與心得。
 
-We value constant self learning and improvment. We will share our book club selections, resources, and thoughts here.
+We value constant self learning and improvment. We will share our book club selections, resources, summaries, and related thoughts here.
 
-1. [Business Book of the Year](https://en.wikipedia.org/wiki/Financial_Times_and_McKinsey_Business_Book_of_the_Year_Award){:target="_blank"}
-1. https://medium.com/@wadelahring/book-summary-measure-what-matters-by-john-doerr-8e5ab90b5b06
-1. https://medium.com/@sam_harris/the-hard-thing-about-hard-things-ben-horowitz-summary-and-review-8013261e1b4c
-1. https://medium.com/@Milan__Amin/a-summary-of-rework-change-the-way-you-work-forever-by-david-heinemeier-hansson-and-jason-fried-cf7a0d49c2c8
-1. https://hgimnetwork.org/2015/01/book-summary-the-21-irrefutable-laws-of-leadership-by-john-maxwell-part-1/
-1. https://medium.com/power-books/influence-the-psychology-of-persuasion-a-book-summary-7ae0ebf8950f
-1. https://medium.com/leadership-motivation-and-impact/the-power-of-starting-with-why-f8e491392ef8
-1. https://medium.com/@avicennamusings/a-summary-of-principles-by-ray-dalio-612127344eed
-1. https://inside.bwater.com/publications/principles_excerpt
-1. 
+1. [Business Books of the Year](https://en.wikipedia.org/wiki/Financial_Times_and_McKinsey_Business_Book_of_the_Year_Award){:target="_blank"}
+1. [Measure What Matters](https://medium.com/@wadelahring/book-summary-measure-what-matters-by-john-doerr-8e5ab90b5b06){:target="_blank"}
+1. [The Hard Things about Hard Things](https://medium.com/@sam_harris/the-hard-thing-about-hard-things-ben-horowitz-summary-and-review-8013261e1b4c){:target="_blank"}
+1. [Rework](https://medium.com/@Milan__Amin/a-summary-of-rework-change-the-way-you-work-forever-by-david-heinemeier-hansson-and-jason-fried-cf7a0d49c2c8){:target="_blank"}
+1. [21 Laws of Leadership](https://hgimnetwork.org/2015/01/book-summary-the-21-irrefutable-laws-of-leadership-by-john-maxwell-part-1/){:target="_blank"}
+1. [Influence](https://medium.com/power-books/influence-the-psychology-of-persuasion-a-book-summary-7ae0ebf8950f){:target="_blank"}
+1. [Starting with Why](https://medium.com/leadership-motivation-and-impact/the-power-of-starting-with-why-f8e491392ef8){:target="_blank"}
+1. [Principles](https://medium.com/@avicennamusings/a-summary-of-principles-by-ray-dalio-612127344eed){:target="_blank"}
+1. [Principles excerpt](https://inside.bwater.com/publications/principles_excerpt){:target="_blank"}
+1. [Shoe Dog](https://medium.com/swlh/4-valuable-lessons-for-startups-from-reading-shoe-dog-by-phil-knight-the-founder-of-nike-33e07eaf0a1){:target="_blank"}
+1. [Stoicism](https://youtu.be/R9OCA6UFE-0){:target="_blank"}
+1. [Existentialism](https://youtu.be/H_tgqj9MU8M){:target="_blank"}

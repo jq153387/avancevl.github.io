@@ -6,7 +6,8 @@ description: Execution Strategy
 
 ## Customer First
 * Always be in communication with our customers, understanding who they are and what they want. 
-* Making customers happy is always a winning strategy.
+* Making customers happy is always a winning strategy. Listen to everyone, don't listen to anyone.
+* Don’t Get Mad, Get Data. We improve what we measure. Data drives our decision-making.
 
 ## Execute Fast
 * Deliver features and value to our customers constantly; faster than the competition.

@@ -5,7 +5,10 @@ description: Areas of Responsibility
 ---
 
 > 為了確保隱私與透明制度，我們每個團隊成員都有一個綽號，用來公開分享有關工作責任的分配。
+
 > For privacy and transperancy, each of our team members has a nickname that we use to share public posts about work responsibility. 
+
+## 管理分配 Management Responsibilities
 
 | Area | Owner |
 | --- | --- |
@@ -14,7 +17,7 @@ description: Areas of Responsibility
 | Product / Strategy | {{ site.user_d }}, {{ site. user_g }} |
 | Engineering | {{ site.user_g }} |
 | HR / Recruiting / Office | {{ site.user_d }} |
-| Finances / Fundraising / Accounting / Legal / Admin | {{{ site.user_d }}, {{ site.user_g }} | 
+| Finances / Fundraising / Accounting / Legal / Admin | {{ site.user_d }}, {{ site.user_g }} | 
 
 ## 徵才 Recruiting 
 

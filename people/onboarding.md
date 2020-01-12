@@ -30,6 +30,7 @@ description: Onboarding
     - [程式代碼規範]({{ site.baseurl }}/engineering/coding_standards.html){:target="_blank"}
     - [品質管制及測試]({{ site.baseurl }}/engineering/qc_testing.html){:target="_blank"}
 - [線上資源]({{ site.baseurl }}/people/online_resources.html){:target="_blank"}
+- [建立開發系統]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
 
 <br>
 

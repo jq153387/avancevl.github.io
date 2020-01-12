@@ -124,6 +124,8 @@ toc:
   - title: 工程流程 Engineering
     url: /engineering/engineering.html
     subfolderitems:
+      - page: 開發環境 Development Environment
+        url: /engineering/devenv.html
       - page: 工作速率 Velocity of Work
         url: /engineering/velocity_work.html
         subsubfolderitems:

@@ -10,14 +10,14 @@ description: Areas of Responsibility
 
 ## 管理分配 Management Responsibilities
 
-| Area | Owner |
-| --- | --- |
-| Customer Feedback / Support / Interviews | {{ site.user_d }} |
-| Marketing / Sales / Growth | {{ site.user_g }} |
-| Product / Strategy | {{ site.user_d }}, {{ site. user_g }} |
-| Engineering | {{ site.user_g }} |
-| HR / Recruiting / Office | {{ site.user_d }} |
-| Finances / Fundraising / Accounting / Legal / Admin | {{ site.user_d }}, {{ site.user_g }} | 
+| Area | Responsiblities | Owner |
+| --- | --- | --- |
+| Customer | Feedback, support, interviews | {{ site.user_d }} |
+| Growth | Marketing, sales | {{ site.user_g }} |
+| Product | Strategy, TA | {{ site.user_d }}, {{ site. user_g }} |
+| Engineering | QC, Production | {{ site.user_g }} |
+| HR | Recruiting, office | {{ site.user_d }} |
+| Admin | Fundraising, accounting, legal | {{ site.user_d }}, {{ site.user_g }} | 
 
 ## 徵才 Recruiting 
 

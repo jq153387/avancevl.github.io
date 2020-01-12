@@ -11,7 +11,7 @@ description: Daily Scrum Update
 * 在Slack貼：
 
 #### 1. 昨天做了什麼
-#### 2. 今天打算做了什麼
+#### 2. 今天打算做什麼
 #### 3. 什麼卡住你的進度
 
 <br>

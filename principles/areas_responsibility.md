@@ -16,7 +16,7 @@ description: Areas of Responsibility
 | HR / Recruiting / Office | {{ site.user_d }} |
 | Finances / Fundraising / Accounting / Legal / Admin | {{{ site.user_d }}, {{ site.user_g }} | 
 
-## Recruiting 
+## 徵才 Recruiting 
 
 | Asset / Task | Owner |
 | --- | --- |

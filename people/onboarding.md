@@ -25,6 +25,7 @@ description: Onboarding
 - [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
 	- [工作速率]({{ site.baseurl }}/engineering/velocity_work.html){:target="_blank"}
     - [問題追中]({{ site.baseurl }}/engineering/issue_tracking.html){:target="_blank"}
+    - [每天Scrum報告]({{ site.baseurl }}/engineering/daily_scrum.html){:target="_blank"}
     - [產品開發流程]({{ site.baseurl }}/engineering/product_cycle.html){:target="_blank"}
     - [績效評估]({{ site.baseurl }}/engineering/performance_review.html){:target="_blank"}
     - [程式代碼規範]({{ site.baseurl }}/engineering/coding_standards.html){:target="_blank"}

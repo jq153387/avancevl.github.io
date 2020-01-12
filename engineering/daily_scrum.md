@@ -5,6 +5,7 @@ description: Daily Scrum Update
 ---
 
 ### 每天報告規範
+
 * 每天開始工作的時候
 * 中午12點以前必需完成
 * 在Slack貼：

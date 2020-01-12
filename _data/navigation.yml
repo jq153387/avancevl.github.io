@@ -129,6 +129,8 @@ toc:
       - page: 工作速率 Velocity of Work
         url: /engineering/velocity_work.html
         subsubfolderitems:
+          - page: 每天Scrum報告 Daily Scrum Update
+            url: /engineering/daily_scrum.html
           - page: 問題追中 Issue Tracking
             url: /engineering/issue_tracking.html
       - page: 產品開發流程 Product Development Cycle

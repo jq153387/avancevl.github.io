@@ -13,7 +13,7 @@ description: Areas of Responsibility
 | Area | Responsiblities | Owner | Scrum Meetings |
 | --- | --- | --- | -- |
 | Customer | Feedback, support, interviews | {{ site.user_d }} | Mon 12am |
-| Growth | Marketing, sales | {{ site.user_g }} | Mon 11am |
+| Growth | Marketing, sales, channel | {{ site.user_g }} | Mon 11am |
 | Product | Signups, strategy, TA | {{ site.user_d }}, {{ site. user_g }} | Mon 10am, Wed 1pm, Fri 1pm |
 | Engineering | QC, production | {{ site.user_g }} | Wed 1pm |
 | HR | Recruiting, office | {{ site.user_d }} | Fri 3pm |

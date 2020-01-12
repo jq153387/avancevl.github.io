@@ -6,8 +6,9 @@ description: Onboarding Training
 
 當您在入職過程中，我們會提供您相關的資料讓您熟悉工作並快速上手，大致上是以下的步驟：
 
+1. 填寫[背景調查表](https://forms.gle/Heimpw1gFko2k37Z6){:target="_blank"}
 1. 認識你的隊友。
-1. 了解我們的[公司理念]({{site.link_jd_culture}})和所有工作期望。
+1. 熟悉我們的[公司理念]({{site.link_jd_culture}})和所有工作期望。
 1. 工具和環境設置。
 1. 如果是工程師，請檢閱[工程流程]({{ site.link_engineering }})。
 1. 如果您是前端或後端工程師，我們會進行3到6個月的**[全端培訓計劃]({{ site.link_fullstack_training }})**。
@@ -20,8 +21,9 @@ description: Onboarding Training
 
 <br>
 
-When you onboard, you will be given materials to review and go through the following steps:
+When you onboard, you will be given materials to review and complete the following steps:
 
+1. Complete [Reference Check Form](https://forms.gle/Heimpw1gFko2k37Z6){:target="_blank"}
 1. Meet your teammates.
 1. Learn our [Principles]({{ site.link_jd_culture }}) and all work expectations.
 1. Tools and environment setup.

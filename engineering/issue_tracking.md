@@ -42,3 +42,4 @@ description: Issue Tracking
 
 * 一天工作時間是8小時
 * 半天工作時間是4小時
+* **一個Issue最多時間限制2小時**，再長的Issue請分成更細的Issue。

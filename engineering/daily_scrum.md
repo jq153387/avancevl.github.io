@@ -14,6 +14,8 @@ description: Daily Scrum Update
 #### 2. 今天打算做什麼
 #### 3. 什麼卡住你的進度
 
+* 如果有需要的話，會有Zoom的視訊。
+
 <br>
 
 ## 報告例子

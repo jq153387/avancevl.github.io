@@ -14,8 +14,8 @@ description: Areas of Responsibility
 | --- | --- | --- | -- |
 | Customer | Feedback, support, interviews | {{ site.user_d }} | Mon 12am |
 | Growth | Marketing, sales | {{ site.user_g }} | Mon 11am |
-| Product | Strategy, TA | {{ site.user_d }}, {{ site. user_g }} | Mon 10am, Wed 1pm, Fri 1pm |
-| Engineering | QC, Production | {{ site.user_g }} | Wed 1pm |
+| Product | Signups, strategy, TA | {{ site.user_d }}, {{ site. user_g }} | Mon 10am, Wed 1pm, Fri 1pm |
+| Engineering | QC, production | {{ site.user_g }} | Wed 1pm |
 | HR | Recruiting, office | {{ site.user_d }} | Fri 3pm |
 | Admin | Fundraising, accounting, legal | {{ site.user_d }}, {{ site.user_g }} | Mon 9am |
 

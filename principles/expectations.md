@@ -95,10 +95,10 @@ Great expectations create great capabilities.
 * Reflect and be vocally self-critical
 * Part of the innovation process to learn from mistakes
 * When you're wrong, admit it quickly and emphatically
-* It is OK to make mistakes — but it is unacceptable not to identify, analyze, and learn from them
+* It is OK to make mistakes — but it is unacceptable not to identify/recognize it, admit it, analyze it, and learn from it.
 
 ### 19. Have a clear purpose
-* Begin with the end in mind
+* Begin with the end in mind; start with why
 * If you don’t know what you want, you end up with a lot you don’t
 
 ### 20. Learn from disagreements

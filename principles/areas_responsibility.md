@@ -4,11 +4,19 @@ title: 責任分配
 description: Areas of Responsibility
 ---
 
-## 徵才 Recruiting 
+> 為了確保隱私與透明制度，我們每個團隊成員都有一個綽號，用來公開分享有關工作責任的分配。
+> For privacy and transperancy, each of our team members has a nickname that we use to share public posts about work responsibility. 
 
-為了確保隱私與透明制度，我們每個團隊成員都有一個綽號，用來公開分享有關工作責任的分配。
+| Area | Owner |
+| --- | --- |
+| Customer Feedback / Support / Interviews | {{ site.user_d }} |
+| Marketing / Sales / Growth | {{ site.user_g }} |
+| Product / Strategy | {{ site.user_d }}, {{ site. user_g }} |
+| Engineering | {{ site.user_g }} |
+| HR / Recruiting / Office | {{ site.user_d }} |
+| Finances / Fundraising / Accounting / Legal / Admin | {{{ site.user_d }}, {{ site.user_g }} | 
 
-For privacy and transperancy, each of our team members has a nickname that we use to share public posts about work responsibility. 
+## Recruiting 
 
 | Asset / Task | Owner |
 | --- | --- |

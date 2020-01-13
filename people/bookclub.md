@@ -23,4 +23,4 @@ We value constant self learning and improvment. We will share our book club sele
 1. [Be proactive, be purposeful, and prioritize](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People){:target="_blank"}
 1. [Zero to One](https://medium.com/west-stringfellow/zero-to-one-summary-and-review-f927ae6538d1){:target="_blank"}
 1. [Lean Startup](https://en.wikipedia.org/wiki/Lean_startup){:target="_blank"}
-1. [Atomic Habits](https://medium.com/@geekrodion/atomic-habits-by-james-clear-dddd4dc762b9
+1. [Atomic Habits](https://medium.com/@geekrodion/atomic-habits-by-james-clear-dddd4dc762b9){:target="_blank"}

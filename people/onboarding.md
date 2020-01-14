@@ -45,11 +45,17 @@ description: Onboarding
 
 ### 每位員工
 
-1. Gmail
-1. Slack
-1. JIRA
-1. Zoom
+- Gmail
+- Slack
+
+| Group | Workspace |
+| --- | --- |
+| AVL | `avancevl.slack.com` |
+| PerfectScore | `getperfectscore.slack.com` |
+
+- JIRA
+- Zoom
 
 ### 軟體工程師
 
-1. GitLab
+- GitLab

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 補償規範
+title: 補貼規範
 description: Reimbursement Policy
 ---
 
@@ -13,3 +13,5 @@ description: Reimbursement Policy
 * 需要提供收據或收據的照片印本。
 * 車程7天內，必須向公司申請。
 * 公司2週內，會透過轉帳或現金方式補助。
+
+[申請員工補貼](https://forms.gle/DXNpQzenX4Xr8D6n9){: .btn#page-btn}{:target="_blank"}

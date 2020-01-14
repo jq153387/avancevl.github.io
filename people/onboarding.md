@@ -43,19 +43,25 @@ description: Onboarding
 
 ## 建立公司帳號
 
-### 每位員工
+### Email
 
-- Gmail
-- Slack
+主管會提供。
+
+### Slack
+
+已用Email加入了相關workspace。
 
 | Group | Workspace |
 | --- | --- |
 | AVL | `avancevl.slack.com` |
 | PerfectScore | `getperfectscore.slack.com` |
 
-- JIRA
-- Zoom
+### JIRA
 
-### 軟體工程師
+已用Email加入相關JIRA projects。
 
-- GitLab
+### Zoom
+
+### GitLab
+
+已用Email加入相關GitLab group。

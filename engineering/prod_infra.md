@@ -19,6 +19,12 @@ description: Production Infrastructure
 
 # 初期產品MVP開發架構順序
 
+<br>
+
+---
+
+<br>
+
 ## 第一階段：Database-as-a-Service + Lambda Compute Service
 
 ### Database-as-a-Service

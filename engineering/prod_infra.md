@@ -4,7 +4,7 @@ title: 生產架構
 description: Production Infrastructure
 ---
 
-# 目標
+# 架構設計目標
 
 * 最低的開發時間成本。
 	* 工程師開發時間就是金錢，省時間就是省錢。
@@ -17,7 +17,9 @@ description: Production Infrastructure
 
 <br>
 
-# 初期產品MVP開發架構順序
+# 開發架構順序
+
+> **如何用最低成本最快速度開發上線初期產品MVP？**
 
 <br>
 

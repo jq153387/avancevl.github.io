@@ -48,6 +48,8 @@ description: Production Infrastructure
 
 ---
 
+<br>
+
 ## 第二階段：Platform-as-a-Service
 
 * 資料庫需要自己架設及維護
@@ -71,6 +73,8 @@ description: Production Infrastructure
 <br>
 
 ---
+
+<br>
 
 ## 第三階段：Infrastructure-as-a-Service
 

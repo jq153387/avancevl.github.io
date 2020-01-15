@@ -15,7 +15,7 @@ description: Production Infrastructure
 	* 低流量成本。
 	* 高流量成本。
 
-# 初期產品開發架構 Minimum Viable Product（MVP）
+# 初期產品MVP開發架構
 
 ## 第一階段：Database-as-a-Service + Lambda Compute Service
 

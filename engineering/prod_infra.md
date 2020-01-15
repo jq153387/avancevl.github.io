@@ -17,15 +17,15 @@ description: Production Infrastructure
 
 <br>
 
-# 初期產品MVP開發架構
+# 初期產品MVP開發架構順序
 
 ## 第一階段：Database-as-a-Service + Lambda Compute Service
 
 ### Database-as-a-Service
 
-* 不需架設資料庫及維護
-* 不需架設server, linux
-* 不需請DevOps或SRE維護平台
+* 不需架設資料庫及維護。
+* 不需架設server, linux。
+* 不需請DevOps或SRE維護平台。
 
 #### Firebase
 
@@ -55,11 +55,11 @@ description: Production Infrastructure
 
 ## 第二階段：Platform-as-a-Service
 
-* 資料庫需要自己架設及維護
-* 可以使用比較完整的架構（Django, Rails）
-* 商業邏輯不需要分開到Lambda Compute服務（這有好壞）
-* 不需架設server, linux
-* 不需請DevOps或SRE維護平台
+* 資料庫需要自己架設及維護。
+* 可以使用比較完整的架構（Django, Rails）。
+* 商業邏輯不需要分開到Lambda Compute服務（這有好壞）。
+* 不需架設server, linux。
+* 不需請DevOps或SRE維護平台。
 
 | 服務 | 優點 | 缺點 | 決定 |
 | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ description: Production Infrastructure
 #### Heroku
 
 * [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works){:target="_blank"}
-* 工程師文件多
+* 工程師文件資料多，產品成熟。
 
 <br>
 

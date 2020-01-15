@@ -79,7 +79,7 @@ description: Production Infrastructure
 
 ## 第二階段：Platform-as-a-Service
 
-> **如何開始scale MVP**
+> **如何開始容納高流量**
 
 * 資料庫需要自己架設及維護。
 * 可以使用比較完整的架構（Django, Rails）。

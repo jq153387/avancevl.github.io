@@ -18,6 +18,7 @@ description: Onboarding
     - [執行SOP]({{ site.baseurl }}/principles/deliverables.html){:target="_blank"}
     - [對外會議]({{ site.baseurl }}/principles/external_meetings.html){:target="_blank"}
 - [職場性騷擾政策]({{ site.baseurl }}/people/workplace_policy.html){:target="_blank"}
+- [補貼規範]({{ site.baseurl }}/people/reimbursement_policy.html){:target="_blank"}
 - [績效評估]({{ site.baseurl }}/people/general_performance_review.html){:target="_blank"}
 
 ### 軟體工程師

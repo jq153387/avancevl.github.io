@@ -32,6 +32,7 @@ description: Production Infrastructure
 * 不需架設資料庫及維護。
 * 不需架設server, linux。
 * 不需請DevOps或SRE維護平台。
+* 專注在code上面就夠。
 
 #### Firebase
 
@@ -45,6 +46,9 @@ description: Production Infrastructure
 
 * 需要一開始就把商業邏輯分開也是一種成本。
 * 但之後因為商業邏輯已分開了，比較容易叩沖及減低成本。
+* 不需架設server, linux。
+* 不需請DevOps或SRE維護平台。
+* 專注在code上面就夠。
 
 | 服務 | 優點 | 缺點 | 決定 |
 | --- | --- | --- | --- |

@@ -87,6 +87,7 @@ description: Production Infrastructure
 * 商業邏輯不需要分開到Lambda Compute服務（這有好壞）。
 * 不需架設server, linux。
 * 不需請DevOps或SRE維護平台。
+* 如果網頁程式掛掉，服務會直接從新開始，不需有人監視。
 
 | 服務 | 優點 | 缺點 | 決定 |
 | --- | --- | --- | --- |
@@ -110,6 +111,7 @@ description: Production Infrastructure
 
 * 除了買電腦其他基本上全部要自己做。
 * 高流量時最便宜方案。
+* 需要請DevOps或SRE監視系統，增加成本。
 
 | 服務 | 優點 | 缺點 | 決定 |
 | --- | --- | --- | --- |

@@ -83,3 +83,12 @@ description: Production Infrastructure
 
 * 除了買電腦其他基本上全部要自己做。
 * 高流量時最便宜方案。
+
+| 服務 | 優點 | 缺點 | 決定 |
+| --- | --- | --- | --- |
+| AWS EC2 | | | 考慮 |
+| Google Cloud Compute Engine | | | 考慮 |
+| Azure Cloud | | | 考慮 |
+| DigitalOceans | | | 考慮 |
+| Linode | | | 考慮 |
+

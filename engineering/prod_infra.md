@@ -49,6 +49,7 @@ description: Production Infrastructure
 
 ### Lambda Compute Service
 
+* 最基礎的初期產品可能連商業邏輯都不需要。
 * 需要一開始就把商業邏輯分開也是一種成本。
 * 但之後因為商業邏輯已分開了，比較容易叩沖及減低成本。
 * 不需架設server, linux。

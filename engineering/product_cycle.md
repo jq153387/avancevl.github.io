@@ -8,13 +8,13 @@ description: Product Development Cycle
 
 > 我們團隊的產品流程是參考Michael Seibel的演講[**Product Development Cycle**](https://www.youtube.com/watch?v=kzVvjKLdAbk){:target="_blank"}
 
-## Process for Getting Product Out the Door
+## 產品開發流程
 
 1. Release product every 2 weeks.
 1. Someone in charge of product. They are responsible for making sure team meets product goals, and team got product out the door.
 1. KPIs (new content, new users, retained users)
 
-## Product Meeting
+## 產品會議
 
 * Only one meeting, at the beginning of the product development cycle
 * Meeting as long as it took to come to a decision / conclusion
@@ -27,7 +27,7 @@ description: Product Development Cycle
 * Pick the hards first, then pick mediums, then pick easies
 * Spec ideas out.
 
-## Product Person
+## 產品專員
 
 The product manager is responsible for:
 
@@ -38,6 +38,6 @@ The product manager is responsible for:
 
 The focus after the product meeting is to get product out the door, nothing else.
 
-## Testing
+## 產品測試
 
 * Testing requirements are part of each product cycle's list

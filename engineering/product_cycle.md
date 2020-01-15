@@ -4,7 +4,9 @@ title: 產品開發流程
 description: Product Development Cycle
 ---
 
-Much our of product cycle is inspired by Michael Seibel on [**Product Development Cycle**](https://www.youtube.com/watch?v=kzVvjKLdAbk){:target="_blank"}
+> **最短的產品開發巡迴是兩週：** 每兩週無論發生什麼事新的產品版本一定要上線。
+
+> 我們團隊的產品流程是參考Michael Seibel的演講[**Product Development Cycle**](https://www.youtube.com/watch?v=kzVvjKLdAbk){:target="_blank"}
 
 ## Process for Getting Product Out the Door
 

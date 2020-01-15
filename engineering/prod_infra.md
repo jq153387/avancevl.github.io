@@ -56,7 +56,7 @@ description: Production Infrastructure
 ## 第二階段：Platform-as-a-Service
 
 * 資料庫需要自己架設及維護
-* 可以使用比較完整的架構（Djano, Rails）
+* 可以使用比較完整的架構（Django, Rails）
 * 商業邏輯不需要分開到Lambda Compute服務（這有好壞）
 * 不需架設server, linux
 * 不需請DevOps或SRE維護平台

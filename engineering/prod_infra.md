@@ -64,9 +64,9 @@ description: Production Infrastructure
 
 ### Analytics
 
-1. Stick Engine - 客戶使用者retention
-1. Virality Engine - 客戶使用者compound effect
-1. Paid Engine - 客戶使用者付費意願
+1. Stickiness KPI - 客戶使用者retention
+1. Virality KPI - 客戶使用者compound effect
+1. Paid KPI - 客戶使用者付費意願
 
 * Google Analytics
 * Firebase

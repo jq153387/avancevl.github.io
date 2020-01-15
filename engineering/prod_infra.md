@@ -15,6 +15,8 @@ description: Production Infrastructure
 	* 低流量成本。
 	* 高流量成本。
 
+<br>
+
 # 初期產品MVP開發架構
 
 ## 第一階段：Database-as-a-Service + Lambda Compute Service
@@ -42,6 +44,10 @@ description: Production Infrastructure
 | Google App Engine | 流量多時便宜 | | 考慮 |
 | Azure Functions | 流量多時便宜 | | 考慮 |
 
+<br>
+
+---
+
 ## 第二階段：Platform-as-a-Service
 
 * 資料庫需要自己架設及維護
@@ -61,6 +67,10 @@ description: Production Infrastructure
 
 * [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works){:target="_blank"}
 * 工程師文件多
+
+<br>
+
+---
 
 ## 第三階段：Infrastructure-as-a-Service
 

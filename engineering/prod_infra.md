@@ -29,6 +29,8 @@ description: Production Infrastructure
 
 ## 第一階段：Database-as-a-Service + Lambda Compute Service
 
+> **MVP Stack**
+
 ### Database-as-a-Service
 
 * 不需架設資料庫及維護。
@@ -40,6 +42,7 @@ description: Production Infrastructure
 
 * [Introduction to Firebase](https://hackernoon.com/introduction-to-firebase-218a23186cd7){:target="_blank"}
 * [Progressive Web Apps](https://firebase.google.com/docs/projects/pwa){:target="_blank"}
+* [FireShip.io](https://fireship.io/){:target="_blank"}
 * Json的No-SQL資料庫，如果需要SQL資料庫就麻煩了
 * OAuth已經內建
 * 有內建Analytics, Chat
@@ -58,6 +61,15 @@ description: Production Infrastructure
 | AWS Lambda | AWS環境，流量多時便宜 | | 考慮 |
 | Google App Engine | 流量多時便宜 | | 考慮 |
 | Azure Functions | 流量多時便宜 | | 考慮 |
+
+### Analytics
+
+1. Stick Engine - 客戶使用者retention
+1. Virality Engine - 客戶使用者compound effect
+1. Paid Engine - 客戶使用者付費意願
+
+* Google Analytics
+* Firebase
 
 <br>
 

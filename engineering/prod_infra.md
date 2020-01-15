@@ -79,6 +79,8 @@ description: Production Infrastructure
 
 ## 第二階段：Platform-as-a-Service
 
+> **如何開始scale MVP**
+
 * 資料庫需要自己架設及維護。
 * 可以使用比較完整的架構（Django, Rails）。
 * 商業邏輯不需要分開到Lambda Compute服務（這有好壞）。

@@ -37,9 +37,12 @@ description: Production Infrastructure
 
 ### Lambda Compute Service
 
+* 需要一開始就把商業邏輯分開也是一種成本。
+* 但之後因為商業邏輯已分開了，比較容易叩沖及減低成本。
+
 | 服務 | 優點 | 缺點 | 決定 |
 | --- | --- | --- | --- |
-| Google Coud Functions | 跟Firebase結合容易 | 流量多時很快就很貴 | 考慮 |
+| Google Coud Functions | 跟Firebase結合容易 |  | 考慮 |
 | AWS Lambda | AWS環境，流量多時便宜 | | 考慮 |
 | Google App Engine | 流量多時便宜 | | 考慮 |
 | Azure Functions | 流量多時便宜 | | 考慮 |

@@ -42,9 +42,9 @@ prettier --single-quote --write "src/**/*.js"
 
 ## 第二步驟：使用Husky加Lint-Staged來自動化Prettier的Git Hooks
 
-**Husky**用來吧githooks簡化，在代碼加入version control之前跑個subroutine。
+[**Husky**](https://github.com/typicode/husky){:target="_blank"}用來吧githooks簡化，在代碼加入version control之前跑個subroutine。
 
-**Lint-Staged**及Husky需要一起用。 會只跑在‘staged’或‘added’的Git branch。這樣prettier就不用每次跑你整個專案的代碼，只需要跑有更改過或新加的檔案。
+[**Lint-Staged**](https://github.com/okonet/lint-staged){:target="_blank"}及Husky需要一起用。 會只跑在‘staged’或‘added’的Git branch。這樣prettier就不用每次跑你整個專案的代碼，只需要跑有更改過或新加的檔案。
 
 ### 安裝
 ```
@@ -72,7 +72,7 @@ yarn add husky lint-staged --dev
 }
 ```
 
-## 第三步驟：Eslint代碼警察
+## 第三步驟：ESLint代碼警察
 
 Linting是可以結合任何程式語言的小工具。可以避免工程師團隊行程不好的習慣。
 
@@ -85,7 +85,7 @@ First, install ESLint locally. Again, I don’t like installing it globally sinc
 yarn add eslint --dev
 ```
 
-Integrate ESLint with your code editor. For VS Code install the ESLint Extension.
+Integrate ESLint with your code editor. For VS Code install the [ESLint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint){:target="_blank"}.
 
 Follow the extension documentation. It will use your ESLint settings defined in your project to provide feedback when your code has errors. When looking for a configuration it looks first in your project, then globally.
 
@@ -101,13 +101,13 @@ There are many preconfigured style guides that integrate with ESLint:
 * [Airbnb Sytle Guide](https://github.com/airbnb/javascript){:target="_blank"}
 
 
-## 第四步驟：Eslint和React.js的結合
+## 第四步驟：ESLint和React.js的結合
 
 The majority of my community likes React so this section is specific to it. Sorry Angular guys.
 
-Since we only care about code-quality rules, we don’t need any of the robust configurations above. Lucky for us, Facebook created a set of rules without devoid of styling. The react-app configuration is hidden in the depths of Facebook’s create-react-app repository. Best part: it only enforces code quality. Prettier should marry this configuration.
+Since we only care about code-quality rules, we don’t need any of the robust configurations above. Lucky for us, Facebook created a set of rules without devoid of styling. The react-app configuration is hidden in the depths of Facebook’s [create-react-app](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app){:target="_blank"} repository. Best part: it only enforces code quality. Prettier should marry this configuration.
 
-Install the plugins & extensions
+### 安裝
 ```
 yarn add --dev eslint-config-react-app babel-eslint eslint-plugin-flowtype eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 ```
@@ -120,12 +120,15 @@ Adding the extentions and plugins to ‘.eslintrc.json’
 }
 ```
 
-## 第五步驟：Configure ESLint to play nice with Prettier
+## 第五步驟：ESLint和Prettier的結合
 
 Since we have rules coming from ESLint and Prettier, we need to make sure that we don’t have rule conflicts. This is especially important if you want to use Airbnb or Standard styling.
 
 eslint-config-prettier: Turns off all rules that are unnecessary or might conflict with prettier.
+```
 yarn add eslint-config-prettier --dev
+```
+
 Now add the plugins and rules to your .eslintrc:
 ```
 {
@@ -137,9 +140,9 @@ Now add the plugins and rules to your .eslintrc:
 }
 ```
 
-Check out the eslint-config-prettier documentation for more details.
+Check out the [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier){:target="_blank"} documentation for more details.
 
-## 第六步驟： Other personal configurations
+## 第六步驟： 其他安裝
 
 Add the prettier ESLint plugin to see formatting errors。
 
@@ -159,7 +162,11 @@ Now add the plugins and rules to your .eslintrc:
   }
 }
 ```
-To further configure this see the eslint-plugin-prettier documentation
+To further configure this see the [eslint-plugin-prettie](https://github.com/prettier/eslint-plugin-prettier){:target="_blank"} documentation
+
+### Other notable libraries to use with prettier:
+* [prettier-eslint:](https://github.com/prettier/prettier-eslint){:target="_blank"} formats code according to your ESLint rules. Use the eslint — fix instead. Prettier improves this functionality with this tool.
+* [prettier-standard:](https://github.com/sheerun/prettier-standard){:target="_blank"} formats code using standard rules. Some people like standard. This helps prettier integrate with it.
 
 <br>
 

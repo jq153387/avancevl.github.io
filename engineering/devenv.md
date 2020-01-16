@@ -16,7 +16,7 @@ description: Development Environment
 
 ## 代碼格式輔助工具
 
-[前往代碼格式規範及工具解說]({{ site.baseurl }}/engineering/code_styles.html){:target="_blank"}
+[前往代碼格式規範及工具解說]({{ site.baseurl }}/engineering/code_styles.html)
 
 <br>
 

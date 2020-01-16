@@ -10,6 +10,8 @@ description: Coding Standards
 * **當程式代碼容易閱讀開發時間會自然縮短。**比較容易讀懂程式在做什麼。
 * **提高程式效能。**JavaScript有時後是個蠻奇怪的語言。代碼格式一致會讓效能提高。
 
+<br>
+
 # 代碼格式自動檢查工具
 
 | 工具 | 用途 |
@@ -157,6 +159,8 @@ Now add the plugins and rules to your .eslintrc:
 }
 ```
 To further configure this see the eslint-plugin-prettier documentation
+
+<br>
 
 # 格式規範 Style Guides
 

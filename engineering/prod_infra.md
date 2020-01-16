@@ -121,3 +121,13 @@ description: Production Infrastructure
 | DigitalOceans | | | 考慮 |
 | Linode | | | 考慮 |
 
+<br>
+
+---
+
+<br>
+
+# 歡迎建議
+
+如果有其他對生產架構看法或建議，請由[git issue]({{ site.github.repository_url }}/issues/new)分享，謝謝！
+

@@ -97,13 +97,11 @@ Create the ‘.eslintrc.json’ to define the project’s eslint settings.
 //Note: you may also want to add a .eslintignore . It works just like a .gitignore
 ```
 
-There are many preconfigured style guides that integrate with ESLint:
+第三方直接跟ESLint建立好的代碼格式：
 * [Airbnb Sytle Guide](https://github.com/airbnb/javascript){:target="_blank"}
 
 
 ## 第四步驟：ESLint和React.js的結合
-
-The majority of my community likes React so this section is specific to it. Sorry Angular guys.
 
 Since we only care about code-quality rules, we don’t need any of the robust configurations above. Lucky for us, Facebook created a set of rules without devoid of styling. The react-app configuration is hidden in the depths of Facebook’s [create-react-app](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app){:target="_blank"} repository. Best part: it only enforces code quality. Prettier should marry this configuration.
 
@@ -122,14 +120,14 @@ Adding the extentions and plugins to ‘.eslintrc.json’
 
 ## 第五步驟：ESLint和Prettier的結合
 
-Since we have rules coming from ESLint and Prettier, we need to make sure that we don’t have rule conflicts. This is especially important if you want to use Airbnb or Standard styling.
+因為格式規範會從ESLint及Prettier出來，我們需要確定沒有conflict。因為我們用Airbnb的規範，有conflict的可能性更高。
 
 eslint-config-prettier: Turns off all rules that are unnecessary or might conflict with prettier.
 ```
 yarn add eslint-config-prettier --dev
 ```
 
-Now add the plugins and rules to your .eslintrc:
+把plugin和rules加入.eslintrc:
 ```
 {
   "extends": [
@@ -144,13 +142,13 @@ Check out the [eslint-config-prettier](https://github.com/prettier/eslint-config
 
 ## 第六步驟： 其他安裝
 
-Add the prettier ESLint plugin to see formatting errors。
+安裝prettier ESLint plugin來看代碼裡的formatting errors。
 
-eslint-plugin-prettier gives you the ability to see feedback in your code editor when styling is incorrect. It’s not important, but some people like to see that.
+eslint-plugin-prettier可以讓你在code editor裡直接看的你的formatting errors。在碰到git之前就知道formatting error。
 ```
 yarn add eslint-plugin-prettier --dev
 ```
-Now add the plugins and rules to your .eslintrc:
+把plugin和rules加入.eslintrc:
 ```
 // .eslinrc.json
 {
@@ -164,7 +162,8 @@ Now add the plugins and rules to your .eslintrc:
 ```
 To further configure this see the [eslint-plugin-prettie](https://github.com/prettier/eslint-plugin-prettier){:target="_blank"} documentation
 
-### Other notable libraries to use with prettier:
+### 其他輔助Prettier的小程式
+
 * [prettier-eslint:](https://github.com/prettier/prettier-eslint){:target="_blank"} formats code according to your ESLint rules. Use the eslint — fix instead. Prettier improves this functionality with this tool.
 * [prettier-standard:](https://github.com/sheerun/prettier-standard){:target="_blank"} formats code using standard rules. Some people like standard. This helps prettier integrate with it.
 

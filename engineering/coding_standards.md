@@ -25,39 +25,39 @@ description: Coding Standards
 
 [Prettier GitHub Repo & Docs](https://github.com/prettier/prettier){:target="_blank"}
 
-Prettier is an opinionated code formatter that will reprint your entire codebase so it conforms to your styling preferences. Once installed, you don’t ever have to think about styling again. The best part is it just works! You can push a button and all your code instantly looks professional. The logic lives in your package.json so no hounding teammates to install linters and githooks! Woohoo!! Lets get to it:
+Prettier會依照指定的規範把你的代碼全部從新整合。當你安裝後就不用在考慮代碼規範了。安裝在package.json裡所以不用一直提醒團員安裝。
 
 ### 安裝
 ```
 yarn add prettier --dev
 ```
-Personally, I wouldn’t install it globally. It makes more sense to add it where you need it. Add it on a per project basis.
+建議針對專案安裝。
 
 ### 使用
 
-Once installed an NPM script can be created to use the CLI. Here is a very basic script that formats your code, with a single rule change:
+用這行代碼來整合你的代碼格式。
 ```
 prettier --single-quote --write "src/**/*.js"
 ```
 
 ## 第二步驟：使用Husky加Lint-Staged來自動化Prettier的Git Hooks
 
-**Husky** simplifies githooks, running a subroutine before adding to version control.
+**Husky**用來吧githooks簡化，在代碼加入version control之前跑個subroutine。
 
-**Lint-Staged** and Husky go together like peas and carrots. It creates a script run against files that are ‘staged’ or ‘added’ in Git. Now prettier doesn’t need to parse your entire codebase; only the files that have changed.
+**Lint-Staged**及Husky需要一起用。 會只跑在‘staged’或‘added’的Git branch。這樣prettier就不用每次跑你整個專案的代碼，只需要跑有更改過或新加的檔案。
 
 ### 安裝
 ```
 yarn add husky lint-staged --dev
 ```
 
-Add the precommit script to your package.json.
+加precommit script到你的package.json。
 ```
 "scripts": {
     "precommit": "lint-staged"
 },
 ```
-The lint-stage script needs to be declared in your package.json. I left the precommit script in the example below to see the depth of the “lint-staged” script and how they work together.
+要確保lint-stage script也加入你的package.json。
 ```
 {
   "scripts": {
@@ -71,11 +71,10 @@ The lint-stage script needs to be declared in your package.json. I left the prec
   }
 }
 ```
-Note: There may be some formatting rules that you may want to change. For instance, I like single quotes and trailing commas after all my object properties. If you want to get weird, the prettier docs list all the possible options to add to your script.
 
 ## 第三步驟：Eslint代碼警察
 
-Linting is a vital tool in any programming language. When learning to code, it can prevent bad habits from forming.
+Linting是可以結合任何程式語言的小工具。可以避免工程師團隊行程不好的習慣。
 
 ESLint is a popular tool for javascript developers. One great advantage; it is highly configurable. Even though opinionated libraries can be easier, ESLint’s customizability enables it to play nice with others. If you aren’t familiar with ESLint there are a lot of resources out there and their website has some really great documentation.
 
@@ -87,7 +86,9 @@ yarn add eslint --dev
 ```
 
 Integrate ESLint with your code editor. For VS Code install the ESLint Extension.
+
 Follow the extension documentation. It will use your ESLint settings defined in your project to provide feedback when your code has errors. When looking for a configuration it looks first in your project, then globally.
+
 Create the ‘.eslintrc.json’ to define the project’s eslint settings.
 ```
 // run this command in the terminal:
@@ -100,7 +101,7 @@ There are many preconfigured style guides that integrate with ESLint:
 * [Airbnb Sytle Guide](https://github.com/airbnb/javascript){:target="_blank"}
 
 
-## 第四步驟：Configuring ESLint to bend to our will (with React)
+## 第四步驟：Eslint和React.js的結合
 
 The majority of my community likes React so this section is specific to it. Sorry Angular guys.
 

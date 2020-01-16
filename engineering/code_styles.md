@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 程式代碼規範
-description: Coding Standards
+description: Code Styles
 ---
 
 # 程式代碼規範的重要性
@@ -182,25 +182,3 @@ To further configure this see the [eslint-plugin-prettie](https://github.com/pre
 ## 例外格式
 
 * tab一定要用space取代。
-
-<br>
-
----
-
-<br>
-
-# 代碼審核 Code Review
-
-* Code reviews at done **BEFORE** the code is merged into main branch via a pull request.
-* An engineer's direct manager should be added to **every pull request**.
-* Code reviews are completed at the reviewer's own time.
-* All reviewer's must approve before pull request can be approved.
-
-<br>
-
-# 代碼審核的重要性
-
-* Committers are motivated to write better code knowing if someone will look at it.
-* Learning and sharing knowledge on how to write better code.
-* Consistency in design and coding style.
-* Catching bugs, anti-patterns, and design flaws early.

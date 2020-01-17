@@ -4,9 +4,12 @@ title: 前端架構
 description: Front-End Stack
 ---
 
-| 前端架構 | **React.js, ReactNative** |
+| 前端畫面架構 | **React.js, ReactNative** |
+| 前端持續性資料架構 | *Redux** |
 
 <br>
+
+# 前端畫面架構
 
 ## React.js及Vue.js的共同優點
 
@@ -47,3 +50,15 @@ description: Front-End Stack
 ## 主要考量因數
 
 1. ReactiveNative可以很快的開發iOS和Android的app
+
+
+# 前端持續性資料架構
+
+## Redux的意義
+
+1. 跟React架構的結合非常密切
+1. 前端一定會需要維護持續性資料
+1. 一開始持續性資料就放在很清楚切割的Redux模組
+1. 商業邏輯可以放在Redux模組裡
+1. 一開始可能會有些開發成本，但之後程式比較好整理
+1. 純畫面模組也比較好測試Unit Test

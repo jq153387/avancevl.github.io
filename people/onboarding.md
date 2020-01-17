@@ -50,7 +50,8 @@ description: Onboarding
 
 ### Slack
 
-已用Email加入了相關workspace。
+* 要求每人都下載Slack App到手機上。
+* 已用Email加入了相關workspace。
 
 | Group | Workspace |
 | --- | --- |
@@ -59,7 +60,8 @@ description: Onboarding
 
 ### JIRA
 
-已用Email加入相關JIRA projects。
+* 要求每人都下載JIRA App到手機上。
+* 已用Email加入相關JIRA projects。
 
 ### Zoom
 

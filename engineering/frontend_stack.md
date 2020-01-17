@@ -4,7 +4,7 @@ title: 前端架構
 description: Front-End Stack
 ---
 
-| 前端架構 | React.js, ReactNative |
+| 前端架構 | **React.js, ReactNative** |
 
 <br>
 

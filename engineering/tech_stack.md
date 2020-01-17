@@ -4,7 +4,7 @@ title: 技術架構
 description: Tech Stack
 ---
 
-我們的技術架構：
+## 技術架構
 
 | 數據更新時間 | 12月2019年 |
 

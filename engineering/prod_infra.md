@@ -38,6 +38,11 @@ description: Production Infrastructure
 * 不需請DevOps或SRE維護平台。
 * 專注在code上面就夠。
 
+| 服務 | 優點 | 缺點 | 決定 |
+| --- | --- | --- | --- |
+| Google Firebase | 最多人用 |  | 考慮 |
+| AWS Amplify | AWS環境，流量多時便宜 | | 考慮 |
+
 #### Firebase
 
 * [Introduction to Firebase](https://hackernoon.com/introduction-to-firebase-218a23186cd7){:target="_blank"}
@@ -46,6 +51,11 @@ description: Production Infrastructure
 * Json的No-SQL資料庫，如果需要SQL資料庫就麻煩了
 * OAuth已經內建
 * 有內建Analytics, Chat
+
+#### AWS Amplify
+
+* [Introduction to Amplify](https://aws.amazon.com/amplify/){:target="_blank"}
+
 
 ### Lambda Compute Service
 

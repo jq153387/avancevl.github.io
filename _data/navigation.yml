@@ -131,6 +131,8 @@ toc:
         subsubfolderitems:
           - page: 生產架構 Production Infrastructure
             url: /engineering/prod_infra.html
+          - page: 使用者分析 User Analytics
+            url: /engineering/analytics.html
           - page: 前端架構 Front-End Stack
             url: /engineering/frontend_stack.html
           - page: 開發環境 Development Environment

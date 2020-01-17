@@ -126,10 +126,14 @@ toc:
   - title: 工程流程 Engineering
     url: /engineering/engineering.html
     subfolderitems:
-      - page: 生產架構 Production Infrastructure
-        url: /engineering/prod_infra.html
-      - page: 開發環境 Development Environment
-        url: /engineering/devenv.html
+      - page: 技術架構 Tech Stack
+        url: /engineering/tech_stack.html
+          - page: 生產架構 Production Infrastructure
+            url: /engineering/prod_infra.html
+          - page: 前端架構 Front-End Stack
+            url: /engineering/frontend_stack.html
+          - page: 開發環境 Development Environment
+            url: /engineering/devenv.html
       - page: 工作速率 Velocity of Work
         url: /engineering/velocity_work.html
         subsubfolderitems:

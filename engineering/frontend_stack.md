@@ -12,15 +12,15 @@ description: Front-End Stack
 
 其實選擇使用Vue.js或是React.js不是那麼容易。
 
-#### Virtual DOM
+#### 虛擬DOM Virtual DOM
 
 當有需要更新畫面，只需更新一部分。這會省時間和提高效率。
 
-#### Component-based UI development
+#### 另件組合前端開發 Component-based UI Development
 
 把前端切成可以重複使用的components，提高開發前端的效能和數度。
 
-#### 針對前端
+#### 針對前端 Front-end Focused
 
 這些架構會要求開發者一開始就把前後端分離。
 

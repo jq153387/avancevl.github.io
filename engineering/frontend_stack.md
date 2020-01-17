@@ -5,7 +5,7 @@ description: Front-End Stack
 ---
 
 | 前端畫面架構 | **React.js, ReactNative** |
-| 前端持續性資料架構 | *Redux** |
+| 前端持續性資料架構 | **Redux** |
 
 <br>
 

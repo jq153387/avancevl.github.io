@@ -57,7 +57,7 @@ description: Onboarding
 
 | Group | Workspace |
 | --- | --- |
-<!-- | AVL | `avancevl.slack.com` | -->
+| AVL | `avancevl.slack.com` |
 | PerfectScore | `getperfectscore.slack.com` |
 
 ### JIRA

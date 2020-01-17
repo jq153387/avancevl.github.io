@@ -31,7 +31,7 @@ Prettier會依照指定的規範把你的代碼全部從新整合。當你安裝
 ```
 yarn add prettier --dev
 ```
-建議針對專案安裝。
+建議針對專案安裝，不要安裝到全系統。
 
 ### 使用
 
@@ -74,22 +74,18 @@ yarn add husky lint-staged --dev
 
 ## 第三步驟：ESLint代碼警察
 
-Linting是可以結合任何程式語言的小工具。可以避免工程師團隊行程不好的習慣。
-
-ESLint is a popular tool for javascript developers. One great advantage; it is highly configurable. Even though opinionated libraries can be easier, ESLint’s customizability enables it to play nice with others. If you aren’t familiar with ESLint there are a lot of resources out there and their website has some really great documentation.
+Linting是可以結合任何程式語言的小工具。可以避免工程師團隊行程不好的習慣。ESLint是個很有彈性客製化的JavaScript工具，跟其他工具結合通常蠻容易。
 
 ### 安裝
 
-First, install ESLint locally. Again, I don’t like installing it globally since I have to install all the plugins globally too. It also ensures the latest versions are being used.
+建議針對專案安裝，不要安裝到全系統。
 ```
 yarn add eslint --dev
 ```
 
-Integrate ESLint with your code editor. For VS Code install the [ESLint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint){:target="_blank"}.
+把ESLint結合到你的code editor，VC Code用者下載[ESLint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint){:target="_blank"}.
 
-Follow the extension documentation. It will use your ESLint settings defined in your project to provide feedback when your code has errors. When looking for a configuration it looks first in your project, then globally.
-
-Create the ‘.eslintrc.json’ to define the project’s eslint settings.
+建立‘.eslintrc.json’來控制ESLint的設定。
 ```
 // run this command in the terminal:
 ./node_modules/.bin/eslint --init
@@ -103,14 +99,15 @@ Create the ‘.eslintrc.json’ to define the project’s eslint settings.
 
 ## 第四步驟：ESLint和React.js的結合
 
-Since we only care about code-quality rules, we don’t need any of the robust configurations above. Lucky for us, Facebook created a set of rules without devoid of styling. The react-app configuration is hidden in the depths of Facebook’s [create-react-app](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app){:target="_blank"} repository. Best part: it only enforces code quality. Prettier should marry this configuration.
+Facebook有為React專門設立一些設定ESLint的功能[create-react-app](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app){:target="_blank"}。這個工具只會設定代碼規範。
 
 ### 安裝
 ```
 yarn add --dev eslint-config-react-app babel-eslint eslint-plugin-flowtype eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 ```
-For information on each of these configurations, you can google them to see all the rules.
-Adding the extentions and plugins to ‘.eslintrc.json’
+如果想知道每個規範的纖細資料，可以問Google。
+
+把plugin和rules加入`.eslintrc.json`
 ```
 {
   "extends": ["react-app", "plugin:jsx-a11y/recommended"],
@@ -122,7 +119,7 @@ Adding the extentions and plugins to ‘.eslintrc.json’
 
 因為格式規範會從ESLint及Prettier出來，我們需要確定沒有conflict。因為我們用Airbnb的規範，有conflict的可能性更高。
 
-eslint-config-prettier: Turns off all rules that are unnecessary or might conflict with prettier.
+eslint-config-prettier: 幫忙把全部可能跟prettier衝突的格式規範找出來。
 ```
 yarn add eslint-config-prettier --dev
 ```

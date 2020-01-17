@@ -46,16 +46,18 @@ description: Onboarding
 
 ### Email
 
-主管會提供。
+公司會提供。
+* 要求每人都下載Gmail app到手機上。
+* 要求每人都下載Google Calendar到手機上。
 
 ### Slack
 
-* 要求每人都下載Slack App到手機上。
+* 要求每人都下載Slack app到手機與電腦上。
 * 已用Email加入了相關workspace。
 
 | Group | Workspace |
 | --- | --- |
-| AVL | `avancevl.slack.com` |
+<!-- | AVL | `avancevl.slack.com` | -->
 | PerfectScore | `getperfectscore.slack.com` |
 
 ### JIRA
@@ -64,6 +66,7 @@ description: Onboarding
 * 已用Email加入相關JIRA projects。
 
 ### Zoom
+* 要求每人都下載JIRA App到手機上。
 
 ### GitLab
 

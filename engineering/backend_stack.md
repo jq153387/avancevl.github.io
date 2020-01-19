@@ -13,6 +13,7 @@ description: Back-End Stack
 1. 使用JavaScript
 1. 前後端工程師使用語言一致
 1. 因為前後端都是JavaScript，如果需要把商業邏輯從後端搬到前端或從前端搬到後端容易
+1. 因為Firebase的限制，可能有些簡單商業邏輯需要搬到前端
 
 <br>
 
@@ -27,3 +28,4 @@ description: Back-End Stack
 ## 主要考量因數
 
 1. 因為前後端都是JavaScript，如果需要把商業邏輯從後端搬到前端或從前端搬到後端容易
+1. 因為Firebase的限制，可能有些簡單商業邏輯需要搬到前端

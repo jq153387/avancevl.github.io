@@ -123,6 +123,8 @@ toc:
         url: /recruit/students.html
       - page: 推薦獎金 Referral Program
         url: /recruit/referral.html
+      - page: 申請數據 Application Data
+        url: /recruit/application_data.html
   - title: 工程流程 Engineering
     url: /engineering/engineering.html
     subfolderitems:

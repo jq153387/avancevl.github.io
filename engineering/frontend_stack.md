@@ -30,6 +30,8 @@ description: Front-End Stack
 
 <br>
 
+---
+
 ## React.js優點
 
 1. 比較多工程師有經驗
@@ -39,6 +41,8 @@ description: Front-End Stack
 
 <br>
 
+---
+
 ## Vue.js優點
 
 1. 上手很快，新手比較容易學習
@@ -47,6 +51,23 @@ description: Front-End Stack
 1. 不需要用JSX，支持傳統HTML templates
 
 <br>
+
+---
+
+## Pixi.js
+
+* [The HTML5 Creation Engine](https://www.pixijs.com/){:target="_blank"}
+
+## Canvas.js
+
+* [Beautiful HTML5 JavaScript Charts](https://canvasjs.com/){:target="_blank"}
+
+
+## D3.js
+
+* [Data-Driven Documents](https://d3js.org/){:target="_blank"}
+
+---
 
 ## 主要考量因數
 

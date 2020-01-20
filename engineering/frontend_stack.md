@@ -32,23 +32,36 @@ description: Front-End Stack
 
 ---
 
-## React.js優點
+## React.js
+
+### 優點
 
 1. 比較多工程師有經驗
 1. 很多第三方的package可以直接拿來套用
 1. Facebook和其他很大的公司有在支持
 1. ReactiveNative可以很快的開發iOS和Android的app
 
+### 缺點
+
+1. 比Vue.js還難學
+1. 只用JSX，對大部分工程師比HTML templates還難上手
+
 <br>
 
 ---
 
-## Vue.js優點
+## Vue.js
+
+### 優點
 
 1. 上手很快，新手比較容易學習
 1. 文件（中文）寫的不錯
 1. 架構比較簡單輕便
 1. 不需要用JSX，支持傳統HTML templates
+
+### 缺點
+
+1. 缺乏類似ReactNative手機架構
 
 <br>
 

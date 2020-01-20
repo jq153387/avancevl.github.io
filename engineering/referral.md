@@ -4,6 +4,10 @@ title: 轉介架構
 description: Referral
 ---
 
+| 轉介架構 | Firebase |
+
+<br>
+
 ## 參考架構
 
 * [Voucherify](https://www.voucherify.io/pricing){:target="_blank"}

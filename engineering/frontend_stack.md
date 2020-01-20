@@ -7,6 +7,7 @@ description: Front-End Stack
 | 前端畫面架構 | **React** |
 | 手機前端畫面架構 | **ReactNative** |
 | 前端持續性資料架構 | **Redux** |
+| 前端表格架構 | **Chart.js** |
 
 <br>
 

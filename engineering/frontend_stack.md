@@ -54,26 +54,37 @@ description: Front-End Stack
 
 ---
 
+## 主要考量因數
+
+1. ReactiveNative可以很快的開發iOS和Android的app
+
+<br>
+<br>
+
+# 前端HTML5架構
+
 ## Pixi.js
 
 * [The HTML5 Creation Engine](https://www.pixijs.com/){:target="_blank"}
 
+<br>
+
+---
 
 ## Canvas.js
 
 * [Beautiful HTML5 JavaScript Charts](https://canvasjs.com/){:target="_blank"}
 
+<br>
+
+---
 
 ## D3.js
 
 * [Data-Driven Documents](https://d3js.org/){:target="_blank"}
 
----
-
-## 主要考量因數
-
-1. ReactiveNative可以很快的開發iOS和Android的app
-
+<br>
+<br>
 
 # 前端持續性資料架構
 

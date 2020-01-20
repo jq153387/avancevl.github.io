@@ -19,6 +19,8 @@ description: Back-End Stack
 
 <br>
 
+---
+
 ## Django
 
 ### 優點
@@ -28,6 +30,8 @@ description: Back-End Stack
 1. 使用Python，簡單容易上手語言
 
 <br>
+
+---
 
 ## Rails
 
@@ -42,6 +46,8 @@ description: Back-End Stack
 1. 很多"magic"
 
 <br>
+
+---
 
 ## GraphQL
 
@@ -61,6 +67,8 @@ description: Back-End Stack
 	1. [HN Discuss: Why use GraphQL, good and bad reasons](https://news.ycombinator.com/item?id=17830235){:target="_blank"}
 
 <br>
+
+---
 
 ## 主要考量因數
 

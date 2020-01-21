@@ -4,7 +4,7 @@ title: 工程師入職流程
 description: Engineer Onboarding
 ---
 
-## 工程師規範和流程
+# 工程師規範和流程
 
 - [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
     - Stack [技術架構]({{ site.baseurl }}/engineering/tech_stack.html){:target="_blank"}
@@ -27,3 +27,19 @@ description: Engineer Onboarding
 - [建立開發系統]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
 
 <br>
+
+---
+
+<br>
+
+# 必須熟悉語言及架構
+
+| 網頁語言 | HTML, CSS |
+| 程式語言 | JavaScript |
+| 前端畫面架構 | React |
+| 手機前端畫面架構 | ReactNative |
+| 前端持續性資料架構 | Redux |
+| 前端表格架構 | Chart.js |
+| 後端架構 | Node |
+| 後端網頁架構 | Express.js |
+| 資料庫 | Firebase |

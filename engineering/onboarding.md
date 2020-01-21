@@ -36,11 +36,11 @@ description: Engineer Onboarding
 
 | 網頁語言 | HTML, CSS |
 | 程式語言 | JavaScript |
-| 前端畫面架構 | React |
+| 前端畫面架構 | React.js |
 | 手機前端畫面架構 | ReactNative |
 | 前端持續性資料架構 | Redux |
 | 前端表格架構 | Chart.js |
-| 後端架構 | Node |
+| 後端架構 | Node.js |
 | 後端網頁架構 | Express.js |
 | 資料庫 | Firebase, No SQL Json |
 | 轉介架構 | Firebase |

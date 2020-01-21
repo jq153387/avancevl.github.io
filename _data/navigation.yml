@@ -128,6 +128,8 @@ toc:
   - title: 工程流程 Engineering
     url: /engineering/engineering.html
     subfolderitems:
+      - page: 工程師入職流程 Engineer Onboarding
+        url: /engineering/onboarding.html
       - page: 技術架構 Tech Stack
         url: /engineering/tech_stack.html
         subsubfolderitems:

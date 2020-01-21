@@ -34,14 +34,27 @@ description: Engineer Onboarding
 
 # 必須熟悉語言及架構
 
+## 語言
+
 | 網頁語言 | HTML, CSS |
 | 程式語言 | JavaScript |
+
+## 前端
+
 | 前端畫面架構 | React.js |
 | 手機前端畫面架構 | ReactNative |
 | 前端持續性資料架構 | Redux |
 | 前端表格架構 | Chart.js |
+
+## 後端
+
 | 後端架構 | Node.js |
 | 後端網頁架構 | Express.js |
 | 資料庫 | Firebase, No SQL Json |
 | 轉介架構 | Firebase |
 | 使用者分析架構 | Firebase, Google Analytics |
+
+## 格式開發環境
+
+| 程式代碼格式 | Prettier, ESlint |
+| 開發環境 | Babel, Webpack |

@@ -30,6 +30,7 @@ description: Onboarding
         - [前端架構]({{ site.baseurl }}/engineering/frontend_stack.html){:target="_blank"}
         - [後端架構]({{ site.baseurl }}/engineering/backend_stack.html){:target="_blank"}
             - [轉介架構]({{ site.baseurl }}/engineering/referral.html){:target="_blank"}
+        - [開發環境]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
 	- Scrum [工作速率]({{ site.baseurl }}/engineering/velocity_work.html){:target="_blank"}
         - [產品開發流程]({{ site.baseurl }}/engineering/product_cycle.html){:target="_blank"}
         - [計畫Scrum會議]({{ site.baseurl }}/engineering/scrum_meeting.html){:target="_blank"}

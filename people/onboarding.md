@@ -20,6 +20,10 @@ description: Onboarding
 - [績效評估]({{ site.baseurl }}/people/general_performance_review.html){:target="_blank"}
 
 
+## 工程師規範和流程
+
+[前往工程師流程]({{ site.baseurl }}/engineering/onboarding.html){: .btn#page-btn}
+
 ---
 
 <br>

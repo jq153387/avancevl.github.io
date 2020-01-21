@@ -59,6 +59,7 @@ description: Onboarding
 * 已用Email加入相關JIRA projects。
 
 ## Zoom
+
 * 要求每人都下載JIRA App到手機上。
 
 ## GitLab

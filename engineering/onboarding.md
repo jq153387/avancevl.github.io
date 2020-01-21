@@ -43,3 +43,5 @@ description: Engineer Onboarding
 | 後端架構 | Node |
 | 後端網頁架構 | Express.js |
 | 資料庫 | Firebase, No SQL Json |
+| 轉介架構 | Firebase |
+| 使用者分析架構 | Firebase, Google Analytics |

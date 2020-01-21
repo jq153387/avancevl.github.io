@@ -42,4 +42,4 @@ description: Engineer Onboarding
 | 前端表格架構 | Chart.js |
 | 後端架構 | Node |
 | 後端網頁架構 | Express.js |
-| 資料庫 | Firebase |
+| 資料庫 | Firebase, No SQL Json |

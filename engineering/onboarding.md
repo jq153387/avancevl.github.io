@@ -36,8 +36,10 @@ description: Engineer Onboarding
 
 ## 語言
 
-| 網頁語言 | HTML, CSS |
-| 程式語言 | JavaScript |
+| 網頁語言 | HTML5 |
+| 網頁畫面格式 | CSS3, SCSS |
+| 網頁畫面架構 | Bootstrap, Materialize, UI Kit |
+| 程式語言 | JavaScript ES6, TypeScript |
 
 ## 前端
 
@@ -54,7 +56,13 @@ description: Engineer Onboarding
 | 轉介架構 | Firebase |
 | 使用者分析架構 | Firebase, Google Analytics |
 
-## 格式開發環境
+## JS工具
 
-| 程式代碼格式 | Prettier, ESlint |
-| 開發環境 | Babel, Webpack |
+| JS Formatter | Prettier |
+| JS Linter | ESlint |
+| JS Compiler | Babel |
+| JS Bundler | Webpack |
+| JS Package | npm |
+| JS Builder | Gulp |
+| JS Testing | Jest |
+| JS Tools | EJS, Motion UI |

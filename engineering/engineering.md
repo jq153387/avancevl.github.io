@@ -29,6 +29,10 @@ Engineering JIRA issues are grouped into 1-week sprints. Each engineer, remote o
 - Medium Priority
 - Low Priority
 
+## 1-Sprint Product Release Cycles
+
+Product release cycles are organized around 1 sprint. At the end of every sprint, we should have released a new version of our product.
+
 <br>
 <br>
 

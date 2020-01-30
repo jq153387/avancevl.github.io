@@ -35,3 +35,4 @@ description: Daily Updates
 
 * 查看代碼進度
 * 對錯誤方向調整方向，讓錯誤方向最多持續不超過一天
+* 確保代碼都有持續備份到雲端Git Repo

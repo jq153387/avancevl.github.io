@@ -153,7 +153,7 @@ toc:
             url: /engineering/product_cycle.html
           - page: 計畫Scrum會議 Scrum Planning Meetings
             url: /engineering/scrum_meeting.html
-          - page: 每天Scrum報告 Daily Scrum Update
+          - page: 每日報告 Daily Updates
             url: /engineering/daily_scrum.html
           - page: 問題追中 Issue Tracking
             url: /engineering/issue_tracking.html

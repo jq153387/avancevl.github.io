@@ -34,4 +34,4 @@ description: Daily Updates
 所有軟體工程師每日至少Git Commit一次到自己的local branch，讓主管：
 
 * 查看代碼進度
-* 對錯誤方向盡快調整方向
+* 對錯誤方向調整方向，讓錯誤方向最多持續不超過一天

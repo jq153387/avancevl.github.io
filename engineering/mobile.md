@@ -19,7 +19,7 @@ description: Mobile Application Stack
 * [官方網頁](https://developers.google.com/web/progressive-web-apps){:target="_blank"}
 * 一些手機網頁設計原則，不是網頁架構library
 * 讓在mobile browser裡得網頁長的像native mobile app
-* 使用React網頁架構實作
+* 使用React.js網頁架構實作
 
 ## 應用程式第二階段：ReactNative
 

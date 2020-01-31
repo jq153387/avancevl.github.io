@@ -8,7 +8,7 @@ description: Mobile Application Stack
 | Landing Page 手機版本 | AMP |
 | Web App 手機版本 | PWA |
 
-# 手機版首頁
+# 手機版首頁 Landing Page
 
 ## 第一階段：Instapages, Unbounce
 
@@ -23,7 +23,7 @@ description: Mobile Application Stack
 
 <br>
 
-# 應用程式
+# 應用程式 App
 
 ## 第一階段：PWA
 

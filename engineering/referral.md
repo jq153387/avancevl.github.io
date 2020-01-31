@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 轉介架構
-description: Referral
+title: 使用者轉介架構
+description: User Referral
 ---
 
 | 轉介架構 | Firebase |

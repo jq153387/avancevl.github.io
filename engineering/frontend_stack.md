@@ -11,6 +11,11 @@ description: Front-End Stack
 
 <br>
 
+---
+
+<br>
+
+
 # 前端畫面架構
 
 ## React.js及Vue.js的共同優點
@@ -31,8 +36,6 @@ description: Front-End Stack
 
 <br>
 
----
-
 ## React.js
 
 ### 優點
@@ -49,8 +52,6 @@ description: Front-End Stack
 
 <br>
 
----
-
 ## Vue.js
 
 ### 優點
@@ -66,14 +67,16 @@ description: Front-End Stack
 
 <br>
 
----
-
 ## 主要考量因數
 
 1. ReactiveNative可以很快的開發iOS和Android的app
 
 <br>
+
+---
+
 <br>
+
 
 # 前端HTML5架構
 
@@ -83,15 +86,11 @@ description: Front-End Stack
 
 <br>
 
----
-
 ## Canvas.js
 
 * [Beautiful HTML5 JavaScript Charts](https://canvasjs.com/){:target="_blank"}
 
 <br>
-
----
 
 ## Chartist.js
 
@@ -107,8 +106,6 @@ description: Front-End Stack
 
 <br>
 
----
-
 ## Chart.js
 
 * [Simple yet flexible JavaScript charting for designers & developers](https://www.chartjs.org/){:target="_blank"}
@@ -121,8 +118,6 @@ description: Front-End Stack
 
 <br>
 
----
-
 ## FusionCharts
 
 * [Build beatiful web & mobile dashboards](https://www.fusioncharts.com/){:target="_blank"}
@@ -133,12 +128,9 @@ description: Front-End Stack
 * 設計美感不錯
 * 需要錢
 
----
-
 ## D3.js
 
 * [Data-Driven Documents](https://d3js.org/){:target="_blank"}
-
 
 ### 優點
 
@@ -150,7 +142,11 @@ description: Front-End Stack
 * 比較難上手
 
 <br>
+
+---
+
 <br>
+
 
 # 前端持續性資料架構
 

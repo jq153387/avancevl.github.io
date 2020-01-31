@@ -24,6 +24,8 @@ description: Mobile Application Stack
 ## 應用程式第二階段：ReactNative
 
 * [官方網頁](https://facebook.github.io/react-native/){:target="_blank"}
+* 是個手機APP了，不是在browser裡的網頁了
+* 需要在App Store上架
 * 開發數度快，同時間開發iOS和Android的APP
 * 實用JS, React, HTML, CSS
 

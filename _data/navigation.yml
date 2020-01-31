@@ -139,13 +139,14 @@ toc:
             url: /engineering/analytics.html
           - page: 前端架構 Front-End Stack
             url: /engineering/frontend_stack.html
+            subsubsubfolderitems:
+              - page: 手機應用程式架構 Mobile Application Stack
+                url: /engineering/mobile.html
           - page: 後端架構 Back-End Stack
             url: /engineering/backend_stack.html
             subsubsubfolderitems:
               - page: 使用者轉介架構 User Referral
                 url: /engineering/referral.html
-          - page: 手機應用程式架構 Mobile Application Stack
-            url: /engineering/mobile.html
           - page: 開發環境 Development Environment
             url: /engineering/devenv.html
       - page: 工作速率 Velocity of Work

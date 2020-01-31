@@ -142,6 +142,10 @@ toc:
             subsubsubfolderitems:
               - page: 手機應用程式架構 Mobile Application Stack
                 url: /engineering/mobile.html
+              - page: 材料設計原則 Material Design
+                url: /engineering/material_design.html
+                - page: HTML5架構 HMTL5 Framework
+                url: /engineering/html5.html
           - page: 後端架構 Back-End Stack
             url: /engineering/backend_stack.html
             subsubsubfolderitems:

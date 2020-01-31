@@ -6,7 +6,14 @@ description: Material Design
 
 | Material Design 架構 | Material-UI |
 
-## Material Design
+---
+
+<br>
+
+---
+
+# Material Design
+
 > Material Design is a visual language that synthesizes the classic principles of good design with the innovation of technology and science.
 
 * 什麼是[Material Design](https://material.io/design/introduction/#){:target="_blank"}
@@ -14,7 +21,6 @@ description: Material Design
 * 我們產品基本上都採用Google的Material Design
 * 是一個快速可以上線的設計語言，不需自己設計
 * 西方市場使用者都看的懂的設計語言
-
 
 ## Material UI
 

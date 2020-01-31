@@ -13,6 +13,37 @@ description: UI Design
 
 <br>
 
+# Bootstrap
+
+> Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.
+
+> Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+
+* 什麼是[Bootstrap](https://getbootstrap.com/){:target="_blank"}
+* 是一個快速可以上線的設計語言，不需自己設計
+* 西方市場使用者都看的懂的設計語言
+* 設計觀感類似Twitter
+* 使用Bootstrap的公司
+	* Spotify
+	* Twitter
+	* Lyft
+	* StackShare
+	* LinkedIn
+	* Coursera
+	* Udemy
+	* Snapchat
+
+## React Bootstrap
+
+* [官方網站](https://react-bootstrap.github.io/){:target="_blank"}
+* 已經設計好的React.js component，適合跟React.js前端結合
+
+<br>
+
+---
+
+<br>
+
 # Material Design
 
 > Material Design is a visual language that synthesizes the classic principles of good design with the innovation of technology and science.
@@ -50,37 +81,6 @@ description: UI Design
 * 不限於任何前端結構
 * 提供設計好的CSS, HTML, 和JavaScript檔案
 * 設計好的包裝叫MDL components
-
-<br>
-
----
-
-<br>
-
-# Bootstrap
-
-> Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.
-
-> Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
-
-* 什麼是[Bootstrap](https://getbootstrap.com/){:target="_blank"}
-* 是一個快速可以上線的設計語言，不需自己設計
-* 西方市場使用者都看的懂的設計語言
-* 設計觀感類似Twitter
-* 使用Bootstrap的公司
-	* Spotify
-	* Twitter
-	* Lyft
-	* StackShare
-	* LinkedIn
-	* Coursera
-	* Udemy
-	* Snapchat
-
-## React Bootstrap
-
-* [官方網站](https://react-bootstrap.github.io/){:target="_blank"}
-* 已經設計好的React.js component，適合跟React.js前端結合
 
 <br>
 

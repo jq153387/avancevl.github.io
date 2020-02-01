@@ -4,6 +4,8 @@ title: 每日報告
 description: Daily Updates
 ---
 
+# 全職員工
+
 ## 每日報告
 
 ### 報告規範
@@ -36,3 +38,9 @@ description: Daily Updates
 * 查看代碼進度
 * 對錯誤方向調整方向，讓錯誤方向最多持續不超過一天
 * 確保代碼都有持續備份到雲端Git Repo
+
+<br>
+
+# 兼職合作
+
+* 彈性工作時間，但有工作當天先開個Slack scrum update

@@ -70,14 +70,17 @@ toc:
             url: /people/online_resources.html
           - page: 讀書會 Book Club
             url: /people/bookclub.html
-      - page: 績效評估 General Performance Review
-        url: /people/general_performance_review.html
-      - page: 職場性騷擾政策 Workplace Policy
-        url: /people/workplace_policy.html
-      - page: 補貼規範 Reimbursement Policy
-        url: /people/reimbursement_policy.html
+      - page: 規範及合約 Policies & Legal
+        url: /people/policy_legal.html
+        subsubfolderitems:
+          - page: 職場性騷擾政策 Workplace Policy
+            url: /people/workplace_policy.html
+          - page: 補貼規範 Reimbursement Policy
+            url: /people/reimbursement_policy.html
       - page: 入職流程 Onboarding
         url: /people/onboarding.html
+      - page: 績效評估 General Performance Review
+        url: /people/general_performance_review.html
   - title: 徵才 Recruiting
     url: /recruit/recruit.html
     subfolderitems:

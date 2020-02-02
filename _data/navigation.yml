@@ -45,8 +45,6 @@ toc:
   - title: 人資管理 People
     url: /people/people.html
     subfolderitems:
-      - page: 員工福利 Benefits
-        url: /people/benefits.html
       - page: 薪資制度 Compensation
         url: /people/compensation.html
         subsubfolderitems:
@@ -54,6 +52,13 @@ toc:
             url: /people/engineering_level.html
           - page: 特案兼職費用 Project-Based/Part-Time Engineering Levels
             url: /people/projectbased_level.html
+      - page: 員工福利 Benefits
+        url: /people/benefits.html
+        subsubfolderitems:
+          - page: 團隊活動 Team Events
+            url: /people/team_events.html
+          - page: 外派國外 Relocation
+            url: /people/relocation.html
       - page: 工作時間 Working Hours
         url: /people/work_hours.html
       - page: 團隊活動 Team Events
@@ -67,8 +72,6 @@ toc:
             url: /people/online_resources.html
           - page: 讀書會 Book Club
             url: /people/bookclub.html
-      - page: 外派國外 Relocation
-        url: /people/relocation.html
       - page: 績效評估 General Performance Review
         url: /people/general_performance_review.html
       - page: 職場性騷擾政策 Workplace Policy

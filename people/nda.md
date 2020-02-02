@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 規範及合約
-description: Policies & Legal
+title: 營業秘密合約
+description: Non-Disclosure Agreement
 ---
 

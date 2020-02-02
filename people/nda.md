@@ -4,6 +4,3 @@ title: 規範及合約
 description: Policies & Legal
 ---
 
-## 法律合約
-
-* [營業秘密]({{ site.baseurl }}/people/nda.html)

@@ -10,7 +10,7 @@ description: Progressive Web Application
 	1. static site assets會自動被cache，下一次開起就超快
 	1. 遠離wifi時app還是可以使用
 1. 開起時顯示splash screen
-1. 資源push notifications
+1. 支援push notifications
 1. 網頁可以在手機首頁home screen下載一個app icon
 1. 網頁設計基本上會長的像手機app一樣
 

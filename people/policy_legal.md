@@ -6,5 +6,5 @@ description: Policies & Legal
 
 ## 法律合約
 
-* [營業秘密]({{ site.baseurl }}/people/nda.html)
+* [保密協議]({{ site.baseurl }}/people/nda.html)
 * [著作權]({{ site.baseurl }}/people/ip.html)

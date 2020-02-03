@@ -4,7 +4,7 @@ title: SSR前端架構
 description: Server Side Rendering
 ---
 
-| Server Side Rendering架構 | **Next.js** ｜
+| Server Side Rendering架構 | **Next.js** |
 
 ## Client Side Rendering (CRS)
 
@@ -78,9 +78,17 @@ description: Server Side Rendering
 	* The React Framework for Sender-Rendered Apps
 	* SEO-Friendly Sites
 	* PWA
-* [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://codeburst.io/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2){:target="_blank"}
-* [Buildilng a server-rendered React app with Next.js and Express.js](https://blog.logrocket.com/how-to-build-a-server-rendered-react-app-with-next-express-d5a389e7ab2f/){:target="_blank"}
 * [Next.js - React Server-side Rendering Done Right](https://medium.com/better-programming/next-js-react-server-side-rendering-done-right-f9700078a3b6){:target="_blank"}
+
+
+#### Express.js
+
+* [Buildilng a server-rendered React app with Next.js and Express.js](https://blog.logrocket.com/how-to-build-a-server-rendered-react-app-with-next-express-d5a389e7ab2f/){:target="_blank"}
+
+
+#### Firebase Cloud Functions
+
+* [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://codeburst.io/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2){:target="_blank"}
 * [Next-routers with Firebase Hosting on Cloud Functions](https://codeburst.io/next-routes-with-firebase-hosting-on-cloud-functions-e7c78308a24d){:target="_blank"}
 * [NextJS with Firebase Cloud Functions](https://stackoverflow.com/questions/45185452/nextjs-with-firebase-cloud-functions){:target="_blank"}
 

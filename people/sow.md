@@ -24,7 +24,7 @@ THIS STATEMENT OF WORK (“SOW”) is entered into by and between ____________ (
 
 “The Provider will complete the following software development features by the “Deliverables Deadline” in the Schedule listed above.
 
-| Feature | Requirements | Basic Completion Price | Performance Completion Price |
+| Feature | Requirements | Basic KPI Price | Outstanding KPI Price |
 | | | | |
 | | | | |
 | | | | |

@@ -4,7 +4,7 @@ title: 保密協議
 description: Non-Disclosure Agreement (NDA)
 ---
 
-> For all full-time, part-time employees and contractors.
+| 最後更新時間 | 2020-02-02 ｜
 
 <br>
 

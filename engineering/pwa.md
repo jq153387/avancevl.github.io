@@ -27,7 +27,7 @@ description: Progressive Web Application
 * Service workers (client-side proxies that pre-cache key resources) enable PWAs to load instantly and provide an instant, reliable experience for users, regardless of the network state
 * This is a browser capability to provide an intermediate layer between the Web App and the network, which runs in the background (even when the application is closed). This “network” layer is capable of listening and sending requests, notifications or even capturing connectivity changes
 * 實作PWA是靠web browser內建在背景跑的一個程式
-* React已經內建好browser的service worker功能，請看`src/servicewWorker.js`
+* React已經內建好browser的service worker功能，請看`src/servicewWorker.js`。只需要呼叫`serviceWorker.register();`就搞定了
 
 ```javascript
 import React from 'react';

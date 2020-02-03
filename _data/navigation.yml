@@ -71,7 +71,7 @@ toc:
       - page: 規範及合約 Policies & Legal
         url: /people/policy_legal.html
         subsubfolderitems:
-          - page: 保密協議 Non-Disclosure Agreement
+          - page: 保密協議 Non-Disclosure Agreement (NDA)
             ur: /people/nda.html
           - page: 工作時間 Working Hours
             url: /people/work_hours.html

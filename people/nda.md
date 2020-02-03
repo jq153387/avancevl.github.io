@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 保密協議
-description: Non-Disclosure Agreement
+description: Non-Disclosure Agreement (NDA)
 ---
 
 This Non-Disclosure Agreement, dated ____________________ (the “Effective Date”), governs the disclosure of information by and between ____________________ ("The Company") on behalf of its sub-brands, such as ____________________, and _________________(“Individual”). 

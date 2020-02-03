@@ -39,9 +39,9 @@ For exam topics and score calculation, please reference **[Full Stack Sample Exa
 | --- | --- |
 | 30 | 呈現訊息 |
 | 30 | 搜尋功能 |
-| 40 | 訂位按鈕與 pop-up 視窗 |
-| 60 | 地圖-地理位子 |
-| 40 | 中/英文頁面 |
+| 45 | 訂位按鈕與 pop-up 視窗 |
+| 65 | D3 畫圖 |
+| 30 | 中/英文頁面 |
 
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
@@ -69,10 +69,11 @@ For exam topics and score calculation, please reference **[Full Stack Sample Exa
 
 * 在首頁顯示檔案裡面的資訊，表格的每一行是餐廳名字，使用者可以按/點，伸縮更多的餐廳資訊（展開、收起）。
 * 展開資訊有訂位按鈕和有圖示表示類型、米其林星、停車、外送、先繳訂金、評價。
+* 表格共有2頁，可以前後去第一、二頁。
 
 ### 2. 搜尋功能
 
-* 網頁最上方有搜尋功能，使用者可以輸入的欄位與搜尋按鈕：餐廳名字(輸入時，會有下拉式的建議)、訂位人數(使用下拉式選單)、日期(使用日曆選單)、時間(使用下拉式選單)
+* 網頁最上方有搜尋功能，使用者可以輸入的欄位與搜尋按鈕：餐廳名字(輸入時，會有下拉式的建議)、訂位人數(使用下拉式選單)、日期(使用日曆選單)、時間(使用下拉式選單)。UI 請參考並盡量相似 [OpenTable](https://www.opentable.com/?lang=ja){:target="_blank"}
 
 ### 3. 訂位按鈕與 pop-up 視窗
 
@@ -81,10 +82,9 @@ For exam topics and score calculation, please reference **[Full Stack Sample Exa
 * pop-up 視窗是一個讓使用者可以填寫的表格：名字、電話(輸入數字限制)、訂位人數(使用下拉式選單)、日期(使用日曆選單)、時間(使用下拉式選單)
 * pop-up 視窗可以關閉的
 
-### 4. 地圖-地理位子
+### 4. D3 畫圖
 
-* pop-up 視窗裡面使用
-[Google Maps API](https://developers.google.com/maps/documentation/embed/start) 顯示小地圖（餐廳的地理位子）。
+* pop-up 視窗裡面使用 library [D3.js](https://d3js.org){:target="_blank"} 畫連接散點圖 [Connected scatterplot](https://www.d3-graph-gallery.com/connectedscatter.html){:target="_blank"} 顯示評價(x軸，0到5)和米其林星(y軸，0到3，推薦=0.5，無=0)的關係。
 
 
 ### 5. 中/英文頁面

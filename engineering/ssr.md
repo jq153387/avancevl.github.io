@@ -6,7 +6,11 @@ description: Server Side Rendering
 
 | Server Side Rendering架構 | **Next.js** |
 
-## Client Side Rendering (CRS)
+<br>
+
+# CSR和SSR前端架構比較
+
+## Client Side Rendering (CSR)
 
 <img src='https://lh3.googleusercontent.com/SLKkSaDSKfz7RwZEVz2WUkqYQ9mnRof7McaY57Mf8JpgDODMgEAA3JCkoHbC1JoTDa3MtBGKmIIEdiaENoEpSSp1L7GBfeR0ARQC3Zm5SbEoGbT_GIvn6t_UsH-T5jKEWGgLbzEWfg=w800' />
 
@@ -48,6 +52,8 @@ description: Server Side Rendering
 ---
 
 <br>
+
+# SSR如何在React.js架構實作
 
 ## React - Server Side Rendering (SSR)
 

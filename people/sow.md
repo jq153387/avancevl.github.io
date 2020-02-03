@@ -62,3 +62,26 @@ THIS STATEMENT OF WORK (“SOW”) is entered into by and between ____________ (
 1. Invoice will be paid to “The Service Provider” in cash or bank transfer at the Provider’s discretion.
 1. Upon completion of SOW deliverables, invoice will be paid to “The Service Provider” at a date no later than the “Invoice Payment Deadline.”
 1. Invoice for completion of SOW will be paid to “Service Provider” as Labor Remuneration (勞務報酬單)
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date: 
+<br>
+<br>
+
+__________________________________________________________________ ("The Company")
+
+Name: __________________________________________________________________
+
+Signature: __________________________________________________________________
+
+Date: __________________________________________________________________
+
+<br>
+<br>
+
+__________________________________________________________________ ("The Individual")
+
+Name: __________________________________________________________________
+
+Signature: __________________________________________________________________
+
+Date: __________________________________________________________________

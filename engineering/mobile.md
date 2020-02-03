@@ -17,7 +17,7 @@ description: Mobile Application Framework
 
 ## 第二階段：AMP
 
-* [官方網頁](https://developers.google.com/amp){:target="_blank"}
+* [官方網頁](https://amp.dev/zh_cn/documentation/){:target="_blank"}
 * Static網頁
 * 是個網頁架構library
 

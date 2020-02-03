@@ -4,6 +4,10 @@ title: 主要服務協議
 description: Master Service Agreement (MSA)
 ---
 
+> For part-time project-based contracts.
+
+<br>
+
 ## 主要服務協議 Master Service Agreement (MSA)
 
 This Master Service Agreement (the “Agreement”), dated ________ (the “Effective Date”), is between ____________________ (the “Company”) on behalf of its sub-brands, such as ____________________, and  ____________________ (“Provider”), (together known as the “Parties”). 

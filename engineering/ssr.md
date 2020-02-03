@@ -26,9 +26,13 @@ description: Server Side Rendering
 </html>
 ```
 
+<br>
+
 ## Server Side Rendering (SSR)
 
 <img src='https://lh3.googleusercontent.com/PqfLbRvYuFY5I26xjPHlWEusCJZ6FWKoHdJpJLqQUgH2upEKNlBphTxmzCNoaBcgCa0ZJQ1pANQ0LwUGoEOj3cSvHKDKcVD7SvPL57qK4twnGvKk5IxGeUFLBR1nyt79tB7PWscWXw=w800' />
+
+<br>
 
 ## Prerendering (Static Sites)
 

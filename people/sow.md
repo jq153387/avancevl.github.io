@@ -33,9 +33,12 @@ THIS STATEMENT OF WORK (“SOW”) is entered into by and between ____________ (
 1. Travel costs (if any) will be billed to “The Company” at cost. 
 	1. All travel expenses must be pre-approved by “The Company”  in writing. Approved travel expenses will be reimbursed pursuant of “Reimbursement Policies” set forth on “The Company’s website.
 	1. All travel expenses incurred during this SOW will be reimbursed to “The Service Provider” to later than the “Invoice Payment Deadline”.
-1. “The Service Provider” will be available to work a minimum of 30 hours per week.
+1. The Service Provider will be available to work a minimum of 30 hours per week.
 1. Service Provider’s rates and prices do not include sales tax, and if such tax is applicable, it will be invoiced as a separate line item.
 1. All materials developed under this SOW are the property of “The Company”.
+1. The final invoice price for a **complete** feature will be decided by "The Company".
+	1. Invoice price will be no less than the **Basic KPI Price**, in the event that the feature's KPI is satisfactory.
+	1. Invoice price will e no higher than the **Outstanding KPI Price**, in the event that the feature's KPI is outstanding.
 
 ### Performance KPIs
 

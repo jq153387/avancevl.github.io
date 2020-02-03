@@ -146,8 +146,10 @@ toc:
           - page: 前端架構 Front-End Stack
             url: /engineering/frontend_stack.html
             subsubsubfolderitems:
-              - page: React.js架構 React.js Framework
-                url: /engineering/reactjs.html
+              - page: SSR前端架構 Server Side Rendering
+                url: /engineering/ssr.html
+              - page: PWA前端架構 Progressive Web Application
+                url: /engineering/pwa.html
               - page: 手機應用程式架構 Mobile Application Stack
                 url: /engineering/mobile.html
               - page: UI設計原則 UI Design

@@ -51,6 +51,10 @@ description: Front-End Stack
 1. 比Vue.js還難學
 1. 只用JSX，對大部分工程師比HTML templates還難上手
 
+### 線上資源
+
+* [GitHub: React Starter Kit for Firebase](https://github.com/kriasoft/react-firebase-starter){:target="_blank"}
+
 <br>
 
 ## Vue.js

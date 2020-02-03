@@ -1,14 +1,14 @@
 ---
 layout: default
-title: React.js 架構
-description: React.js Framework
+title: SSR前端架構
+description: Server Side Rendering
 ---
 
 | Server Side Rendering架構 | **Next.js** ｜
 
 ## Client Side Rendering (CRS)
 
-<img src='https://lh3.googleusercontent.com/SLKkSaDSKfz7RwZEVz2WUkqYQ9mnRof7McaY57Mf8JpgDODMgEAA3JCkoHbC1JoTDa3MtBGKmIIEdiaENoEpSSp1L7GBfeR0ARQC3Zm5SbEoGbT_GIvn6t_UsH-T5jKEWGgLbzEWfg=w400' />
+<img src='https://lh3.googleusercontent.com/SLKkSaDSKfz7RwZEVz2WUkqYQ9mnRof7McaY57Mf8JpgDODMgEAA3JCkoHbC1JoTDa3MtBGKmIIEdiaENoEpSSp1L7GBfeR0ARQC3Zm5SbEoGbT_GIvn6t_UsH-T5jKEWGgLbzEWfg=w800' />
 
 * Google和Facebook News Feed看到的網頁完全沒有內容，只有JavaScript檔案
 
@@ -28,7 +28,7 @@ description: React.js Framework
 
 ## Server Side Rendering (SSR)
 
-<img src='https://lh3.googleusercontent.com/PqfLbRvYuFY5I26xjPHlWEusCJZ6FWKoHdJpJLqQUgH2upEKNlBphTxmzCNoaBcgCa0ZJQ1pANQ0LwUGoEOj3cSvHKDKcVD7SvPL57qK4twnGvKk5IxGeUFLBR1nyt79tB7PWscWXw=w400' />
+<img src='https://lh3.googleusercontent.com/PqfLbRvYuFY5I26xjPHlWEusCJZ6FWKoHdJpJLqQUgH2upEKNlBphTxmzCNoaBcgCa0ZJQ1pANQ0LwUGoEOj3cSvHKDKcVD7SvPL57qK4twnGvKk5IxGeUFLBR1nyt79tB7PWscWXw=w800' />
 
 ## Prerendering (Static Sites)
 
@@ -47,7 +47,7 @@ description: React.js Framework
 
 ## React - Server Side Rendering (SSR)
 
-<img src='https://lh3.googleusercontent.com/uutZ0xtPwsF1qO1gzf2X497gaVLEMhfIeOJl9YsLkVhdZKE9KKG_UnwC77VJc_2nMc2rfwEvLsTPh7Jnk8In_vB_s7NldulHCw3u9bzshB59ypxNq5E8MxZr7upTNqtPAjX8pdJ9Pg=w400' />
+<img src='https://lh3.googleusercontent.com/uutZ0xtPwsF1qO1gzf2X497gaVLEMhfIeOJl9YsLkVhdZKE9KKG_UnwC77VJc_2nMc2rfwEvLsTPh7Jnk8In_vB_s7NldulHCw3u9bzshB59ypxNq5E8MxZr7upTNqtPAjX8pdJ9Pg=w800' />
 
 ### 技術考量於目標
 
@@ -84,42 +84,3 @@ description: React.js Framework
 * [Next-routers with Firebase Hosting on Cloud Functions](https://codeburst.io/next-routes-with-firebase-hosting-on-cloud-functions-e7c78308a24d){:target="_blank"}
 * [NextJS with Firebase Cloud Functions](https://stackoverflow.com/questions/45185452/nextjs-with-firebase-cloud-functions){:target="_blank"}
 
-<br>
-
----
-
-<br>
-
-## React - PWD
-
-### 線上資源
-
-* [Build a Realtime PWA with React](https://medium.com/better-programming/build-a-realtime-pwa-with-react-99e7b0fd3270){:target="_blank"}
-* [GitHub: Create React App](https://github.com/facebook/create-react-app){:target="_blank"}
-
-
-<br>
-
----
-
-<br>
-
-## React - Firebase
-
-### 線上資源
-
-* [GitHub: React Starter Kit for Firebase](https://github.com/kriasoft/react-firebase-starter){:target="_blank"}
-
-<br>
-
----
-
-<br>
-
-## React - Native
-
-### 線上資源
-
-* [Should you use React Native to build your startup's mobile app?](https://medium.com/snipe-gg/should-you-use-react-native-to-build-your-startups-mobile-app-c0baf9f4d9ad){:target="_blank"}
-* [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c){:target="_blank"}
-* [Why Discord is Sticking with React Native](https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427){:target="_blank"}

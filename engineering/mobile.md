@@ -43,3 +43,17 @@ description: Mobile Application Stack
 ## 第三階段：iOS, Swift
 
 * 有特殊效能或手機API考量才有必要
+
+<br>
+
+---
+
+<br>
+
+## ReactNative
+
+### 線上資源
+
+* [Should you use React Native to build your startup's mobile app?](https://medium.com/snipe-gg/should-you-use-react-native-to-build-your-startups-mobile-app-c0baf9f4d9ad){:target="_blank"}
+* [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c){:target="_blank"}
+* [Why Discord is Sticking with React Native](https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427){:target="_blank"}

@@ -4,9 +4,11 @@ title: 保密協議
 description: Non-Disclosure Agreement (NDA)
 ---
 
-This Non-Disclosure Agreement, dated ____________________ (the “Effective Date”), governs the disclosure of information by and between ____________________ ("The Company") on behalf of its sub-brands, such as ____________________, and _________________(“Individual”). 
+## 保密協議 Non-Disclosure Agreement (NDA)
 
-Each Party may be referred to in the singular as "Party" or in the plural as "the Parties" to this Agreement. For purposes of this Agreement, the Party disclosing confidential information hereunder is hereinafter referred to as the “Disclosing Party,” and the Party receiving confidential information hereunder is hereinafter referred to as the “Receiving Party.” 
+This Non-Disclosure Agreement, dated ____________________ (the “Effective Date”), governs the disclosure of information by and between ____________________ (**"The Company"**) on behalf of its sub-brands, such as ____________________, and _________________(**“Individual”**). 
+
+> Each Party may be referred to in the singular as **"Party"** or in the plural as "the Parties" to this Agreement. For purposes of this Agreement, the Party disclosing confidential information hereunder is hereinafter referred to as the “Disclosing Party,” and the Party receiving confidential information hereunder is hereinafter referred to as the “Receiving Party.” 
 
 1. As used herein, “Confidential Information” shall mean any and all technical, financial, operational, and business technical information provided, exchanged, explored, negotiated, discussed, disclosed, shared, or concluded by either party to the other, including but not limited to (a) patent and patent applications, (b) trade secret, and (c) proprietary information — visual, audio, artistic, design, written, and multimedia work, artwork, mask works, samples, media files and documents, techniques, sketches, drawings, blueprints, tracings, diagrams, flow charts, data, works of authorship, models, presentations, inventions, know-how, processes, procedures, discoveries, ideas, concepts, apparatuses, equipment, algorithms, software programs, software source documents, and formulae related to the current, future, and proposed products and services of each of the parties, and including, without limitation, their respective information concerning research, experimental work, research, findings, development, design details, specifications, engineering, procurement requirements, purchasing, manufacturing, clients, investors, advisors, associates, employees, partners, suppliers, emails, messages, customer names or lists, business and contractual relationships, business forecasts, sales and merchandising, marketing plans, and generally all the files, documents, information of any nature, not made generally known to the public at the time, the disclosing party provides regarding third parties. (Information exchanged between the Parties shall be deemed confidential unless specifically stated to be otherwise.) 
 
@@ -56,7 +58,7 @@ Each Party may be referred to in the singular as "Party" or in the plural as "th
 
 18. **Claim or Controversy:** Any controversy or claim arising out of or relating to this Agreement, (other than one needing equitable relief as stated in paragraph eight), or any breach thereof which cannot be resolved amicably between the parties shall be finally settled by arbitration in accordance with the Rules of the Chinese Arbitration Association. In the event of arbitration, each Party shall each select an arbitrator from the list of candidates provided for that purpose by the Chinese Arbitration Association, and those two arbitrators shall then select a third arbitrator who need not necessarily be from the Chinese Arbitration Association list. All arbitration proceedings shall take place in Taipei, Taiwan or New York, New York unless the parties agree otherwise in writing. Any award or decision of the arbitration panel shall be binding upon and enforceable against the parties, and the parties expressly waive any right to submit any controversy or claim arising out of or relating to this Agreement or any breach hereof to a court of law, except as set forth herein. Judgment upon any awarded decision of the arbitration may be entered in any court having jurisdiction. If the parties cannot settle, mediate or arbitrate their dispute, then the most local state Common Pleas Court in Taipei to the parties in Taipei, Taiwan, shall have the agreed jurisdiction and venue to proceed. 
 
-19. *Neither party shall export, directly or indirectly, any technical data acquired from the other pursuant to this Agreement or any product utilizing any such data to any country for which the local government or any agency thereof at the time of export requires an export license or other governmental approval without first obtaining such license or approval. 
+19. Neither party shall export, directly or indirectly, any technical data acquired from the other pursuant to this Agreement or any product utilizing any such data to any country for which the local government or any agency thereof at the time of export requires an export license or other governmental approval without first obtaining such license or approval. 
 
 20. All notices or reports permitted or required under this Agreement shall be in writing and shall be delivered by personal delivery, electronic mail, facsimile transmission or by certified or registered mail, return receipt requested, and shall be deemed given upon personal delivery, five (5) days after deposit in the mail, or upon acknowledgment of receipt of electronic transmission. Notices shall be sent to the addresses set forth at the end of this Agreement or such other address as either party may specify in writing.
 
@@ -71,7 +73,14 @@ Each Party may be referred to in the singular as "Party" or in the plural as "th
 25. **Implementation of Reasonable Protective Measures:** Each of the parties acknowledge that reasonable and sufficient measures have been taken to secure the “Confidential Information”, including but not limited to: (a) secure passwords, passkeys, and multi-factor authentication to confidential information, (2) controlled access of confidential information to only a subset of employees and pertinent parties, (3) secure storage of confidential information on cloud services and networks.
 
 IN WITNESS WHEREOF, the Parties, as authorized representatives, hereto agree to all terms and conditions stated above, have duly executed this Non-Disclosure Agreement as of the Effective Date, placing this Agreement into full force and effect. 
-___________________ ("The Company")	 Individual
-Name: ___________________________ Name: ________________________ 
-Signature: _______________________ Signature: _____________________ 
-Date: ___________________________ Date: _________________________ 
+
+
+_________________________________ ("The Company")
+Name: ___________________________
+Signature: ______________________
+Date: ___________________________
+
+_________________________________ ("The Individual")
+Name: ___________________________
+Signature: ______________________
+Date: ___________________________

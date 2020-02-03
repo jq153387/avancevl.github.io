@@ -4,7 +4,7 @@ title: 主要服務協議
 description: Master Service Agreement (MSA)
 ---
 
-| 最後更新時間 | 2020-02-02 ｜
+| 最後更新時間 | 2020-02-02 |
 
 <br>
 

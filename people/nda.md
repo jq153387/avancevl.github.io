@@ -4,7 +4,7 @@ title: 保密協議
 description: Non-Disclosure Agreement (NDA)
 ---
 
-| 最後更新時間 | 2020-02-02 ｜
+| 最後更新時間 | 2020-02-02 |
 
 <br>
 

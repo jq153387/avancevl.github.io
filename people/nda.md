@@ -74,19 +74,24 @@ This Non-Disclosure Agreement, dated ____________________ (the “Effective Date
 
 IN WITNESS WHEREOF, the Parties, as authorized representatives, hereto agree to all terms and conditions stated above, have duly executed this Non-Disclosure Agreement as of the Effective Date, placing this Agreement into full force and effect. 
 
+<br>
+<br>
 
-_________________________________ ("The Company")
+__________________________________________________________________ ("The Company")
 
-Name: ___________________________
+Name: __________________________________________________________________
 
-Signature: ______________________
+Signature: __________________________________________________________________
 
-Date: ___________________________
+Date: __________________________________________________________________
 
-_________________________________ ("The Individual")
+<br>
+<br>
 
-Name: ___________________________
+__________________________________________________________________ ("The Individual")
 
-Signature: ______________________
+Name: __________________________________________________________________
 
-Date: ___________________________
+Signature: __________________________________________________________________
+
+Date: __________________________________________________________________

@@ -150,7 +150,7 @@ toc:
                 url: /engineering/ssr.html
               - page: PWA前端架構 Progressive Web Application
                 url: /engineering/pwa.html
-              - page: 手機應用程式架構 Mobile Application Stack
+              - page: 手機應用程式架構 Mobile Application Framework
                 url: /engineering/mobile.html
               - page: UI設計原則 UI Design
                 url: /engineering/ui_design.html

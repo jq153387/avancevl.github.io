@@ -6,9 +6,7 @@ description: React.js Framework
 
 | Server Side Rendering架構 | **Next.js** ｜
 
-## React - Server Side Rendering (SSR)
-
-### Client Side Rendering (CRS)
+## Client Side Rendering (CRS)
 
 * Google和Facebook News Feed看到的網頁完全沒有內容，只有JavaScript檔案
 
@@ -26,7 +24,24 @@ description: React.js Framework
 </html>
 ```
 
-### Server Side Rendering (SSR)
+## Server Side Rendering (SSR)
+
+## Prerendering (Static Sites)
+
+* `react-snap`
+* `react-static`
+* `gatsby`
+* [`rendertron`](https://github.com/GoogleChrome/rendertron){:target="_blank"}
+* `puppetron`
+* `pupperender`
+
+<br>
+
+---
+
+<br>
+
+## React - Server Side Rendering (SSR)
 
 ### 技術考量於目標
 
@@ -42,7 +57,28 @@ description: React.js Framework
 * [SSR with React](https://medium.com/@swazza85/ssr-with-react-9cb197cfe380){:target="_blank"}
 * [Server Side Rendering with React](https://flaviocopes.com/react-server-side-rendering/){:target="_blank"}
 * [Server Side Rendering with React, Redux, and React-Router](https://itnext.io/server-side-rendering-with-react-redux-and-react-router-fa5b67d4965e){:target="_blank"}
-* [GitHub: Rendertron](https://github.com/GoogleChrome/rendertron){:target="_blank"}
+
+<br>
+
+---
+
+<br>
+
+## React - Next.js
+
+### 線上資源
+
+* [Next.js](https://nextjs.org/){:target="_blank"}
+	* The React Framework for Sender-Rendered Apps
+	* SEO-Friendly Sites
+	* PWA
+* [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://codeburst.io/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2){:target="_blank"}
+* [Buildilng a server-rendered React app with Next.js and Express.js](https://blog.logrocket.com/how-to-build-a-server-rendered-react-app-with-next-express-d5a389e7ab2f/){:target="_blank"}
+* [Next.js - React Server-side Rendering Done Right](https://medium.com/better-programming/next-js-react-server-side-rendering-done-right-f9700078a3b6){:target="_blank"}
+
+<br>
+
+---
 
 <br>
 
@@ -56,11 +92,19 @@ description: React.js Framework
 
 <br>
 
+---
+
+<br>
+
 ## React - Firebase
 
 ### 線上資源
 
 * [GitHub: React Starter Kit for Firebase](https://github.com/kriasoft/react-firebase-starter){:target="_blank"}
+
+<br>
+
+---
 
 <br>
 

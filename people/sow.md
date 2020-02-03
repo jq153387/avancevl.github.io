@@ -38,7 +38,7 @@ THIS STATEMENT OF WORK (“SOW”) is entered into by and between ____________ (
 1. All materials developed under this SOW are the property of “The Company”.
 1. The final invoice price for a **complete** feature will be decided by "The Company".
 	1. Invoice price will be no less than the **Basic KPI Price**, in the event that the feature's KPI is satisfactory.
-	1. Invoice price will e no higher than the **Outstanding KPI Price**, in the event that the feature's KPI is outstanding.
+	1. Invoice price will be no higher than the **Outstanding KPI Price**, in the event that the feature's KPI is outstanding.
 
 ### Performance KPIs
 

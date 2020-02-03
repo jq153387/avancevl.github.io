@@ -20,7 +20,7 @@ description: Progressive Web Application
 
 <br>
 
-# PWD如何在React.js架構實作
+# PWA如何在React.js架構實作
 
 ### Service Workers
 

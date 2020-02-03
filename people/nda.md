@@ -76,11 +76,17 @@ IN WITNESS WHEREOF, the Parties, as authorized representatives, hereto agree to 
 
 
 _________________________________ ("The Company")
+
 Name: ___________________________
+
 Signature: ______________________
+
 Date: ___________________________
 
 _________________________________ ("The Individual")
+
 Name: ___________________________
+
 Signature: ______________________
+
 Date: ___________________________

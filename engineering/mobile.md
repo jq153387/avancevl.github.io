@@ -8,6 +8,12 @@ description: Mobile Application Framework
 | Landing Page 手機版本 | AMP |
 | Web App 手機版本 | PWA |
 
+<br>
+
+---
+
+<br>
+
 # 手機版首頁 Landing Page
 
 ## 第一階段：Instapages, Unbounce
@@ -20,6 +26,10 @@ description: Mobile Application Framework
 * [官方網頁](https://developers.google.com/amp){:target="_blank"}
 * Static網頁
 * 是個網頁架構library
+
+<br>
+
+---
 
 <br>
 
@@ -57,3 +67,10 @@ description: Mobile Application Framework
 * [Should you use React Native to build your startup's mobile app?](https://medium.com/snipe-gg/should-you-use-react-native-to-build-your-startups-mobile-app-c0baf9f4d9ad){:target="_blank"}
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c){:target="_blank"}
 * [Why Discord is Sticking with React Native](https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427){:target="_blank"}
+
+
+## AMP
+
+### 線上資源
+
+* [AMP](https://amp.dev/zh_cn/documentation/?format=websites){:target="_blank"}

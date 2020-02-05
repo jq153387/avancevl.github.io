@@ -51,9 +51,6 @@ export const config = {
 }
 ```
 
-Although Next.js is usually thought of as a React framework, it's important to understand that when you use Next.js to serve AMP pages, you can no longer run React components client-side because React components are not valid AMP components. In other words, Next.js is no longer a React framework but rather a server-side templating engine for generating AMP pages.
-
-
 ## 線上資源
 
 * [How to use AMP in Next.js](https://web.dev/how-to-use-amp-in-nextjs/){:target="_blank"}

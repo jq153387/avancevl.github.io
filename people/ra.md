@@ -144,7 +144,7 @@ For good and valuable consideration the receipt of which is hereby acknowledged,
 | Base Payment | |
 | Discretionary Performance Bonus | |
 
-14. INVOICE
+### 14. INVOICE
 
 1. Invoice will be paid to “The Service Provider” in cash or bank transfer at the Provider’s discretion.
 1. Invoice for base payment will be paid by the deadlines enumerated below.

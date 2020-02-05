@@ -152,6 +152,8 @@ toc:
             subsubsubfolderitems:
               - page: SSR前端架構 Server Side Rendering
                 url: /engineering/ssr.html
+              - page: AMP前端架構 Accelerated Mobile Pages
+                url: /engineering/amp.html
               - page: PWA前端架構 Progressive Web Application
                 url: /engineering/pwa.html
               - page: 手機應用程式架構 Mobile Application Framework

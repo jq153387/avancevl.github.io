@@ -17,9 +17,10 @@ description: Accelerated Mobile Pages
 * 當你用Next.js來顯示AMP網頁，Next.js已經比較像server side templating engine，而不是React前端component了。
 * Next.js提供兩種建立AMP網頁的方式。
 
-* **Hybrid AMP** 每個Next.js會自動產出相對應的網頁
+### Hybrid AMP
 
 `pages/home.js`
+
 ```javascript
 import { useAmp } from 'next/amp'
 
@@ -37,9 +38,10 @@ export default () => {
 }
 ```
 
-* **AMP-only** 只有AMP版本的網頁
+### AMP-only
 
 `pages/index.js`
+
 ```javascript
 import Nav from '../components/nav'
 import { useAmp } from 'next/amp'

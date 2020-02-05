@@ -17,8 +17,10 @@ THIS STATEMENT OF WORK (“SOW”) is entered into by and between ____________ (
 | Statement of Work Duration | 2 weeks | 
 | Contract Signature Date |  |
 | Work Start Date |  |
-| Deliverables Deadline |  |
-| Invoice Payment Deadline |  |
+| Midpoint Deliverables Date | |
+| Midpoint Invoice Payment Deadline | |
+| Deliverables Deadlin (Launch Date) |  |
+| Final Invoice Payment Deadline |  |
 
 ### Deliverables
 
@@ -36,6 +38,8 @@ THIS STATEMENT OF WORK (“SOW”) is entered into by and between ____________ (
 1. The Service Provider will be available to work a minimum of 30 hours per week.
 1. Service Provider’s rates and prices do not include sales tax, and if such tax is applicable, it will be invoiced as a separate line item.
 1. All materials developed under this SOW are the property of “The Company”.
+1. The midpoint invoice will be determined by the number and extent of features completed at the “Midpoint Deliverables Date”.
+	1. Invoice price will follow the same KPI rules as the final invoice below.
 1. The final invoice price for a **complete** feature will be decided by "The Company".
 	1. Invoice price will be no less than the **Basic KPI Price**, in the event that the feature's KPI is satisfactory.
 	1. Invoice price will be no higher than the **Outstanding KPI Price**, in the event that the feature's KPI is outstanding.
@@ -46,6 +50,8 @@ THIS STATEMENT OF WORK (“SOW”) is entered into by and between ____________ (
 	1. Are all features fully completed, or certain edge cases missing?
 	1. Are the features buggy?
 	1. Are the features thoroughly tested?
+	1. Tech framework as agreed upon: JS, React, Redux, Express, Node, Next, HTML5, CSS3, dark mode, AMP/SPA/PWA  web app, Firebase, Bootstrap, etc.
+	1. Desktop/Mobile browsers responsive. All pages fully RWD: Safari, Firefox, Chrome.
 1. On Time Deadlines
 	1. Are all features fully completed by the “Deliverables Deadline”?
 	1. If there are delays, is the reason and extent of delay reasonable?
@@ -59,6 +65,11 @@ THIS STATEMENT OF WORK (“SOW”) is entered into by and between ____________ (
 	1. Is there frequent communication and updates with management and rest of the team?
 	1. Are there lots of constructive suggestions to management or the team to achieve the team goals?
 	1. Is the “Service Provider” a hard worker, or tries to do the minimum work possible to complete the SOW.
+1. By Deliverable Deadline (Launch Date)
+	1. Front-end live in production
+	1. Are all features fully completed by the “Deliverables Deadline”?
+	1. If there are delays, is the reason and extent of delay reasonable?
+
 
 ### Invoice Payment and Schedule
 

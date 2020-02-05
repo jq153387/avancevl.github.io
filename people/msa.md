@@ -8,7 +8,7 @@ description: Master Service Agreement (MSA)
 
 <br>
 
-## 主要服務協議 Master Service Agreement (MSA)
+## [主要服務協議 Master Service Agreement (MSA)](https://docs.google.com/document/d/1yFiQ4hCd3NAs9H3T1txIrv2IXMoXQ91rlWzeCkNhrR4/edit?usp=sharing){:target="_blank"}
 
 This Master Service Agreement (the “Agreement”), dated ________ (the “Effective Date”), is between ____________________ (the “Company”) on behalf of its sub-brands, such as ____________________, and  ____________________ (“Provider”), (together known as the “Parties”). 
 

@@ -8,7 +8,7 @@ description: Non-Disclosure Agreement (NDA)
 
 <br>
 
-## 保密協議 Non-Disclosure Agreement (NDA)
+## [保密協議 Non-Disclosure Agreement (NDA)](https://docs.google.com/document/d/19mm2YJS_0ES8R6t88vM39djoY_Dl62iz-ksDpCqBrWs/edit?usp=sharing){:target="_blank"}
 
 This Non-Disclosure Agreement, dated ____________________ (the “Effective Date”), governs the disclosure of information by and between ____________________ (**"The Company"**) on behalf of its sub-brands, such as ____________________, and _________________(**“Individual”**). 
 

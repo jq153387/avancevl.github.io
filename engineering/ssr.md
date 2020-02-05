@@ -82,6 +82,8 @@ description: Server Side Rendering
 
 ## React - Next.js
 
+* 建議使用[create-next-app](https://github.com/zeit/create-next-app){:target="_blank"}來建立新的app
+
 ### 線上資源
 
 * [Next.js](https://nextjs.org/){:target="_blank"}
@@ -89,6 +91,7 @@ description: Server Side Rendering
 	* SEO-Friendly Sites
 	* PWA
 * [Next.js - React Server-side Rendering Done Right](https://medium.com/better-programming/next-js-react-server-side-rendering-done-right-f9700078a3b6){:target="_blank"}
+* [Create Next App](https://github.com/zeit/create-next-app){:target="_blank"}
 
 
 #### Next.js如何結合Express.js

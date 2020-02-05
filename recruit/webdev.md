@@ -93,9 +93,11 @@ description: Web Developer Exam
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 [View Exam Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-[View Full Stack Sample Exam]({{ site.baseurl }}/recruit/sample_fullstackdev.html){: .btn#page-btn}
-[View Front End Sample Exam]({{ site.baseurl }}/recruit/sample_frontenddev.html){: .btn#page-btn}
-[View Back End Sample Exam]({{ site.baseurl }}/recruit/sample_backenddev.html){: .btn#page-btn}
+Below are links to Full Stack, Front-End, and Back-End Developer exams. Please familiarize yourself with the exam requirements and technology stacks prior to the exam date.
+
+[Full Stack Sample Exam]({{ site.baseurl }}/recruit/sample_fullstackdev.html){: .btn#page-btn}
+[Front End Sample Exam]({{ site.baseurl }}/recruit/sample_frontenddev.html){: .btn#page-btn}
+[Back End Sample Exam]({{ site.baseurl }}/recruit/sample_backenddev.html){: .btn#page-btn}
 
 ## Exam Instructions
 > **IMPORTANT:**

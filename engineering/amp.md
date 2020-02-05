@@ -53,5 +53,6 @@ export const config = {
 
 ## 線上資源
 
+* [Create AMP Pages](https://nextjs.org/learn/excel/amp){:target="_blank"}
 * [How to use AMP in Next.js](https://web.dev/how-to-use-amp-in-nextjs/){:target="_blank"}
 * [What is Next.js and how you can build an AMP page with it?](https://dev.to/quickly_react/what-is-next-js-and-how-you-can-build-an-amp-page-with-it-4g12){:target="_blank"}

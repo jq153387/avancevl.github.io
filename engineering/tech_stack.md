@@ -16,6 +16,8 @@ description: Tech Stack
 | JS測試架構 | **Jest** |
 | 使用者分析架構 | **Firebase** |
 | 資料庫架構 | **Firebase** |
+| 生產後端架構 | **Firebase** |
+| 生產演算架構 | **Cloud Functions** |
 
 ### 後端
 

@@ -13,8 +13,10 @@ description: Accelerated Mobile Pages
 
 ## 支持AMP的React.js架構
 
-| Next.js | 比較複雜或多網頁時 |
-| Gatsby.js | 比較小的網頁，blogs |
+| 架構 | HTML建立時刻 | 需要server? | 適合使用網頁 |
+| --- | --- | --- | --- |
+| Next.js | Real Time | 需要 | 比較複雜或多網頁時 |
+| Gatsby.js | Build Time | 不需 | 比較小的網頁，blogs |
 
 ## 如何在Next.js架構裡實作AMP
 
@@ -61,3 +63,4 @@ export const config = {
 * [Create AMP Pages](https://nextjs.org/learn/excel/amp){:target="_blank"}
 * [How to use AMP in Next.js](https://web.dev/how-to-use-amp-in-nextjs/){:target="_blank"}
 * [What is Next.js and how you can build an AMP page with it?](https://dev.to/quickly_react/what-is-next-js-and-how-you-can-build-an-amp-page-with-it-4g12){:target="_blank"}
+* [Gatsby vs Next.JS](https://dev.to/jameesy/gatsby-vs-next-js-what-why-and-when-4al5){:target="_blank"}

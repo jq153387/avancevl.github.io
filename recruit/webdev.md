@@ -91,7 +91,7 @@ description: Web Developer Exam
 1. [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-[View Exam Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
+[Exam Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 Below are links to Full Stack, Front-End, and Back-End Developer exams. Please familiarize yourself with the exam requirements and technology stacks prior to the exam date.
 

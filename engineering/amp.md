@@ -18,6 +18,7 @@ description: Accelerated Mobile Pages
 * Next.js提供兩種建立AMP網頁的方式。
 
 * **Hybrid AMP** 每個Next.js會自動產出相對應的網頁
+
 `pages/home.js`
 ```javascript
 import { useAmp } from 'next/amp'
@@ -35,7 +36,9 @@ export default () => {
    )
 }
 ```
+
 * **AMP-only** 只有AMP版本的網頁
+
 `pages/index.js`
 ```javascript
 import Nav from '../components/nav'

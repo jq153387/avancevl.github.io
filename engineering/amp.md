@@ -11,6 +11,11 @@ description: Accelerated Mobile Pages
 * 在手機環境page load速度會提高
 * Google SEO排名會提高
 
+## 支持AMP的React.js架構
+
+| Next.js | 比較複雜或多網頁時 |
+| Gatsby.js | 比較小的網頁，blogs |
+
 ## 如何在Next.js架構裡實作AMP
 
 * 雖然Next.js是個React.js的架構，當你用AMP時你的網頁就不可能是client side React了，因為兩個網頁的理念是完全衝突的。

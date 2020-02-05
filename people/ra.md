@@ -8,7 +8,7 @@ description: Retainer Agreement (RA)
 
 <br>
 
-## 聘用協議 Retainer Agreement (MSA)
+## [聘用協議 Retainer Agreement (MSA)](https://docs.google.com/document/d/1yFiQ4hCd3NAs9H3T1txIrv2IXMoXQ91rlWzeCkNhrR4/edit?usp=sharing){:target="_blank"}
 
 This Retainer Agreement (the “Agreement”), dated ________ (the “Effective Date”), is between ____________________ (the “Company”) on behalf of its sub-brands, such as ____________________, and  ____________________ (“Provider”), (together known as the “Parties”). 
 

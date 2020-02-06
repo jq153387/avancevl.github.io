@@ -4,6 +4,8 @@ title: 即時網路架構
 description: Realtime Web Stack
 ---
 
+| WebSocket 架構 | **socket.io** |
+
 ## 即時通訊 Realtime Communication
 
 ### Web Sockets

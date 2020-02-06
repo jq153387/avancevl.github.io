@@ -70,7 +70,7 @@ description: Desktop App Stack
 * [github: NodeRT](https://github.com/NodeRT/NodeRT){:target="_blank"}
 
 
-### Windows Eletron
+### Windows Electron
 
 * Electron有內建JavaScript API呼叫Windows功能
 * [Slack: Introducing Electron to the Windows Runtime](https://slack.engineering/introducing-electron-to-the-windows-runtime-4fa789b93d90){:target="_blank"}

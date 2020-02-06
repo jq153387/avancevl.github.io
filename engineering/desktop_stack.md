@@ -19,9 +19,9 @@ description: Desktop App Stack
 * [`node-addons`](https://nodejs.org/api/addons.html){:target="_blank"}
 * Addons are dynamically-linked shared objects written in C++. The require() function can load Addons as ordinary Node.js modules. Addons provide an interface between JavaScript and C/C++ libraries.
 * There are three options for implementing Addons:
-	* [N-API](https://nodejs.org/api/n-api.html){:target="_blank"}
-	* [V8](https://v8docs.nodesource.com/){:target="_blank"}
-	* [libuv](https://github.com/libuv/libuv){:target="_blank"}
+	* [`N-API`](https://nodejs.org/api/n-api.html){:target="_blank"}
+	* [`V8`](https://v8docs.nodesource.com/){:target="_blank"}
+	* [`libuv`](https://github.com/libuv/libuv){:target="_blank"}
 	* `node::ObjectWrap` class
 
 
@@ -80,9 +80,9 @@ description: Desktop App Stack
 ### Windows Node API
 
 * 可以寫C++也可以不寫
-* [npm: win32-api](https://www.npmjs.com/package/win32-api){:target="_blank"}
-* [npm: nodert-win10](https://www.npmjs.com/~nodert-win10){:target="_blank"}
-* [github: NodeRT](https://github.com/NodeRT/NodeRT){:target="_blank"}
+* [`npm: win32-api`](https://www.npmjs.com/package/win32-api){:target="_blank"}
+* [`npm: nodert-win10`](https://www.npmjs.com/~nodert-win10){:target="_blank"}
+* [`github: NodeRT`](https://github.com/NodeRT/NodeRT){:target="_blank"}
 
 
 ### Windows Electron
@@ -114,8 +114,8 @@ description: Desktop App Stack
 
 ### macOS Node API
 
-* [github: node-applescript](https://github.com/TooTallNate/node-applescript){:target="_blank"}
-* [github: NodObjC](https://github.com/TooTallNate/NodObjC){:target="_blank"}
+* [`github: node-applescript`](https://github.com/TooTallNate/node-applescript){:target="_blank"}
+* [`github: NodObjC`](https://github.com/TooTallNate/NodObjC){:target="_blank"}
 * [SO: Node.js native macOS framework example](https://stackoverflow.com/questions/45822915/node-js-native-macos-framework-example){:target="_blank"}
 	* Node.js的addon某組只能用C++寫，無法用Objective C
 * [SO: Can I use OSX native API's in electron](https://stackoverflow.com/questions/34670514/can-i-use-osx-native-apis-in-electron){:target="_blank"}

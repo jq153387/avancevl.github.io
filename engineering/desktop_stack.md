@@ -101,6 +101,18 @@ description: Desktop App Stack
 
 ## macOS
 
+* [Creating Launch Daemons and Agents](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html){:target="_blank"}
+* [How to Create a Background Service on Mac OS X](https://www.codepool.biz/how-to-create-a-background-service-on-mac-os-x.html){:target="_blank"}
+
+
+### macOS Native API
+
+* [Apple Dev: Window Layering and Types of Window](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/WinPanel/Concepts/ChangingMainKeyWindow.html){:target="_blank"}
+	* **Key Window.** The key window responds to user input, whether from the keyboard, mouse, or alternative input devices, for an application and is the primary recipient of messages from menus and panels. Usually, a window is made key when the user clicks it. Each application can have only one key window at a given time.
+	* **Main Window.** The main window is the standard window where the user is currently working. The main window is not always the key window. There are times when a window other than the main window takes the focus of the input device, while the main window still remains the focus of the user’s attention and of user actions carried out in panels and menus.
+* [SO: In OS X, how can I detect when the currently active application changes?](https://stackoverflow.com/questions/9204243/in-os-x-how-can-i-detect-when-the-currently-active-application-changes){:target="_blank"}
+
+
 ### macOS Node API
 
 * [github: node-applescript](https://github.com/TooTallNate/node-applescript){:target="_blank"}

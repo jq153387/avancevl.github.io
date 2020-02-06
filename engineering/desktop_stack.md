@@ -32,6 +32,10 @@ description: Desktop App Stack
 ## Windows
 
 * [Using Native Windows Features from Electron](https://felixrieseberg.com/using-native-windows-features-from-electron/){:target="_blank"}
+	* Calling Windows with Electron's APIs
+	* Native Node Addons (without C++)
+	* Native Node Addons (with C++)
+* [SO: Why is it said that WinRT replaces the  Windows API](https://stackoverflow.com/questions/31273757/why-is-it-said-that-winrt-replaces-the-windows-api){:target="_blank"}
 
 
 ### Windows Native API

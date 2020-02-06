@@ -169,6 +169,8 @@ toc:
             subsubsubfolderitems:
               - page: 使用者轉介架構 User Referral
                 url: /engineering/referral.html
+          - page: 桌面程式架構 Desktop App Stack
+            url: /engineering/desktop_stack.html
           - page: 開發環境 Development Environment
             url: /engineering/devenv.html
       - page: 工作速率 Velocity of Work

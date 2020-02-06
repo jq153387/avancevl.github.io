@@ -6,11 +6,23 @@ description: Desktop App Stack
 
 | 跨平台桌面程式架構 | **Electron** |
 
+<br>
+
+---
+
+<br>
+
 ## 跨平台桌面程式架構 Cross Platform - Electron
 
 * [Slack: Building Hybrid Applications with Electron](https://slack.engineering/building-hybrid-applications-with-electron-dc67686de5fb){:target="_blank"}
 * [Learn to build your own desktop chat app with React and Electron](https://www.freecodecamp.org/news/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f/){:target="_blank"}
 
+
+<br>
+
+---
+
+<br>
 
 ## Node.js跟OS如何連結
 

@@ -9,8 +9,6 @@ description: Desktop App Stack
 
 ## 多桌面程式架構 Cross Platform - Electron
 
-### 線上資源
-
 * [Slack: Building Hybrid Applications with Electron](https://slack.engineering/building-hybrid-applications-with-electron-dc67686de5fb){:target="_blank"}
 * [Learn to build your own desktop chat app with React and Electron](https://www.freecodecamp.org/news/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f/){:target="_blank"}
 
@@ -25,10 +23,18 @@ description: Desktop App Stack
 		* [libuv](https://github.com/libuv/libuv){:target="_blank"}
 		* `node::ObjectWrap` class
 
+<br>
+
+---
+
+<br>
 
 ## Windows
 
-#### Windows Native API
+* [Using Native Windows Features from Electron](https://felixrieseberg.com/using-native-windows-features-from-electron/){:target="_blank"}
+
+
+### Windows Native API
 * [MS Docs: Choose your app platform](https://docs.microsoft.com/en-us/windows/apps/desktop/choose-your-platform#uwp){:target="_blank"}
 	* Universal Windows Platform (UWMP)
 	* WPF (.NET)
@@ -52,22 +58,28 @@ description: Desktop App Stack
 
 
 
-#### Windows Node API
+### Windows Node API
 
 * [npm: win32-api](https://www.npmjs.com/package/win32-api){:target="_blank"}
 * [npm: nodert-win10](https://www.npmjs.com/~nodert-win10){:target="_blank"}
 * [github: NodeRT](https://github.com/NodeRT/NodeRT){:target="_blank"}
 
 
-#### Windows Eletron
+### Windows Eletron
 
 * [Slack: Introducing Electron to the Windows Runtime](https://slack.engineering/introducing-electron-to-the-windows-runtime-4fa789b93d90){:target="_blank"}
 	* 簡單介紹如何包裝Eletrcon App上Windows App Store
 
 
+<br>
+
+---
+
+<br>
+
 ## macOS
 
-#### macOS Node API
+### macOS Node API
 
 * [github: node-applescript](https://github.com/TooTallNate/node-applescript){:target="_blank"}
 * [github: NodObjC](https://github.com/TooTallNate/NodObjC){:target="_blank"}

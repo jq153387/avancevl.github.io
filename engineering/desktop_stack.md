@@ -13,15 +13,30 @@ description: Desktop App Stack
 * [Learn to build your own desktop chat app with React and Electron](https://www.freecodecamp.org/news/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f/){:target="_blank"}
 
 
-#### Node.js跟OS如何連結
+## Node.js跟OS如何連結
 
-* [Node.js C++ Addons](https://nodejs.org/api/addons.html){:target="_blank"}
-	* Addons are dynamically-linked shared objects written in C++. The require() function can load Addons as ordinary Node.js modules. Addons provide an interface between JavaScript and C/C++ libraries.
-	* There are three options for implementing Addons:
-		* [N-API](https://nodejs.org/api/n-api.html){:target="_blank"}
-		* [V8](https://v8docs.nodesource.com/){:target="_blank"}
-		* [libuv](https://github.com/libuv/libuv){:target="_blank"}
-		* `node::ObjectWrap` class
+### Node.js C++ Addons
+
+* [`node-addons`](https://nodejs.org/api/addons.html){:target="_blank"}
+* Addons are dynamically-linked shared objects written in C++. The require() function can load Addons as ordinary Node.js modules. Addons provide an interface between JavaScript and C/C++ libraries.
+* There are three options for implementing Addons:
+	* [N-API](https://nodejs.org/api/n-api.html){:target="_blank"}
+	* [V8](https://v8docs.nodesource.com/){:target="_blank"}
+	* [libuv](https://github.com/libuv/libuv){:target="_blank"}
+	* `node::ObjectWrap` class
+
+
+### Node.js Foreign Function Interface
+
+* [`node-ffi`](https://www.npmjs.com/package/ffi){:target="_blank"}
+* `node-ffi` is a Node.js addon for loading and calling dynamic libraries using pure JavaScript. It can be used to create bindings to native libraries without writing any C++ code.
+* It also simplifies the augmentation of node.js with C code as it takes care of handling the translation of types across JavaScript and C, which can add reams of boilerplate code to your otherwise simple C. 
+
+### Shell.js - Unix shell commands for Node.js
+
+* [Node Child Process](https://nodejs.org/api/child_process.html){:target="_blank"}
+* [`shelljs`](https://www.npmjs.com/package/shelljs){:target="_blank"}
+	* ShellJS is a portable (Windows/Linux/OS X) implementation of Unix shell commands on top of the Node.js API. You can use it to eliminate your shell script's dependency on Unix while still keeping its familiar and powerful commands. You can also install it globally so you can run it from outside Node projects - say goodbye to those gnarly Bash scripts!
 
 <br>
 
@@ -39,6 +54,7 @@ description: Desktop App Stack
 
 
 ### Windows Native API
+
 * [MS Docs: Choose your app platform](https://docs.microsoft.com/en-us/windows/apps/desktop/choose-your-platform#uwp){:target="_blank"}
 	* Universal Windows Platform (UWMP)
 	* WPF (.NET)
@@ -89,3 +105,6 @@ description: Desktop App Stack
 
 * [github: node-applescript](https://github.com/TooTallNate/node-applescript){:target="_blank"}
 * [github: NodObjC](https://github.com/TooTallNate/NodObjC){:target="_blank"}
+* [SO: Node.js native macOS framework example](https://stackoverflow.com/questions/45822915/node-js-native-macos-framework-example){:target="_blank"}
+	* Node.js的addon某組只能用C++寫，無法用Objective C
+* [SO: Can I use OSX native API's in electron](https://stackoverflow.com/questions/34670514/can-i-use-osx-native-apis-in-electron){:target="_blank"}

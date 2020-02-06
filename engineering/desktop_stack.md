@@ -55,7 +55,7 @@ description: Desktop App Stack
 
 <br>
 
-## Windows
+## Windows桌面API
 
 * [Using Native Windows Features from Electron](https://felixrieseberg.com/using-native-windows-features-from-electron/){:target="_blank"}
 	* Calling Windows with Electron's APIs
@@ -110,7 +110,7 @@ description: Desktop App Stack
 
 <br>
 
-## macOS
+## macOS桌面API
 
 * [Creating Launch Daemons and Agents](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html){:target="_blank"}
 * [How to Create a Background Service on Mac OS X](https://www.codepool.biz/how-to-create-a-background-service-on-mac-os-x.html){:target="_blank"}

@@ -53,7 +53,8 @@ description: Front-End Stack
 
 ### 線上資源
 
-* [GitHub: React Starter Kit for Firebase](https://github.com/kriasoft/react-firebase-starter){:target="_blank"}
+* [`github: React Starter Kit for Firebase`](https://github.com/kriasoft/react-firebase-starter){:target="_blank"}
+* [**React Rainbow**](https://react-rainbow.web.app/){:target="_blank"}
 
 <br>
 

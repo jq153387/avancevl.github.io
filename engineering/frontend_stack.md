@@ -104,3 +104,5 @@ description: Front-End Stack
 
 ## Resources
 | React UI components collection | https://react-rainbow.web.app/ |
+| JavaScript Graphics | https://www.chartjs.org/ |
+| Font Scripts | https://developers.google.com/fonts/docs/developer_api |

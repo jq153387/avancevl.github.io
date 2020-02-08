@@ -93,3 +93,18 @@ description: Front-End Stack
 1. 商業邏輯可以放在Redux模組裡
 1. 一開始可能會有些開發成本，但之後程式比較好整理
 1. 純畫面模組也比較好測試Unit Test
+
+<br>
+
+---
+
+<br>
+
+# 前端持續性資料架構
+
+## Resources
+| React UI components collection | https://react-rainbow.web.app/ |
+| JavaScript Graphics | https://www.chartjs.org/ |
+| Font Scripts | https://developers.google.com/fonts/docs/developer_api |
+| Polyfill | https://github.com/financial-times/polyfill-service |
+

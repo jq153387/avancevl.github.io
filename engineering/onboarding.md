@@ -11,6 +11,12 @@ description: Engineer Onboarding
         - [生產架構]({{ site.baseurl }}/engineering/prod_infra.html){:target="_blank"}
         - [使用者分析]({{ site.baseurl }}/engineering/analytics.html){:target="_blank"}
         - [前端架構]({{ site.baseurl }}/engineering/frontend_stack.html){:target="_blank"}
+            - [SSR前端架構]({{ site.baseurl }}/engineering/ssr.html){:target="_blank"}
+            - [AMP前端架構]({{ site.baseurl }}//engineering/amp.html){:target="_blank"}
+            - [PWA前端架構]({{ site.baseurl }}//engineering/pwa.html){:target="_blank"}
+            - [手機應用程式架構]({{ site.baseurl }}//engineering/mobile.html){:target="_blank"}
+            - [UI設計原則]({{ site.baseurl }}//engineering/ui_design.html){:target="_blank"}
+            - [HTML5架構]({{ site.baseurl }}//engineering/html5.html){:target="_blank"}
         - [後端架構]({{ site.baseurl }}/engineering/backend_stack.html){:target="_blank"}
             - [轉介架構]({{ site.baseurl }}/engineering/referral.html){:target="_blank"}
         - [開發環境]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}

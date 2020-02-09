@@ -19,6 +19,8 @@ description: Engineer Onboarding
             - [HTML5架構]({{ site.baseurl }}//engineering/html5.html){:target="_blank"}
         - [後端架構]({{ site.baseurl }}/engineering/backend_stack.html){:target="_blank"}
             - [轉介架構]({{ site.baseurl }}/engineering/referral.html){:target="_blank"}
+        - [桌面程式架構]({{ site.baseurl }}/engineering/desktop_stack.html){:target="_blank"}
+        - [即時網路架構]({{ site.baseurl }}/engineering/realtime_stack.html){:target="_blank"}
         - [開發環境]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
 	- Scrum [工作速率]({{ site.baseurl }}/engineering/velocity_work.html){:target="_blank"}
         - [產品開發流程]({{ site.baseurl }}/engineering/product_cycle.html){:target="_blank"}

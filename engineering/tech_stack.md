@@ -6,10 +6,6 @@ description: Tech Stack
 
 | 數據更新時間 | 2月2020年 |
 
-## 程式語言
-
-<img src='https://lh3.googleusercontent.com/-TlZUxV1mEeJ42K-OkpjUMgUClJSaty-in5uP5Ab14V7sx3HYKPLxLBwn70BojJ8tUzXQ86Qi9oGiegrdsr-mqPws9JTOT5PiqTONjQnBSqAnPTmTXUg7QBgm1v66YiEGzUbunwbgA=w2400' />
-
 ## 整體技術架構
 
 | JS代碼格式風格 | **Airbnb** |

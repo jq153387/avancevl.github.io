@@ -41,6 +41,12 @@ description: Daily Updates
 * 對錯誤方向調整方向，讓錯誤方向最多持續不超過一天
 * 確保代碼都有持續備份到雲端Git Repo
 
+<img src='https://lh3.googleusercontent.com/nmVX4HSRkRw_9ftgawHLR-OVdOYC8KBrTHiK2Dn0F3OhpQ9KiUgQlIxbLrOdKsQr_32_W6gRtwYlKnSUdlYDkppCTHXMhiOA35DJ73qkae88GnR3bIMWP5bx2xiiIz8KFUMEIBZzJg=w800' />
+
+<br>
+
+---
+
 <br>
 
 # 兼職合作

@@ -36,16 +36,14 @@ body {
 a {
 	color: #41c7c7;
 }
+a:hover {
+	color: #fc6969;
+}
 .main-content {
 	color: #e0e4e4;
 }
 .main-content pre {
 	background-color: #e0e4e4;
-}
-.main-content.div#highlight {
-	background-color: #2a2d33;
-	border-color: #2a2d33;
-	color: #e0e4e4;
 }
 .main-content hr {
 	border: #2a2d33;

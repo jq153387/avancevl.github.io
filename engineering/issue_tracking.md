@@ -13,6 +13,8 @@ description: Issue Tracking
 1. 優先權 (Priority)
 1. 時間估計（Time Estimate）
 
+<img src='https://lh3.googleusercontent.com/7w7NZu3F5zVrzixjhx5qYeVU54nQERp7WiAMECaQoyQJ3zCQgciMy8vrtX1RKH_zPpZCJeiejvLOmeZc161BVPtd6k3pQI64EBvIrA2dvoyOm39Zh52C0B0OB9R5k8ihuqWm7fZnEw=w800' />
+
 
 ### 故事分數（Story Points）：KPI分數（KPI Points）
 

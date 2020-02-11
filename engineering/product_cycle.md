@@ -14,6 +14,8 @@ description: Product Development Cycle
 1. Someone in charge of product. They are responsible for making sure team meets product goals, and team got product out the door.
 1. KPIs (new content, new users, retained users)
 
+<img src='https://lh3.googleusercontent.com/ttlT2l7oSO5M7VaNxOY7sAhlVl76D12x-BEgSg4If9CHxg-5qYfO0n0rc-DbZxmsvRqXW4fEQWQ1jJKUmtqATbka4FNu8kE3c2WHBPZZqNsQnfDIDvNvFo9cZEw6L685j6UKj8Yd3w=w1200' />
+
 ## 產品會議
 
 * Only one meeting, at the beginning of the product development cycle

@@ -15,12 +15,11 @@ Slack is the primary means of communication within teams at AVL. The main develo
 * `#dev-front-end`
 * `#devops`
 
-## Engineering Mailing List
-You will be added to the relevant email lists as part of your onboarding process.
+## GitLab Project Backlog
 
-## JIRA Project Backlog
+All engineering tasks and features originate from a GitLab issues ticket. The ticket will describe the features list, deliverables, story points, priority, and relevant manager. GitLab (and JIRA) is the **primary software project management tool** used to manage software at our firm.
 
-All engineering tasks and features originate from a JIRA issues ticket. The ticket will describe the features list, deliverables, story points, priority, and relevant manager. JIRA is the **primary software project management tool** used to manage software at our firm.
+<img src='https://lh3.googleusercontent.com/Cl58tzeefDH0QrBFzSgyu9B5m-Z05noYHeWJiwrJH0SSUMEaeheUH4laWHkOrasWu8Q98BQAhTC1Y4FAz0dh9JztBjb-PN_KVHUewG9l_NbJGS29Ecd9bFovWiQMr5yK9uZC44JsqA=w1200' />
 
 ## 1-Week Sprints
 

@@ -18,6 +18,8 @@ description: Daily Updates
 #### 2. 今天打算做什麼
 #### 3. 什麼卡住你的進度
 
+<img src='https://lh3.googleusercontent.com/pdRb_FK6oJcMC0nrRsZG0yXtQfBVF9ZDeimO8Y8NOBdJm0plJr7iSwE4aDMVjQhY7SUQWnJgCOZ-jCYhgwH1Gin3FlO15MV1p-d706Xpb5Mr96IGUz22Eiu0of4sxok96nXe7NDOpg=w800' />
+
 * 如果有需要的話，會有Zoom的視訊。
 
 <img src='https://lh3.googleusercontent.com/4tSI6OvfmNu-ZrrgNGl8iL6hgsdC4_IPOesghAL9uxuHLOnB2yZxkWpTONFk2NXXv8LbSm2UYVONVWafrrX6c8D-SNROLS8DkKybwsPwk8w9yn8xx6mRTzSTzo8Hwq8y0hjeuJ5mRg=w800' />

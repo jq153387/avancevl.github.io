@@ -2,15 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-	background-color: #22252a;
-}
-.highlight {
-	background-color: #2a2d33;
-	color: e0e4e4;
-}
 .page-header {
-	background-color: #2a2d33;
+	background-color: #000037;
 	background-image: none;
 }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {

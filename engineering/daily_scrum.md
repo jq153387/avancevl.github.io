@@ -20,7 +20,7 @@ description: Daily Updates
 
 * 如果有需要的話，會有Zoom的視訊。
 
-<img src='https://lh3.googleusercontent.com/BVamrpj0ZMYHdJA0XAmgxIXRRHkyNgZ0zkl_VGukP5_VwgOglriZqZpXtxM2lOQDQesmX9iIDDISEARSFz9Guz0Qe-t9wlNLN4vSnUi2KQZPbdHUPm-CD-uDbe8dN0YHUzQY4PJohQ=800' />
+<img src='https://lh3.googleusercontent.com/4tSI6OvfmNu-ZrrgNGl8iL6hgsdC4_IPOesghAL9uxuHLOnB2yZxkWpTONFk2NXXv8LbSm2UYVONVWafrrX6c8D-SNROLS8DkKybwsPwk8w9yn8xx6mRTzSTzo8Hwq8y0hjeuJ5mRg=w800' />
 
 ### 報告例子
 

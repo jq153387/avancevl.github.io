@@ -20,6 +20,8 @@ description: Daily Updates
 
 * 如果有需要的話，會有Zoom的視訊。
 
+<img src='https://lh3.googleusercontent.com/BVamrpj0ZMYHdJA0XAmgxIXRRHkyNgZ0zkl_VGukP5_VwgOglriZqZpXtxM2lOQDQesmX9iIDDISEARSFz9Guz0Qe-t9wlNLN4vSnUi2KQZPbdHUPm-CD-uDbe8dN0YHUzQY4PJohQ=800' />
+
 ### 報告例子
 
 > 1. 昨天做了什麼

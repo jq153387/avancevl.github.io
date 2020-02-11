@@ -14,9 +14,9 @@ description: Daily Updates
 * 中午12點以前必需完成
 * 在Slack貼：
 
-#### 1. 昨天做了什麼
-#### 2. 今天打算做什麼
-#### 3. 什麼卡住你的進度
+> 1. 昨天做了什麼
+> 2. 今天打算做什麼
+> 3. 什麼卡住你的進度
 
 <img src='https://lh3.googleusercontent.com/pdRb_FK6oJcMC0nrRsZG0yXtQfBVF9ZDeimO8Y8NOBdJm0plJr7iSwE4aDMVjQhY7SUQWnJgCOZ-jCYhgwH1Gin3FlO15MV1p-d706Xpb5Mr96IGUz22Eiu0of4sxok96nXe7NDOpg=w800' />
 

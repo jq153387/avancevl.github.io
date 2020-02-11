@@ -7,5 +7,5 @@ description: Policies & Legal
 ## 工作合約
 
 * [保密協議]({{ site.baseurl }}/people/nda.html)
-* [主要服務協議]({{ site.baseurl }}/people/msa.html)
-* [服務報價單]({{ site.baseurl }}/people/sow.html)
+* [聘用協議]({{ site.baseurl }}/people/ra.html)
+* [員工協議]({{ site.baseurl }}/people/ea.html)

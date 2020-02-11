@@ -5,10 +5,6 @@
 body {
 	background-color: #22252a;
 }
-.highlight {
-	background-color: #2a2d33;
-	color: #e0e4e4;
-}
 .page-header {
 	background-color: #22252a;
 	background-image: none;
@@ -41,5 +37,9 @@ a {
 	color: #41c7c7;
 }
 .main-content {
+	color: #e0e4e4;
+}
+.highlighter-rouge {
+	background-color: #2a2d33;
 	color: #e0e4e4;
 }

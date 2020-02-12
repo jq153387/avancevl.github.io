@@ -8,7 +8,8 @@ description: Math Latex
 
 ## Katex
 
-* Server-side rendering or rendering to a string
+* 用latex表達數學公式
+* 資源server side rendering或generate HTML
 * To generate HTML on the server or to generate an HTML string of the rendered math, you can use 
 
 ```javascript
@@ -26,7 +27,8 @@ var html = katex.renderToString("c = \\pm\\sqrt{a^2 + b^2}", {
 
 ## MathJax
 
-* You are correct that AMP doesn't support custom javascript.
+* 可以用latex表達數學公式
+* 使用custom JavaScript，實作AMP比較困難
 * The AMP pages only allow third-party JavaScript but only in sandboxed iframes. By restricting them to iframes, they can’t block the execution of the main page. Even if they trigger multiple style re-calculations, their tiny iframes have very little DOM.
 * [MathJax Docs](http://docs.mathjax.org/en/latest/){:target="_blank"}
 * [SO: AMP support for Latex Maths](https://stackoverflow.com/questions/41095862/accelerated-mobile-pages-support-for-latex-maths){:target="_blank"}
@@ -37,6 +39,7 @@ var html = katex.renderToString("c = \\pm\\sqrt{a^2 + b^2}", {
 
 ## MathML
 
+* 無法用latex表達數學公式
 * [Mathematical Markup Language](https://www.w3.org/Math/whatIsMathML.html){:target="_blank"}
 * [`github: mathml.js`](https://github.com/ampproject/amphtml/blob/master/3p/mathml.js){:target="_blank"}
 * [`amp-mathml`](https://amp.dev/documentation/components/amp-mathml/?referrer=ampproject.org){:target="_blank"}

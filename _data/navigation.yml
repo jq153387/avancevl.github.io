@@ -29,6 +29,8 @@ toc:
       - page: 執行策略 Execution Strategy
         url: /principles/strategy.html
         subsubfolderitems:
+          - page: 敏捷流程 Agile
+            url: /principles/agile.html
           - page: 遠端工作 Remote
             url: /principles/remote.html
           - page: 工作語言 Language

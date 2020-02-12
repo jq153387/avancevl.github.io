@@ -4,7 +4,7 @@ title: 敏捷流程
 description: Agile
 ---
 
-## Three Laws of Agile
+## 敏捷流程的三原則
 
 The three laws of Agile are thus:
 
@@ -12,7 +12,7 @@ The three laws of Agile are thus:
 1. The **Law of the Small Team**—a presumption that all work be carried out by small self -organizing teams, working in short cycles and focused on delivering value to customers—and
 1. The **Law of the Network**—a continuing effort to obliterate bureaucracy and top-down hierarchy so that the firm operates as an interacting network of teams, all focused on working together to deliver increasing value to customers.
 
-## Agile Manifesto
+## 敏捷流程的承諾
 
 * **Individuals and interactions** over processes and tools
 * **Working software** over comprehensive documentation
@@ -20,6 +20,7 @@ The three laws of Agile are thus:
 * **Responding to change** over following a plan
 
 We follow these principles:
+
 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.

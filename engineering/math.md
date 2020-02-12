@@ -6,6 +6,16 @@ description: Math Latex
 
 | 數學公式前端 | Katex |
 
+
+```
+% \f is defined as f(#1) using the macro
+\f{x} = \int_{-\infty}^\infty
+    \hat \f\xi\,e^{2 \pi i \xi x}
+    \,d\xi
+```
+
+<img src='https://lh3.googleusercontent.com/r06UkwptOnTfXgB-RS8SmCPnz3uANspqs1WOt4mrisUJPHQy6O5ucqeVLbffmxuM8agbOenfXfkh3ann8iXpUetjVTsd5iWi2y2jlViTcrx_Mu6zDLyHUeDDVZ3RywPAYBgWguSWtg=200' />
+
 ## Katex
 
 * 用latex表達數學公式

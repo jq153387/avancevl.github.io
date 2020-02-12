@@ -8,7 +8,7 @@ description: Database
 
 ## Firebase - Cloud Firestore
 
-### 比較好的query
+### 比較好的讀取資料
 
 While the Realtime Database is just a giant JSON tree, Cloud Firestore is a little more structured. All your data consists of documents (which are basically key-value stores) and collections (which are collections of documents). Documents will also frequently point to subcollections, which contain other documents, which themselves can contain other documents, and so on.
 

@@ -53,6 +53,7 @@ var html = katex.renderToString("c = \\pm\\sqrt{a^2 + b^2}", {
 ## MathML
 
 * 無法用latex表達數學公式
+* 列示XML的markup language，不適合人去直接讀寫
 * [Mathematical Markup Language](https://www.w3.org/Math/whatIsMathML.html){:target="_blank"}
 * [`github: mathml.js`](https://github.com/ampproject/amphtml/blob/master/3p/mathml.js){:target="_blank"}
 * [`amp-mathml`](https://amp.dev/documentation/components/amp-mathml/?referrer=ampproject.org){:target="_blank"}

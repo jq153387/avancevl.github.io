@@ -7,6 +7,8 @@ description: Math Latex
 | 數學公式前端 | Katex |
 
 
+## Latex
+
 ```
 % \f is defined as f(#1) using the macro
 \f{x} = \int_{-\infty}^\infty

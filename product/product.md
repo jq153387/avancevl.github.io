@@ -8,3 +8,7 @@ description: Product
 
 * Design
 * Customer Feedback
+
+<br>
+
+[敏捷流程 Agile]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}{:target="_blank"}

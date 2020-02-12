@@ -11,3 +11,7 @@ description: Growth
 * Branding
 * User Acquisition
 * User Retention
+
+<br>
+
+[敏捷流程 Agile]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}{:target="_blank"}

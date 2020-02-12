@@ -73,16 +73,16 @@ export const config = {
 
 ## AMP及CSS的一些結合問題
 
-* CSS imports is non-standard behavior in AMP
+* CSS imports is non-standard behavior in AMP,
 * Linking external CSS files is not even supported in AMP, they'd have to be inlined.
-* AMP has restrictions on the amount of css that can be sent which are very restrictive so css imports will send too much css in general.
+* AMP has restrictions on the amount of CSS that can be sent which are very restrictive so CSS imports will send too much CSS in general.
 
 ### Styled-JSX Webpack Loader
 
 * [`github: styled-jsx`](https://github.com/zeit/styled-jsx#nextjs){:target="_blank"}
 * We bundle styled-jsx to provide support for isolated scoped CSS. 
 * The aim is to support "shadow CSS" similar to Web Components, which unfortunately do not support server-rendering and are JS-only.
-* Hi, you can use the styled-jsx Webpack loader to import external CSS in AMP mode for now.
+* You can use the `styled-jsx` Webpack loader to import external CSS in AMP mode for now.
 * You just have to be careful to not go over the 50,000 bytes limit for styles in AMP.
 
 ```javascript

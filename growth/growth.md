@@ -6,9 +6,13 @@ description: Growth
 
 ## 如何業績成長
 
-* Sales
 * Marketing
-* Branding
+	* Inbound Channels
+	* Outbound Channels
+* Sales
+
+### KPI
+
 * User Acquisition
 * User Retention
 

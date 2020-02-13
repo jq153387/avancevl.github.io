@@ -4,6 +4,13 @@ title: 設計流程
 description: Design Process
 ---
 
+## 我們喜歡的網頁
+
+| 網頁 | 行業 | 喜歡的地方 |
+| --- | --- | --- |
+| [Airbnb](www.airbnb.com){:target="_blank"} | 旅行 | 簡單，清楚，功能性實際 |
+| [Mercury](www.mercury.com){:target="_blank"} | 金流 | 簡單，清楚，功能性實際 |
+
 ## Zeplin
 
 * Export designs in one click

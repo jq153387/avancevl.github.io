@@ -8,7 +8,13 @@ description: Growth
 
 * Marketing
 	* Inbound Channels
+		* Youtube
+		* Social Media
 	* Outbound Channels
+		* Social Media
+			* Facebook
+			* Instagram
+		* Google
 * Sales
 
 ### KPI

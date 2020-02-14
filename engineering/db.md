@@ -10,29 +10,29 @@ description: Database-as-a-Service
 
 ### 比較好的讀取資料
 
-While the Realtime Database is just a giant JSON tree, Cloud Firestore is a little more structured. All your data consists of documents (which are basically key-value stores) and collections (which are collections of documents). Documents will also frequently point to subcollections, which contain other documents, which themselves can contain other documents, and so on.
+儘管實時數據庫只是一棵巨大的JSON樹，但Cloud Firestore的結構更為合理。您的所有數據均由文檔（基本上是鍵值存儲）和集合（即文檔的集合）組成。文檔還將經常指向子集合，這些子集合包含其他文檔，它們本身也可以包含其他文檔，依此類推。
 
 ### 比較有結構的資料
 
-This structured data helps you out in two ways. First, all queries are shallow, meaning that you can request a document without grabbing all the data underneath. This means you can keep your data stored hierarchically in a way that makes more sense to you without having to worry about keeping your database shallow. Second, you have more powerful queries. For instance, you can now query across multiple fields without having to create those "combo" fields that combine (and denormalize) data from other parts of your database. In some cases, Cloud Firestore will just run those queries directly, and in other cases, it will automatically create and maintain indexes for you.
+這種結構化數據可以通過兩種方式幫助您。首先，所有查詢都是淺層的，這意味著您可以在不獲取其下所有數據的情況下請求文檔。這意味著您可以以對您更有意義的方式分層存儲數據，而不必擔心使數據庫變淺。其次，您擁有更強大的查詢。例如，您現在可以跨多個字段進行查詢，而不必創建那些組合（和去規範化）數據庫其他部分數據的“組合”字段。在某些情況下，Cloud Firestore只會直接運行這些查詢，而在其他情況下，它將為您自動創建和維護索引。
 
 ### 比較強的擴充性能
 
-Cloud Firestore will be able to scale better than the Realtime Database. It's important to note that your queries scale to the size of your result set, not your data set. So searching will remain fast no matter how large your data set might become.
+Cloud Firestore的擴展能力將優於實時數據庫。重要的是要注意您的查詢擴展到結果集的大小，而不是數據集的大小。因此，無論您的數據集有多大，搜索都將保持快速。
 
 ### 比較容易手動取資料
 
-Like the Realtime Database, you can set up listeners in Cloud Firestore to stream in changes in real-time. But if you don't want that kind of behavior, and just want a simple "fetch my data" call, Cloud Firestore has that as well, and it's built in as a primary use case. (They're much better than the once calls in Realtime Database-land)
+像實時數據庫一樣，您可以在Cloud Firestore中設置偵聽器以實時流式傳輸更改。但是，如果您不希望這種行為，而只希望進行簡單的“獲取我的數據”調用，則Cloud Firestore也可以做到這一點，並且它是作為主要用例內置的。 （它們比實時數據庫領域的一次調用要好得多）
 
 ### 資源多地區
 
-This basically means more reliability, as your data is shared across multiple data centers at once. But you still have strong consistency, meaning you can always make a query and be assured that you're getting the latest version of your data.
+基本上，這意味著更高的可靠性，因為您的數據可以在多個數據中心中一次共享。但是您仍然具有很強的一致性，這意味著您始終可以進行查詢，並可以確保獲得最新版本的數據。
 
 ### 不同的計價方式
 
-While the Realtime Database primarily charges based on storage or network bandwidth, Cloud Firestore primarily charges based on the number of operations you perform. Will this be better, or worse? It depends on your app.
+實時數據庫主要根據存儲或網絡帶寬收費，而Cloud Firestore主要根據您執行的操作數量收費。這會好還是壞？這取決於您的應用程序。
 
-For powering a news app, turn-based multiplayer game, or something like your own version of Stack Overflow, Cloud Firestore will probably look pretty favorable from a pricing standpoint. For something like a real-time group drawing app where you're sending across multiple updates a second to multiple people, it probably will be more expensive than the Realtime Database.
+對於新聞應用，回合製多人遊戲或您自己的Stack Overflow版本而言，Cloud Firestore從定價角度看可能會非常優惠。對於像實時小組繪圖應用程序這樣的應用程序，您需要將多個更新每秒發送給多個人，它可能會比實時數據庫昂貴。
 
 ### 線上資源
 
@@ -42,9 +42,9 @@ For powering a news app, turn-based multiplayer game, or something like your own
 
 ## Firebase - Realtime Database
 
-1. That whole "it'll probably be cheaper for apps that make lots of frequent updates"
-1. It's been around for a long time and has been battle tested by thousands of apps (Cloud Firestore is still in beta)
-1. It's got better latency and when you need something with reliably low latency for a real-timey feel, the Realtime Database might work better.
+1. 整個“對於經常更新的應用程序來說，它可能會便宜一些”
+1. 它已經存在很長時間了，並且已經過數千個應用程序的實戰測試（Cloud Firestore仍處於Beta版）
+1. 它具有更好的延遲，並且當您需要實時性低且可靠的東西時，實時數據庫可能會更好。
 
 <br>
 

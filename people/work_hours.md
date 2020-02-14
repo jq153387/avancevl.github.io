@@ -26,6 +26,8 @@ description: Work Hours
 
 ---
 
+<br>
+
 We value work-life balance. A transpearant expecation on work hours enable our team to be more productive.
 
 ## General Guidelines

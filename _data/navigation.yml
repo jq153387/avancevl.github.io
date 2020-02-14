@@ -182,7 +182,7 @@ toc:
       - page: 工作速率 Velocity of Work
         url: /engineering/velocity_work.html
         subsubfolderitems:
-          - page: 產品開發流程 Product Development Cycle
+          - page: 產品開發流程 Product Cycle
             url: /engineering/product_cycle.html
           - page: 計畫Scrum會議 Scrum Planning Meetings
             url: /engineering/scrum_meeting.html

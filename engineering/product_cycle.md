@@ -6,7 +6,7 @@ description: Product Cycle
 
 |產品週期| 1個衝刺| 1週 |
 
->我們的產品週期受到Michael Seibel的演講[**產品開發週期**]（https://www.youtube.com/watch?v=kzVvjKLdAbk）{：target =“ _blank”}的啟發
+>我們的產品週期受到Michael Seibel的演講[**產品開發週期**](https://www.youtube.com/watch?v=kzVvjKLdAbk){:target="_blank"}的啟發
 
 ## 產品週期
 

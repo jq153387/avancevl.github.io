@@ -18,13 +18,13 @@ description: Traditional Whiteboard Interview
 
 <br>
 
-##白板常規主題
+## 白板常規主題
 
 * 數組/字符串
 * 二叉樹
 * 鏈接列表
 *  DFS / BFS
-*回溯
+* 回溯
 * 動態編程
 
 

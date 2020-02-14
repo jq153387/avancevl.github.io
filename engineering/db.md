@@ -34,6 +34,10 @@ While the Realtime Database primarily charges based on storage or network bandwi
 
 For powering a news app, turn-based multiplayer game, or something like your own version of Stack Overflow, Cloud Firestore will probably look pretty favorable from a pricing standpoint. For something like a real-time group drawing app where you're sending across multiple updates a second to multiple people, it probably will be more expensive than the Realtime Database.
 
+### 線上資源
+
+* [Cloud Firestore Data Model](https://firebase.google.com/docs/firestore/data-model){:target="_blank"}
+
 <br>
 
 ## Firebase - Realtime Database

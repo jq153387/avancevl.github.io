@@ -4,8 +4,8 @@ title: UI設計原則
 description: UI Design
 ---
 
-| 西方市場UI設計架構 | React Bootstrap |
-| 中國市場UI設計架構 | Ant Design |
+| UI設計架構 | Material UI |
+| 主要因素 | RWD, React考慮 |
 
 <br>
 
@@ -68,6 +68,7 @@ description: UI Design
 * [官方網站](https://material-ui.com/){:target="_blank"}
 * 已經設計好的React.js component，適合跟React.js前端結合
 * CSS, HTML, JSX都整包設計好
+* 實作RWD比Bootstrap還容易及快速
 
 ## Material CSS
 

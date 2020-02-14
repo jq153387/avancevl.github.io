@@ -15,7 +15,7 @@ description: Quality Control & Testing
 
 ## 測試金字塔
 
-[**馬丁·福勒**]（https://martinfowler.com/bliki/TestPyramid.html）{：target =“ _blank”}
+[**馬丁·福勒**](https://martinfowler.com/bliki/TestPyramid.html){:target="_blank"}
 
 > 測試金字塔是一種思考方式，可以考慮使用各種自動測試來創建平衡的產品組合。關鍵點在於，通過GUI運行的高級**BroadStackTests**應該比高級**UnitTests**多得多。
 >

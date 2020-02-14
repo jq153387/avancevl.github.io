@@ -84,6 +84,7 @@ description: Server Side Rendering
 
 * 建議使用[create-next-app](https://github.com/zeit/create-next-app){:target="_blank"}來建立新的app
 
+
 ### 線上資源
 
 * [Next.js](https://nextjs.org/){:target="_blank"}
@@ -104,4 +105,9 @@ description: Server Side Rendering
 * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://codeburst.io/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2){:target="_blank"}
 * [Next-routers with Firebase Hosting on Cloud Functions](https://codeburst.io/next-routes-with-firebase-hosting-on-cloud-functions-e7c78308a24d){:target="_blank"}
 * [NextJS with Firebase Cloud Functions](https://stackoverflow.com/questions/45185452/nextjs-with-firebase-cloud-functions){:target="_blank"}
+
+
+#### Redux如何資源Server Side Render
+
+* [Server Side Rendering with Redux](https://redux.js.org/recipes/server-rendering/){:target="_blank"}
 

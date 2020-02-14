@@ -4,7 +4,7 @@ title: 員工福利
 description: Benefits
 ---
 
-##補償
+## 補償
 * [具有行業競爭力的薪水]({{ site.baseurl }}/people/engineering_level.html)
 * [與經驗相稱的補償]({{ site.baseurl }}/people/compensation.html)
 * [基於績效的年度獎金]({{ site.baseurl }}/engineering/performance_review.html)
@@ -33,16 +33,16 @@ description: Benefits
 	* 遊戲之夜
 	* 逃生室
 * [每月組織的技術講座]({{ site.baseurl }}/people/learning_training.html)
-*主要里程碑
-	*假日活動
-	*生日團隊慶祝
-	*主要里程碑慶祝活動和獎勵
+* 主要里程碑
+	* 假日活動
+	* 生日團隊慶祝
+	* 主要里程碑慶祝活動和獎勵
 * 社會事件
-	*與其他公司的攪拌機
-	*代表公司參加招聘活動
-*公司郊遊
-	*對年終活動，旅行進行投票
-	*領導力撤退
+	* 與其他公司的攪拌機
+	* 代表公司參加招聘活動
+* 公司郊遊
+	* 對年終活動，旅行進行投票
+	* 領導力撤退
 
 <br>
 

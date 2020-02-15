@@ -11,7 +11,7 @@ description: Design Process
 | [Airbnb](www.airbnb.com){:target="_blank"} | 旅行 | 簡單，清楚，功能性實際 |
 | [Mercury](www.mercury.com){:target="_blank"} | 金流 | 簡單，清楚，功能性實際 |
 
-## Design Style Guide
+## 設計 Style Guide
 
 * [How to Create a Style Guide From Scratch. Tips and Tricks](https://medium.muz.li/how-to-create-a-style-guide-from-scratch-tips-and-tricks-e00f25b423bf){:target="_blank"}
 * [21 Brand Style Guide Examples for Visual Inspiration](https://www.lingoapp.com/){:target="_blank"}
@@ -32,7 +32,7 @@ description: Design Process
 
 <br>
 
-## Design Management
+## 設計管理工具
 
 ### GitLab
 

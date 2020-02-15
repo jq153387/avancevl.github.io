@@ -6,7 +6,7 @@ description: Product Management
 
 該頁面概述了我們的產品開發週期和過程。有關我們產品的信息，請訪問下面的鏈接。
 
-[查看我們的產品]({{ site.baseurl }}/product.html){: .btn#page-btn}{:target="_blank"}
+[查看我們的產品]({{ site.baseurl }}/product.html){: .btn#page-btn}
 
 
 ##產品管理
@@ -17,7 +17,7 @@ description: Product Management
 
 <br>
 
-[我們的敏捷過程]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}{:target="_blank"}
+[我們的敏捷過程]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}
 
 
 <br>
@@ -28,7 +28,7 @@ description: Product Management
 
 This page is to outline our product development cycle and process. For information about our products, please visit the link below.
 
-[View Our Products]({{ site.baseurl }}/product.html){: .btn#page-btn}{:target="_blank"}
+[View Our Products]({{ site.baseurl }}/product.html){: .btn#page-btn}
 
 
 ## Product Mangement
@@ -39,4 +39,4 @@ This page is to outline our product development cycle and process. For informati
 
 <br>
 
-[Our Agile Process]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}{:target="_blank"}
+[Our Agile Process]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}

@@ -4,7 +4,35 @@ title: 業務行銷
 description: Growth
 ---
 
-## 如何業績成長
+## 成長策略
+
+* 營銷
+	* 入站通道
+		* YouTube
+		* 社交媒體
+	* 出站頻道
+		* 社交媒體
+			* Facebook
+			* Instagram的
+		* 谷歌
+* 銷售
+
+### 增長KPI
+
+* 用戶獲取
+* 用戶保留
+
+<br>
+
+[我們的敏捷過程]({{ site.baseurl }}/principles/agile.html)
+
+<br>
+
+--
+
+<br>
+
+## Grow Strategies
 
 * Marketing
 	* Inbound Channels
@@ -17,11 +45,11 @@ description: Growth
 		* Google
 * Sales
 
-### KPI
+### Growth KPI
 
 * User Acquisition
 * User Retention
 
 <br>
 
-[敏捷流程 Agile]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}{:target="_blank"}
+[Our Agile Process]({{ site.baseurl }}/principles/agile.html)

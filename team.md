@@ -63,15 +63,15 @@ description: Team
 
 我們按照以下節奏管理團隊：
 
-#### 敏捷Scrum /天
-#### 衝刺/週
-#### KPI和1對1的/月
-#### OKRs /季度
-#### 年度計劃/年份
-#### 策略/ 3年
-#### 願景/ 10年
-#### 使命/ 30年
-#### 大毛茸茸的大膽目標
+* 敏捷Scrum /天
+* 衝刺/週
+* KPI和1對1的/月
+* OKRs /季度
+* 年度計劃/年份
+* 策略/ 3年
+* 願景/ 10年
+* 使命/ 30年
+* 大毛茸茸的大膽目標
 
 <br>
 
@@ -87,7 +87,7 @@ _創辦人. 史丹佛校友. 技術熱愛者._
 
 ### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan的LinkedIn"){:target="_blank"}**
 
-_Co-Founder. 麻省理工校友. 新創熱愛者._
+_創辦人. 麻省理工校友. 新創熱愛者._
 
 <br>
 
@@ -119,7 +119,7 @@ _Co-Founder. 麻省理工校友. 新創熱愛者._
 
 <br>
 
-# About us
+# About Us
 
 We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, and Shanghai before building startups in Silicon Valley. We are now based in Hong Kong, Singapore, and Taipei. We create, build, and implement experiments quickly for profitable ideas. We make useful software. We value creating impact over being productive. 
 
@@ -175,15 +175,15 @@ There are many factors contributing a startup's success. Below are five and how 
 
 We run our team according to the following rhythm: 
 
-#### Agile Scrum / Day 
-#### Sprint / Week
-#### KPIs & 1-on-1's / Month
-#### OKRs / Quarter 
-#### Annual Plan / Year
-#### Strategy / 3 years
-#### Vision / 10 years
-#### Mission / 30 years
-#### Big Hairy Audacious Goal (BHAG)
+* Agile Scrum / Day 
+* Sprint / Week
+* KPIs & 1-on-1's / Month
+* OKRs / Quarter 
+* Annual Plan / Year
+* Strategy / 3 years
+* Vision / 10 years
+* Mission / 30 years
+* Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
 
 <br>

@@ -34,42 +34,80 @@ description: Team
 * 我們相信快速的**精進**與極度的**透明**將帶來有影響力的結果。
 * 我們比其他公司更重視**合作**和**效率**。
 
+## 秘製醬
+
+影響創業公司成功的因素很多。以下是五個，以及我們在AVL方面的卓越表現：
+
+1. **時間**
+
+我們無法把握市場時機，因為沒人能預測未來。但是，我們可以將風險最小化，將成功的可能性最大化。我們努力創造美好的未來，並感到幸運。
+
+
+2. **想法**
+
+我們立足事實，並通過尋找和解決根本原因來驅動。我們結構扁平，沒有等級制，是精英，這裡有最好的主意。
+
+3. **團隊**
+
+我們只與最好的人合作。每個新員工都比我們的上一個員工聰明。我們相信我們的團隊需要快速，有條理地執行。
+
+4. **商業模式**
+
+我們專注於獲利能力，有效的用戶獲取和快速增長。
+
+5. **資金**
+
+我們目前是自籌資金。如果您有興趣合作或投資，請與我們聯繫。
+
+## 節奏
+
+我們按照以下節奏管理團隊：
+
+#### 敏捷Scrum /天
+#### 衝刺/週
+#### KPI和1對1的/月
+#### OKRs /季度
+#### 年度計劃/年份
+#### 策略/ 3年
+#### 願景/ 10年
+#### 使命/ 30年
+#### 大毛茸茸的大膽目標
+
 <br>
 
-## 創辦團隊 Founders
+## 創辦團隊
 
 <img src='https://lh3.googleusercontent.com/ZVYB3JbfI5u9VbujgpSpCpaspCzCXLaiqb4DcniQIdZDPoKqwEPdhhv3biEIccwTs0ac-SkW5iBTtS-NpPZx8K-WAAtF6zelbxQqHxmYsruIZqMq2XuA79jWpGFJ0r0bM-32PqQ4QPM=w2400' width="222"/>
 
-### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
+### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary的LinkedIn"){:target="_blank"}**
 
-_Co-Founder. Stanford-grad. Tech expert._
+_創辦人. 史丹佛校友. 技術熱愛者._
 
 <img src='https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400' width="222"/>
 
-### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
+### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan的LinkedIn"){:target="_blank"}**
 
-_Co-Founder. MIT-grad. Startup enthusiast._
+_Co-Founder. 麻省理工校友. 新創熱愛者._
 
 <br>
 
-## 顧問團隊 Our Advisors
+## 顧問團隊
 
 我們有合作的夥伴來自：
-Consultants we have worked with or are currently working with, formally and informally, include:
 
-* Alibaba 阿里巴巴
-* Amazon.com 亞馬遜
-* American Express 美國運通
-* Apple 蘋果電腦
-* Dell 戴爾電腦
-* Facebook 臉書
-* Foxconn 富士康
-* Google 谷歌
-* McKinsey 麥肯錫
-* Microsoft 微軟
-* Samsung 三星
-* Transcend 創建
-* Tencent 騰訊
+* 阿里巴巴
+* 亞馬遜
+* 美國運通
+* 蘋果電腦
+* 戴爾電腦
+* 臉書
+* 富士康
+* 谷歌
+* 麥肯錫
+* 微軟
+* 三星
+* 創建
+* 騰訊
 
 <br>
 
@@ -110,7 +148,6 @@ Our values govern how we behave. They describe our expectations from people we h
 * We trust **fast Iteration** and **radical Transperancy** will lead to Results. 
 * Our emphasis on **Collaboration** and **Efficiency** distinguishes us from other companies.
 
-
 ## Secret Sauce
 There are many factors contributing a startup's success. Below are five and how we at AVL excel in each:
 
@@ -149,6 +186,42 @@ We run our team according to the following rhythm:
 #### Mission / 30 years
 #### Big Hairy Audacious Goal (BHAG)
 <!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
+
+<br>
+
+## Founders
+
+<img src='https://lh3.googleusercontent.com/ZVYB3JbfI5u9VbujgpSpCpaspCzCXLaiqb4DcniQIdZDPoKqwEPdhhv3biEIccwTs0ac-SkW5iBTtS-NpPZx8K-WAAtF6zelbxQqHxmYsruIZqMq2XuA79jWpGFJ0r0bM-32PqQ4QPM=w2400' width="222"/>
+
+### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
+
+_Co-Founder. Stanford-grad. Tech expert._
+
+<img src='https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400' width="222"/>
+
+### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
+
+_Co-Founder. MIT-grad. Startup enthusiast._
+
+<br>
+
+## Our Advisors
+
+Consultants we have worked with or are currently working with, formally and informally, include:
+
+* Alibaba
+* Amazon.com
+* American Express
+* Apple
+* Dell
+* Facebook
+* Foxconn
+* Google
+* McKinsey
+* Microsoft
+* Samsung
+* Transcend
+* Tencent
 
 <br>
 

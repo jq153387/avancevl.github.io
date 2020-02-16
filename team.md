@@ -38,24 +38,24 @@ description: Team
 
 影響創業公司成功的因素很多。以下是五個，以及我們在AVL方面的卓越表現：
 
-1. **時間**
+### 1. 時間
 
 我們無法把握市場時機，因為沒人能預測未來。但是，我們可以將風險最小化，將成功的可能性最大化。我們努力創造美好的未來，並感到幸運。
 
 
-2. **想法**
+### 2. 想法
 
 我們立足事實，並通過尋找和解決根本原因來驅動。我們結構扁平，沒有等級制，是精英，這裡有最好的主意。
 
-3. **團隊**
+### 3. 團隊
 
 我們只與最好的人合作。每個新員工都比我們的上一個員工聰明。我們相信我們的團隊需要快速，有條理地執行。
 
-4. **商業模式**
+### 4. 商業模式
 
 我們專注於獲利能力，有效的用戶獲取和快速增長。
 
-5. **資金**
+### 5. 資金
 
 我們目前是自籌資金。如果您有興趣合作或投資，請與我們聯繫。
 
@@ -151,24 +151,23 @@ Our values govern how we behave. They describe our expectations from people we h
 ## Secret Sauce
 There are many factors contributing a startup's success. Below are five and how we at AVL excel in each:
 
-1. **Timing**
+### 1. Timing
 
 	We cannot time the market, because nobody can predict the future. But we can minimize our risk and maximize our probability of success. We try to create a favorable future and get lucky.
 
-
-2. **Idea**
+### 2. Idea
 
 	We are fact-based and driven by finding and solving the root cause. We are flat-structured and meritocratic without hierarchy, where the best ideas win. 
 
-3. **Team**
+### 3. Team
 
 	We only work with the best. Each of new hire is smarter than our last hire. We believe our team has waht it takes to execute quickly and methodically. 
 
-4. **Business Model**
+### 4. Business Model
 
 	We focus on profitablity, efficient user acqusition, and quick growth.
 
-5. **Funding**
+### 5. Funding
 
 	We are currently self-funded. If you're interested in partnering or investing, please contact us.
 

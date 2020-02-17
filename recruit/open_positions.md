@@ -40,7 +40,7 @@ description: Open Positions
 
 ### [前端工程師]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 
-`全職` | `遠端` |`台北`
+`全職`  `遠端` `台北`
 
 `資深工程師`
 
@@ -50,7 +50,7 @@ description: Open Positions
 
 ### [後端工程師]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
-`全職` | `遠端` |`台北`
+`全職`  `遠端` `台北`
 
 `資深工程師`
 
@@ -60,7 +60,7 @@ description: Open Positions
 
 ### [手機應用工程師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
 
-`全職` | `遠端` |`台北`
+`全職`  `遠端` `台北`
 
 `資深工程師`
 
@@ -69,7 +69,7 @@ description: Open Positions
 ---
 ### [DevOps工程師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
 
-`全職` | `遠端` |`台北`
+`全職`  `遠端` `台北`
 
 `初級工程師`
 
@@ -78,7 +78,7 @@ description: Open Positions
 ---
 ### [QC/QA工程師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
 
-`全職` | `遠端` |`台北`
+`全職`  `遠端` `台北`
 
 `初級工程師`
 
@@ -90,7 +90,7 @@ description: Open Positions
 
 ### [網頁設計師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
 
-`全職` | `遠端` |`台北`
+`全職`  `遠端` `台北`
 
 `初級工程師`
 
@@ -102,7 +102,7 @@ description: Open Positions
 
 ### [全端實習生](https://www.avancevl.com/students){:target="_blank"}
 
-`暑期實習` | `遠端` | `台北`
+`暑期實習`  `遠端`  `台北`
 
 `實習生`
 
@@ -114,7 +114,7 @@ description: Open Positions
 
 ### [全端實習生]({{ site.baseurl }}/recruit/jd_projectbased.html)
 
-`兼職` | `遠端` | `台北`
+`兼職`  `遠端`  `台北`
 
 `特案`
 
@@ -173,9 +173,9 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ### [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 
-`Full-Time` | `Remote` |`Taipei`
+`Full-Time`  `Remote` `Taipei`
 
-`Lead Engineer` | `Senior Engineer` | `Junior Engineer`
+`Lead Engineer`  `Senior Engineer`  `Junior Engineer`
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
@@ -183,7 +183,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 
-`Full-Time` | `Remote` |`Taipei`
+`Full-Time`  `Remote` `Taipei`
 
 `Senior Engineer`
 
@@ -193,7 +193,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ### [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
-`Full-Time` | `Remote` |`Taipei`
+`Full-Time`  `Remote` `Taipei`
 
 `Senior Engineer`
 
@@ -203,7 +203,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ### [iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
 
-`Full-Time` | `Remote` |`Taipei`
+`Full-Time`  `Remote` `Taipei`
 
 `Senior Engineer`
 
@@ -212,7 +212,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 ---
 ### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
 
-`Full-Time` | `Remote` |`Taipei`
+`Full-Time`  `Remote` `Taipei`
 
 `Junior Engineer`
 
@@ -221,7 +221,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 ---
 ### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
 
-`Full-Time` | `Remote` |`Taipei`
+`Full-Time`  `Remote` `Taipei`
 
 `Junior Engineer`
 
@@ -233,7 +233,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
 
-`Full-Time` | `Remote` |`Taipei`
+`Full-Time`  `Remote` `Taipei`
 
 `Junior Engineer`
 
@@ -245,7 +245,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ### [Full Stack Student Intern Engineer](https://www.avancevl.com/students){:target="_blank"}
 
-`Summer Internship` | `Remote` | `Taipei`
+`Summer Internship`  `Remote`  `Taipei`
 
 `Intern`
 
@@ -257,7 +257,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 ### [Full Stack Student Intern Engineer]({{ site.baseurl }}/recruit/jd_projectbased.html)
 
-`Part-Time` | `Remote` | `Taipei`
+`Part-Time`  `Remote`  `Taipei`
 
 `Project-Based`
 

@@ -134,7 +134,7 @@ description: Full-Time Engineering Levels
 
 [應用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ### [全端工程師（技術長）]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 
@@ -280,7 +280,7 @@ description: Full-Time Engineering Levels
 
 [应用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ### [全端工程师（技术长）]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 
@@ -296,19 +296,19 @@ description: Full-Time Engineering Levels
 
 ## Engineering Levels
 
-| Level | Title | Annual Salary |
+| Level | Title | Annual Salary (USD) |
 | --- | --- | --- |
-| E0 | Intern/Part-Time | 28～36萬 |
-| E1 | Junior Engineer I | 36～60萬 |
-| E2 | Junior Engineer II | 60～84萬 |
-| E3 | Junior Engineer III | 84～108萬 |
-| E4 | Senior Engineer I | 108～132萬 |
-| E5 | Senior Engineer II | 132～156萬 |
-| E6 | Senior Engineer III | 156～180萬 |
-| E7 | Lead Engineer I | 180～204萬 |
-| E8 | Lead Engineer II | 204～228萬 |
-| E9 | Lead Engineer III | 228～264萬 |
-| E10 | CTO | 264～312萬 |
+| E0 | Intern/Part-Time | 9-12K |
+| E1 | Junior Engineer I | 12-20K |
+| E2 | Junior Engineer II | 20-28K |
+| E3 | Junior Engineer III | 28～36K |
+| E4 | Senior Engineer I | 36K-44K |
+| E5 | Senior Engineer II | 44K～52K |
+| E6 | Senior Engineer III | 52K～60K |
+| E7 | Lead Engineer I | 60～64K |
+| E8 | Lead Engineer II | 64～76K |
+| E9 | Lead Engineer III | 76～88K |
+| E10 | CTO | 88～104K |
 
 <br>
 
@@ -417,7 +417,7 @@ Part Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ### [Full Stack Developer (CTO)]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 Part Time | Remote | Taipei

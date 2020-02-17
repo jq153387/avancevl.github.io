@@ -36,7 +36,7 @@ description: Open Positions
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ### [前端工程師]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 
@@ -46,7 +46,7 @@ description: Open Positions
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ### [後端工程師]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
@@ -56,7 +56,7 @@ description: Open Positions
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ### [手機應用工程師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
 
@@ -66,7 +66,8 @@ description: Open Positions
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
+
 ### [DevOps工程師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
 
 `全職`  `遠端` `台北`
@@ -75,7 +76,8 @@ description: Open Positions
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
+
 ### [QC/QA工程師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
 
 `全職`  `遠端` `台北`
@@ -84,7 +86,7 @@ description: Open Positions
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ## 設計師
 
@@ -96,7 +98,7 @@ description: Open Positions
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ## 實習生
 
@@ -108,7 +110,7 @@ description: Open Positions
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ## 特案/兼職
 
@@ -179,7 +181,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 
@@ -189,7 +191,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ### [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
@@ -199,7 +201,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ### [iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
 
@@ -209,7 +211,8 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
+
 ### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
 
 `Full-Time`  `Remote` `Taipei`
@@ -218,7 +221,8 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
+
 ### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
 
 `Full-Time`  `Remote` `Taipei`
@@ -227,7 +231,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ## Design
 
@@ -239,7 +243,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ## Internship
 
@@ -251,7 +255,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
 ## Project-Based & Part-time
 
@@ -263,4 +267,4 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>

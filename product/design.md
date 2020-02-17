@@ -8,8 +8,8 @@ description: Design Process
 
 | 網頁 | 行業 | 喜歡的地方 |
 | --- | --- | --- |
-| [Airbnb](www.airbnb.com){:target="_blank"} | 旅行 | 簡單，清楚，功能性實際 |
-| [Mercury](www.mercury.com){:target="_blank"} | 金流 | 簡單，清楚，功能性實際 |
+| [Airbnb](https://www.airbnb.com){:target="_blank"} | 金流 | 簡單，清楚，功能性實際 |
+| [Mercury](https://mercury.com){:target="_blank"} | 金流 | 簡單，清楚，功能性實際 |
 
 ## 設計 Style Guide
 

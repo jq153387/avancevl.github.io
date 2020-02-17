@@ -269,10 +269,6 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 <br>
 
----
-
-<br>
-
 # Open Positions
 
 ## Engineering

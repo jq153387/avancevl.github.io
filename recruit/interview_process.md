@@ -36,7 +36,7 @@ description: Interview Process
 
 <br>
 
-## 其他 Offer 期限
+## 其他工作合約期限
 
 如果您已經有了其他公司的 offer，請跟我們告知，我們會盡量跟您配合。
 
@@ -82,7 +82,7 @@ description: Interview Process
 
 <br>
 
-## 其他 Offer 期限
+## 其他工作合约期限
 
 如果您已经有了其他公司的 offer，请跟我们告知，我们会尽量跟您配合。
 

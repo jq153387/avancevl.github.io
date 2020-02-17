@@ -23,6 +23,7 @@ description: Full-Time Engineering Levels
 <br>
 
 #### 初級工程師 I～III
+
 * 大學、碩士畢業生或不到2年的全職軟體開發工作經驗。
 * 有一些相關知識或經驗。
 * 需要其他團隊成員的幫助。
@@ -30,6 +31,7 @@ description: Full-Time Engineering Levels
 * 會被分配開發項目，跟資深程師合作、學習，有責任做詳細、研究，一起完成小項目。
 
 #### 資深工程師 I～III
+
 * 至少2年相關的全職軟體開發工作經驗。
 * 可獨立完成每個分配的技術工程。
 * 有能力執行全端產品的開發。
@@ -37,6 +39,7 @@ description: Full-Time Engineering Levels
 * 可以選擇自己想要開發的項目與合作團隊人員。
 
 #### 首席工程師 I～III
+
 * 團隊中最專業的工程師。
 * 負責推動新科技、技術、設計與工具。
 * 可以比任何人更快更完善的執行全端整個產品的開發。
@@ -99,7 +102,7 @@ description: Full-Time Engineering Levels
 
 我們希望吸引那些相信績效應該得到獎勵的人才
 
-1. **與他們的表現成正比，並且
+1. 與他們的表現成正比，並且
 2. 與具有不同性能的同齡人“根本不同”。
 
 <br>
@@ -113,7 +116,7 @@ description: Full-Time Engineering Levels
 
 #### 上限（E10-台幣300萬）
 
-我們的CTO薪水範圍約為每年10萬美元，大致相當於應聘者在矽谷擁有CS學位的應屆大學畢業生的起薪。
+我們的技術長薪水範圍約為每年10萬美元，大致相當於應聘者在矽谷擁有CS學位的應屆大學畢業生的起薪。
 
 儘管此值似乎很高，但在矽谷中適中。
 
@@ -121,7 +124,7 @@ description: Full-Time Engineering Levels
 
 <br>
 
-##您是否同時在實習生和CTO級別招聘？
+##您是否同時在實習生和技術長級別招聘？
 
 是的，了解更多信息並在此處申請：
 
@@ -139,7 +142,11 @@ description: Full-Time Engineering Levels
 
 [應用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
+<br>
+
 ---
+
+<br>
 
 ## Engineering Levels
 
@@ -160,17 +167,20 @@ description: Full-Time Engineering Levels
 <br>
 
 #### Junior Engineer I～III
+
 * New college graduate or less than two years of full-time programming work experience.
 * Some knowledge or experience with relevant technology.
 * May need help from other team members.
 * Can implement parts of stack, but not the entire stack or application.
 
 #### Senior Engineer I～III
+
 * At least 2 years of working experience in relevant position.
 * Self proficient in accomplishing every single technical task assigned.
 * Fully capable to implement entire product end-to-end.
 
 #### Lead Engineer I～III
+
 * Recognized by peers as one of the truly best engineers in the team.
 * Expert and technical leader in driving architecture and engineering design.
 * Can implement entire product end-to-end faster than anyone else.

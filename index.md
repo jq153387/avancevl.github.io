@@ -68,8 +68,8 @@ description: A Different Breed of Startups
 ## 欢迎大家的建议
 
 我们欢迎各位的建议：
-*请由[git pull request]({{ site.github.repository_url }}/pull/new/master)建议文件更改。
-*请由[git issue]({{ site.github.repository_url }}/issues/new)提出您的疑问。
+* 请由[git pull request]({{ site.github.repository_url }}/pull/new/master)建议文件更改。
+* 请由[git issue]({{ site.github.repository_url }}/issues/new)提出您的疑问。
 
 <br>
 

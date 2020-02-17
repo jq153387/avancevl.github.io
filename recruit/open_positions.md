@@ -30,9 +30,9 @@ description: Open Positions
 
 ### [全端軟體工程師]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 
-`全職` | `遠端` |`台北`
+`全職` `遠端` `台北`
 
-`首席工程師` | `資深工程師` | `初級工程師`
+`首席工程師`  `資深工程師`  `初級工程師`
 
 [申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 

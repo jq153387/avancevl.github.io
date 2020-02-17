@@ -26,7 +26,7 @@ description: Engineering
 
 ## 1週衝刺
 
-JIRA工程問題分為1週衝刺。每個工程師（無論是遠程工程師還是其他工程師）均負責完成sprint中的所有JIRA任務。在每個衝刺中，JIRA任務按以下順序排名：
+GitLab工程問題分為1週衝刺。每個工程師（無論是遠程工程師還是其他工程師）均負責完成sprint中的所有JIRA任務。在每個衝刺中，GitLab任務按以下順序排名：
 * 高優先級
 * 中優先級
 * 低優先級
@@ -34,6 +34,47 @@ JIRA工程問題分為1週衝刺。每個工程師（無論是遠程工程師還
 ## 1-Sprint產品發布週期
 
 產品發布週期約為1 sprint。在每次沖刺結束時，我們都應該發布產品的新版本。
+
+<br>
+
+[敏捷流程]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+---
+
+<br>
+
+＃沟通
+
+请阅读[有效沟通的原则和最佳做法。 ]({{ site.baseurl }}/principles/communication.html)
+
+##松弛
+
+松弛是AVL团队内部沟通的主要手段。以发展为重点的主要渠道是：
+* `＃dev`
+* `＃dev-back-end`
+* `＃dev-front-end`
+* `＃devops`
+
+<img src='https://lh3.googleusercontent.com/dI64CdUJifzqqVr-8YrJB4P3m68gRKURp-29XklWLBZnZT8k0qDFsP1j1FikuXjK93LncqocTw-txDe0eVQtfx22IdZ-H3wtIwuY4q171AWE_YSrJRBy4h5FtV49AA9JOhuMaLxqig=w800' />
+
+## GitLab项目积压
+
+所有工程任务和功能都来自GitLab发行凭单。该票证将描述功能列表，可交付成果，故事要点，优先级和相关管理员。 GitLab（和JIRA）是用于管理公司软件的“主要软件项目管理工具”。
+
+<img src='https://lh3.googleusercontent.com/Cl58tzeefDH0QrBFzSgyu9B5m-Z05noYHeWJiwrJH0SSUMEaeheUH4laWHkOrasWu8Q98BQAhTC1Y4FAz0dh9JztBjb-PN_KVHUewG9l_NbJGS29Ecd9bFovWiQMr5yK9uZC44JsqA=w1200' />
+
+## 1周冲刺
+
+GitLab工程问题分为1周冲刺。每个工程师（无论是远程工程师还是其他工程师）均负责完成sprint中的所有JIRA任务。在每个冲刺中，GitLab任务按以下顺序排名：
+* 高优先级
+* 中优先级
+* 低优先级
+
+## 1-Sprint产品发布周期
+
+产品发布周期约为1 sprint。在每次冲刺结束时，我们都应该发布产品的新版本。
 
 <br>
 
@@ -66,7 +107,7 @@ All engineering tasks and features originate from a GitLab issues ticket. The ti
 
 ## 1-Week Sprints
 
-Engineering JIRA issues are grouped into 1-week sprints. Each engineer, remote or otherwise, is responsible for completing all JIRA tasks in the sprint. Within each sprint, JIRA tasks are ranked by:
+Engineering GitLab issues are grouped into 1-week sprints. Each engineer, remote or otherwise, is responsible for completing all GitLab tasks in the sprint. Within each sprint, JIRA tasks are ranked by:
 - High Priority
 - Medium Priority
 - Low Priority

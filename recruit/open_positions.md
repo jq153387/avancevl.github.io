@@ -143,6 +143,108 @@ description: Open Positions
 
 <br>
 
+# 职缺
+
+加速孵化团队内部自己创造的新点子，解决全球消费者和商务的难处（非接案、非博弈、不外包）。
+
+## 工程师
+
+### [全端软体工程师]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
+
+`全职` `远端` `台北`
+
+`首席工程师` `资深工程师` `初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [前端工程师]({{ site.baseurl }}/recruit/jd_frontenddev.html)
+
+`全职` `远端` `台北`
+
+`资深工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [后端工程师]({{ site.baseurl }}/recruit/jd_backenddev.html)
+
+`全职` `远端` `台北`
+
+`资深工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [手机应用工程师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
+
+`全职` `远端` `台北`
+
+`资深工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [DevOps工程师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
+
+`全职` `远端` `台北`
+
+`初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [QC/QA工程师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
+
+`全职` `远端` `台北`
+
+`初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+## 设计师
+
+### [网页设计师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+
+`全职` `远端` `台北`
+
+`初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+## 实习生
+
+### [全端实习生](https://www.avancevl.com/students){:target="_blank"}
+
+`暑期实习` `远端` `台北`
+
+`实习生`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+## 特案/兼职
+
+### [全端实习生]({{ site.baseurl }}/recruit/jd_projectbased.html)
+
+`兼职` `远端` `台北`
+
+`特案`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ---
 
 <br>

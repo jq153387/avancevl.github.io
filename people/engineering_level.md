@@ -6,7 +6,7 @@ description: Full-Time Engineering Levels
 
 ## 職級與薪資
 
-| 位階 | 職位 | 年薪 | 線上測驗分數 |
+| 位階 | 職位 | 年薪（台幣） | 線上測驗分數 |
 | --- | --- | --- | --- |
 | E0 | 實習 | 28～36萬 | 13～25 |
 | E1 | 初級工程師 I | 36～60萬 | 25～33 |
@@ -18,7 +18,7 @@ description: Full-Time Engineering Levels
 | E7 | 首席工程師 I | 180～204萬 | 111～125 |
 | E8 | 首席工程師 II | 204～228萬 | 125～150 |
 | E9 | 首席工程師 III | 228～264萬 | 150～200 |
-| E10 | CTO | 264～312萬 | 200+ |
+| E10 | 技術長 | 264～312萬 | 200+ |
 
 <br>
 
@@ -50,6 +50,94 @@ description: Full-Time Engineering Levels
 [檢閱考試說明]({{ site.baseurl }}/recruit/takehome.html){: .btn#page-btn}
 
 <br>
+
+## 為什麼工資如此透明？
+
+#### 1.團隊成員遲早會在彼此之間共享薪資信息。
+
+對工資信息保密是不可能的。
+
+#### 2.如果某人的繳費相等或更少，您的感覺如何？
+
+如果從第一天起所有事情都是完全透明的，事情就容易了。
+
+<br>
+
+## 為什麼會有這麼寬的薪水範圍？
+
+我們認為，應該為個人的表現提供公正而透明的獎勵。
+
+### 候選人告訴我們他們想要廣泛的薪水範圍
+
+在一項調查中，我們向100多名候選人詢問了他們理想的公司。
+
+[查看調查]({{ site.baseurl }}/recruit/takehome.html){: .btn#page-btn}
+
+
+我們問：
+
+> **獎金分配：獎勵制度**
+
+>（1）內部薪水年終獎金差距大，跟隨每人的工作成績（86％）
+
+>（2）內部薪水年終獎金差距小，即使大家對共識貢獻有差距（14％）
+
+結果“壓倒性地”支持廣泛的薪資範圍。
+
+<a href='https://photos.google.com/share/AF1QipPZ3fACGsFJRQxhLKTaLQ-eDQdKGN6bB5dz0Erq0TBQa1wNXe2xd5Ohv05GqQjasA?key=aE5fS0xkYkZ4cDFSYks5T1djdDNqOFZvQ3ZleS1R&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/Nrnj01a58O2hfF15N9p6ceSQb9lnDqZOqcj-7-FPMrlGsn0z9dJJ5HXbqsqh1iPQvV-qIGSZsbcjQYv2h3RF-XDzDyEAQUf90E9nmCPEd7wWwEajHmJvlFjjq1j2tu9nK-nWfdU9-w=w2400' /></a>
+
+### 共產主義系統的動機減少
+
+事實是，並非所有個人表演都一樣。之間
+
+* **共產主義制度**，每個人的薪水大致相同，
+* **資本主義制度**，頂級演出和底層演出之間的差異很大
+
+我們相信資本主義制度。根據我們的經驗，如果工資都大致相同，那麼努力工作的動力就較小。
+
+### 吸引合適的人才
+
+我們希望吸引那些相信績效應該得到獎勵的人才
+
+1. **與他們的表現成正比，並且
+2. 與具有不同性能的同齡人“根本不同”。
+
+<br>
+
+## 如何選擇這些薪金的上限和下限？
+
+
+#### 下界（E0-台幣36萬）
+
+這接近台灣的最低工資。對於以前的軟件開發經驗為零，需要大量培訓和投資的人，我們認為這不是一個不公平的起點。重點應該放在您要去的地方，而不是開始的地方。
+
+#### 上限（E10-台幣300萬）
+
+我們的CTO薪水範圍約為每年10萬美元，大致相當於應聘者在矽谷擁有CS學位的應屆大學畢業生的起薪。
+
+儘管此值似乎很高，但在矽谷中適中。
+
+[查看矽谷軟件工資](https://www.levels.fyi/){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+##您是否同時在實習生和CTO級別招聘？
+
+是的，了解更多信息並在此處申請：
+
+### [學生實習生]({{ site.baseurl }}/recruit/students.html){:target="_blank"}
+
+`兼職` `遠端` `台北`
+
+[應用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+---
+
+### [全端工程師（技術長）]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
+
+`兼職` `遠端` `台北`
+
+[應用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
@@ -150,11 +238,11 @@ We wish to attract talent who believe performance should be rewarded
 
 ## How are the upper and lower bounds of these salaries chosen?
 
-#### Lower Bound (E0 - 36W)
+#### Lower Bound (E0 - USD12K)
 
 This is close to the minimum wage in Taiwan. For someone with zero previous software development experience, and requires substantial training and investment, we do not think this is an unfair starting point. The focus should be on where you are going, and not where you're starting at.
 
-#### Upper Bound (E10 - 300W)
+#### Upper Bound (E10 - USD100K)
 
 Our CTO salary range is around USD $100K per year, which is equivalent to roughly the starting salary of a fresh college graduate with a CS degree in Silicon Valley.
 
@@ -168,7 +256,7 @@ While this value may seem high, it is modest in SV.
 
 Yes, learn more and apply here:
 
-### [Student Intern](https://www.avancevl.com/students){:target="_blank"}
+### [Student Intern]({{ site.baseurl }}/recruit/students.html){:target="_blank"}
 Part Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

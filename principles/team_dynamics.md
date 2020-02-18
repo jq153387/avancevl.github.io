@@ -85,7 +85,7 @@ description: Team Dynamics Expectations
 
 超过一半的受访者认为“微妙的暗示”是一种有效的沟通策略。
 
-<a href='https://photos.google.com/share/AF1QipM47q4pqlMTaKKJDTh0Bj8GOu3Rjs2-lON_bXwZz-MnlTrSzDYWgnW5nC_9pwgcbQ?key=ZWJEcVlfQlJoQXRCbEZuWEVLLUhDNGhVcDF3ZUdB&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent. com/hnO54C8BPl93Di8DGk3YKgwXxSPygzRJkEqImI_aoOLYosbEmuJ1c1wfj_w-P951RbVjgtwd67ViE4oPlTpQM_xkfmTObOoXag4eReGgFcRGZJc0rTXsEKgY_40Zw59T2J9V3djVpg=w2400' /></a>
+<a href='https://photos.google.com/share/AF1QipM47q4pqlMTaKKJDTh0Bj8GOu3Rjs2-lON_bXwZz-MnlTrSzDYWgnW5nC_9pwgcbQ?key=ZWJEcVlfQlJoQXRCbEZuWEVLLUhDNGhVcDF3ZUdB&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/hnO54C8BPl93Di8DGk3YKgwXxSPygzRJkEqImI_aoOLYosbEmuJ1c1wfj_w-P951RbVjgtwd67ViE4oPlTpQM_xkfmTObOoXag4eReGgFcRGZJc0rTXsEKgY_40Zw59T2J9V3djVpg=w2400' /></a>
 
 ## 团队动力期望
 

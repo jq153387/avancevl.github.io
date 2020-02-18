@@ -21,7 +21,7 @@ git commit -m "Fixed bug in mobile RWD window (Fixes #168)"
 * 對錯誤方向調整方向，讓錯誤方向最多持續不超過一天
 * 確保代碼都有持續備份到雲端Git Repo
 
-<img src='https://lh3.googleusercontent.com/nmVX4HSRkRw_9ftgawHLR-OVdOYC8KBrTHiK2Dn0F3OhpQ9KiUgQlIxbLrOdKsQr_32_W6gRtwYlKnSUdlYDkppCTHXMhiOA35DJ73qkae88GnR3bIMWP5bx2xiiIz8KFUMEIBZzJg=w800' />
+<img src='https://lh3.googleusercontent.com/XHxNRqvRvarEi8P3SStdBYlBiby_o6QcgbQHoBDMnz7uTmI67iavLR0XrtLYHrM81k6wd94yUx79aSOgZ1l6bHs12GHdzBC3cJJ2Bk703Twa3ExnXN0NsE9Y6bGqv2MvURoNxH8yuA=w600' />
 
 <br>
 
@@ -40,10 +40,10 @@ git commit -m "Fixed bug in mobile RWD window (Fixes #168)"
 
 ### 報告例子
 
-### 報告存取
-
 * Google Form會自動上傳到Slack的`#scrum` channel
 * Google From會自動紀錄到Google Sheets
+
+<img src='https://lh3.googleusercontent.com/LVnFFzZO0vjufjBZ2nOWGMa2Z1gPfqbgdb3wtyF1fDxfdQrgNSLGkM3MBONcfe4kTITbbeY0cyD-I9ii9G8ijbBMKPo5k86CTk9Rn28d66XYQRNEHS1Xl30acXOSKrmZ3tFNPjV62A=w800' />
 
 <br>
 

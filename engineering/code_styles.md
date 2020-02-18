@@ -135,7 +135,7 @@ yarn add eslint-config-prettier --dev
 }
 ```
 
-Check out the [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier){:target="_blank"} documentation for more details.
+需要更纖細的指示請參考[eslint-config-prettier](https://github.com/prettier/eslint-config-prettier){:target="_blank"}。
 
 ## 第六步驟： 其他安裝
 
@@ -157,7 +157,7 @@ yarn add eslint-plugin-prettier --dev
   }
 }
 ```
-To further configure this see the [eslint-plugin-prettie](https://github.com/prettier/eslint-plugin-prettier){:target="_blank"} documentation
+需要更纖細的指示請參考[eslint-plugin-prettie](https://github.com/prettier/eslint-plugin-prettier){:target="_blank"}。
 
 ### 其他輔助Prettier的小程式
 

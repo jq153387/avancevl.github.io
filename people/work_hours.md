@@ -28,6 +28,30 @@ description: Work Hours
 
 <br>
 
+我们支持工作与生活的平衡。应次，透明的工作时间期望让团队更 productive。
+
+## 基本指南
+* 弹性上下班时间，自行选择工作时间。
+* 每周5天，每天8小时，不包括午休时间。
+* 午休1.5小时。
+
+## 远端指南
+* 基本指南适用。
+* 每天5-10分钟 scrum，共3次 Zoom 视频会议。
+	* 早上9点
+	* 下午2点
+	* 下午6点
+* 每周3次面对面的会议
+	* 星期一上午 9am
+	* 星期三下午 5pm
+	* 期五下午 5pm
+
+<br>
+
+---
+
+<br>
+
 We value work-life balance. A transpearant expecation on work hours enable our team to be more productive.
 
 ## General Guidelines

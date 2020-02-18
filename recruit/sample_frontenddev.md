@@ -23,12 +23,6 @@ description: Front-End Sample Exam
 
 考題範圍、分數計算，請參考**[全端測驗樣本]({{ site.link_sample_fullstackdev }})**。分數計算與考題會類似。
 
-For exam topics and score calculation, please reference **[Full Stack Sample Exam]({{ site.link_sample_fullstackdev }})**. The scoring system and problems will be similiar.
-
-<br>
-
----
-
 <br>
 
 ## 考題大綱
@@ -99,13 +93,87 @@ For exam topics and score calculation, please reference **[Full Stack Sample Exa
 
 <br>
 
-## Requirements
+[立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[检阅考试指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
+[测验分数评估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-1. **RWD.**  Responsive and designed for cross-web development and mobile.
-1. **JavaScript only.**
-1. **JS frameworks.** You must use a JS framework; we prefer React or Vue. You may use Angular, Ember, Backbone, or Aurelia, if you must, but you need to have a good reason for choosing it. No jquery.
-1. **HTML and CSS.** You must demonstrate your knowledge in HTML and CSS.
-	* For bonus points, demonstrate your knowledge in preprocessors SCSS/Sass.
-	* We encourage you to use frameworks, like Bootstrap.
-1. **RESTful.**
-1. **Modern web design sense**
+## 考试指示
+
+重要提醒：
+
+> * 我们并不期望你完整开发每个功能。重点不是要全部 “做完”，是要查看有尝试部分的能力、进度，尽力而为就可以。
+> * 请使用 GitHub/GitLab.
+> * 这份线上测验分数会决定您的职级与薪资范围。每个网页功能有分数。请必定要交卷。
+> * 2.5小时到时：
+> 	* 有开发多少，就交卷多少，考试并没有所谓的 “完成”。
+> 	* 请必定要上架，并提供网页 URL.
+> 	* 请填写测验完成表格 Exam Submission Form.
+
+
+考题范围、分数计算，请参考**[全端测验样本]({{ site.link_sample_fullstackdev }})**。分数计算与考题会类似。
+
+<br>
+
+## 考题大纲
+
+请开发一个可以使用，有前端的网站。
+
+| 满分 | 网页功能 |
+| --- | --- |
+| 30 | 呈现讯息 |
+| 30 | 搜寻功能 |
+| 45 | 订位按钮与 pop-up 视窗 |
+| 65 | D3 画图 |
+| 30 | 中/英文页面 |
+
+[测验分数评估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
+
+## 规则
+
+1. **RWD.** Web 和 mobile browser 使用。
+1. **必须使用 JavaScript.**
+1. **JS 框架.** 您必须使用一个JS框架; 我们偏爱 React 或 Vue。如果需要，可以使用 Angular, Ember, Backbone, 或 Aurelia，但您需要有充分的理由选择它。不能使用 jquery。
+1. **HTML 和 CSS.** 您必须证明对HTML和CSS的了解与熟悉。
+	* 加分题：使用 preprocessors SCSS/Sass。
+	* 加分题：我们鼓励您使用框架，譬如 Bootstrap。
+1. ** RESTful.**
+1. **有现代网页设计感.** 干净页面，字体、颜色容易读。
+
+## 考题讲解
+
+* 下载[csv档案](https://docs.google.com/spreadsheets/d/1OanzakC9Uuo6fLLLyKScTSWDH6twnPOrSN-uWvoTz-U/edit?usp=sharing){:target="_blank"}。
+* 使用这个档案为需要显示的资料。
+
+## 考题
+
+请自由选择你想要开发的网页功能，没有先后次序。
+
+### 1. 呈现讯息
+
+* 在首页显示档案里面的资讯，表格的每一行是餐厅名字，使用者可以按/点，伸缩更多的餐厅资讯（展开、收起）。
+* 展开资讯有订位按钮和有图示表示类型、米其林星、停车、外送、先缴订金、评价。
+* 表格共有2页，可以前后去第一、二页。
+
+### 2. 搜寻功能
+
+* 网页最上方有搜寻功能，使用者可以输入的栏位与搜寻按钮：餐厅名字(输入时，会有下拉式的建议)、订位人数(使用下拉式选单)、日期(使用日历选单)、时间(使用下拉式选单)。 UI 请参考并尽量相似 [OpenTable](https://www.opentable.com/?lang=ja){:target="_blank"}
+
+### 3. 订位按钮与 pop-up 视窗
+
+* 展开餐厅资讯里，有订位按钮
+* 订位按钮会有 pop-up 视窗
+* pop-up 视窗是一个让使用者可以填写的表格：名字、电话(输入数字限制)、订位人数(使用下拉式选单)、日期(使用日历选单)、时间(使用下拉式选单)
+* pop-up 视窗可以关闭的
+
+### 4. D3 画图
+
+* pop-up 视窗里面使用library [D3.js](https://d3js.org){:target="_blank"} 画连接散点图[Connected scatterplot](https://www.d3-graph- gallery.com/connectedscatter.html){:target="_blank"} 显示评价(x轴，0到5)和米其林星(y轴，0到3，推荐=0.5，无=0)的关系。
+
+
+### 5. 中/英文页面
+
+* 有中/英文语言切换选择。实际资料不需要翻译，只需要有两个 URL 分辨。
+* 网页版：右上方，使用语言切换按钮。
+* 手机版：右上方有隐藏的三横条线 hamburger menu 选单，选单里面有语言切换按钮。
+
+

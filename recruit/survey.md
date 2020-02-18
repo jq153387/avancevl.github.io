@@ -6,7 +6,7 @@ description: Job Application Survey
 
 | 問卷時間 | 5分鐘 |
 | 問卷題目 | 13題 |
-| 申請人數 | 300+位 (01/05/2020)|
+| 申請人數 | 400+位 (02/17/2020)|
 
 [開始申請職缺]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 

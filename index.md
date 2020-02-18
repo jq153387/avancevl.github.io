@@ -36,7 +36,7 @@ description: A Different Breed of Startups
 
 幫我們支持台灣開源軟體，新創，及工程師社團：
 
-* [Startup Jobs Taiwan](https://021tw.github.io/021tw.github.io/){:target="_blank"}
+* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
 * [Full Stack Developers Taiwan](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
 
 <br>

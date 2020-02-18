@@ -19,10 +19,36 @@ description: No Experience Required
 
 如果我們的文化和機會吸引您，請申請我們的實習計劃。
 
-### [學生實習生](https://www.avancevl.com/students){:target="_blank"}
+### [學生實習生]({{ site.baseurl }}/recruit/students.html){:target="_blank"}
 兼職|遙控器|台北
 
 [應用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+---
+
+<br>
+
+## 为什么您愿意雇用没有经验的候选人？
+
+我们相信，为饥饿的年轻应聘者提供最少的工作经验，使其能够成长并证明自己。
+
+* 我们的工作性质是新颖的，实验性的。
+* 我们希望思想开放，热情的团队成员愿意承担重大风险并尝试新事物。
+* 技术本身也是一个快速变化的领域，具有新技术堆栈，可简化并降低处理成本。
+* 在我们希望培养的文化中，学习的能力和渴望非常重要。
+* 缺乏经验往往会使自己更加积极和乐观。
+* 有时，经验有助于消极情绪和规避风险。
+
+## 为没有经验的人提供机会
+
+如果我们的文化和机会吸引您，请申请我们的实习计划。
+
+### [学生实习生]({{ site.baseurl }}/recruit/students.html){:target="_blank"}
+兼职|遥控器|台北
+
+[应用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -45,7 +71,7 @@ We believe in giving hungry, young candidates with minimal prior working experie
 
 If our culture and opportunity appeals to you, please apply to our intern programs.
 
-### [Student Intern](https://www.avancevl.com/students){:target="_blank"}
+### [Student Intern]({{ site.baseurl }}/recruit/students.html){:target="_blank"}
 Part Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

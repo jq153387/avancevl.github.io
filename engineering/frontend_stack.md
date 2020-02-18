@@ -102,9 +102,10 @@ description: Front-End Stack
 
 # 前端持續性資料架構
 
-## Resources
-| React UI components collection | https://react-rainbow.web.app/ |
-| JavaScript Graphics | https://www.chartjs.org/ |
-| Font Scripts | https://developers.google.com/fonts/docs/developer_api |
-| Polyfill | https://github.com/financial-times/polyfill-service |
+## 線上資源
+
+* [React UI components collection](https://react-rainbow.web.app/){:target="_blank"}
+* [JavaScript Graphics](https://www.chartjs.org/){:target="_blank"}
+* [Font Scripts](https://developers.google.com/fonts/docs/developer_api){:target="_blank"}
+* [Polyfill](https://github.com/financial-times/polyfill-service){:target="_blank"}
 

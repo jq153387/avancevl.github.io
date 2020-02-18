@@ -6,7 +6,7 @@ description: A Different Breed of Startups
 
 ## 不一樣的加速孵化新創團隊
 
-加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包、不是 contractor）。
+加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包、不是 contractor）:kissing_heart:
 
 <br>
 
@@ -37,7 +37,7 @@ description: A Different Breed of Startups
 幫我們支持台灣開源軟體，新創，及工程師社團：
 
 * [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
-* [Full Stack Developers Taiwan](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
+* [Full Stack Developers Taiwan :star:](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
 
 <br>
 
@@ -47,7 +47,7 @@ description: A Different Breed of Startups
 
 ## 不一样的加速孵化新创团队
 
-加速孵化团队内部自己创造的新点子，解决全球消费者和商务的难处（非接案，非博弈，不支出，不是承包商）。
+加速孵化团队内部自己创造的新点子，解决全球消费者和商务的难处（非接案，非博弈，不支出，不是承包商）:kissing_heart:
 
 <br>
 
@@ -77,8 +77,8 @@ description: A Different Breed of Startups
 
 帮我们支持台湾开源软体，新创，及工程师社团：
 
-* [Startup Jobs Taiwan](https://021tw.github.io/021tw.github.io/){:target="_blank"}
-* [Full Stack Developers Taiwan](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
+* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
+* [Full Stack Developers Taiwan :star:](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
 
 <br>
 
@@ -88,7 +88,7 @@ description: A Different Breed of Startups
 
 ## A Different Breed of Startup Incubator
 
-We incubate, accelerate, and implement ideas that our team create internally.
+We incubate, accelerate, and implement ideas that our team create internally. :kissing_heart:
 
 <br>
 
@@ -117,5 +117,5 @@ We welcome feedback.
 
 Help us support the open source, startup, developer communites in Taiwan by following:
 
-* [Startup Jobs Taiwan](https://021tw.github.io/){:target="_blank"}
-* [Full Stack Developers Taiwan](https://stacktw.github.io/){:target="_blank"}
+* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/){:target="_blank"}
+* [Full Stack Developers Taiwan :star:](https://stacktw.github.io/){:target="_blank"}

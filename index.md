@@ -77,8 +77,8 @@ description: A Different Breed of Startups
 
 帮我们支持台湾开源软体，新创，及工程师社团：
 
-* [Startup Jobs Taiwan](https://021tw.github.io/021tw.github.io/){:target="_blank"}
-* [Full Stack Developers Taiwan](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
+* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
+* [Full Stack Developers Taiwan :star:](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
 
 <br>
 
@@ -99,7 +99,7 @@ We believe in radical transparency, where the best ideas win. As such, how we ru
 <br>
 
 ## Work with the best people
-We want to work with talented individuals and are **always actively hiring**. 
+We want to work with talented individuals and are **always actively hiring**.
 
 [Explore opportunities]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
 

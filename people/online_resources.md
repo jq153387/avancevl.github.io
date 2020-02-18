@@ -8,9 +8,9 @@ description: Online Resource
 
 At AVL, we value constant improvement. In addition to exceling at our job, we must learn new skills, both technical and relevant industry knowledge. It is important that our team member are always getting better at what they are good at and strengthen their weakness.
 
-## Links
+## 連結 Links
 
-### Startup Entrepreneurship
+### 新創 Startup Entrepreneurship
 * [The four steps to the epiphany](https://medium.com/mbreads/the-four-steps-to-the-epiphany-7aee0c8e0f8e){:target="_blank"}
 * [The lean startup](https://youtu.be/RSaIOCHbuYw){:target="_blank"}
 * [Biggest reat startups succeed](https://youtu.be/bNpx7gpSqbY){:target="_blank"}
@@ -22,17 +22,17 @@ At AVL, we value constant improvement. In addition to exceling at our job, we mu
 * [Top entrepreneurship skills](https://youtu.be/86unGITRPLs){:target="_blank"}
 
 
-### General
+### 基礎 General
 * [7 Steps Problem Solving](https://www.leadershipnow.com/leadingblog/2019/10/7_steps_to_bulletproof_problem.html){:target="_blank"}
 
 
-### Front-End
+### 前端 Front-End
 
 * [A curated list of CSS resources](https://alligator.io/css/css-resources/){:target="_blank"}
 * [Codepen](https://codepen.io/){:target="_blank"}
 
 
-### Back-End
+### 後端 Back-End
 
 * [A beginner's guide to backend development](https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/){:target="_blank"}
 * [Ask HN: What are must know concepts for backend development?](https://news.ycombinator.com/item?id=18961793){:target="_blank"}
@@ -40,7 +40,7 @@ At AVL, we value constant improvement. In addition to exceling at our job, we mu
 
 <br>
 
-## Communities
+## 社團 Communities
 
 * [Hacker News](https://news.ycombinator.com/){:target="_blank"}
 * [Startup Jobs Taiwan](https://021tw.github.io/021tw.github.io/){:target="_blank"}
@@ -48,7 +48,7 @@ At AVL, we value constant improvement. In addition to exceling at our job, we mu
 
 <br>
 
-## Online Courses
+## 線上課 Online Courses
 
 1. Coursera
 2. edX

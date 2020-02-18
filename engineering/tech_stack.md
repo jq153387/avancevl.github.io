@@ -26,7 +26,7 @@ description: Tech Stack
 | 前端SSR架構 | **Next.js** |
 | 前端持續性資料架構 | **Redux** |
 | 前端表格架構 | **Chart.js** |
-| UI設計架構 | **React Bootstrap** |
+| UI設計架構 | **Material UI** |
 
 ### 手機
 

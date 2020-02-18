@@ -22,6 +22,231 @@ description: Open Positions
 
 <br>
 
+# 職缺
+
+加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包）。
+
+## 工程師
+
+### [全端軟體工程師]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
+
+`全職` `遠端` `台北`
+
+`首席工程師`  `資深工程師`  `初級工程師`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [前端工程師]({{ site.baseurl }}/recruit/jd_frontenddev.html)
+
+`全職`  `遠端` `台北`
+
+`資深工程師`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [後端工程師]({{ site.baseurl }}/recruit/jd_backenddev.html)
+
+`全職`  `遠端` `台北`
+
+`資深工程師`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [手機應用工程師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
+
+`全職`  `遠端` `台北`
+
+`資深工程師`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [DevOps工程師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
+
+`全職`  `遠端` `台北`
+
+`初級工程師`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [QC/QA工程師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
+
+`全職`  `遠端` `台北`
+
+`初級工程師`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+## 設計師
+
+### [網頁設計師](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+
+`全職`  `遠端` `台北`
+
+`初級工程師`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+## 實習生
+
+### [全端實習生](https://www.avancevl.com/students){:target="_blank"}
+
+`暑期實習`  `遠端`  `台北`
+
+`實習生`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+## 特案/兼職
+
+### [全端實習生]({{ site.baseurl }}/recruit/jd_projectbased.html)
+
+`兼職`  `遠端`  `台北`
+
+`特案`
+
+[申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+
+<br>
+
+---
+
+<br>
+
+## 我们不断的在征才.
+
+我们是一个对创业充满热情的科技新创，希望与创始员工一起建立我们的团队文化，以**风气自由、透明制度**为傲。
+
+如果你也具有创业精神，想在一个**唯才是用**、快速发展中的新创中，创建具有影响力的科技，我们希望认识你。
+
+如果你渴望**挑战与成就感**，想在实验和执行中都参与重要主导角色，我们很想要跟你合作。
+
+对国际市场有野心，想要追求有**未来发展性**的事业，请申请下方缺职位。
+
+工作责任详细说明，请看[工程师职级与薪资]({{ site.link_jd_salary }})。
+
+因为我们团队精益、注重开发速度，我们希望每一位工程师可以会基本的全端开发，更了解其他队友的工作内容，帮助团队合作。所以我们有专门帮忙每一位前段与后端工程师成为全端的**培训计划**。详细资讯，请看[入职训练]({{ site.link_onboarding }})。
+
+<br>
+
+# 职缺
+
+加速孵化团队内部自己创造的新点子，解决全球消费者和商务的难处（非接案、非博弈、不外包）。
+
+## 工程师
+
+### [全端软体工程师]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
+
+`全职` `远端` `台北`
+
+`首席工程师` `资深工程师` `初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [前端工程师]({{ site.baseurl }}/recruit/jd_frontenddev.html)
+
+`全职` `远端` `台北`
+
+`资深工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [后端工程师]({{ site.baseurl }}/recruit/jd_backenddev.html)
+
+`全职` `远端` `台北`
+
+`资深工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [手机应用工程师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
+
+`全职` `远端` `台北`
+
+`资深工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [DevOps工程师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
+
+`全职` `远端` `台北`
+
+`初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [QC/QA工程师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
+
+`全职` `远端` `台北`
+
+`初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+## 设计师
+
+### [网页设计师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+
+`全职` `远端` `台北`
+
+`初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+## 实习生
+
+### [全端实习生](https://www.avancevl.com/students){:target="_blank"}
+
+`暑期实习` `远端` `台北`
+
+`实习生`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+## 特案/兼职
+
+### [全端实习生]({{ site.baseurl }}/recruit/jd_projectbased.html)
+
+`兼职` `远端` `台北`
+
+`特案`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ---
 
 <br>
@@ -44,106 +269,102 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 <br>
 
----
+# Open Positions
+
+## Engineering
+
+### [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
+
+`Full-Time`  `Remote` `Taipei`
+
+`Lead Engineer`  `Senior Engineer`  `Junior Engineer`
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
-# 職缺：Open Positions
+### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 
-加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包）。
+`Full-Time`  `Remote` `Taipei`
 
-## 工程師：Engineering
+`Senior Engineer`
 
-### [全端軟體工程師：Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
+<br>
 
-`Lead Engineer 首席工程師` | `Senior Engineer 資深工程師` | `Junior Engineer 初級工程師`
+### [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
-[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+`Full-Time`  `Remote` `Taipei`
 
----
+`Senior Engineer`
 
-### [前端工程師：Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
+<br>
 
-`Senior Engineer 資深工程師`
+### [iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
 
-[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+`Full-Time`  `Remote` `Taipei`
 
----
+`Senior Engineer`
 
-### [後端工程師：Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
+<br>
 
-`Senior Engineer 資深工程師`
-
-[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
----
-
-### [手機應用工程師：iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
-
-`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
-
-`Senior Engineer 資深工程師`
-
-[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
----
 ### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
 
-`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
+`Full-Time`  `Remote` `Taipei`
 
-`Junior Engineer 初級工程師`
+`Junior Engineer`
 
-[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
+
 ### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
 
-`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
+`Full-Time`  `Remote` `Taipei`
 
-`Junior Engineer 初級工程師`
+`Junior Engineer`
 
-[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
-## 設計師：Design
+## Design
 
 ### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
 
-`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
+`Full-Time`  `Remote` `Taipei`
 
-`Junior Engineer 初級工程師`
+`Junior Engineer`
 
-[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
-## 實習生：Internship
+## Internship
 
 ### [Full Stack Student Intern Engineer](https://www.avancevl.com/students){:target="_blank"}
 
-`Summer Internship 暑期實習` | `Remote 遠端` | `Taipei 台北`
+`Summer Internship`  `Remote`  `Taipei`
 
-`Intern 實習生`
+`Intern`
 
-[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>
 
-## 特案/兼職：Project-Based & Part-time
+## Project-Based & Part-time
 
 ### [Full Stack Student Intern Engineer]({{ site.baseurl }}/recruit/jd_projectbased.html)
 
-`Part-Time 兼職` | `Remote 遠端` | `Taipei 台北`
+`Part-Time`  `Remote`  `Taipei`
 
-`Project-Based 特案`
+`Project-Based`
 
-[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
----
+<br>

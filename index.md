@@ -6,7 +6,7 @@ description: A Different Breed of Startups
 
 ## 不一樣的加速孵化新創團隊
 
-加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包、不是 contractor）:kissing_heart:
+加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包、不是 contractor）
 
 <br>
 
@@ -47,7 +47,7 @@ description: A Different Breed of Startups
 
 ## 不一样的加速孵化新创团队
 
-加速孵化团队内部自己创造的新点子，解决全球消费者和商务的难处（非接案，非博弈，不支出，不是承包商）:kissing_heart:
+加速孵化团队内部自己创造的新点子，解决全球消费者和商务的难处（非接案，非博弈，不支出，不是承包商）
 
 <br>
 
@@ -88,7 +88,7 @@ description: A Different Breed of Startups
 
 ## A Different Breed of Startup Incubator
 
-We incubate, accelerate, and implement ideas that our team create internally. :kissing_heart:
+We incubate, accelerate, and implement ideas that our team create internally. 
 
 <br>
 

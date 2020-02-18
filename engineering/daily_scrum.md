@@ -6,7 +6,26 @@ description: Daily Updates
 
 # 每日報告流程
 
-## 第一步驟：填寫Scrum報告
+## 第一步：代碼上傳Git Commit
+
+* 所有軟體工程師每日至少Git Commit一次到自己的local或master branch
+* Git Commit的comment裡請填`issue#`（請加hashtag`#`)
+
+```
+git commit -m "Fixed bug in mobile RWD window (Fixes #168)"
+```
+
+### 每日Git Commit目的
+
+* 查看代碼進度
+* 對錯誤方向調整方向，讓錯誤方向最多持續不超過一天
+* 確保代碼都有持續備份到雲端Git Repo
+
+<img src='https://lh3.googleusercontent.com/nmVX4HSRkRw_9ftgawHLR-OVdOYC8KBrTHiK2Dn0F3OhpQ9KiUgQlIxbLrOdKsQr_32_W6gRtwYlKnSUdlYDkppCTHXMhiOA35DJ73qkae88GnR3bIMWP5bx2xiiIz8KFUMEIBZzJg=w800' />
+
+<br>
+
+## 第二步驟：填寫Scrum報告
 
 * 每天開始工作的時候請填寫Google Form每日報告
 * 報告內容
@@ -28,29 +47,10 @@ description: Daily Updates
 
 <br>
 
-## 第二部：Zoom視訊
+## 第三部：Zoom視訊
 
 <img src='https://lh3.googleusercontent.com/4tSI6OvfmNu-ZrrgNGl8iL6hgsdC4_IPOesghAL9uxuHLOnB2yZxkWpTONFk2NXXv8LbSm2UYVONVWafrrX6c8D-SNROLS8DkKybwsPwk8w9yn8xx6mRTzSTzo8Hwq8y0hjeuJ5mRg=w800' />
 
 * 盡量會議維持5到15分鐘
 * 太長的會議其實就不是Scrum了！
-
-<br>
-
-## 第三步：代碼上傳Git Commit
-
-* 所有軟體工程師每日至少Git Commit一次到自己的local或master branch
-* Git Commit的comment裡請填`issue#`（請加hashtag`#`)
-
-```
-git commit -m "Fixed bug in mobile RWD window (Fixes #168)"
-```
-
-### 每日Git Commit目的
-
-* 查看代碼進度
-* 對錯誤方向調整方向，讓錯誤方向最多持續不超過一天
-* 確保代碼都有持續備份到雲端Git Repo
-
-<img src='https://lh3.googleusercontent.com/nmVX4HSRkRw_9ftgawHLR-OVdOYC8KBrTHiK2Dn0F3OhpQ9KiUgQlIxbLrOdKsQr_32_W6gRtwYlKnSUdlYDkppCTHXMhiOA35DJ73qkae88GnR3bIMWP5bx2xiiIz8KFUMEIBZzJg=w800' />
 

@@ -4,8 +4,6 @@ title: 每日報告
 description: Daily Updates
 ---
 
-# 全職員工
-
 ## 每日報告
 
 ### 報告規範
@@ -14,10 +12,11 @@ description: Daily Updates
 * 中午12點以前必需完成
 * 在Slack貼：
 
-> 1. 昨天做了什麼
-> 2. 今天打算做什麼
-> 3. 什麼卡住你的進度
-> 4. 目前實現離launch進度幾百分比
+> 1. 昨天做了什麼?（必貼昨日實作 GitLab Issue 網址）
+> 	1a. 昨日的 Git Commit 網址（任何 Branch 都可以）
+> 2. 今天打算做什麼?（必貼今日要實作GitLab Issue網址）
+> 3. 有什麼卡著你的進度？
+> 4. 這次產品 milestone (進度完成幾百分比？）
 
 <img src='https://lh3.googleusercontent.com/pdRb_FK6oJcMC0nrRsZG0yXtQfBVF9ZDeimO8Y8NOBdJm0plJr7iSwE4aDMVjQhY7SUQWnJgCOZ-jCYhgwH1Gin3FlO15MV1p-d706Xpb5Mr96IGUz22Eiu0of4sxok96nXe7NDOpg=w800' />
 
@@ -27,13 +26,14 @@ description: Daily Updates
 
 ### 報告例子
 
-> 1. 昨天做了什麼
+> 1. 昨天做了什麼（必貼昨日實作 GitLab Issue 網址）
 > 	完成後端ReferralUser資料庫
-> 2. 今天打算做了什麼
+> 	1a. 昨日的 Git Commit 網址（任何 Branch 都可以）
+> 2. 今天打算做什麼（必貼今日要實作GitLab Issue網址）
 > 	開始Referral email的後端Send Grid API架設
-> 3. 什麼卡住你的進度
+> 3. 有什麼卡著你的進度？
 > 	需要申請Send Grid帳號
-> 4. 目前實現離launch進度幾百分比
+> 4. 這次產品 milestone (進度完成幾百分比？）
 > 	70%
 
 <br>
@@ -48,12 +48,3 @@ description: Daily Updates
 
 <img src='https://lh3.googleusercontent.com/nmVX4HSRkRw_9ftgawHLR-OVdOYC8KBrTHiK2Dn0F3OhpQ9KiUgQlIxbLrOdKsQr_32_W6gRtwYlKnSUdlYDkppCTHXMhiOA35DJ73qkae88GnR3bIMWP5bx2xiiIz8KFUMEIBZzJg=w800' />
 
-<br>
-
----
-
-<br>
-
-# 兼職合作
-
-* 彈性工作時間，但有工作當天先開個Slack scrum update

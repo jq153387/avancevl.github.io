@@ -15,6 +15,27 @@ description: Relocation
 
 <br>
 
+[查看全文](https://www.uscis.gov/working-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+---
+
+## 美国L-1B签证 - 公司内部技术员工转移
+
+纤细了解外派条件，请前往[美国公民移民署官网](https://www.uscis.gov/working-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge){: target="_blank"}。
+
+### 重点
+* 不能保证每人每家公司都能符合条件。
+* 不能保证每位符合条件员工或每家符合条件公司都能拿到许可，有很大的不确定因数。
+* 过程非常长。
+
+<br>
+
+[查看全文](https://www.uscis.gov/working-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge){: .btn#page-btn}{:target= "_blank"}
+
+<br>
+
 ---
 
 <br>
@@ -30,11 +51,9 @@ To understand relocation requirement details, please visit [US Citizenship and I
 
 <br>
 
----
+[View Official Documentation](https://www.uscis.gov/working-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge){: .btn#page-btn}{:target= "_blank"}
 
 <br>
-
-[查看全文](https://www.uscis.gov/working-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge){: .btn#page-btn}{:target="_blank"}.
 
 > The L-1B nonimmigrant classification enables a U.S. employer to transfer a professional employee with specialized knowledge relating to the organization’s interests from one of its affiliated foreign offices to one of its offices in the United States.  This classification also enables a foreign company which does not yet have an affiliated U.S. office to send a specialized knowledge employee to the United States to help establish one.  The employer must file Form I-129, Petition for a Nonimmigrant Worker with fee, on behalf of the employee.
 >

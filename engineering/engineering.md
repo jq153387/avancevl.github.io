@@ -4,11 +4,11 @@ title: 工程開發
 description: Engineering
 ---
 
-＃溝通
+# 溝通
 
-請閱讀[有效溝通的原則和最佳做法。]({{ site.baseurl }}/principles/communication.html)
+請閱讀[有效溝通的原則和最佳做法]({{ site.baseurl }}/principles/communication.html)。
 
-##鬆弛
+## 鬆弛
 
 鬆弛是AVL團隊內部溝通的主要手段。以發展為重點的主要渠道是：
 * `＃dev`
@@ -45,11 +45,11 @@ GitLab工程問題分為1週衝刺。每個工程師（無論是遠程工程師�
 
 <br>
 
-＃沟通
+# 沟通
 
-请阅读[有效沟通的原则和最佳做法。 ]({{ site.baseurl }}/principles/communication.html)
+请阅读[有效沟通的原则和最佳做法]({{ site.baseurl }}/principles/communication.html)。
 
-##松弛
+## 松弛
 
 松弛是AVL团队内部沟通的主要手段。以发展为重点的主要渠道是：
 * `＃dev`
@@ -91,6 +91,7 @@ GitLab工程问题分为1周冲刺。每个工程师（无论是远程工程师�
 Please read [principles and best practices for effective communication.]({{ site.baseurl }}/principles/communication.html)
 
 ## Slack
+
 Slack is the primary means of communication within teams at AVL. The main development-focused channels are:
 * `#dev`
 * `#dev-back-end`

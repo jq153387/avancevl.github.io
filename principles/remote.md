@@ -117,7 +117,7 @@ description: Remote
 
 几乎一半的候选人都喜欢在家中远程工作。
 
-<a href='https://photos.google.com/share/AF1QipMxsIEq8YerJCd6zmfEUiECgl2EfopQelywUxn5uC1byZcX-KwyqrxhqBWC5sUiag?key=LUFUcy00YWxPNGd1SFZ5THpub3ByZTR0NHVCRkF3&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/ 06kx9VW65UYz3j6FOYyqaMA3JoorZ9POR9hioF4CcV2SA_aI0zBEa9owLHn0kw3FXtvoJrMrtc0GEg9FIFAjq4A1NdD65ywDwthdCtG69FP2TBNP8L4F4Cjk112RUZbglsgfoNPs9A=w2400' /></a>
+<a href='https://photos.google.com/share/AF1QipMxsIEq8YerJCd6zmfEUiECgl2EfopQelywUxn5uC1byZcX-KwyqrxhqBWC5sUiag?key=LUFUcy00YWxPNGd1SFZ5THpub3ByZTR0NHVCRkF3&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/06kx9VW65UYz3j6FOYyqaMA3JoorZ9POR9hioF4CcV2SA_aI0zBEa9owLHn0kw3FXtvoJrMrtc0GEg9FIFAjq4A1NdD65ywDwthdCtG69FP2TBNP8L4F4Cjk112RUZbglsgfoNPs9A=w2400' /></a>
 
 ### 员工想要方便
 
@@ -135,7 +135,7 @@ description: Remote
 
 三分之二的候选人看重通勤。
 
-<a href='https://photos.google.com/share/AF1QipP8_u94Y7OcEGkXXecPgg5kx7f74-_YtkhI7IbVFcxynsh5ULxrUgjRs3CJekgVag?key=TWJvUjRncmZpYTV4WjNTRmpzMkIxRHp4eW5hN3NB&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/ AOt7BxBzjJgfN2kslLoQlev4tK6g1ILFt4BMZvsQeafIY66qOc53kE3T2AhIjE3te3G18L57jSiBHWG8mRyBsnc503AIKsQN67mCMviOJTrLHBPRbv4zunMv-XFcySvC_FNHP7pzug=w2400' /></a>
+<a href='https://photos.google.com/share/AF1QipP8_u94Y7OcEGkXXecPgg5kx7f74-_YtkhI7IbVFcxynsh5ULxrUgjRs3CJekgVag?key=TWJvUjRncmZpYTV4WjNTRmpzMkIxRHp4eW5hN3NB&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/AOt7BxBzjJgfN2kslLoQlev4tK6g1ILFt4BMZvsQeafIY66qOc53kE3T2AhIjE3te3G18L57jSiBHWG8mRyBsnc503AIKsQN67mCMviOJTrLHBPRbv4zunMv-XFcySvC_FNHP7pzug=w2400' /></a>
 
 ### 节省成本
 

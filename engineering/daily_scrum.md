@@ -39,11 +39,18 @@ description: Daily Updates
 
 ## 第三步：代碼上傳Git Commit
 
-* Git commit的comment裡請reference一下git lab `issue#`
-* 所有軟體工程師每日至少Git Commit一次到自己的local branch，讓主管：
-	* 查看代碼進度
-	* 對錯誤方向調整方向，讓錯誤方向最多持續不超過一天
-	* 確保代碼都有持續備份到雲端Git Repo
+* 所有軟體工程師每日至少Git Commit一次到自己的local或master branch
+* Git Commit的comment裡請填`issue#`（請加hashtag`#`)
+
+```
+git commit -m "Fixed bug in mobile RWD window (Fixes #168)"
+```
+
+### 每日Git Commit目的
+
+* 查看代碼進度
+* 對錯誤方向調整方向，讓錯誤方向最多持續不超過一天
+* 確保代碼都有持續備份到雲端Git Repo
 
 <img src='https://lh3.googleusercontent.com/nmVX4HSRkRw_9ftgawHLR-OVdOYC8KBrTHiK2Dn0F3OhpQ9KiUgQlIxbLrOdKsQr_32_W6gRtwYlKnSUdlYDkppCTHXMhiOA35DJ73qkae88GnR3bIMWP5bx2xiiIz8KFUMEIBZzJg=w800' />
 

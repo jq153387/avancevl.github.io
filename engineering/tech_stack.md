@@ -12,8 +12,9 @@ description: Tech Stack
 | [JS測試架構]({{ site.baseurl }}/engineering/qc_testing.html) | **Jest** |
 | [使用者分析架構]({{ site.baseurl }}/engineering/analytics.html) | **Firebase** |
 | [資料庫架構]({{ site.baseurl }}/engineering/db.html) | **Firebase** |
-| [生產後端架構]({{ site.baseurl }}/engineering/prod_infra.html) | **Firebase** |
-| 生產演算架構 | **Cloud Functions** |
+| [生產後端架構]({{ site.baseurl }}/engineering/prod_infra.html) | Firebase, ZEIT |
+| [雲端服務]({{ site.baseurl }}/engineering/prod_infra.html) | Firebase, ZEIT |
+| [生產演算架構]({{ site.baseurl }}/engineering/prod_infra.html) | **Cloud Functions** |
 
 ### 後端
 

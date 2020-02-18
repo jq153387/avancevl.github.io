@@ -4,6 +4,8 @@ title: 生產架構
 description: Production Infrastructure
 ---
 
+| 第一階段雲端服務 | Firebase, ZEIT |
+
 # 架構設計目標
 
 * 最低的開發時間成本。
@@ -55,6 +57,15 @@ description: Production Infrastructure
 #### AWS Amplify
 
 * [Introduction to Amplify](https://aws.amazon.com/amplify/){:target="_blank"}
+
+
+### Static Hosting
+
+#### ZEIT
+
+* 上線Next.js最快速最簡單的雲端服務
+* 已經幫使用者實作Server Side Render
+* [ZEIT](https://zeit.co/){:target="_blank"}
 
 
 ### Lambda Compute Service

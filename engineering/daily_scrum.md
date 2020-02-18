@@ -9,9 +9,6 @@ description: Daily Updates
 ### 報告規範
 
 * 每天開始工作的時候
-* 中午12點以前必需完成
-* 在Slack貼：
-
 > 1. 昨天做了什麼?（必貼昨日實作 GitLab Issue 網址）
 > 	1a. 昨日的 Git Commit 網址（任何 Branch 都可以）
 > 2. 今天打算做什麼?（必貼今日要實作GitLab Issue網址）

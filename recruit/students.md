@@ -8,10 +8,10 @@ description: Students & New Graduates
 
 ## **Mentored Intern Training MIT Program**
 
-> Do important work.
-> Create meaningful impact.
+> 做有意義的工作。
+> 創造影響力。
 
-## For 大學生和畢業生.
+## 大學生和畢業生
 
 許多公司通常會將實習生視為非關鍵的免費勞力。我們不認同。
  
@@ -27,7 +27,7 @@ description: Students & New Graduates
 
 <br>
 
-## Solve real challenges. Help real people.
+## 解決真正問題。幫助真正的人。
 
 > 實習生會有機會擁有自己的個案，直接影響公司產品。 
 
@@ -35,25 +35,25 @@ description: Students & New Graduates
  
 在AVL，您將：
 
-### EXPERIENCE REAL WORK
+### 體驗職場上的工作
 
 學習專業職場需要的實際技能。做真正的工作，寫會被執行的代碼。不浪費時間在 “sample project”。
 
-### LEARN TO BUILD A LEAN STARTUP
+### 學習新創
 
 1. 有實際工作經驗，使用最新的科技軟體、最專業的開發 SOP、產品管理方式。
 1. 學習如何策略、計劃、執行、開會、報告、做商業與科技決定。
 1. 學習經營公司必備的非 engineering 才能，如行銷、分析、等。
 
-### HAVE OWNERSHIP
+### 握有實際責任
 
 您會擁有所有權執行自己的關鍵 project，從頭到尾。 你也會像我們的全職員工一樣有個人 OKR 和 KPI。
 
-### RECEIVE MENTORSHIP AND CAREER DEVELOPMENT
+### 獲得教導
 
 Stanford 和 MIT 校友的定期回饋，獲得真實經驗，幫助發展未來職業方向。
 
-### RECEIVE COMPENSATION
+### 開始賺錢
 
 根據 OKR 的表現獲得獎金、獎學金或補貼。
 

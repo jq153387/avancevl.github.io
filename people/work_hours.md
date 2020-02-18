@@ -13,14 +13,7 @@ description: Work Hours
 
 ## 遠端指南
 * 基本指南適用。
-* 每天5-10分鐘 scrum，共3次 Zoom 視頻會議。
-	* 早上9點
-	* 下午2點
-	* 下午6點
-* 每週3次面對面的會議
-	* 星期一上午 9am
-	* 星期三下午 5pm
-	* 期五下午 5pm
+* 每天5-10分鐘 scrum，Zoom視頻會議。
 
 <br>
 
@@ -37,14 +30,7 @@ description: Work Hours
 
 ## 远端指南
 * 基本指南适用。
-* 每天5-10分钟 scrum，共3次 Zoom 视频会议。
-	* 早上9点
-	* 下午2点
-	* 下午6点
-* 每周3次面对面的会议
-	* 星期一上午 9am
-	* 星期三下午 5pm
-	* 期五下午 5pm
+* 每天5-10分钟 scrum，Zoom视频会议。
 
 <br>
 
@@ -61,11 +47,4 @@ We value work-life balance. A transpearant expecation on work hours enable our t
 
 ## Remote Guidelines
 * General guidelines apply
-* 3 video check-in meetings on Zoom per day, 5-10 minutes.
-	* 9 AM
-	* 2 PM
-	* 6 PM
-* 3 in-person meetings a week
-	* Monday 9AM
-	* Wednesday 5PM
-	* Friday 5PM
+* One video check-in meetings on Zoom per day, 5-10 minutes.

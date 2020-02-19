@@ -4,6 +4,8 @@ title: 員工福利
 description: Benefits
 ---
 
+<a name="zh-tw"></a>
+
 ## 補償
 * [具有行業競爭力的薪水]({{ site.baseurl }}/people/engineering_level.html)
 * [與經驗相稱的補償]({{ site.baseurl }}/people/compensation.html)
@@ -50,6 +52,8 @@ description: Benefits
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 补偿
 * [具有行业竞争力的薪水]({{ site.baseurl }}/people/engineering_level.html)
 * [与经验相称的补偿]({{ site.baseurl }}/people/compensation.html)
@@ -95,6 +99,8 @@ description: Benefits
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Compensation
 * [Competitive industry salary]({{ site.baseurl }}/people/engineering_level.html)

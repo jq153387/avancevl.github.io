@@ -4,6 +4,8 @@ title: 外派國外
 description: Relocation
 ---
 
+<a name="zh-tw"></a>
+
 ## 美國L-1B簽證 - 公司內部技術員工轉移
 
 纖細了解外派條件，請前往[美國公民移民署官網](https://www.uscis.gov/working-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge){:target="_blank"}。
@@ -20,6 +22,11 @@ description: Relocation
 <br>
 
 ---
+
+<br>
+
+<a name="zh-cn"></a>
+
 
 ## 美国L-1B签证 - 公司内部技术员工转移
 
@@ -39,6 +46,8 @@ description: Relocation
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## L-1B Intracompany Transferee Specialized Knowledge
 

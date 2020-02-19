@@ -4,6 +4,8 @@ title: 績效評估
 description: General Performance Review
 ---
 
+<a name="zh-tw"></a>
+
 > "想要進步就要勇於改變，想要追求卓越就要瞬息萬變"
 
 ## 績效評估
@@ -51,6 +53,8 @@ OKR 格式：“根據以下關鍵結果，我們將達到一定的目標……�
 
 <br>
 
+<a name="zh-cn"></a>
+
 > "想要进步就要勇于改变，想要追求卓越就要瞬息万变"
 
 ## 绩效评估
@@ -97,6 +101,8 @@ OKR 格式：“根据以下关键结果，我们将达到一定的目标……�
 ---
 
 <br>
+
+<a name="en"></a>
 
 > "To improve is to change; to be perfect is to change often."
 

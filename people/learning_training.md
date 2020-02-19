@@ -4,6 +4,8 @@ title: 學習培訓
 description: Learning & Training
 ---
 
+<a name="zh-tw"></a>
+
 # 資源
 
 ## 技術講座
@@ -64,6 +66,8 @@ description: Learning & Training
 
 <br>
 
+<a name="zh-cn"></a>
+
 # 资源
 
 ## 技术讲座
@@ -123,6 +127,8 @@ description: Learning & Training
 ---
 
 <br>
+
+<a name="en"></a>
 
 # Resources
 

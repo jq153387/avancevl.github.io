@@ -4,6 +4,8 @@ title: 規範及合約
 description: Policies & Legal
 ---
 
+<a name="zh-tw"></a>
+
 ## 工作合約
 
 * [保密協議]({{ site.baseurl }}/people/nda.html)

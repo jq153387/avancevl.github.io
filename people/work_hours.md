@@ -4,6 +4,8 @@ title: 工作時間
 description: Work Hours
 ---
 
+<a name="zh-tw"></a>
+
 我們支持工作與生活的平衡。應次，透明的工作時間期望讓團隊更 productive。
 
 ## 基本指南
@@ -21,6 +23,8 @@ description: Work Hours
 
 <br>
 
+<a name="zh-cn"></a>
+
 我们支持工作与生活的平衡。应次，透明的工作时间期望让团队更 productive。
 
 ## 基本指南
@@ -37,6 +41,8 @@ description: Work Hours
 ---
 
 <br>
+
+<a name="en"></a>
 
 We value work-life balance. A transpearant expecation on work hours enable our team to be more productive.
 

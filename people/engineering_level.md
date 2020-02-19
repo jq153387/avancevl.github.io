@@ -4,6 +4,8 @@ title: 工程師職級與薪資
 description: Full-Time Engineering Levels
 ---
 
+<a name="zh-tw"></a>
+
 ## 職級與薪資
 
 | 位階 | 職位 | 年薪（台幣） | 線上測驗分數 |
@@ -147,6 +149,8 @@ description: Full-Time Engineering Levels
 ---
 
 <br>
+
+<a name="zh-cn"></a>
 
 ## 职级与薪资
 
@@ -293,6 +297,8 @@ description: Full-Time Engineering Levels
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Engineering Levels
 

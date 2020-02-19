@@ -4,6 +4,8 @@ title: PWA前端架構
 description: Progressive Web Application
 ---
 
+<a name="zh-tw"></a>
+
 # PWA主要概念理想
 
 1. 資源下線offline模式
@@ -13,10 +15,6 @@ description: Progressive Web Application
 1. 支援push notifications
 1. 網頁可以在手機首頁home screen下載一個app icon
 1. 網頁設計基本上會長的像手機app一樣
-
-<br>
-
----
 
 <br>
 

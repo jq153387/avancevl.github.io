@@ -4,6 +4,8 @@ title: SSR前端架構
 description: Server Side Rendering
 ---
 
+<a name="zh-tw"></a>
+
 | Server Side Rendering架構 | **Next.js** |
 
 <br>
@@ -49,10 +51,6 @@ description: Server Side Rendering
 
 <br>
 
----
-
-<br>
-
 # SSR如何在React.js架構實作
 
 ## React - Server Side Rendering (SSR)
@@ -73,10 +71,6 @@ description: Server Side Rendering
 * [SSR with React](https://medium.com/@swazza85/ssr-with-react-9cb197cfe380){:target="_blank"}
 * [Server Side Rendering with React](https://flaviocopes.com/react-server-side-rendering/){:target="_blank"}
 * [Server Side Rendering with React, Redux, and React-Router](https://itnext.io/server-side-rendering-with-react-redux-and-react-router-fa5b67d4965e){:target="_blank"}
-
-<br>
-
----
 
 <br>
 

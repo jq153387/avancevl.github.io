@@ -4,6 +4,8 @@ title: 前端架構
 description: Front-End Stack
 ---
 
+<a name="zh-tw"></a>
+
 | 前端畫面架構 | **React.js** |
 | 前端Server Side Rendering架構 | **Next.js** |
 | 手機前端畫面架構 | **ReactNative** |
@@ -11,11 +13,6 @@ description: Front-End Stack
 | 前端表格架構 | **Chart.js** |
 
 <br>
-
----
-
-<br>
-
 
 # 前端畫面架構
 
@@ -79,10 +76,6 @@ description: Front-End Stack
 
 <br>
 
----
-
-<br>
-
 # 前端持續性資料架構
 
 ## Redux的意義
@@ -93,10 +86,6 @@ description: Front-End Stack
 1. 商業邏輯可以放在Redux模組裡
 1. 一開始可能會有些開發成本，但之後程式比較好整理
 1. 純畫面模組也比較好測試Unit Test
-
-<br>
-
----
 
 <br>
 

@@ -4,6 +4,8 @@ title: AMP前端架構
 description: Accelerated Mobile Pages
 ---
 
+<a name="zh-tw"></a>
+
 ## AMP主要概念理想
 
 * **AMP HTML:** 簡化版的HTML讓網頁更快的呈現出來。

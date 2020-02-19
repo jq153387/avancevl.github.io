@@ -4,6 +4,8 @@ title: 後端架構
 description: Back-End Stack
 ---
 
+<a name="zh-tw"></a>
+
 | 後端架構 | **Node** |
 | 後端網頁架構 | **Express.js** |
 
@@ -32,8 +34,6 @@ description: Back-End Stack
 
 <br>
 
----
-
 ## Rails
 
 ### 優點
@@ -47,8 +47,6 @@ description: Back-End Stack
 1. 很多"magic"
 
 <br>
-
----
 
 ## GraphQL
 
@@ -68,8 +66,6 @@ description: Back-End Stack
 	1. [HN Discuss: Why use GraphQL, good and bad reasons](https://news.ycombinator.com/item?id=17830235){:target="_blank"}
 
 <br>
-
----
 
 ## 主要考量因數
 

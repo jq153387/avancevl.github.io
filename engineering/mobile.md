@@ -4,13 +4,11 @@ title: 手機應用程式架構
 description: Mobile Application Framework
 ---
 
+<a name="zh-tw"></a>
+
 | 手機前端畫面架構 | **ReactNative** |
 | Landing Page 手機版本 | AMP |
 | Web App 手機版本 | PWA |
-
-<br>
-
----
 
 <br>
 
@@ -26,10 +24,6 @@ description: Mobile Application Framework
 * [官方網頁](https://amp.dev/zh_cn/documentation/){:target="_blank"}
 * Static網頁
 * 是個網頁架構library
-
-<br>
-
----
 
 <br>
 
@@ -53,10 +47,6 @@ description: Mobile Application Framework
 ### 第三階段：iOS, Swift
 
 * 有特殊效能或手機API考量才有必要
-
-<br>
-
----
 
 <br>
 

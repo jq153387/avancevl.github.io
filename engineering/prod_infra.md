@@ -4,6 +4,8 @@ title: 生產架構
 description: Production Infrastructure
 ---
 
+<a name="zh-tw"></a>
+
 | 第一階段雲端服務 | Firebase, ZEIT |
 
 # 架構設計目標
@@ -22,10 +24,6 @@ description: Production Infrastructure
 # 開發架構順序
 
 > **如何用最低成本最快速度開發上線初期產品MVP？**
-
-<br>
-
----
 
 <br>
 
@@ -95,10 +93,6 @@ description: Production Infrastructure
 
 <br>
 
----
-
-<br>
-
 ## 第二階段：Platform-as-a-Service
 
 > **如何開始容納高流量**
@@ -124,10 +118,6 @@ description: Production Infrastructure
 
 <br>
 
----
-
-<br>
-
 ## 第三階段：Infrastructure-as-a-Service
 
 * 除了買電腦其他基本上全部要自己做。
@@ -141,10 +131,6 @@ description: Production Infrastructure
 | Azure Cloud | | | 考慮 |
 | DigitalOceans | | | 考慮 |
 | Linode | | | 考慮 |
-
-<br>
-
----
 
 <br>
 

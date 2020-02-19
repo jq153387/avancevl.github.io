@@ -4,6 +4,8 @@ title: 產品開發流程
 description: Product Cycle
 ---
 
+<a name="zh-tw"></a>
+
 |產品週期| 一個衝刺| 一週 |
 
 > 我們的產品週期受到Michael Seibel的演講[**產品開發週期**](https://www.youtube.com/watch?v=kzVvjKLdAbk){:target="_blank"}的啟發
@@ -50,6 +52,8 @@ description: Product Cycle
 
 <br>
 
+<a name="zh-cn"></a>
+
 |产品周期| 一个冲刺| 一周 |
 
 > 我们的产品周期受到Michael Seibel的演讲[**产品开发周期**](https://www.youtube.com/watch?v=kzVvjKLdAbk){:target="_blank"}的启发
@@ -95,6 +99,8 @@ description: Product Cycle
 ---
 
 <br>
+
+<a name="en"></a>
 
 | Product Cycle | 1 Sprint | 1 Week |
 

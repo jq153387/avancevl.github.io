@@ -4,12 +4,10 @@ title: UI設計原則
 description: UI Design
 ---
 
+<a name="zh-tw"></a>
+
 | UI設計架構 | Material UI |
 | 主要因素 | RWD, React考慮 |
-
-<br>
-
----
 
 <br>
 
@@ -37,10 +35,6 @@ description: UI Design
 
 * [官方網站](https://react-bootstrap.github.io/){:target="_blank"}
 * 已經設計好的React.js component，適合跟React.js前端結合
-
-<br>
-
----
 
 <br>
 
@@ -85,20 +79,12 @@ description: UI Design
 
 <br>
 
----
-
-<br>
-
 # Ant Design
 
 > 服务于企业级产品的设计体系，基于确定和自然的设计价值观上的模块化解决方案，让设计者和开发者专注于更好的用户体验。
 
 * 什麼是[Ant Design](https://ant.design/index-cn){:target="_blank"}
 
-
-<br>
-
----
 
 <br>
 

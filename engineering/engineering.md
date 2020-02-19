@@ -4,6 +4,8 @@ title: 工程開發
 description: Engineering
 ---
 
+<a name="zh-tw"></a>
+
 # 溝通
 
 請閱讀[有效溝通的原則和最佳做法]({{ site.baseurl }}/principles/communication.html)。
@@ -45,6 +47,8 @@ GitLab工程問題分為1週衝刺。每個工程師（無論是遠程工程師�
 
 <br>
 
+<a name="zh-cn"></a>
+
 # 沟通
 
 请阅读[有效沟通的原则和最佳做法]({{ site.baseurl }}/principles/communication.html)。
@@ -85,6 +89,8 @@ GitLab工程问题分为1周冲刺。每个工程师（无论是远程工程师�
 ---
 
 <br>
+
+<a name="en"></a>
 
 # Communication
 

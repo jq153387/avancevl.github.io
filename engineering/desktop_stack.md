@@ -4,11 +4,9 @@ title: 桌面程式架構
 description: Desktop App Stack
 ---
 
+<a name="zh-tw"></a>
+
 | 跨平台桌面程式架構 | **Electron** |
-
-<br>
-
----
 
 <br>
 
@@ -17,10 +15,6 @@ description: Desktop App Stack
 * [Slack: Building Hybrid Applications with Electron](https://slack.engineering/building-hybrid-applications-with-electron-dc67686de5fb){:target="_blank"}
 * [Learn to build your own desktop chat app with React and Electron](https://www.freecodecamp.org/news/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f/){:target="_blank"}
 
-
-<br>
-
----
 
 <br>
 
@@ -48,10 +42,6 @@ description: Desktop App Stack
 * [Node Child Process](https://nodejs.org/api/child_process.html){:target="_blank"}
 * [`shelljs`](https://www.npmjs.com/package/shelljs){:target="_blank"}
 	* ShellJS is a portable (Windows/Linux/OS X) implementation of Unix shell commands on top of the Node.js API. You can use it to eliminate your shell script's dependency on Unix while still keeping its familiar and powerful commands. You can also install it globally so you can run it from outside Node projects - say goodbye to those gnarly Bash scripts!
-
-<br>
-
----
 
 <br>
 
@@ -103,10 +93,6 @@ description: Desktop App Stack
 * [Slack: Introducing Electron to the Windows Runtime](https://slack.engineering/introducing-electron-to-the-windows-runtime-4fa789b93d90){:target="_blank"}
 	* 簡單介紹如何包裝Eletrcon App上Windows App Store
 
-
-<br>
-
----
 
 <br>
 

@@ -4,6 +4,8 @@ title: 資料庫架構
 description: Database-as-a-Service
 ---
 
+<a name="zh-tw"></a>
+
 | Database-as-a-Service架構 | **Cloud Firestore** |
 
 ## Firebase - Cloud Firestore

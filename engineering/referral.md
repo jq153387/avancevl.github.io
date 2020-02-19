@@ -4,6 +4,8 @@ title: 使用者轉介架構
 description: User Referral
 ---
 
+<a name="zh-tw"></a>
+
 | 轉介架構 | Firebase |
 
 <br>

@@ -4,6 +4,8 @@ title: JS測試
 description: JavaScript Testing
 ---
 
+<a name="zh-tw"></a>
+
 | JS測試架構 | **Jest** |
 
 <br>

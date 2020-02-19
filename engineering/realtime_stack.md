@@ -4,11 +4,9 @@ title: 即時網路架構
 description: Realtime Web Stack
 ---
 
+<a name="zh-tw"></a>
+
 | WebSocket 架構 | **socket.io** |
-
-<br>
-
----
 
 <br>
 
@@ -23,10 +21,6 @@ description: Realtime Web Stack
 * [`github: socket.io`](https://socket.io/){:target="_blank"}
 * [`github: ws`](https://github.com/websockets/ws#api-docs){:target="_blank"}
 * [`github: sockjs`](https://github.com/sockjs/sockjs-node){:target="_blank"}
-
-<br>
-
----
 
 <br>
 

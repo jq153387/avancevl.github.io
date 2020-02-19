@@ -32,6 +32,35 @@
 
     <main id="content" class="main-content" role="main">
 
+      {% if site.data.navigation.toc[0] %}
+          {% for item in site.data.navigation.toc %}
+              {% if page.url == item.url %}
+                <a href="{{ site.baseurl }}{{ item.url }}" class="active">{{ item.title }}</a>
+              {% endif %}
+              {% if item.subfolderitems[0] %}
+                  {% for entry in item.subfolderitems %}
+                      {% if page.url == entry.url %}
+                        <a href="{{ site.baseurl }}{{ entry.url }}" class="active">{{ entry.page }}</a>
+                      {% endif %}
+                        {% if entry.subsubfolderitems[0] %}
+                          {% for subentry in entry.subsubfolderitems %}
+                              {% if page.url == subentry.url %}
+                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="active">{{ subentry.page }}</a>
+                              {% endif %}
+                              {% if subentry.subsubsubfolderitems[0] %}
+                                {% for subsubentry in subentry.subsubsubfolderitems %}
+                                    {% if page.url == subsubentry.url %}
+                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active">{{ subsubentry.page }}</a>
+                                    {% endif %}
+                                {% endfor %}
+                              {% endif %}
+                          {% endfor %}
+                        {% endif %}
+                  {% endfor %}
+              {% endif %}
+            {% endfor %}
+        {% endif %}
+
       <p><a href="#zh-tw">繁體</a> | <a href="#zh-cn">简体</a> | <a href="#en">English</a></p>
       
       {{ content }}

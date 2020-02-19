@@ -4,7 +4,9 @@ title: 不一樣的新創團隊
 description: A Different Breed of Startups
 ---
 
+<!---
 [繁體](#zh-tw) \| [简体](#zh-cn) \| [English](#en)
+-->
 
 <a name="zh-tw"></a>
 

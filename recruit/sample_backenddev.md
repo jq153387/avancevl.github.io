@@ -4,6 +4,8 @@ title: 後端測驗樣本
 description: Back-End Sample Exam
 ---
 
+<a name="zh-tw"></a>
+
 [立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 [檢閱考試指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
@@ -129,6 +131,8 @@ if（星期幾 == 日 && 開始營業時間 >= 15:00 && 結束營業時間 <= 21
 ---
 
 <br>
+
+<a name="zh-cn"></a>
 
 [立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 [检阅考试指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}

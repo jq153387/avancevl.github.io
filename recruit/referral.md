@@ -4,6 +4,8 @@ title: 推薦獎金
 description: Referral Program
 ---
 
+<a name="zh-tw"></a>
+
 ## 人才推薦獎金
 
 我們希望與任何有才能的人一起工作。 如果您認識聰明、充滿活力、積極進取的人，請介紹並獲得推薦獎金（成功入去）！
@@ -14,6 +16,8 @@ description: Referral Program
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 人才推荐奖金
 
 我们希望与任何有才能的人一起工作。如果您认识聪明、充满活力、积极进取的人，请介绍并获得推荐奖金（成功入去）！
@@ -23,6 +27,8 @@ description: Referral Program
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Referral Bonus
 

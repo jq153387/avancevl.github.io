@@ -4,6 +4,8 @@ title: 測驗分數評估
 description: Exam Rubric
 ---
 
+<a name="zh-tw"></a>
+
 [參考測驗指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 [參考考試樣本]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 
@@ -133,6 +135,8 @@ description: Exam Rubric
 
 <br>
 
+<a name="zh-cn"></a>
+
 [参考测验指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 [参考考试样本]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}
 
@@ -261,6 +265,8 @@ description: Exam Rubric
 ---
 
 <br>
+
+<a name="zh-en"></a>
 
 [View Instructions]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 [View Sample Exam]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}

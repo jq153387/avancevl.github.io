@@ -4,6 +4,8 @@ title: 全端測驗樣本
 description: Full Stack Sample Exam
 ---
 
+<a name="zh-tw"></a>
+
 [立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 [檢閱考試指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
@@ -97,6 +99,8 @@ description: Full Stack Sample Exam
 ---
 
 <br>
+
+<a name="zh-cn"></a>
 
 [立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 [检阅考试指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}

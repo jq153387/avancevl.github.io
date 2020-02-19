@@ -4,6 +4,8 @@ title: "選項B：傳統方案 - 實際白板考試"
 description: Traditional Whiteboard Interview
 ---
 
+<a name="zh-tw"></a>
+
 我們傳統的軟件工程師白板面試過程為**2天整**。
 * 限非全遠端職位，必須本人在台北市。
 * 面試的每一天都從上午9點開始，中午休息，然後一直持續到晚上。
@@ -52,6 +54,8 @@ description: Traditional Whiteboard Interview
 
 <br>
 
+<a name="zh-cn"></a>
+
 我们传统的软件工程师白板面试过程为**2天整**。
 * 限非全远端职位，必须本人在台北市。
 * 面试的每一天都从上午9点开始，中午休息，然后一直持续到晚上。
@@ -99,6 +103,8 @@ description: Traditional Whiteboard Interview
 ---
 
 <br>
+
+<a name="en"></a>
 
 Our traditional software engineer whiteboard interview process is **2 full days**. 
 * Each day of interview starts at 9am, breaks for lunchtime, and continues onto the evening. 

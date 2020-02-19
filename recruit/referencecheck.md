@@ -4,6 +4,8 @@ title: "選項C：資歷查核 - 取代技術測驗"
 description: Technical Reference Check
 ---
 
+<a name="zh-tw"></a>
+
 ## 不用在家測驗或白板考試
 
 * **不需在家線上測驗**
@@ -35,6 +37,8 @@ description: Technical Reference Check
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 不用在家测验或白板考试
 
 * **不需在家线上测验**
@@ -64,6 +68,8 @@ description: Technical Reference Check
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## No technical interviews or exams
 

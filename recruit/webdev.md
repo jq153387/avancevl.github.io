@@ -4,7 +4,10 @@ title: 工程師線上測驗指南 — 考前準備
 description: Web Developer Exam
 ---
 
+<a name="zh-tw"></a>
+
 ## 相關職缺
+
 1. [全端軟體工程師]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 1. [前端軟體工程師]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 1. [後端軟體工程師]({{ site.baseurl }}/recruit/jd_backenddev.html)
@@ -20,6 +23,7 @@ description: Web Developer Exam
 [參考後端考試樣本]({{ site.baseurl }}/recruit/sample_backenddev.html){: .btn#page-btn}
 
 ## 考前指示
+
 > **注意：**
 > 為節省時間，我們強烈建議您在**考試前**先提前預備設置好一個空白的網頁開發架框和環境基本設定
 
@@ -85,7 +89,10 @@ description: Web Developer Exam
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 相关职缺
+
 1. [全端软体工程师]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 1. [前端软体工程师]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 1. [后端​​软体工程师]({{ site.baseurl }}/recruit/jd_backenddev.html)
@@ -101,6 +108,7 @@ description: Web Developer Exam
 [参考后端考试样本]({{ site.baseurl }}/recruit/sample_backenddev.html){: .btn#page-btn}
 
 ## 考前指示
+
 > **注意：**
 > 为节省时间，我们强烈建议您在**考试前**先提前预备设置好一个空白的网页开发架框和环境基本设定
 
@@ -166,7 +174,10 @@ description: Web Developer Exam
 
 <br>
 
+<a name="en"></a>
+
 ## For Positions
+
 1. [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 1. [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 1. [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
@@ -181,6 +192,7 @@ Below are links to Full Stack, Front-End, and Back-End Developer exams. Please f
 [Back End Sample Exam]({{ site.baseurl }}/recruit/sample_backenddev.html){: .btn#page-btn}
 
 ## Exam Instructions
+
 > **IMPORTANT:**
 > We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. (e.g. Django, Rails, Node.js) 
 

@@ -4,7 +4,7 @@ title: 徵才
 description: Recruiting
 ---
 
-<br>
+<a name="zh-tw"></a>
 
 加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包）。
 
@@ -30,6 +30,8 @@ AVL 正在廣尋**優秀人才**加入團隊。
 
 <br>
 
+<a name="zh-cn"></a>
+
 加速孵化团队内部自己创造的新点子，解决全球消费者和商务的难处（非接案、非博弈、不外包）。
 
 <br>
@@ -53,6 +55,8 @@ AVL 正在广寻**优秀人才**加入团队。
 ---
 
 <br>
+
+<a name="en"></a>
 
 We incubate, accelerate, and implement ideas that our team create internally.
 

@@ -4,6 +4,8 @@ title: 面試過程
 description: Interview Process
 ---
 
+<a name="zh-tw"></a>
+
 ## 整體面試過程可以不到3小時
 
 | # | 階段 | 時間 | 評估 |
@@ -50,6 +52,8 @@ description: Interview Process
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 整体面试过程可以不到3小时
 
 | # | 阶段 | 时间 | 评估 |
@@ -95,6 +99,8 @@ description: Interview Process
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Entire interview process less than 3 hours
 

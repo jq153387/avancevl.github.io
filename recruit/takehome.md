@@ -4,6 +4,8 @@ title: "選項A：加速申請 - 線上測驗"
 description: Accelerated Take-Home Exam
 ---
 
+<a name="zh-tw"></a>
+
 我們的考題是模仿我們網頁開發團隊每天實際做的工作。在家線上考試可以客觀、公平、準確的評估工程師的實踐能力，讓參考者節省時間、彈性安排時段、最佳表現實際網站開發能力。2.5小時快速測量職級並決定與薪資.
 
 [檢閱考試準備指南]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
@@ -41,6 +43,8 @@ description: Accelerated Take-Home Exam
 ---
 
 <br>
+
+<a name="zh-cn"></a>
 
 我们的考题是模仿我们网页开发团队每天实际做的工作。在家线上考试可以客观、公平、准确的评估工程师的实践能力，让参考者节省时间、弹性安排时段、最佳表现实际网站开发能力。 2.5小时快速测量职级并决定与薪资.
 
@@ -80,6 +84,8 @@ description: Accelerated Take-Home Exam
 ---
 
 <br>
+
+<a name="en"></a>
 
 Our take-home exam is an accurate reflection of daily work at our company. The take home exam is therefore objective, fair, and accurate assessment of a candidate's ability. The exam saves the candidate time with flexible scheduling and time limit to no more than 2.5 hours.
 

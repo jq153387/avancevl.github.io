@@ -4,6 +4,8 @@ title: 入職訓練
 description: Onboarding Training
 ---
 
+<a name="zh-tw"></a>
+
 當您在入職過程中，我們會提供您相關的資料讓您熟悉工作並快速上手，大致上是以下的步驟：
 
 1. 填寫[背景調查表](https://forms.gle/Heimpw1gFko2k37Z6){:target="_blank"}
@@ -21,6 +23,8 @@ description: Onboarding Training
 
 <br>
 
+<a name="zh-cn"></a>
+
 当您在入职过程中，我们会提供您相关的资料让您熟悉工作并快速上手，大致上是以下的步骤：
 
 1. 填写[背景调查表](https://forms.gle/Heimpw1gFko2k37Z6){:target="_blank"}
@@ -37,6 +41,8 @@ description: Onboarding Training
 ---
 
 <br>
+
+<a name="cn"></a>
 
 When you onboard, you will be given materials to review and complete the following steps:
 

@@ -20,6 +20,7 @@ description: A Different Breed of Startups
 <br>
 
 ## 唯才是用
+
 我們希望與有才華的你合作，**正在廣尋優秀人才**加入團隊。
 
 [探索機會]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
@@ -61,6 +62,7 @@ description: A Different Breed of Startups
 <br>
 
 ## 唯才是用
+
 我们希望与有才华的你合作，**正在广寻优秀人才**加入团队。
 
 [探索机会]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
@@ -101,6 +103,7 @@ We believe in radical transparency, where the best ideas win. As such, how we ru
 <br>
 
 ## Work with the best people
+
 We want to work with talented individuals and are **always actively hiring**.
 
 [Explore opportunities]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}

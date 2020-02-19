@@ -4,7 +4,7 @@ title: 不一樣的新創團隊
 description: A Different Breed of Startups
 ---
 
-[简体](#不一样的加速孵化新创团队) \| [English](#a-different-breed-of-startup-incubator)
+[繁體](#不一樣的加速孵化新創團隊) \| [简体](#不一样的加速孵化新创团队) \| [English](#a-different-breed-of-startup-incubator)
 
 ## 不一樣的加速孵化新創團隊
 

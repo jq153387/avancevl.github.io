@@ -4,6 +4,8 @@ title: 業務行銷
 description: Growth
 ---
 
+<a name="zh-tw"></a>
+
 ## 成長策略
 
 * 營銷
@@ -24,13 +26,15 @@ description: Growth
 
 <br>
 
-[我們的敏捷過程]({{ site.baseurl }}/principles/agile.html)
+[我們的敏捷過程]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}
 
 <br>
 
---
+---
 
 <br>
+
+<a name="en"></a>
 
 ## Grow Strategies
 
@@ -52,4 +56,4 @@ description: Growth
 
 <br>
 
-[Our Agile Process]({{ site.baseurl }}/principles/agile.html)
+[Our Agile Process]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}

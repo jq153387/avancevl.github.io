@@ -4,6 +4,8 @@ title: 產品研發流程
 description: Product Management
 ---
 
+<a name="zh-tw"></a>
+
 該頁面概述了我們的產品開發週期和過程。有關我們產品的信息，請訪問下面的鏈接。
 
 [查看我們的產品]({{ site.baseurl }}/product.html){: .btn#page-btn}
@@ -25,6 +27,8 @@ description: Product Management
 ---
 
 <br>
+
+<a name="en"></a>
 
 This page is to outline our product development cycle and process. For information about our products, please visit the link below.
 

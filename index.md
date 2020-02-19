@@ -47,7 +47,7 @@ description: A Different Breed of Startups
 
 ---
 
-[[zh-cn]]
+[zh-cn]
 
 <br>
 
@@ -90,7 +90,7 @@ description: A Different Breed of Startups
 
 ---
 
-[[en]]
+[en]
 
 
 <br>

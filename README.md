@@ -23,7 +23,7 @@
 
 我們希望與有才華的你合作，**正在廣尋優秀人才**加入團隊。
 
-[探索機會](https://avancevl.github.io/recruit/recruit.html){: .btn#page-btn}
+[探索機會](https://avancevl.github.io/recruit/recruit.html)
 
 <br>
 
@@ -39,8 +39,8 @@
 
 幫我們支持台灣開源軟體，新創，及工程師社團：
 
-* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
-* [Full Stack Developers Taiwan :star:](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
+* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/)
+* [Full Stack Developers Taiwan :star:](https://stacktw.github.io/stacktw.github.io/)
 
 <br>
 
@@ -67,7 +67,7 @@
 
 我们希望与有才华的你合作，**正在广寻优秀人才**加入团队。
 
-[探索机会](https://avancevl.github.io/recruit/recruit.html){: .btn#page-btn}
+[探索机会](https://avancevl.github.io/recruit/recruit.html)
 
 <br>
 
@@ -110,7 +110,7 @@ We believe in radical transparency, where the best ideas win. As such, how we ru
 
 We want to work with talented individuals and are **always actively hiring**.
 
-[Explore opportunities](https://avancevl.github.io/recruit/recruit.html){: .btn#page-btn}
+[Explore opportunities](https://avancevl.github.io/recruit/recruit.html)
 
 <br>
 
@@ -126,5 +126,5 @@ We welcome feedback.
 
 Help us support the open source, startup, developer communites in Taiwan by following:
 
-* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/){:target="_blank"}
-* [Full Stack Developers Taiwan :star:](https://stacktw.github.io/){:target="_blank"}
+* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/)
+* [Full Stack Developers Taiwan :star:](https://stacktw.github.io/)

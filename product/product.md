@@ -43,13 +43,13 @@ description: Product Management
 
 ## 詳細流程
 
-* [設計過程]（{{site.baseurl}} / product / design.html）
-* [工程產品週期]（{{site.baseurl}} / engineering / product_cycle.html）
+* [設計過程]({{ site.baseurl }}/product/design.html)
+* [工程產品週期]({{ site.baseurl }}/engineering/product_cycle.html)
 * 客戶反饋流程
 
 <br>
 
-[我們的敏捷流程]（{{site.baseurl}} / principles / agile.html）{：.btn＃page-btn}
+[我們的敏捷流程]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}
 
 ## 在線資源
 

@@ -4,6 +4,10 @@ title: 不一樣的新創團隊
 description: A Different Breed of Startups
 ---
 
+[简体](#zh-cn) | [English](#en)
+
+[[zh-tw]]
+
 ## 不一樣的加速孵化新創團隊
 
 加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包、不是 contractor）
@@ -42,6 +46,8 @@ description: A Different Breed of Startups
 <br>
 
 ---
+
+[[zh-cn]]
 
 <br>
 
@@ -83,6 +89,9 @@ description: A Different Breed of Startups
 <br>
 
 ---
+
+[[en]]
+
 
 <br>
 

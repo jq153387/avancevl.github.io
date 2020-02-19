@@ -4,6 +4,8 @@ title: 責任分配
 description: Areas of Responsibility
 ---
 
+<a name="zh-tw"></a>
+
 ## 管理責任分配
 
 |區塊|責任|業主|
@@ -21,6 +23,8 @@ description: Areas of Responsibility
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 管理责任分配
 
 |区块|责任|业主|
@@ -37,6 +41,8 @@ description: Areas of Responsibility
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Management Responsibilities
 

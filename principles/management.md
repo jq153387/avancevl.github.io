@@ -4,6 +4,8 @@ title: 管理方式
 description: Management
 ---
 
+<a name="zh-tw"></a>
+
 ## 管理層的責任
 
 讓管理層負責提供以下內容：
@@ -36,6 +38,8 @@ description: Management
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 管理层的责任
 
 让管理层负责提供以下内容：
@@ -67,6 +71,8 @@ description: Management
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Management's Responsibility
 

@@ -4,6 +4,8 @@ title: 團隊互動
 description: Team Dynamics Expectations
 ---
 
+<a name="zh-tw"></a>
+
 ## 如何解決衝突？
 
 在一項調查中，我們向100多名候選人詢問了他們理想的公司文化。
@@ -64,6 +66,8 @@ description: Team Dynamics Expectations
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 如何解决冲突？
 
 在一项调查中，我们向100多名候选人询问了他们理想的公司文化。
@@ -121,7 +125,10 @@ description: Team Dynamics Expectations
 <br>
 
 ---
+
 <br>
+
+<a name="en"></a>
 
 ## How to Resolve Conflicts?
 

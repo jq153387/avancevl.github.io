@@ -4,6 +4,8 @@ title: 管理KPI及OKR
 description: Management KPI & OKR
 ---
 
+<a name="zh-tw"></a>
+
 ## 2020年公司目標
 
 ## 1.建立團隊
@@ -56,6 +58,8 @@ description: Management KPI & OKR
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 2020年公司目标
 
 ## 1.建立团队
@@ -107,6 +111,8 @@ description: Management KPI & OKR
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## 2020 Company Goals
 

@@ -4,6 +4,8 @@ title: 有效溝通
 description: Effective Communication
 ---
 
+<a name="zh-tw"></a>
+
 ## 有效溝通框架
 
 ### 1.做筆記
@@ -41,6 +43,8 @@ description: Effective Communication
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 有效沟通框架
 
 ### 1.做笔记
@@ -77,6 +81,8 @@ description: Effective Communication
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Framework for Effective Communication
 

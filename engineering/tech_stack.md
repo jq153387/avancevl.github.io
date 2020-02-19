@@ -4,6 +4,8 @@ title: 技術架構
 description: Tech Stack
 ---
 
+<a name="zh-tw"></a>
+
 | 數據更新時間 | 2月2020年 |
 
 ## 整體技術架構
@@ -40,6 +42,8 @@ description: Tech Stack
 ---
 
 <br>
+
+<a name="zh-cn"></a>
 
 | 数据更新时间 | 2月2020年 |
 

@@ -4,6 +4,8 @@ title: 工作語言
 description: Language
 ---
 
+<a name="zh-tw"></a>
+
 # 中文溝通，英文輔助
 
 * 中文是AVL的主要語言。
@@ -28,6 +30,8 @@ description: Language
 
 <br>
 
+<a name="zh-cn"></a>
+
 # 中文沟通，英文辅助
 
 * 中文是AVL的主要语言。
@@ -51,6 +55,8 @@ description: Language
 ---
 
 <br>
+
+<a name="en"></a>
 
 # Chinese First, English Second
 

@@ -5,6 +5,8 @@ description: Deliverables Etiquette
 navigation_weight: 7
 ---
 
+<a name="zh-tw"></a>
+
 ## 可交付成果禮節
 
 ### 1.堅持最高標準
@@ -27,6 +29,8 @@ navigation_weight: 7
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 可交付成果礼节
 
 ### 1.坚持最高标准
@@ -48,6 +52,8 @@ navigation_weight: 7
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Deliverables Etiquette
 

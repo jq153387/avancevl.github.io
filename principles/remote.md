@@ -4,6 +4,8 @@ title: 遠端工作
 description: Remote
 ---
 
+<a name="zh-tw"></a>
+
 ## 為什麼要遠程？
 
 ### 候選人需要遠程選項
@@ -98,6 +100,8 @@ description: Remote
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 为什么要远程？
 
 ### 候选人需要远程选项
@@ -191,6 +195,8 @@ description: Remote
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Why Remote?
 

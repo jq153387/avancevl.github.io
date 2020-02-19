@@ -4,6 +4,8 @@ title: 執行策略
 description: Execution Strategy
 ---
 
+<a name="zh-tw"></a>
+
 ## 客戶至上
 * 始終與我們的客戶保持聯繫，了解他們是誰以及他們想要什麼。
 * 讓客戶滿意始終是製勝法寶。聽每個人，不要聽任何人。
@@ -45,6 +47,8 @@ description: Execution Strategy
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 客户至上
 * 始终与我们的客户保持联系，了解他们是谁以及他们想要什么。
 * 让客户满意始终是制胜法宝。听每个人，不要听任何人。
@@ -85,6 +89,8 @@ description: Execution Strategy
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Customer First
 * Always be in communication with our customers, understanding who they are and what they want. 

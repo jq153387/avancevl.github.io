@@ -4,6 +4,8 @@ title: 敏捷流程
 description: Agile
 ---
 
+<a name="zh-tw"></a>
+
 ## 敏捷流程的三原則
 
 因此，敏捷的三個定律是：
@@ -40,6 +42,8 @@ description: Agile
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 敏捷流程的三原则
 
 因此，敏捷的三个定律是：
@@ -75,6 +79,8 @@ description: Agile
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Three Laws of Agile
 

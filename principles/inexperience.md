@@ -4,6 +4,8 @@ title: 職場新人
 description: No Experience Required
 ---
 
+<a name="zh-tw"></a>
+
 ## 為什麼您願意僱用沒有經驗的候選人？
 
 我們相信，為飢餓的年輕應聘者提供最少的工作經驗，使其能夠成長並證明自己。
@@ -30,6 +32,8 @@ description: No Experience Required
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 为什么您愿意雇用没有经验的候选人？
 
 我们相信，为饥饿的年轻应聘者提供最少的工作经验，使其能够成长并证明自己。
@@ -55,6 +59,8 @@ description: No Experience Required
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Why are you willing to hire candidates with no experience?
 

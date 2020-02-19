@@ -4,6 +4,8 @@ title: 書面交流
 description: Written Communication Etiquette
 ---
 
+<a name="zh-tw"></a>
+
 ## 書面交流禮節
 
 ### 1.首先考慮
@@ -36,6 +38,8 @@ description: Written Communication Etiquette
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 书面交流礼节
 
 ### 1.首先考虑
@@ -67,6 +71,8 @@ description: Written Communication Etiquette
 ---
 
 <br>
+
+<a name="en"></a>
 
 ## Written Communication Etiquette
 

@@ -4,6 +4,8 @@ title: 公司理念
 description: Principles
 ---
 
+<a name="zh-tw"></a>
+
 ## 莫忘初衷
 除了我們的[價值觀]({{ site.link_team }})，我們的公司理念、願景、使命將引導我們為目標市場提供更好的產品和為團隊提供更好的文化與工作環境。
 
@@ -42,7 +44,10 @@ description: Principles
 
 <br>
 
+<a name="zh-cn"></a>
+
 ## 莫忘初衷
+
 除了我们的[价值观]({{ site.link_team }})，我们的公司理念、愿景、使命将引导我们为目标市场提供更好的产品和为团队提供更好的文化与工作环境。
 
 ## 理念
@@ -79,6 +84,8 @@ description: Principles
 ---
 
 <br>
+
+<a name="en"></a>
 
 In addition to our [Values]({{ site.link_team }}), our company Principles, Vision, and Mission will guide us towards better product for our target market and better culture and work environment for your team. 
 

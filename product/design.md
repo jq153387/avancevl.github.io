@@ -4,12 +4,7 @@ title: 設計流程
 description: Design Process
 ---
 
-## 我們喜歡的網頁
-
-| 網頁 | 行業 | 喜歡的地方 |
-| --- | --- | --- |
-| [Airbnb](https://www.airbnb.com){:target="_blank"} | 金流 | 簡單，清楚，功能性實際 |
-| [Mercury](https://mercury.com){:target="_blank"} | 金流 | 簡單，清楚，功能性實際 |
+[我們喜歡的網頁](https://docs.google.com/spreadsheets/d/1JFrMD5X5O_09hYCWGpeODBHy0OnA1UkQUuejtB0m54w/edit?usp=sharing){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
@@ -47,6 +42,14 @@ Secondary colors are best for:
 * Links and headlines
 * Dark and light secondary variants
 * Just like the primary color, your secondary color can have dark and light variants. You can make a color theme by using your primary color, secondary color, and dark and light variants of each color.
+
+<br>
+
+## 字體 Fonts
+
+* [Font Pairings](https://fonts.google.com/specimen/Ubuntu){:target="_blank"}
+	* Different header and paragraph fonts
+* [Google Fonts](https://fonts.google.com/){:target="_blank"}
 
 <br>
 

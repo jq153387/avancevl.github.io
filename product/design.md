@@ -4,7 +4,7 @@ title: 設計流程
 description: Design Process
 ---
 
-[我們喜歡的網頁](https://docs.google.com/spreadsheets/d/1JFrMD5X5O_09hYCWGpeODBHy0OnA1UkQUuejtB0m54w/edit?usp=sharing){: .btn#page-btn}{:target="_blank"}
+[我們欣賞的設計概念](https://docs.google.com/spreadsheets/d/1JFrMD5X5O_09hYCWGpeODBHy0OnA1UkQUuejtB0m54w/edit?usp=sharing){: .btn#page-btn}{:target="_blank"}
 
 <br>
 

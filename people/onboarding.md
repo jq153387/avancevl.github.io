@@ -6,7 +6,7 @@ description: Onboarding
 
 <a name="zh-tw"></a>
 
-歡迎加入我們團隊！請依照一下的流程完成入職程序。使用期結束之前，會有個小考試考以下的規範。如果有問題，直接問人事或管理人。
+歡迎加入我們團隊！請依照一下的流程完成入職程序。試用期結束之前，會有個小考試考以下的規範。如果有問題，直接問人事或管理人。
 
 # 閱讀公司規範
 
@@ -34,27 +34,22 @@ description: Onboarding
 ## Email
 
 公司會提供。
-* 要求每人都下載Gmail app到手機上。
+* 要求每人都下載Gmail App到手機上。
 * 要求每人都下載Google Calendar到手機上。
 
 ## Slack
 
-* 要求每人都下載Slack app到手機與電腦上。
-* 已用Email加入了相關workspace。
+* 要求每人都下載Slack App到電腦與手機上。
+* 用Email加入了相關workspace。
 
 | Group | Workspace |
 | --- | --- |
 | AVL | `avancevl.slack.com` |
 | PerfectScore | `getperfectscore.slack.com` |
 
-## JIRA
-
-* 要求每人都下載JIRA App到手機上。
-* 已用Email加入相關JIRA projects。
-
 ## Zoom
 
-* 要求每人都下載JIRA App到手機上。
+* 要求每人都下載 Zoom App到電腦與手機上。
 
 ## GitLab
 

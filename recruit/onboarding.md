@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 入職訓練
+title: 入職流程與訓練
 description: Onboarding Training
 ---
 
 <a name="zh-tw"></a>
 
-當您在入職過程中，我們會提供您相關的資料讓您熟悉工作並快速上手，大致上是以下的步驟：
+當您在入職過程中，我們會提供您相關的資料讓您熟悉工作並快速上手。請先完成以下的步驟：
 
 1. 填寫[背景調查表](https://forms.gle/Heimpw1gFko2k37Z6){:target="_blank"}
 1. 認識你的隊友。
@@ -25,7 +25,7 @@ description: Onboarding Training
 
 <a name="zh-cn"></a>
 
-当您在入职过程中，我们会提供您相关的资料让您熟悉工作并快速上手，大致上是以下的步骤：
+当您在入职过程中，我们会提供您相关的资料让您熟悉工作并快速上手，请先完成以下的步骤：
 
 1. 填写[背景调查表](https://forms.gle/Heimpw1gFko2k37Z6){:target="_blank"}
 1. 认识你的队友。

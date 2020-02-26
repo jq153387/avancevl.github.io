@@ -2,16 +2,16 @@ toc:
   - title: 介紹 Introduction
     url: /index.html
     subfolderitems:
-      - page: 團隊 Team
+      - page: ":handshake: 團隊 Team" 
         url: /team.html
-      - page: 產品 Product
+      - page: ":iphone: 產品 Product"
         url: /product.html
-      - page: 最新公告 Announcements
+      - page: ":new: 最新公告 Announcements"
         url: /announcements.html
   - title: 公司理念 Principles
     url: /principles/principles.html
     subfolderitems:
-      - page: 團隊期望 Expectations
+      - page: ":100: 團隊期望 Expectations"
         url: /principles/expectations.html
         subsubfolderitems:
           - page: ":speaking_head: 有效溝通 Effective Communication"

@@ -168,6 +168,8 @@ toc:
             url: /engineering/mobile.html
           - page: UI設計原則 UI Design
             url: /engineering/ui_design.html
+          - page: 國際化 Internationalization
+            url: /engineering/internationalization.html
           - page: HTML5架構 HMTL5 Framework
             url: /engineering/html5.html
           - page: 數學公式前端 Math Latex

@@ -47,14 +47,14 @@ toc:
   - title: 人資管理 People
     url: /people/people.html
     subfolderitems:
-      - page: 薪資制度 Compensation
+      - page: ":honey_pot: 薪資制度 Compensation"
         url: /people/compensation.html
         subsubfolderitems:
-          - page: 全職工程師薪水 Full-Time Engineering Levels
+          - page: ":moneybag: 全職工程師薪水 Full-Time Engineering Levels"
             url: /people/engineering_level.html
-          - page: 特案兼職費用 Project-Based/Part-Time Engineering Levels
+          - page: ":dollar: 特案兼職費用 Project-Based/Part-Time Engineering Levels"
             url: /people/projectbased_level.html
-      - page: 員工福利 Benefits
+      - page: ":cookie: 員工福利 Benefits"
         url: /people/benefits.html
         subsubfolderitems:
           - page: 團隊活動 Team Events

@@ -2,7 +2,7 @@ toc:
   - title: 介紹 Introduction
     url: /index.html
     subfolderitems:
-      - page: 團隊 Team
+      - page: ":handshake: 團隊 Team"
         url: /team.html
       - page: 產品 Product
         url: /product.html

@@ -192,6 +192,8 @@ toc:
             url: /engineering/scrum_meeting.html
           - page: 每日報告 Daily Updates
             url: /engineering/daily_scrum.html
+          - page: 破壞性更改 Breaking Changes
+            url: /engineering/breaking_changes.html
           - page: 問題追中 Issue Tracking
             url: /engineering/issue_tracking.html
       - page: 績效評估 Performance Review

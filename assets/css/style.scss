@@ -34,7 +34,14 @@ body {
 	color: #fc6969;
 }
 a {
-	color: #b3cce6;
+	color: #ffffff;
+	border-bottom: 3px solid #e6375a;
+	    border-bottom-width: 3px;
+	    border-bottom-style: solid;
+	    border-bottom-color: rgb(230, 55, 90);
+	font-weight: 600;
+    position: relative;
+    transition: background-color 120ms;
 }
 a.lang {
 	color: #22252a;

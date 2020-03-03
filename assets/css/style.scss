@@ -49,8 +49,16 @@ a.lang {
 	border-bottom: none;
 
 	&:hover {
-		background-color: none;
+		background-color: transparent;
+		border-bottom: 3px solid #e6375a;
+		    border-bottom-width: 3px;
+		    border-bottom-style: solid;
+		    border-bottom-color: rgb(230, 55, 90);
 	}
+}
+a.nav {
+	text-decoration: none;
+	border-bottom: none;
 }
 a:hover {
 	background-color: rgb(230, 55, 90);

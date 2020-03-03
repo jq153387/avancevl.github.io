@@ -6,6 +6,8 @@ description: Management
 
 <a name="zh-tw"></a>
 
+<br>
+
 ## 管理層的責任
 
 讓管理層負責提供以下內容：
@@ -36,9 +38,9 @@ description: Management
 
 ---
 
-<br>
-
 <a name="zh-cn"></a>
+
+<br>
 
 ## 管理层的责任
 
@@ -70,9 +72,9 @@ description: Management
 
 ---
 
-<br>
-
 <a name="en"></a>
+
+<br>
 
 ## Management's Responsibility
 
@@ -99,3 +101,12 @@ Hold management accountable to provide the following:
 #### 9. Hire slow, fire fast — better have a hole than an a-hole
 
 #### 10. Create a safe space that gives all participants permission to be authentic, and vulnerable, and creative as a result.
+
+<br>
+
+## Mangement Questions
+
+1. Play it back for me.
+1. Is this the best you can do?
+
+<br>

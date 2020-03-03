@@ -94,7 +94,7 @@ toc:
     subfolderitems:
       - page: 申請數據 Application Data
         url: /recruit/application_data.html
-      - page: 職缺 Open Positions
+      - page: ":boom: 職缺 Open Positions"
         url: /recruit/open_positions.html
         subsubfolderitems:
           - page: 全端軟體工程師 Full Stack Developer
@@ -105,12 +105,12 @@ toc:
             url: /recruit/jd_backenddev.html
           - page: 全端軟體工程師(特案兼職) Full Stack (Project-Based/Part-Time)
             url: /recruit/jd_projectbased.html
-      - page: 面試過程 Interview Process
+      - page: ":hourglass_flowing_sand: 面試過程 Interview Process"
         url: /recruit/interview_process.html
         subsubfolderitems:
         - page: 申請職缺問卷（5分鐘）Job Application Survey
           url: /recruit/survey.html
-        - page: "選項A：加速申請 - 線上測驗（2.5小時）Accelerated Take-Home Exam"
+        - page: ":watch: 選項A：加速申請 - 線上測驗（2.5小時）Accelerated Take-Home Exam"
           url: /recruit/takehome.html
           subsubsubfolderitems:
             - page: 線上測驗指南 Web Developer Exam
@@ -123,9 +123,9 @@ toc:
               url: /recruit/sample_frontenddev.html
             - page: 後端測驗樣本 Back-End Sample Exam
               url: /recruit/sample_backenddev.html
-        - page: "選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteboard Interview"
+        - page: ":clipboard: 選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteboard Interview"
           url: /recruit/whiteboard.html
-        - page: "選項C：資歷查核 - 取代技術測驗（5分鐘）Technical Reference Check"
+        - page: ":ballot_box_with_check: 選項C：資歷查核 - 取代技術測驗（5分鐘）Technical Reference Check"
           url: /recruit/referencecheck.html
       - page: 入職訓練 Onboarding Training
         url: /recruit/onboarding.html
@@ -183,7 +183,7 @@ toc:
             url: /engineering/db.html
           - page: 過濾資料 Filtering
             url: /engineering/filtering.html
-      - page: 工作速率 Velocity of Work
+      - page: ":rocket: 工作速率 Velocity of Work"
         url: /engineering/velocity_work.html
         subsubfolderitems:
           - page: 產品開發流程 Product Cycle

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 不一樣的新創團隊
-description: A Different Breed of Startups
+title: 全遠端的新創團隊
+description: A Fully Remote Startup Incubator
 ---
 
 <!---

@@ -198,7 +198,7 @@ toc:
             url: /engineering/issue_tracking.html
       - page: 績效評估 Performance Review
         url: /engineering/performance_review.html
-      - page: ":cherry: 程式代碼規範 Code Styles"
+      - page: ":cherries: 程式代碼規範 Code Styles"
         url: /engineering/code_styles.html
       - page: 程式代碼審核 Code Review
         url: /engineering/code_review.html

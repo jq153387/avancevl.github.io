@@ -92,7 +92,7 @@ toc:
   - title: 徵才 Recruiting
     url: /recruit/recruit.html
     subfolderitems:
-      - page: 申請數據 Application Data
+      - page: ":bar_chart: 申請數據 Application Data"
         url: /recruit/application_data.html
       - page: ":boom: 職缺 Open Positions"
         url: /recruit/open_positions.html
@@ -108,7 +108,7 @@ toc:
       - page: ":hourglass_flowing_sand: 面試過程 Interview Process"
         url: /recruit/interview_process.html
         subsubfolderitems:
-        - page: 申請職缺問卷（5分鐘）Job Application Survey
+        - page: ":clipboard: 申請職缺問卷（5分鐘）Job Application Survey"
           url: /recruit/survey.html
         - page: ":watch: 選項A：加速申請 - 線上測驗（2.5小時）Accelerated Take-Home Exam"
           url: /recruit/takehome.html
@@ -142,7 +142,7 @@ toc:
     subfolderitems:
       - page: 工程師入職流程 Engineer Onboarding
         url: /engineering/onboarding.html
-      - page: 技術架構 Tech Stack
+      - page: ":bullettrain_front: 技術架構 Tech Stack"
         url: /engineering/tech_stack.html
         subsubfolderitems:
           - page: 生產架構 Production Infrastructure
@@ -202,7 +202,7 @@ toc:
         url: /engineering/code_styles.html
       - page: 程式代碼審核 Code Review
         url: /engineering/code_review.html
-      - page: 品質管制及測試 Quality Control & Testing
+      - page: ":warning: 品質管制及測試 Quality Control & Testing"
         url: /engineering/qc_testing.html
         subsubfolderitems:
           - page: JS測試 JavaScript Testing

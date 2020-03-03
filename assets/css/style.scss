@@ -13,14 +13,14 @@ body {
     color: #ffffff;
 }
 .btn#page-btn {
-	color: #e0e4e4;
-	border-color: #e0e4e4;
-	background-color: #22252a;
+	color: #f05b43;
+	border-color: #f05b43;
+	background-color: #0e2539;
 
 	&:hover {
-		color: #fc6969;
-		border-color: #fc6969;
-		background-color: #22252a;
+		color: #e0539d;
+		border-color: #e0539d;
+		background-color: #0e2539;
 	}
 }
 .page-header {
@@ -31,26 +31,26 @@ body {
 	padding-top: 30px;
 }
 .active {
-	color: #fc6969;
+	color: #e0539d;
 }
 a {
-	color: #41c7c7;
+	color: #f05b43;
 }
 a.lang {
 	color: #22252a;
 }
 a:hover {
-	color: #fc6969;
+	color: #e0539d;
 }
 a:active {
-	color: #fc6969;
+	color: #e0539d;
 }
 .main-content {
 	color: #b3cce6;
 }
 .main-content pre {
-	background-color: #e0e4e4;
+	background-color: #b3cce6;
 }
 .main-content hr {
-	border: #2a2d33;
+	border: #b3cce6;
 }

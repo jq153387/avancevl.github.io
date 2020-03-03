@@ -83,9 +83,9 @@
           {% for item in site.data.navigation.toc %}
             <b>
               {% if page.url == item.url %}
-                <a href="{{ site.baseurl }}{{ item.url }}" class="active">{{ item.title }}</a>
+                <a href="{{ site.baseurl }}{{ item.url }}" class="nav active">{{ item.title }}</a>
               {% else %}
-                <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+                <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }}</a>
               {% endif %}
             </b><br>
               {% if item.subfolderitems[0] %}
@@ -93,18 +93,18 @@
                   {% for entry in item.subfolderitems %}
                       <li>
                       {% if page.url == entry.url %}
-                        <a href="{{ site.baseurl }}{{ entry.url }}" class="active">{{ entry.page }}</a>
+                        <a href="{{ site.baseurl }}{{ entry.url }}" class="nav active">{{ entry.page }}</a>
                       {% else %}
-                        <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.page }}</a>
+                        <a href="{{ site.baseurl }}{{ entry.url }}" class="nav">{{ entry.page }}</a>
                       {% endif %}
                         {% if entry.subsubfolderitems[0] %}
                           <ul>
                           {% for subentry in entry.subsubfolderitems %}
                               <li>
                               {% if page.url == subentry.url %}
-                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="active">{{ subentry.page }}</a>
+                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="nav active">{{ subentry.page }}</a>
                               {% else %}
-                                <a href="{{ site.baseurl }}{{ subentry.url }}">{{ subentry.page }}</a>
+                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="nav">{{ subentry.page }}</a>
                               {% endif %}
                               </li>
                               {% if subentry.subsubsubfolderitems[0] %}
@@ -112,9 +112,9 @@
                                 {% for subsubentry in subentry.subsubsubfolderitems %}
                                     <li>
                                     {% if page.url == subsubentry.url %}
-                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active">{{ subsubentry.page }}</a>
+                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="nav active">{{ subsubentry.page }}</a>
                                     {% else %}
-                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}">{{ subsubentry.page }}</a>
+                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="nav">{{ subsubentry.page }}</a>
                                     {% endif %}
                                     </li>
                                 {% endfor %}

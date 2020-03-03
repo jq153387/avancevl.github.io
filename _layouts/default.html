@@ -83,7 +83,7 @@
           {% for item in site.data.navigation.toc %}
             <b>
               {% if page.url == item.url %}
-                <a href="{{ site.baseurl }}{{ item.url }}" class="nav active">{{ item.title }}</a>
+                <a href="{{ site.baseurl }}{{ item.url }}" class="active nav">{{ item.title }}</a>
               {% else %}
                 <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }}</a>
               {% endif %}
@@ -93,7 +93,7 @@
                   {% for entry in item.subfolderitems %}
                       <li>
                       {% if page.url == entry.url %}
-                        <a href="{{ site.baseurl }}{{ entry.url }}" class="nav active">{{ entry.page }}</a>
+                        <a href="{{ site.baseurl }}{{ entry.url }}" class="active nav">{{ entry.page }}</a>
                       {% else %}
                         <a href="{{ site.baseurl }}{{ entry.url }}" class="nav">{{ entry.page }}</a>
                       {% endif %}
@@ -102,7 +102,7 @@
                           {% for subentry in entry.subsubfolderitems %}
                               <li>
                               {% if page.url == subentry.url %}
-                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="nav active">{{ subentry.page }}</a>
+                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="active nav">{{ subentry.page }}</a>
                               {% else %}
                                 <a href="{{ site.baseurl }}{{ subentry.url }}" class="nav">{{ subentry.page }}</a>
                               {% endif %}
@@ -112,7 +112,7 @@
                                 {% for subsubentry in subentry.subsubsubfolderitems %}
                                     <li>
                                     {% if page.url == subsubentry.url %}
-                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="nav active">{{ subsubentry.page }}</a>
+                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active nav">{{ subsubentry.page }}</a>
                                     {% else %}
                                       <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="nav">{{ subsubentry.page }}</a>
                                     {% endif %}

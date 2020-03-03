@@ -66,6 +66,10 @@ a:hover {
 }
 a:active {
 	color: #fc6969;
+	border-bottom: 3px solid #e6375a;
+	    border-bottom-width: 3px;
+	    border-bottom-style: solid;
+	    border-bottom-color: rgb(230, 55, 90);
 }
 .main-content {
 	color: #b3cce6;

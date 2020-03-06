@@ -216,9 +216,9 @@ toc:
         url: /product/design.html
       - page: 產品研發流程 Roadmap
         url: /product/roadmap.html
-        subsubsubfolderitems:
-            - page: 教育科技 EdTech
-              url: /recruit/edtech.html
+        subsubfolderitems:
+          - page: 教育科技 EdTech
+            url: /recruit/edtech.html
   - title: 業務行銷流程 Growth
     url: /growth/growth.html
     subfolderitems:

@@ -126,31 +126,11 @@ description: Full-Time Engineering Levels
 
 <br>
 
-##您是否同時在實習生和技術長級別招聘？
-
-是的，了解更多信息並在此處申請：
-
-### [學生實習生]({{ site.baseurl }}/recruit/students.html){:target="_blank"}
-
-`兼職` `遠端` `台北`
-
-[應用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
-<br>
-
-### [全端工程師（技術長）]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
-
-`兼職` `遠端` `台北`
-
-[應用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
-<br>
-
 ---
 
-<br>
-
 <a name="zh-cn"></a>
+
+<br>
 
 ## 职级与薪资
 
@@ -274,31 +254,11 @@ description: Full-Time Engineering Levels
 
 <br>
 
-## 您是否同时在实习生和技术长级别招聘？
-
-是的，了解更多信息并在此处申请：
-
-### [学生实习生]({{ site.baseurl }}/recruit/students.html){:target="_blank"}
-
-`兼职` `远端` `台北`
-
-[应用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
-<br>
-
-### [全端工程师（技术长）]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
-
-`兼职` `远端` `台北`
-
-[应用]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
-<br>
-
 ---
 
-<br>
-
 <a name="en"></a>
+
+<br>
 
 ## Engineering Levels
 
@@ -413,19 +373,3 @@ While this value may seem high, it is modest in SV.
 [View Silicon Valley Software Salaries](https://www.levels.fyi/){: .btn#page-btn}{:target="_blank"}
 
 <br>
-
-## Are you hiring at both Intern and CTO level?
-
-Yes, learn more and apply here:
-
-### [Student Intern]({{ site.baseurl }}/recruit/students.html){:target="_blank"}
-Part Time | Remote | Taipei
-
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
-<br>
-
-### [Full Stack Developer (CTO)]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
-Part Time | Remote | Taipei
-
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

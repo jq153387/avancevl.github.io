@@ -218,7 +218,7 @@ toc:
         url: /product/roadmap.html
         subsubfolderitems:
           - page: 教育科技 EdTech
-            url: /recruit/edtech.html
+            url: /product/edtech.html
   - title: 業務行銷流程 Growth
     url: /growth/growth.html
     subfolderitems:

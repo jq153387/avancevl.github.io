@@ -75,7 +75,7 @@ Please build a **pixel-perfect** interactive desktop and mobile browser front-en
 ## Features Rubric
 
 1. Pixel perfect on:
-	1. Desktop (Chrome, Safari, Firefox)
+	1. Desktop (Chrome)
 	1. Mobile (Android, iOS)
 	1. Fill in gaps not in the design mockups in a polished manner
 1. Effects

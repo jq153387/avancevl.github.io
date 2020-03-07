@@ -97,11 +97,15 @@ Choose any of the following features to implement. There are no required orderin
 
 ### 1. Numbers Entry Box
 
-* Only numbers (0-9), period (.), and backslash (//) allowed in the numbers box.
+* Only numbers (0-9), period (.), and backslash (/) allowed in the numbers box.
 * Right and left arrows disable for numbers box.
 * Clicking disabled for numbers box.
 * Keyboard is automatically in focus on the numbers box on page load. No need to click on numbers box to bring it in focus.
 * "Press Enter" text and "Submit" button becomes enabled only when numbers are entered into numbers box.
+
+<img src='https://lh3.googleusercontent.com/ox5SLTTaUphHmgJiyjktWSEvtiw14pCxqL151hVq27BQbfuc2ur7X5B0UoFnIUwI6tGlxbKCD8WyGG1iszRx1h3JJBDDl9fFYEh2UXDIALI4JpIMmf24qqghg27Kp4hkt2Ed9qFUcQ=w386' />
+
+<img src='https://lh3.googleusercontent.com/rB8z7QO1lzjB2QjQBmrjg1B9-hOkowQUVVwG-jHCGgqIWe-KFQ4dSkYWwYJvrZYOo9oPwr4Vd5PyW1oxF316LsNqys1Nw-Q8iXab-y5wBRoMthow3P_1ycTyt45RjouxjCUrH5QLTQ=w386' />
 
 ### 2. Radial Chart and Stats Pane
 

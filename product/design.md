@@ -85,7 +85,7 @@ Secondary colors are best for:
 
 ### React-Sketch App
 
-* [`github: react-sketchapp](https://github.com/airbnb/react-sketchapp){:target="_blank"}
+* [`github: react-sketchapp`](https://github.com/airbnb/react-sketchapp){:target="_blank"}
 
 
 ### Styled Components

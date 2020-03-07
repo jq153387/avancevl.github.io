@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 全遠端的新創團隊
-description: A Fully Remote Startup Incubator
+description: All Remote Startup Incubator
 ---
 
 <!---

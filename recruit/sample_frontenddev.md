@@ -49,7 +49,7 @@ Please build a **pixel-perfect** interactive desktop and mobile browser front-en
 
 ### Mobile UI
 
-<img src='https://lh3.googleusercontent.com/3szg7g4xW-mpy_wsZBTvNUuTYBDvQrJAQrJfN8KXZQ6bq6twA9B2gne9FBkmhVof67JARIzr_Uq2FwX8_GU8grPDO_Q5UoJMi2dnpwT_hw_CI_kcN7Lw_sD7hoCaws68LIwUHyynag=308' />
+<img src='https://lh3.googleusercontent.com/d7JgqvyPNjQOZEZEoVyTMJcAHRnBTDIZDDJo9rjbIVU-dLiQ2SYOacqNqheAbNkK_A1DBHQS-7qNwkaAb4fvgUa-bx4pJcUOjS0lKGpcK0Dm32KjXLzy_M9yjVwkd1gopwESZau8iw=w308' />
 
 ## Requirements
 

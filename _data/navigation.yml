@@ -214,6 +214,13 @@ toc:
     subfolderitems:
       - page: 設計流程 Design
         url: /product/design.html
+        subsubfolderitems:
+          - page: 顏色 Colors
+            url: /product/color.html
+          - page: 字體 Fonts
+            url: /product/font.html
+          - page: 設計表 Style Guides
+            url: /product/style_guide.html
       - page: 產品研發流程 Roadmap
         url: /product/roadmap.html
         subsubfolderitems:

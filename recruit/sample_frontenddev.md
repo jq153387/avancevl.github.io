@@ -136,6 +136,9 @@ Choose any of the following features to implement. There are no required orderin
 
 #### Multiple Selector
 
+<img src='https://lh3.googleusercontent.com/zeYaUx3W0Hb8yaiPLHyzTOI_ShGmEIQqTA_Q7b8hyGZ_bfeC8gSK4s6L1okbGhrFPf817zjp-RbRcDZzZ3p51Vv1QxUza9RGTDupaia0jRcepHtTUNAafjEXJBwhzKMnVC_az-nOAw=w370' />
+
+<img src='https://lh3.googleusercontent.com/4YZ6BQyxTr0RiPlGIyASjeaO_M8B_Vv-pgTFn6yG2b_aGa8Fdvrwyru534ZnoeE_rG3Z5NPuZRKifDqvTYA51I0hkXYxO9Ga4VWjnB1uj8Z4R0jd-Ofha1no2LAaGXmmeutLMlcgJQ=w378' />
 
 #### Checkbox Selector
 

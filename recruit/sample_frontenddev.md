@@ -281,7 +281,7 @@ description: Front-End Sample Exam
 
 #### 手机介面
 
-<img src='https://lh3.googleusercontent.com/wcVF6A927hu43l1qtovepnmX-q7eQLjqwDfFSKnhqyl9mssrHnGKfdF3DzFk-HwJfybf1YVpSLqfk5SaYV6qtIMeivjkDi​​NiXJZltYqu3543svDGmjOHVaMw8R8KqAawvgm9oREf6A=w310' />
+<img src='https://lh3.googleusercontent.com/wcVF6A927hu43l1qtovepnmX-q7eQLjqwDfFSKnhqyl9mssrHnGKfdF3DzFk-HwJfybf1YVpSLqfk5SaYV6qtIMeivjkDiNiXJZltYqu3543svDGmjOHVaMw8R8KqAawvgm9oREf6A=w310' />
 
 <br>
 

@@ -86,7 +86,7 @@ Please build a **pixel-perfect** interactive desktop and mobile browser front-en
 | --- | --- |
 | 50 | Numbers Entry Box |
 | 50 | Radial Chart and Stats Pane |
-| 60 | Search Filters and Dropdown Menu |
+| 60 | Search Filters and Dropdown Menu (20 pts per type of selector) |
 | 40 | Main Pane and Hashtags |
 
 [View Exam Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
@@ -112,6 +112,14 @@ Choose any of the following features to implement. There are no required orderin
 * Pixel perfect desktop and mobile
 * Not a static image, but real chart that could update if page is connected to server side.
 
+#### Desktop UI
+
+<img src='https://lh3.googleusercontent.com/zRIxNrIztI22WJYDs4EcrjnciyQ2ByIRVSu6R-JCpBCo0e2hT9_g1RwdcBbmyaSebQRUk06NscQ6waV0eiQZ1HTBjcVSg6Ildeo-sc9qhFLRnx1tKgK0u8tlKD0eyMMgMwNWp0cS4A=w260' />
+
+#### Mobile UI
+
+<img src='https://lh3.googleusercontent.com/KgF-3-t90xkaH0efRhGiskSRs-lXZhbwQNtvL2GRiWiw76Os7hmvNe4T8kqSlbxNVDmqpUKDLPeODxVZk5P6yTqTiFYxqamU0GogSxARSAKaBy_lmLHnWNdgjw4oURMaxW5G4KBOtg=w358' />
+
 ### 3. Search Filters and Dropdown Menu
 
 * Pixel perfect desktop and mobile
@@ -119,6 +127,18 @@ Choose any of the following features to implement. There are no required orderin
 	* Simple Selector
 	* Multiple Selector
 	* Checkboxes
+
+#### Simple Selector
+
+
+
+
+#### Multiple Selector
+
+
+#### Checkbox Selector
+
+
 
 ### 4. Main Pane and Hashtags
 

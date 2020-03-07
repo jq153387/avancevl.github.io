@@ -130,8 +130,9 @@ Choose any of the following features to implement. There are no required orderin
 
 #### Simple Selector
 
+<img src='https://lh3.googleusercontent.com/_Yq-Q8WnX2cV3y305Q4GbHNuugYC173fCTPixp3aigX7ZxKyf5ok1nRGoCQ1-ProqM2GNGr3VI0CyBTCkHCuSpie3yH8vGgY9AqfqRk6PL7Hx7fRf2QDpQoisxPgCQNwt5Jlzl3X4w=w288' />
 
-
+<img src='https://lh3.googleusercontent.com/nclQ6N-I6LaATouvMOo2bFDGud5yWOteWi1uGUpWg-1rKdHo4yJGm5o-YiDERAMyi-Vm3ayJ48XavVloBfnKB7nInGjqN5ElQApx7f9e0dr3VrYusCoDLndZvHzzxikn29f6I3bqaw=w374' />
 
 #### Multiple Selector
 

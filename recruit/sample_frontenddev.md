@@ -41,7 +41,9 @@ description: Front-End Sample Exam
 
 ## Instructions
 
-Please build a **pixel-perfect** interactive desktop and mobile browser front-ends of the following design mockup with **React.js, Material UI, and Flexbox.**
+Please build a **pixel-perfect** interactive desktop and mobile browser front-ends of the following design mockups.
+* Use **React.js, Material UI, and Flexbox.**
+* Host as static pages (no back-end) on **Firebase** or alternative free solution.
 
 ### Desktop UI
 
@@ -63,7 +65,7 @@ Please build a **pixel-perfect** interactive desktop and mobile browser front-en
 
 ## Reminders
 
-> * We'd rather to do a few features well, rather than all the features poorly.
+> * We'd rather you do a few features well, rather than all the features poorly.
 > * Please be sure to upload code to GitHub/GitLab.
 > * At the 2.5 hour mark:
 >   * Please submit however much you've completed, regardless of whether you've finished or not.

@@ -70,8 +70,8 @@ Please build a **pixel-perfect** interactive desktop and mobile browser front-en
 > * Please be sure to upload code to GitHub/GitLab.
 > * At the 2.5-hour mark:
 >   * Please submit however much you've completed, regardless of whether you've finished or not.
->   * Make sure your site is live, and submit the live demo URL.
->	* Make sure to complete Exam Submission Form.
+>   * Make sure your site is live, and submit URL.
+>	* Make sure to complete [Exam Submission Form]({{ site.exam_submit_form_url }}).
 
 ## Features Rubric
 

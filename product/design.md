@@ -12,3 +12,28 @@ description: Design Process
 
 <br>
 
+## Step 1. Hand Drawn Wireframes
+
+
+
+## Step 2. Hand Drawn User Journey
+
+
+
+## Step 3. Simple Wireframes
+
+
+## Step 4. Simple Wireframes
+
+
+
+## Step 5. Detailed Mockups
+
+
+
+## Step 6. Detailed User Journey
+
+
+
+## Step 7. Iterate Steps 5, 6
+

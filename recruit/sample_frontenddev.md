@@ -41,8 +41,8 @@ description: Front-End Sample Exam
 
 ## Exam
 
-Please build a **pixel-perfect** interactive desktop and mobile browser front-ends of the following design mockups.
-* Use **React.js, Material UI, and Flexbox (or another CSS framework).**
+Please build a **pixel-perfect** interactive desktop and mobile browser front-end of the following design mockups.
+* Must use **React.js, Flexbox, and a React UI component library framework.**
 * Host as static pages (no back-end) on **Firebase** or alternative free solution.
 
 ### Desktop UI
@@ -58,16 +58,17 @@ Please build a **pixel-perfect** interactive desktop and mobile browser front-en
 1. **RWD.** Responsive Web Design for both mobile and web.
 1. Must use **JavaScript.**
 1. Must use **React.js.**
-1. Must use **CSS Flexbox and Material UI (or another CSS framework)** to configure CSS
+1. Must use **CSS Flexbox 
+1. Must use a **React UI framework** from this list: Material UI, Semantic UI, React Bootstrap, React Toolbox, Elemental UI.
 1. **Must host your site as a live static page.**
-	1. Please use a free hosting service like Firebase, ZEIT, or Netilfy to host your site as a live static page.
+	1. Please use a free hosting service like Heroku, Firebase, ZEIT, or Netilfy to host your site as a live static page.
 	1. This is a not a back-end exam. The web page interactions should all be client side.
 
 ## Reminders
 
 > * We'd rather you do a few features well, rather than all the features poorly.
 > * Please be sure to upload code to GitHub/GitLab.
-> * At the 2.5 hour mark:
+> * At the 2.5-hour mark:
 >   * Please submit however much you've completed, regardless of whether you've finished or not.
 >   * Make sure your site is live, and submit URL.
 >	* Make sure to complete [Exam Submission Form]({{ site.exam_submit_form_url }}).

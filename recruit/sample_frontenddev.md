@@ -36,10 +36,10 @@ description: Front-End Sample Exam
 <br>
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-[How to Prepare]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
+[View Instructions]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 [View Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-## Instructions
+## Exam
 
 Please build a **pixel-perfect** interactive desktop and mobile browser front-ends of the following design mockups.
 * Use **React.js, Material UI, and Flexbox.**

@@ -139,7 +139,9 @@ Choose any of the following features to implement. There are no required orderin
 
 #### Checkbox Selector
 
+<img src='https://lh3.googleusercontent.com/YhLAUXhAFGxs5GlJMv-HZB3i9Gji9TCU3RS8lxlrpKoGOyyBfT_xyEtM71a6hENCzCei1ZHsHSEtRWqLtnZsVgEOR-dFXQ1zmb9ysYYjsaKjuSsbpwagENtwmzcSiwvIXuc0Es2kSA=w379' />
 
+<img src='https://lh3.googleusercontent.com/8HvHKaJr974UaC8OcbBfsL-VJGIELAvEmnGJBucCbLHK3kTvIdUXIErRK2yYn62YkVyC_k2dW-22w3SbyCM-hDXKNvQlntZzhw4MrlJqhrAXLfjGCR8qkJvOU6KLTz4cLiQizWp_Fw=w376' />
 
 ### 4. Main Pane and Hashtags
 

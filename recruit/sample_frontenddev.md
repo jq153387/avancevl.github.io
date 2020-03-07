@@ -56,9 +56,9 @@ Please build a **pixel-perfect** interactive desktop and mobile browser front-en
 ## Requirements
 
 1. **RWD.** Responsive Web Design for both mobile and web.
-1. **Must use JavaScript.**
-1. **Must use React.js.**
-1. **Must use CSS Flexbox and Material UI** frameworks to configure CSS
+1. Must use **JavaScript.**
+1. Must use **React.js.**
+1. Must use **CSS Flexbox and Material UI** frameworks to configure CSS
 1. **Must host your site as a live static page.**
 	1. Please use a free hosting service like Firebase, ZEIT, or Netilfy to host your site as a live static page.
 	1. This is a not a back-end exam. The web page interactions should all be client side.

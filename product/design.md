@@ -10,7 +10,7 @@ description: Design Process
 
 ## Why is Good Design Important?
 
-1. Users build trust in our product.
+1. Good design is the number one factor for building **user trust** in our product.
 2. Design adds value faster than it adds costs.
 
 <br>

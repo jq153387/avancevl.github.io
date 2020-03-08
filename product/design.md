@@ -14,11 +14,11 @@ description: Design Process
 
 ## Step 2. Hand Drawn User Journey
 
-<img src='https://lh3.googleusercontent.com/wIokz5S5r_nOI9IxL1y290nAUva13uC_32G9UORI8qDd5j2BSeNs2-vrro0n0OLLpLe0SA0PfdDMhNeTYl_uj3GGLUziBIZ6Nj36d5sOBu15-7jS_x5XMUCkmAgC4kC_XVWQdTPeAw=w300' />
+<img src='https://lh3.googleusercontent.com/wIokz5S5r_nOI9IxL1y290nAUva13uC_32G9UORI8qDd5j2BSeNs2-vrro0n0OLLpLe0SA0PfdDMhNeTYl_uj3GGLUziBIZ6Nj36d5sOBu15-7jS_x5XMUCkmAgC4kC_XVWQdTPeAw=w250' />
 
 ## Step 3. Simple Wireframes
 
-<img src='https://lh3.googleusercontent.com/lqRDniwxoiSr0270iqZ49Tg0GQCYwMFV4x58Us8xlNc37dkNlUdvw56aSFT33au6zPlNdzQxFKagHogcN4R9r1l24LwP7gm_8yvkSc-zo8vLK7kPq3iqcOI9ZtEB546IDEVKtqhaWA=w646' />
+<img src='https://lh3.googleusercontent.com/lqRDniwxoiSr0270iqZ49Tg0GQCYwMFV4x58Us8xlNc37dkNlUdvw56aSFT33au6zPlNdzQxFKagHogcN4R9r1l24LwP7gm_8yvkSc-zo8vLK7kPq3iqcOI9ZtEB546IDEVKtqhaWA=w600' />
 
 ## Step 4. Simple Wireframes
 
@@ -27,7 +27,7 @@ description: Design Process
 
 ## Step 5. Detailed Mockups
 
-<img src='https://lh3.googleusercontent.com/tS6gNIMf9lEGRtDKOoCsGN6j0HW8FR0WzuJtd8TprtW2KsBUY7bQIGAOMPJ0KdB0M-keo98lrt6a6nDX71NWvt2vu3YNWNMEehHmdLQCg6rlFnHlV-EwGG5MZWcmgu1SFGQhBlSssA=w800' />
+<img src='https://lh3.googleusercontent.com/tS6gNIMf9lEGRtDKOoCsGN6j0HW8FR0WzuJtd8TprtW2KsBUY7bQIGAOMPJ0KdB0M-keo98lrt6a6nDX71NWvt2vu3YNWNMEehHmdLQCg6rlFnHlV-EwGG5MZWcmgu1SFGQhBlSssA=w600' />
 
 ## Step 6. Detailed User Journey
 

@@ -4,7 +4,11 @@ title: 工程開發
 description: Engineering
 ---
 
+<img src='https://lh3.googleusercontent.com/_qYLSNUmpvN9Z8Q8HmUOqIaD3a_7Zm2MsEtVUVU3y3b3mtibzBXYSPgeWJlG_ho8tSUhz4ps11qOOTD4nZPTPa4OzPxPFh7Un_1lWceBrPmnaCXNEXmG6LnGXrzRx1uBcpCzsqVZog=w800' /><
+
 <a name="zh-tw"></a>
+
+<br>
 
 # 溝通
 
@@ -45,9 +49,9 @@ GitLab工程問題分為1週衝刺。每個工程師（無論是遠程工程師�
 
 ---
 
-<br>
-
 <a name="zh-cn"></a>
+
+<br>
 
 # 沟通
 
@@ -88,9 +92,9 @@ GitLab工程问题分为1周冲刺。每个工程师（无论是远程工程师�
 
 ---
 
-<br>
-
 <a name="en"></a>
+
+<br>
 
 # Communication
 

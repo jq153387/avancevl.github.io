@@ -59,8 +59,6 @@ toc:
         subsubfolderitems:
           - page: 團隊活動 Team Events
             url: /people/team_events.html
-          - page: 外派國外 Relocation
-            url: /people/relocation.html
       - page: ":fries: 學習培訓 Learning & Training"
         url: /people/learning_training.html
         subsubfolderitems:

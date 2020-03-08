@@ -10,10 +10,11 @@ description: Design Process
 
 ## Why is Good Design Important?
 
-1. Good design is the number one factor for building **user trust** in our product.
-	1. [Charles Schwab's Eliel Johnson: Good design builds trust](https://www.invisionapp.com/inside-design/charles-schwab-design/){:target="_blank"}
-	2. [We Analyzed 8 of the Fastest-Growing Personal Finance Apps](https://www.cbinsights.com/research/personal-finance-apps-strategies/){:target="_blank"}
-2. Design adds value faster than it adds costs.
+* Good design is the number one factor for building **user trust** in our product.
+	* [Charles Schwab's Eliel Johnson: Good design builds trust](https://www.invisionapp.com/inside-design/charles-schwab-design/){:target="_blank"}
+* Trust is the number 1 friction to user adoption for FinTech products.
+	* [We Analyzed 8 of the Fastest-Growing Personal Finance Apps](https://www.cbinsights.com/research/personal-finance-apps-strategies/){:target="_blank"}
+* Design adds value faster than it adds costs.
 
 <br>
 

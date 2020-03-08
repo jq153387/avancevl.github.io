@@ -8,6 +8,10 @@ description: Style Guide
 
 <br>
 
+[Designs We Like](https://docs.google.com/spreadsheets/d/1JFrMD5X5O_09hYCWGpeODBHy0OnA1UkQUuejtB0m54w/edit?usp=sharing){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ## Style Guide
 
 * [How to Create a Style Guide From Scratch. Tips and Tricks](https://medium.muz.li/how-to-create-a-style-guide-from-scratch-tips-and-tricks-e00f25b423bf){:target="_blank"}

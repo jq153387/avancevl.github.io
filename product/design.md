@@ -8,10 +8,6 @@ description: Design Process
 
 <br>
 
-[Designs We Like](https://docs.google.com/spreadsheets/d/1JFrMD5X5O_09hYCWGpeODBHy0OnA1UkQUuejtB0m54w/edit?usp=sharing){: .btn#page-btn}{:target="_blank"}
-
-<br>
-
 ## Step 1. Hand Drawn Wireframes
 
 <img src='https://lh3.googleusercontent.com/fv-GwConS8PyqsA73tXVldtTXrpsaP_4I8_Ns9Pu1w_kehU8vvEoPvb05UKaNoifguydwKq_jeLjM0OoYZhGRmGOpiy4KI8VN0AVoQXnFOIosZAbrIIo111NQyI3Hx7ttdHBxENUiQ=w500' />

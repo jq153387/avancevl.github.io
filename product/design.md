@@ -18,7 +18,7 @@ description: Design Process
 
 ## Step 2. Hand Drawn User Journey
 
-<img src='https://lh3.googleusercontent.com/wIokz5S5r_nOI9IxL1y290nAUva13uC_32G9UORI8qDd5j2BSeNs2-vrro0n0OLLpLe0SA0PfdDMhNeTYl_uj3GGLUziBIZ6Nj36d5sOBu15-7jS_x5XMUCkmAgC4kC_XVWQdTPeAw=w400' />
+<img src='https://lh3.googleusercontent.com/wIokz5S5r_nOI9IxL1y290nAUva13uC_32G9UORI8qDd5j2BSeNs2-vrro0n0OLLpLe0SA0PfdDMhNeTYl_uj3GGLUziBIZ6Nj36d5sOBu15-7jS_x5XMUCkmAgC4kC_XVWQdTPeAw=w300' />
 
 ## Step 3. Simple Wireframes
 

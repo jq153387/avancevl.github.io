@@ -8,6 +8,13 @@ description: Design Process
 
 <br>
 
+## Why is Good Design Important?
+
+1. Users build trust in our product.
+2. Design adds value faster than it adds costs.
+
+<br>
+
 ## Step 1. Hand Drawn Wireframes
 
 <img src='https://lh3.googleusercontent.com/fv-GwConS8PyqsA73tXVldtTXrpsaP_4I8_Ns9Pu1w_kehU8vvEoPvb05UKaNoifguydwKq_jeLjM0OoYZhGRmGOpiy4KI8VN0AVoQXnFOIosZAbrIIo111NQyI3Hx7ttdHBxENUiQ=w500' />

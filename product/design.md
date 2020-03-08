@@ -33,7 +33,7 @@ description: Design Process
 
 ## Step 5. Detailed Mockups
 
-<img src='https://lh3.googleusercontent.com/tS6gNIMf9lEGRtDKOoCsGN6j0HW8FR0WzuJtd8TprtW2KsBUY7bQIGAOMPJ0KdB0M-keo98lrt6a6nDX71NWvt2vu3YNWNMEehHmdLQCg6rlFnHlV-EwGG5MZWcmgu1SFGQhBlSssA=w800' /></a>
+<img src='https://lh3.googleusercontent.com/tS6gNIMf9lEGRtDKOoCsGN6j0HW8FR0WzuJtd8TprtW2KsBUY7bQIGAOMPJ0KdB0M-keo98lrt6a6nDX71NWvt2vu3YNWNMEehHmdLQCg6rlFnHlV-EwGG5MZWcmgu1SFGQhBlSssA=w800' />
 
 ## Step 6. Detailed User Journey
 

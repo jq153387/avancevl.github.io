@@ -6,7 +6,15 @@ description: Vacation Policy (PTO)
 
 <a name="zh-tw"></a>
 
-## 台灣員工
+## 申請程序
+
+1. 建立新Google Calendar Event
+1. 邀請`hr@avancevl.com`到Calendar Event
+1. 在Event裡請填寫：
+	1. 全名
+	1. 假期幾小時
+
+## 台灣員工假別
 
 依照[勞動基準法相關假別](https://www.mol.gov.tw/topic/3067/14530/19538/){:target="_blank"}
 

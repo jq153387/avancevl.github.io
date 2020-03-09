@@ -11,7 +11,6 @@ description: Work Hours
 ## 基本指南
 * 彈性上下班時間，自行選擇工作時間。
 * 每週5天，每天8小時，不包括午休時間。
-* 午休1.5小時。
 
 ## 遠端指南
 * 基本指南適用。
@@ -30,7 +29,6 @@ description: Work Hours
 ## 基本指南
 * 弹性上下班时间，自行选择工作时间。
 * 每周5天，每天8小时，不包括午休时间。
-* 午休1.5小时。
 
 ## 远端指南
 * 基本指南适用。
@@ -49,7 +47,6 @@ We value work-life balance. A transpearant expecation on work hours enable our t
 ## General Guidelines
 * Flexible start and end time.
 * 8-hour work day, not including lunch break.
-* Lunch break 1.5 hours.
 
 ## Remote Guidelines
 * General guidelines apply

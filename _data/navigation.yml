@@ -77,7 +77,7 @@ toc:
             url: /people/ra.html
           - page: 員工協議 Employment Agreement (EA)
             url: /people/ea.html
-          - page: 工作時間 Working Hours
+          - page: ":alarm_clock: 工作時間 Working Hours"
             url: /people/work_hours.html
           - page: ":palm_tree: 給假原則 Vacation Policy (PTO)"
             url: /people/pto.html

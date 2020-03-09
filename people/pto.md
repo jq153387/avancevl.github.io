@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 給假原則
-description: Vacation Policy
+description: Vacation Policy (PTO)
 ---
 
 <a name="zh-tw"></a>

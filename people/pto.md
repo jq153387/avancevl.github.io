@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 特別休假
-description: Paid Time Off
+title: 給假原則
+description: Vacation Policy
 ---
 
 <a name="zh-tw"></a>

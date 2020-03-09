@@ -8,11 +8,19 @@ description: Vacation Policy (PTO)
 
 ## 申請程序
 
-1. 建立新Google Calendar Event
-1. 邀請`hr@avancevl.com`到Calendar Event
-1. 在Event裡請填寫：
-	1. 全名
-	1. 假期幾小時
+1. 建立新 Google Calendar Event 並準確設定休假日期、時間
+1. 邀請`hr@avancevl.com` 到 Calendar Event
+1. 在 Event 裡請填寫：
+	1. 全名 OOO
+	1. 假期共幾小時或幾天
+
+## 團隊原則
+1. 彈性責任、信任制
+1. 沒有限制總放假天數
+1. 非緊急必須 2 週前通知 direct team manager
+1. 完成以上程序
+1. Manager 有最終批准決定權
+
 
 ## 台灣員工假別
 

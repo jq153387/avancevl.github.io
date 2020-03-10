@@ -113,9 +113,9 @@ toc:
         - page: ":watch: 選項A：加速申請 - 線上測驗（2.5小時）Accelerated Take-Home Exam"
           url: /recruit/takehome.html
           subsubsubfolderitems:
-            - page: 線上測驗指南 Web Developer Exam
+            - page: ":muscle: 線上測驗指南 Web Developer Exam"
               url: /recruit/webdev.html
-            - page: 測驗分數評估 Exam Rubric
+            - page: ":dog: 測驗分數評估 Exam Rubric"
               url: /recruit/exam_rubric.html
             - page: 全端測驗樣本 Full Stack Sample Exam
               url: /recruit/sample_fullstackdev.html
@@ -145,7 +145,7 @@ toc:
       - page: ":bullettrain_front: 技術架構 Tech Stack"
         url: /engineering/tech_stack.html
         subsubfolderitems:
-          - page: 生產架構 Production Infrastructure
+          - page: ":zap: 生產架構 Production Infrastructure"
             url: /engineering/prod_infra.html
           - page: 使用者分析 User Analytics
             url: /engineering/analytics.html
@@ -153,7 +153,7 @@ toc:
             url: /engineering/desktop_stack.html
           - page: 即時網路架構 Realtime Web Stack
             url: /engineering/realtime_stack.html
-          - page: 開發環境 Development Environment
+          - page: ":ocean: 開發環境 Development Environment"
             url: /engineering/devenv.html
       - page: ":pizza: 前端架構 Front-End Stack"
         url: /engineering/frontend_stack.html

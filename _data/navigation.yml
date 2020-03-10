@@ -196,7 +196,7 @@ toc:
             url: /engineering/breaking_changes.html
           - page: 問題追中 Issue Tracking
             url: /engineering/issue_tracking.html
-      - page:":white_check_mark:績效評估 Performance Review"
+      - page: ":white_check_mark:績效評估 Performance Review"
         url: /engineering/performance_review.html
       - page: ":cherries: 程式代碼規範 Code Styles"
         url: /engineering/code_styles.html

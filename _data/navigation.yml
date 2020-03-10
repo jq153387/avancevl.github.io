@@ -158,7 +158,7 @@ toc:
       - page: ":pizza: 前端架構 Front-End Stack"
         url: /engineering/frontend_stack.html
         subsubfolderitems:
-          - page: SSR前端架構 Server Side Rendering
+          - page: ":sweat_drops: SSR前端架構 Server Side Rendering"
             url: /engineering/ssr.html
           - page: AMP前端架構 Accelerated Mobile Pages
             url: /engineering/amp.html
@@ -186,15 +186,15 @@ toc:
       - page: ":rocket: 工作速率 Velocity of Work"
         url: /engineering/velocity_work.html
         subsubfolderitems:
-          - page: 產品開發流程 Product Cycle
+          - page: ":fire: 產品開發流程 Product Cycle"
             url: /engineering/product_cycle.html
-          - page: 計畫Scrum會議 Scrum Planning Meetings
+          - page: ":rooster: 計畫Scrum會議 Scrum Planning Meetings"
             url: /engineering/scrum_meeting.html
-          - page: 每日報告 Daily Updates
+          - page: ":heart: 每日報告 Daily Updates"
             url: /engineering/daily_scrum.html
-          - page: 破壞性更改 Breaking Changes
+          - page: ":whale: 破壞性更改 Breaking Changes"
             url: /engineering/breaking_changes.html
-          - page: 問題追中 Issue Tracking
+          - page: ":octocat: 問題追中 Issue Tracking"
             url: /engineering/issue_tracking.html
       - page: ":white_check_mark:績效評估 Performance Review"
         url: /engineering/performance_review.html

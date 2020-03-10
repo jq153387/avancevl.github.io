@@ -212,16 +212,16 @@ toc:
   - title: 產品研發流程 Product
     url: /product/product.html
     subfolderitems:
-      - page: 設計流程 Design
+      - page: ":art: 設計流程 Design"
         url: /product/design.html
         subsubfolderitems:
-          - page: 顏色 Colors
+          - page: ":rainbow: 顏色 Colors"
             url: /product/color.html
-          - page: 字體 Fonts
+          - page: ":a: 字體 Fonts"
             url: /product/font.html
-          - page: 設計表 Style Guides
+          - page: ":balloon: 設計表 Style Guides"
             url: /product/style_guide.html
-      - page: 產品研發流程 Roadmap
+      - page: ":car: 產品研發流程 Roadmap"
         url: /product/roadmap.html
         subsubfolderitems:
           - page: 教育科技 EdTech
@@ -229,5 +229,5 @@ toc:
   - title: 業務行銷流程 Growth
     url: /growth/growth.html
     subfolderitems:
-      - page: 搜尋引擎最佳化 SEO
+      - page: ":rocket: 搜尋引擎最佳化 SEO"
         url: /growth/seo.html

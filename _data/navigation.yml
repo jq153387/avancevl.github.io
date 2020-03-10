@@ -200,14 +200,14 @@ toc:
         url: /engineering/performance_review.html
       - page: ":cherries: 程式代碼規範 Code Styles"
         url: /engineering/code_styles.html
-      - page: 程式代碼審核 Code Review
+      - page: ":bangbang: 程式代碼審核 Code Review"
         url: /engineering/code_review.html
       - page: ":warning: 品質管制及測試 Quality Control & Testing"
         url: /engineering/qc_testing.html
         subsubfolderitems:
           - page: JS測試 JavaScript Testing
             url: /engineering/js_testing.html
-      - page: 網頁可靠性 DevOps & Site Reliability
+      - page: ":clock1: 網頁可靠性 DevOps & Site Reliability"
         url: /engineering/devops_sre.html
   - title: 產品研發流程 Product
     url: /product/product.html

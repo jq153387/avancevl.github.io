@@ -140,7 +140,7 @@ toc:
   - title: 工程開發 Engineering
     url: /engineering/engineering.html
     subfolderitems:
-      - page: 工程師入職流程 Engineer Onboarding
+      - page: ":dizzy: 工程師入職流程 Engineer Onboarding"
         url: /engineering/onboarding.html
       - page: ":bullettrain_front: 技術架構 Tech Stack"
         url: /engineering/tech_stack.html

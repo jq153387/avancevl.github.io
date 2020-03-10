@@ -6,8 +6,12 @@ description: Policies & Legal
 
 <a name="zh-tw"></a>
 
-## 工作合約
+<a name="zh-cn"></a>
 
-* [保密協議]({{ site.baseurl }}/people/nda.html)
-* [聘用協議]({{ site.baseurl }}/people/ra.html)
-* [員工協議]({{ site.baseurl }}/people/ea.html)
+<a name="en"></a>
+
+## Help and Disclaimer
+
+We are constantly iterating on building the perfect company. In order to do so, we are always improving and making our processes, policies, and benefits better.
+
+We try to keep our company GitHub constantly up-to-date, but we apologize if it cannot always reflect the most up-to-date information. If you have questions or inquires, please email `hr@avancevl.com`.

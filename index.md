@@ -43,7 +43,7 @@ description: All Remote Startup Incubator
 
 幫我們支持台灣開源軟體，新創，及工程師社團：
 
-* [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
+* [台灣新創工作機會社團 :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
 * [台灣全端工程師社團 :star:](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
 * [台灣遠端軟體工程師徵才 :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="_blank"}
 	* [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="_blank"}

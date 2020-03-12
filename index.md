@@ -31,14 +31,6 @@ description: All Remote Startup Incubator
 
 <br>
 
-## 歡迎大家的建議
-
-我們歡迎各位的建議：
-* 請由 [git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
-* 請由 [git issue]({{ site.github.repository_url }}/issues/new)投入您的疑問。
-
-<br>
-
 ## 社團
 
 幫我們支持台灣開源軟體，新創，及工程師社團：
@@ -48,6 +40,14 @@ description: All Remote Startup Incubator
 * [台灣遠端軟體工程師徵才 :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="_blank"}
 	* [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="_blank"}
 	* [Facebook](https://www.facebook.com/groups/489046765360247/){:target="_blank"}
+
+<br>
+
+## 歡迎大家的建議
+
+我們歡迎各位的建議：
+* 請由 [git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
+* 請由 [git issue]({{ site.github.repository_url }}/issues/new)投入您的疑問。
 
 <br>
 
@@ -78,14 +78,6 @@ description: All Remote Startup Incubator
 
 <br>
 
-## 欢迎大家的建议
-
-我们欢迎各位的建议：
-* 请由[git pull request]({{ site.github.repository_url }}/pull/new/master)建议文件更改。
-* 请由[git issue]({{ site.github.repository_url }}/issues/new)提出您的疑问。
-
-<br>
-
 ## 社团
 
 帮我们支持台湾开源软体，新创，及工程师社团：
@@ -93,6 +85,14 @@ description: All Remote Startup Incubator
 * [台湾新创工作机会社团 :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
 * [台湾全端工程师社团 :star:](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
 * [远端软体工程师征才 :palm_tree:](https://www.linkedin.com/groups/10532717/){:target="_blank"}
+
+<br>
+
+## 欢迎大家的建议
+
+我们欢迎各位的建议：
+* 请由[git pull request]({{ site.github.repository_url }}/pull/new/master)建议文件更改。
+* 请由[git issue]({{ site.github.repository_url }}/issues/new)提出您的疑问。
 
 <br>
 
@@ -122,14 +122,6 @@ We want to work with talented individuals and are **always actively hiring**.
 
 <br>
 
-## Open Feedback
-
-We welcome feedback.
-* Please make a [pull request]({{ site.github.repository_url }}/pull/new/master) to suggest improvements or add clarification.
-* Please create a [issue]({{ site.github.repository_url }}/issues/new) to ask questions.
-
-<br>
-
 ## Community
 
 Help us support the open source, startup, developer communites in Taiwan by following:
@@ -139,4 +131,14 @@ Help us support the open source, startup, developer communites in Taiwan by foll
 * [Remote Developers Jobs :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="_blank"}
 	* [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="_blank"}
 	* [Facebook](https://www.facebook.com/groups/489046765360247/){:target="_blank"}
+
+<br>
+
+## Open Feedback
+
+We welcome feedback.
+* Please make a [pull request]({{ site.github.repository_url }}/pull/new/master) to suggest improvements or add clarification.
+* Please create a [issue]({{ site.github.repository_url }}/issues/new) to ask questions.
+
+<br>
 

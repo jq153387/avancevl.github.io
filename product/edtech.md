@@ -11,16 +11,16 @@ description: EdTech
 ## Phase 2
 
 * Payment
-* Progress Tracker
-* Weakness Tracker
+* Progress
+* Weakness
 
 ## Phase 3
 
-* Ghost pacer
-* Timing
+* Game
+* Time
 
 ## Long Term
 
-* Mobile
-* Different exams, countries
-* Study for multiple exams at the same time
+* Native
+* More exams
+* Multiple exams at once

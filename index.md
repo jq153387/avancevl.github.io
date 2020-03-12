@@ -92,7 +92,7 @@ description: All Remote Startup Incubator
 
 * [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
 * [Full Stack Developers Taiwan :star:](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
-* [Remote Developers Jobs China 远端软体工程师征才](https://www.linkedin.com/groups/10532717/){:target="_blank"}
+* [Remote Developers Jobs China 远端软体工程师征才 :100:](https://www.linkedin.com/groups/10532717/){:target="_blank"}
 
 <br>
 

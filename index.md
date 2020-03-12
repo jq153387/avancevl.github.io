@@ -45,6 +45,9 @@ description: All Remote Startup Incubator
 
 * [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
 * [Full Stack Developers Taiwan :star:](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
+* [Remote Developers Jobs Taiwan 台灣遠端軟體工程師徵才 :100:](https://www.linkedin.com/groups/10525064/){:target="_blank"}
+	* [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="_blank"}
+	* [Facebook](https://www.facebook.com/groups/489046765360247/){:target="_blank"}
 
 <br>
 
@@ -89,6 +92,7 @@ description: All Remote Startup Incubator
 
 * [Startup Jobs Taiwan :rocket:](https://021tw.github.io/021tw.github.io/){:target="_blank"}
 * [Full Stack Developers Taiwan :star:](https://stacktw.github.io/stacktw.github.io/){:target="_blank"}
+* [Remote Developers Jobs China 远端软体工程师征才](https://www.linkedin.com/groups/10532717/){:target="_blank"}
 
 <br>
 
@@ -132,3 +136,7 @@ Help us support the open source, startup, developer communites in Taiwan by foll
 
 * [Startup Jobs Taiwan :rocket:](https://021tw.github.io/){:target="_blank"}
 * [Full Stack Developers Taiwan :star:](https://stacktw.github.io/){:target="_blank"}
+* [Remote Developers Jobs :100:](https://www.linkedin.com/groups/10525064/){:target="_blank"}
+	* [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="_blank"}
+	* [Facebook](https://www.facebook.com/groups/489046765360247/){:target="_blank"}
+

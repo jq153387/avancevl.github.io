@@ -1,12 +1,14 @@
 ---
 layout: default
-title: 薪資制度
-description: Compensation
+title: 績效薪資制度
+description: Performance-Based Compensation
 ---
 
 <a name="zh-tw"></a>
 
-薪水，年終獎金，加薪由以下的規範決定：
+工資在每個月的最後一個工作日給出。
+
+薪水，年終獎金，加薪由以下客觀標準進行評估、決定：
 
 ## OKRs
 
@@ -29,10 +31,10 @@ description: Compensation
 您個人覺得自己的績效如何？
 
 #### 2. 同事績效評估
-您同事覺得自己的績效如何？
+同事覺得自己的績效如何？
 
 #### 3. 長官績效評估
-您長官覺得自己的績效如何？
+長官覺得自己的績效如何？
 
 <br>
 
@@ -42,7 +44,9 @@ description: Compensation
 
 <a name="zh-cn"></a>
 
-薪水，年终奖金，加薪由以下的规范决定：
+工资在每个月的最后一个工作日给出。
+
+薪水，年终奖金，加薪由以下客观标准进行评估、决定：
 
 ## OKRs
 
@@ -65,10 +69,10 @@ description: Compensation
 您个人觉得自己的绩效如何？
 
 #### 2. 同事绩效评估
-您同事觉得自己的绩效如何？
+同事觉得自己的绩效如何？
 
 #### 3. 长官绩效评估
-您长官觉得自己的绩效如何？
+长官觉得自己的绩效如何？
 
 <br>
 
@@ -78,7 +82,9 @@ description: Compensation
 
 <a name="en"></a>
 
-Salary, end-year bonus, promotions are decided annually with several objective evaluations:
+Compensation is given at the last working day of the month.
+
+Salary, end-year bonus, and promotions are decided annually with several objective evaluations:
 
 ## OKRs
 

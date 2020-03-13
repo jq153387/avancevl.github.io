@@ -47,7 +47,7 @@ toc:
   - title: 人資管理 People
     url: /people/people.html
     subfolderitems:
-      - page: ":honey_pot: 薪資制度 Compensation"
+      - page: ":honey_pot: 績效薪資制度 Performance-Based Compensation"
         url: /people/compensation.html
         subsubfolderitems:
           - page: ":moneybag: 全職工程師薪水 Full-Time Engineering Levels"

@@ -8,6 +8,8 @@ description: SEO
 
 * [How to do SEO in a Competitive Market when you have no money (Neil Patel)](https://www.youtube.com/watch?v=wWiSShEGyHA){:target="_blank"}
 * [SEO for Beginners in 2019 (Neil Patel)](https://www.youtube.com/watch?v=gmB_TC92I8w){:target="_blank"}
+* [Moz](https://moz.com/){:target="_blank"}
+* [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/){:target="_blank"}
 
 
 ## Landing Page

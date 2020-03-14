@@ -107,7 +107,9 @@ _創辦人. 麻省理工校友. 新創熱愛者._
 * 谷歌
 * 麥肯錫
 * 微軟
+* 麻省理工電腦科學學院
 * 三星
+* 史丹佛電腦科學學院
 * 創建
 * 騰訊
 
@@ -224,7 +226,9 @@ _创办人. 麻省理工校友. 新创热爱者._
 * 谷歌
 * 麦肯锡
 * 微软
+* 麻省理工电脑科学学院
 * 三星
+* 史丹佛电脑科学学院
 * 创建
 * 腾讯
 
@@ -325,7 +329,7 @@ _Co-Founder. MIT-grad. Startup enthusiast._
 
 <br>
 
-## Our Advisors
+## Our Advisors & Investors
 
 Consultants we have worked with or are currently working with, formally and informally, include:
 
@@ -339,7 +343,9 @@ Consultants we have worked with or are currently working with, formally and info
 * Google
 * McKinsey
 * Microsoft
+* MIT Computer Science
 * Samsung
+* Stanford Computer Science
 * Transcend
 * Tencent
 

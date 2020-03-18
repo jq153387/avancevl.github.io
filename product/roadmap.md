@@ -4,6 +4,8 @@ title: 產品研發流程
 description: Product Development Roadmap
 ---
 
+<a name="en"></a>
+
 ## Phase 1. Ideation
 
 `Ideation Board: Let Ideas Run Wild`
@@ -18,9 +20,9 @@ description: Product Development Roadmap
 
 ## Phase 3. MVP Validation and Testing
 
-1. Product Design
+1. [Product Design]({{ site.baseurl }}/product/design.html)
 
-2. MVP Build
+2. [MVP Build]({{ site.baseurl }}/engineering/tech_stack.html)
 
 3. Customer Feedback
 

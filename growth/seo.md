@@ -4,6 +4,8 @@ title: 搜尋引擎最佳化
 description: SEO
 ---
 
+<a name="en"></a>
+
 ## SEO
 
 * [How to do SEO in a Competitive Market when you have no money (Neil Patel)](https://www.youtube.com/watch?v=wWiSShEGyHA){:target="_blank"}

@@ -8,33 +8,33 @@ description: Engineer Onboarding
 
 # 工程師規範和流程
 
-- [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
-    - Stack [技術架構]({{ site.baseurl }}/engineering/tech_stack.html){:target="_blank"}
-        - [生產架構]({{ site.baseurl }}/engineering/prod_infra.html){:target="_blank"}
-        - [使用者分析]({{ site.baseurl }}/engineering/analytics.html){:target="_blank"}
-        - [前端架構]({{ site.baseurl }}/engineering/frontend_stack.html){:target="_blank"}
-            - [SSR前端架構]({{ site.baseurl }}/engineering/ssr.html){:target="_blank"}
-            - [AMP前端架構]({{ site.baseurl }}//engineering/amp.html){:target="_blank"}
-            - [PWA前端架構]({{ site.baseurl }}//engineering/pwa.html){:target="_blank"}
-            - [手機應用程式架構]({{ site.baseurl }}//engineering/mobile.html){:target="_blank"}
-            - [UI設計原則]({{ site.baseurl }}//engineering/ui_design.html){:target="_blank"}
-            - [HTML5架構]({{ site.baseurl }}//engineering/html5.html){:target="_blank"}
-        - [後端架構]({{ site.baseurl }}/engineering/backend_stack.html){:target="_blank"}
-            - [轉介架構]({{ site.baseurl }}/engineering/referral.html){:target="_blank"}
-        - [桌面程式架構]({{ site.baseurl }}/engineering/desktop_stack.html){:target="_blank"}
-        - [即時網路架構]({{ site.baseurl }}/engineering/realtime_stack.html){:target="_blank"}
-        - [開發環境]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
-	- Scrum [工作速率]({{ site.baseurl }}/engineering/velocity_work.html){:target="_blank"}
-        - [產品開發流程]({{ site.baseurl }}/engineering/product_cycle.html){:target="_blank"}
-        - [計畫Scrum會議]({{ site.baseurl }}/engineering/scrum_meeting.html){:target="_blank"}
-        - [每天Scrum報告]({{ site.baseurl }}/engineering/daily_scrum.html){:target="_blank"}
-        - [問題追中]({{ site.baseurl }}/engineering/issue_tracking.html){:target="_blank"}
-    - [績效評估]({{ site.baseurl }}/engineering/performance_review.html){:target="_blank"}
-    - [程式代碼規範]({{ site.baseurl }}/engineering/code_styles.html){:target="_blank"}
-    - [程式代碼審核]({{ site.baseurl }}/engineering/code_review.html){:target="_blank"}
-    - [品質管制及測試]({{ site.baseurl }}/engineering/qc_testing.html){:target="_blank"}
-- [線上資源]({{ site.baseurl }}/people/online_resources.html){:target="_blank"}
-- [建立開發系統]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
+* [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
+    * [技術架構]({{ site.baseurl }}/engineering/tech_stack.html){:target="_blank"}
+        * [生產架構]({{ site.baseurl }}/engineering/prod_infra.html){:target="_blank"}
+        * [使用者分析]({{ site.baseurl }}/engineering/analytics.html){:target="_blank"}
+        * [前端架構]({{ site.baseurl }}/engineering/frontend_stack.html){:target="_blank"}
+            * [SSR前端架構]({{ site.baseurl }}/engineering/ssr.html){:target="_blank"}
+            * [AMP前端架構]({{ site.baseurl }}//engineering/amp.html){:target="_blank"}
+            * [PWA前端架構]({{ site.baseurl }}//engineering/pwa.html){:target="_blank"}
+            * [手機應用程式架構]({{ site.baseurl }}//engineering/mobile.html){:target="_blank"}
+            * [UI設計原則]({{ site.baseurl }}//engineering/ui_design.html){:target="_blank"}
+            * [HTML5架構]({{ site.baseurl }}//engineering/html5.html){:target="_blank"}
+        * [後端架構]({{ site.baseurl }}/engineering/backend_stack.html){:target="_blank"}
+            * [轉介架構]({{ site.baseurl }}/engineering/referral.html){:target="_blank"}
+        * [桌面程式架構]({{ site.baseurl }}/engineering/desktop_stack.html){:target="_blank"}
+        * [即時網路架構]({{ site.baseurl }}/engineering/realtime_stack.html){:target="_blank"}
+        * [開發環境]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
+	* Scrum [工作速率]({{ site.baseurl }}/engineering/velocity_work.html){:target="_blank"}
+        * [產品開發流程]({{ site.baseurl }}/engineering/product_cycle.html){:target="_blank"}
+        * [計畫Scrum會議]({{ site.baseurl }}/engineering/scrum_meeting.html){:target="_blank"}
+        * [每天Scrum報告]({{ site.baseurl }}/engineering/daily_scrum.html){:target="_blank"}
+        * [問題追中]({{ site.baseurl }}/engineering/issue_tracking.html){:target="_blank"}
+    * [績效評估]({{ site.baseurl }}/engineering/performance_review.html){:target="_blank"}
+    * [程式代碼規範]({{ site.baseurl }}/engineering/code_styles.html){:target="_blank"}
+    * [程式代碼審核]({{ site.baseurl }}/engineering/code_review.html){:target="_blank"}
+    * [品質管制及測試]({{ site.baseurl }}/engineering/qc_testing.html){:target="_blank"}
+* [線上資源]({{ site.baseurl }}/people/online_resources.html){:target="_blank"}
+* [建立開發系統]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
 
 <br>
 
@@ -83,33 +83,33 @@ description: Engineer Onboarding
 
 # 工程师规范和流程
 
-- [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
-    - Stack [技术架构]({{ site.baseurl }}/engineering/tech_stack.html){:target="_blank"}
-        - [生产架构]({{ site.baseurl }}/engineering/prod_infra.html){:target="_blank"}
-        - [使用者分析]({{ site.baseurl }}/engineering/analytics.html){:target="_blank"}
-        - [前端架构]({{ site.baseurl }}/engineering/frontend_stack.html){:target="_blank"}
-            - [SSR前端架构]({{ site.baseurl }}/engineering/ssr.html){:target="_blank"}
-            - [AMP前端架构]({{ site.baseurl }}//engineering/amp.html){:target="_blank"}
-            - [PWA前端架构]({{ site.baseurl }}//engineering/pwa.html){:target="_blank"}
-            - [手机应用程式架构]({{ site.baseurl }}//engineering/mobile.html){:target="_blank"}
-            - [UI设计原则]({{ site.baseurl }}//engineering/ui_design.html){:target="_blank"}
-            - [HTML5架构]({{ site.baseurl }}//engineering/html5.html){:target="_blank"}
-        - [后端架构]({{ site.baseurl }}/engineering/backend_stack.html){:target="_blank"}
-            - [转介架构]({{ site.baseurl }}/engineering/referral.html){:target="_blank"}
-        - [桌面程式架构]({{ site.baseurl }}/engineering/desktop_stack.html){:target="_blank"}
-        - [即时网路架构]({{ site.baseurl }}/engineering/realtime_stack.html){:target="_blank"}
-        - [开发环境]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
-- Scrum [工作速率]({{ site.baseurl }}/engineering/velocity_work.html){:target="_blank"}
-        - [产品开发流程]({{ site.baseurl }}/engineering/product_cycle.html){:target="_blank"}
-        - [计画Scrum会议]({{ site.baseurl }}/engineering/scrum_meeting.html){:target="_blank"}
-        - [每天Scrum报告]({{ site.baseurl }}/engineering/daily_scrum.html){:target="_blank"}
-        - [问题追中]({{ site.baseurl }}/engineering/issue_tracking.html){:target="_blank"}
-    - [绩效评估]({{ site.baseurl }}/engineering/performance_review.html){:target="_blank"}
-    - [程式代码规范]({{ site.baseurl }}/engineering/code_styles.html){:target="_blank"}
-    - [程式代码审核]({{ site.baseurl }}/engineering/code_review.html){:target="_blank"}
-    - [品质管制及测试]({{ site.baseurl }}/engineering/qc_testing.html){:target="_blank"}
-- [线上资源]({{ site.baseurl }}/people/online_resources.html){:target="_blank"}
-- [建立开发系统]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
+* [工程流程]({{ site.baseurl }}/engineering/engineering.html){:target="_blank"}
+    * [技术架构]({{ site.baseurl }}/engineering/tech_stack.html){:target="_blank"}
+        * [生产架构]({{ site.baseurl }}/engineering/prod_infra.html){:target="_blank"}
+        * [使用者分析]({{ site.baseurl }}/engineering/analytics.html){:target="_blank"}
+        * [前端架构]({{ site.baseurl }}/engineering/frontend_stack.html){:target="_blank"}
+            * [SSR前端架构]({{ site.baseurl }}/engineering/ssr.html){:target="_blank"}
+            * [AMP前端架构]({{ site.baseurl }}//engineering/amp.html){:target="_blank"}
+            * [PWA前端架构]({{ site.baseurl }}//engineering/pwa.html){:target="_blank"}
+            * [手机应用程式架构]({{ site.baseurl }}//engineering/mobile.html){:target="_blank"}
+            * [UI设计原则]({{ site.baseurl }}//engineering/ui_design.html){:target="_blank"}
+            * [HTML5架构]({{ site.baseurl }}//engineering/html5.html){:target="_blank"}
+        * [后端架构]({{ site.baseurl }}/engineering/backend_stack.html){:target="_blank"}
+            * [转介架构]({{ site.baseurl }}/engineering/referral.html){:target="_blank"}
+        * [桌面程式架构]({{ site.baseurl }}/engineering/desktop_stack.html){:target="_blank"}
+        * [即时网路架构]({{ site.baseurl }}/engineering/realtime_stack.html){:target="_blank"}
+        * [开发环境]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
+* Scrum [工作速率]({{ site.baseurl }}/engineering/velocity_work.html){:target="_blank"}
+        * [产品开发流程]({{ site.baseurl }}/engineering/product_cycle.html){:target="_blank"}
+        * [计画Scrum会议]({{ site.baseurl }}/engineering/scrum_meeting.html){:target="_blank"}
+        * [每天Scrum报告]({{ site.baseurl }}/engineering/daily_scrum.html){:target="_blank"}
+        * [问题追中]({{ site.baseurl }}/engineering/issue_tracking.html){:target="_blank"}
+    * [绩效评估]({{ site.baseurl }}/engineering/performance_review.html){:target="_blank"}
+    * [程式代码规范]({{ site.baseurl }}/engineering/code_styles.html){:target="_blank"}
+    * [程式代码审核]({{ site.baseurl }}/engineering/code_review.html){:target="_blank"}
+    * [品质管制及测试]({{ site.baseurl }}/engineering/qc_testing.html){:target="_blank"}
+* [线上资源]({{ site.baseurl }}/people/online_resources.html){:target="_blank"}
+* [建立开发系统]({{ site.baseurl }}/engineering/devenv.html){:target="_blank"}
 
 <br>
 

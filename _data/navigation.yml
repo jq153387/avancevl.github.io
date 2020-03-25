@@ -142,6 +142,11 @@ toc:
     subfolderitems:
       - page: ":dizzy: 工程師入職流程 Engineer Onboarding"
         url: /engineering/onboarding.html
+        subsubfolderitems:
+          - page: ":whale: 破壞性更改 Breaking Changes"
+            url: /engineering/breaking_changes.html
+          - page: ":+1: Git管理規範 Git Rules"
+            url: /engineering/git_rules.html
       - page: ":bullettrain_front: 技術架構 Tech Stack"
         url: /engineering/tech_stack.html
         subsubfolderitems:
@@ -192,8 +197,6 @@ toc:
             url: /engineering/scrum_meeting.html
           - page: ":heart: 每日報告 Daily Updates"
             url: /engineering/daily_scrum.html
-          - page: ":whale: 破壞性更改 Breaking Changes"
-            url: /engineering/breaking_changes.html
           - page: ":octocat: 問題追中 Issue Tracking"
             url: /engineering/issue_tracking.html
       - page: ":white_check_mark:績效評估 Performance Review"

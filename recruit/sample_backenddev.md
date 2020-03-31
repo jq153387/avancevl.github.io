@@ -10,12 +10,6 @@ description: Back-End Sample Exam
 [檢閱考試指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-<br>
-
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-[View Instructions]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
-[View Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
-
 ## 考試
 
 請實作一下網頁畫面的後端（以下桌面介面)
@@ -105,12 +99,6 @@ description: Back-End Sample Exam
 [立即申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 [检阅考试指示]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 [测验分数评估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
-
-<br>
-
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-[View Instructions]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
-[View Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
 ## 考试
 

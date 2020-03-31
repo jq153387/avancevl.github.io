@@ -177,20 +177,21 @@ Please build the back-end for a question-and-answer app (Destkop UI mockup below
 
 ## Requirements
 
-1. Need to have an extremely simple front-end to test back-end functionality.
+1. Must have an extremely simple front-end to test your back-end functions.
 	1. Can be HTML/CSS.
-	1. No need to use any fancy frameworks for front-end placeholder.
+	1. No need to use any fancy frameworks for front-end placeholder. You will not be graded on front-end.
 1. **Must host your back-end on Firebase.**
-	1. This is a not a front-end exam. Client side should be just to test back-end functionality.
+	1. This is a not a front-end exam. Client side should only be to test your back-end functions.
 
 ## Reminders
 
-> * We'd rather you do a few features well, rather than all the features poorly.
-> * Please be sure to upload code to GitHub/GitLab.
-> * At the 2.5-hour mark:
->   * Please submit however much you've completed, regardless of whether you've finished or not.
->   * Make sure your site is live, and submit URL.
->	* Make sure to complete [Exam Submission Form]({{ site.exam_submit_form_url }}).
+> * Develop a few features well is better than many features poorly.
+> * Please upload your code to GitHub/GitLab.
+> * At 2.5-hour:
+>   * Please submit what you've completed, regardless of whether you've finished or not.
+>   * Launch to host your live site.
+	* Submit demo site URL.
+>	* Make sure to complete this [Exam Submission Form]({{ site.exam_submit_form_url }}).
 
 ## Features Rubric
 
@@ -205,7 +206,7 @@ Please build the back-end for a question-and-answer app (Destkop UI mockup below
 
 ## Features List
 
-Choose any of the following features to implement. There are no required ordering.
+Choose any of the following features to implement. There is no required ordering.
 
 ### 1. Question DB
 

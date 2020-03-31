@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 全遠端的新創團隊
-description: All Remote Startup Incubator
+title: 與眾不同的新創孵化
+description: A Different Breed of Startup Incubator
 ---
 
 <!---
@@ -10,9 +10,9 @@ description: All Remote Startup Incubator
 
 <a name="zh-tw"></a>
 
-## 不一樣的加速孵化新創團隊
+## 全遠端團隊、加速孵化 new ideas
 
-加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包、不是 contractor）
+加速孵化團隊內部自己的新點子，快速創造解決全球消費者和商務的難處（非接案、非博弈、不外包、不是 contractor）
 
 <br>
 
@@ -102,7 +102,7 @@ description: All Remote Startup Incubator
 
 <a name="en"></a>
 
-## A Different Breed of Startup Incubator
+## All Remote Team
 
 We incubate, accelerate, and implement ideas that our team create internally. 
 

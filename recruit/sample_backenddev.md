@@ -152,105 +152,90 @@ if（星期幾 == 日 && 開始營業時間 >= 15:00 && 結束營業時間 <= 21
 
 <br>
 
-## 考题大纲
 
-请开发一个可以使用，有前、后端的网站：
-
-| 满分 | 网页功能 |
-| --- | --- |
-| 40 | 搜索一个过滤项目，支持多页结果（pagination） |
-| 60 | 搜索多个「及」过滤项目 |
-| 50 | 搜索多个「或」过滤项目 |
-| 50 | 搜索营业时间符合 |
-
-[测验分数评估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
-
-### 分数薪资计算例子
-
-假设一位candidate的测验，他完成以下：
-
-- [x] [填写测验完成表格]({{ site.exam_submit_form_url }}){:target="_blank"}
-- [x] 有提供考试代码GitHub/GitLab网址
-- [x] 有提供网页上架的live demo网址[（Heroku 免费）](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署网站的手把手教学-bf4fd6f998b8){:target="_blank"}
-
-分数如下：
-
-| 满分 | 分数 | 网页功能 |
-| --- | --- | --- |
-| 40 | 72% | 搜索一个过滤项目，支持多页结果（pagination） |
-| 60 | 55% | 搜索多个「及」过滤项目 |
-| 50 | 81% | 搜索多个「或」过滤项目 |
-| 50 | 0% | 搜索营业时间符合 |
-
-总分计算：
-```
-总分数 = 72% * 40 + 55% * 60 + 81% * 50 = 102.3
-总分 = 102.3 / 200 * 100 = 51.15%
-```
-
-> **因为这位candidate分数是51%，他的工程阶级考虑范围就是 [Junior Engineer]({{ site.baseurl }}/people/engineering_level.html)。 **
 
 <br>
 
-## 考题讲解
+---
 
-* 请输入提供的[csv档案](https://docs.google.com/spreadsheets/d/1OanzakC9Uuo6fLLLyKScTSWDH6twnPOrSN-uWvoTz-U/edit?usp=sharing){:target="_blank"}进去资料库，设计及实作后端搜索资料库的RESTful-API。
-* 请使用relational的资料库。
-* 搜索RESTful-API需要直接对应后端资料库的SQL query。
-* [良好的API设计](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api){:target="_blank"}。
-* 在`README.md`用markdown纤细解释API。
-	* 提供API query的样本
-	* 提供API query结果的样本
-* 搜索API需要考虑一张网页最多可以显示多少搜索结果，需要支持pagination。
+<a name="en"></a>
 
-## 考题细节：搜索API功能
+<br>
 
-### 1. 搜索一个过滤项目，支持多页结果（pagination）
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+[View Instructions]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
+[View Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
 
-* 这个功能只能选一种条件。
-* 过滤项目：
-	* 星期几
-	* 类型
-	* 米其林
-	* 停车
-	* 外送
-	* 先缴订金
-	* 地理位子
+## Exam
 
-### 2. 搜索多个「及」过滤项目（AND condition）
+Please build the back-end for a question-and-answer app (Destkop UI mockup below)
+* Must use Firebase for back-end.
 
-* 这个功能可以选多个过滤条件。
-* 例如：
-```
-if ((类型 == 无菜单) && (米其林 == 1))
-{
-// 找出全部米其林一星的无菜单餐厅
-}
-```
+### Desktop UI
 
-### 3. 搜索多个「或」过滤项目（OR condition）
+<img src='https://lh3.googleusercontent.com/SBQWfwg0cfPBcIyvuK1qAlIX3F3t25vj6uOVahV-E7Rhg-RTKJABufr4rYEHkLd3Cv35n3isUWyFwdEHMeIfsoQ3yDlKKqdhuWvSTz0JuAn3U92Y0nZ_7aC-_raJ9QdxmISoLb0GMw=w1417' />
 
-* 这个功能可以选多个过滤条件。
-* 例如：
-```
-if ((先缴订金 == 否) || (停车 == 有))
-{
-// 找出全部不用先缴订金，或有停车位的餐厅
-}
-```
+## Requirements
 
-### 4. 搜索营业时间符合：
+1. Need to have an extremely simple front-end to test back-end functionality.
+	1. Can be HTML/CSS.
+	1. No need to use any fancy frameworks for front-end placeholder.
+1. **Must host your back-end on Firebase.**
+	1. This is a not a front-end exam. Client side should be just to test back-end functionality.
 
-* 搜索结果是在指定的多个过滤条件当下，列出有营业的餐厅。
-* 过滤条件：
-	* 星期几
-	* 开始营业时间
-	* 结束营业时间
-* 例如：
-```
-if（星期几 == 日 && 开始营业时间 >= 15:00 && 结束营业时间 <= 21:00)
-{
-// 找出全部星期日下午3点至晚上9点有营业的餐厅
-}
-```
+## Reminders
+
+> * We'd rather you do a few features well, rather than all the features poorly.
+> * Please be sure to upload code to GitHub/GitLab.
+> * At the 2.5-hour mark:
+>   * Please submit however much you've completed, regardless of whether you've finished or not.
+>   * Make sure your site is live, and submit URL.
+>	* Make sure to complete [Exam Submission Form]({{ site.exam_submit_form_url }}).
+
+## Features Rubric
+
+| Score | Feature |
+| --- | --- |
+| 40 | Question DB |
+| 70 | Query DB |
+| 30 | Google OAuth and User DB |
+| 60 | Track User Answer and Accuracy |
+
+[View Exam Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
+
+## Features List
+
+Choose any of the following features to implement. There are no required ordering.
+
+### 1. Question DB
+
+* Populate Firebase DB with [Google Sheet](https://docs.google.com/spreadsheets/d/1EmWraWzyvxt7km7MiPxU6PDTXzy05_jUyvwUqHc5nP0/edit?usp=sharing){:target="_blank"}
+* Store and display `question_text` for each question.
+* Store and display `question_title` for each question.
+* Store and display all `hashtags` for each question.
+* Store and use `/problem/<question_id>` in routing URL.
+
+### 2. Query DB
+
+* Use Firebase Queries to query Question DB using hashtags.
+* Build very simple front-end selection boxes to build filter/search URL.
+* Map search URL to Firebase Query.
+* Return problems that match any hashtags in our search URL.
+* Display total number of questions that satisfy filter conditions, out of total possible available questions in DB.
+
+### 3. Google OAuth and User DB
+
+* Implement Google OAuth and user database in Firebase.
+* Store and display user name and email in a separate simple webpage.
+* Use `/user/<user_id>` in routing URL.
+
+### 4. Track User Answer and Accuracy
+
+* Create simple input box for user to input answer to each question.
+* Use the `answer` column to determine if question answered correctly.
+* Update the following metrics for each user and display in client side.
+	* **Accuracy.** Number of problems correct divided by number of problems completed.
+	* **Completed.** Total number of problems completed.
+	* **Correct.** Total number of problems correct.
+
 

@@ -59,7 +59,7 @@ toc:
         subsubfolderitems:
           - page: 團隊活動 Team Events
             url: /people/team_events.html
-      - page: ":laptop: 學習培訓 Learning & Training"
+      - page: ":computer: 學習培訓 Learning & Training"
         url: /people/learning_training.html
         subsubfolderitems:
           - page: 全端培訓計劃 Full Stack Training Program
@@ -199,7 +199,7 @@ toc:
             url: /engineering/daily_scrum.html
           - page: "問題追中 Issue Tracking"
             url: /engineering/issue_tracking.html
-      - page: ":white_check_mark: 績效評估 Performance Review"
+      - page: ":thumbsup: 績效評估 Performance Review"
         url: /engineering/performance_review.html
       - page: ":link: 程式代碼規範 Code Styles"
         url: /engineering/code_styles.html
@@ -224,7 +224,7 @@ toc:
             url: /product/font.html
           - page: ":balloon: 設計表 Style Guides"
             url: /product/style_guide.html
-      - page: "compass: 產品研發流程 Roadmap"
+      - page: ":compass: 產品研發流程 Roadmap"
         url: /product/roadmap.html
         subsubfolderitems:
           - page: 教育科技 EdTech

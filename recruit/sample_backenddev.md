@@ -223,6 +223,8 @@ Choose any of the following features to implement. There are no required orderin
 * Return problems that match any hashtags in our search URL.
 * Display total number of questions that satisfy filter conditions, out of total possible available questions in DB.
 
+<img src='https://lh3.googleusercontent.com/zeYaUx3W0Hb8yaiPLHyzTOI_ShGmEIQqTA_Q7b8hyGZ_bfeC8gSK4s6L1okbGhrFPf817zjp-RbRcDZzZ3p51Vv1QxUza9RGTDupaia0jRcepHtTUNAafjEXJBwhzKMnVC_az-nOAw=w370' />
+
 ### 3. Google OAuth and User DB
 
 * Implement Google OAuth and user database in Firebase.
@@ -237,5 +239,7 @@ Choose any of the following features to implement. There are no required orderin
 	* **Accuracy.** Number of problems correct divided by number of problems completed.
 	* **Completed.** Total number of problems completed.
 	* **Correct.** Total number of problems correct.
+
+<img src='https://lh3.googleusercontent.com/zRIxNrIztI22WJYDs4EcrjnciyQ2ByIRVSu6R-JCpBCo0e2hT9_g1RwdcBbmyaSebQRUk06NscQ6waV0eiQZ1HTBjcVSg6Ildeo-sc9qhFLRnx1tKgK0u8tlKD0eyMMgMwNWp0cS4A=w260' />
 
 

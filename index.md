@@ -10,7 +10,7 @@ description: A Different Breed of Startup Incubator
 
 <a name="zh-tw"></a>
 
-## 全遠端團隊、加速孵化 new ideas
+## 全遠端團隊、加速孵化 New Ideas
 
 加速孵化團隊內部自己的新點子，快速創造解決全球消費者和商務的難處（非接案、非博弈、不外包、不是 contractor）
 
@@ -57,7 +57,7 @@ description: A Different Breed of Startup Incubator
 
 <a name="zh-cn"></a>
 
-## 不一样的加速孵化新创团队
+## 全远端团队、加速孵化 New Ideas
 
 加速孵化团队内部自己创造的新点子，解决全球消费者和商务的难处（非接案，非博弈，不支出，不是承包商）
 
@@ -102,7 +102,7 @@ description: A Different Breed of Startup Incubator
 
 <a name="en"></a>
 
-## All Remote Team
+## All Remote Team, Incubate New Ideas
 
 We incubate, accelerate, and implement ideas that our team create internally. 
 

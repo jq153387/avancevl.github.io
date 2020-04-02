@@ -83,19 +83,19 @@ description: Team
 
 ### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary的LinkedIn"){:target="_blank"}**
 
-_Co-founder. Stanford alumnus. Tech genius.
+_Co-founder. Stanford alumnus. Tech genius._
 _創辦人. 史丹佛校友. 技術熱愛者._
 
 <img src='https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400' width="222"/>
 
 ### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan的LinkedIn"){:target="_blank"}**
 
-_Co-founder. MIT alumnus. Entrepreneurship rockstar.
+_Co-founder. MIT alumnus. Entrepreneurship rockstar._
 _創辦人. 麻省理工校友. 新創熱愛者._
 
 ### **Huang**
 
-_Product Designer. UI/UX expert.
+_Product Designer. UI/UX expert._
 _產品設計師. UI/UX 專家._
 
 <img src='https://lh3.googleusercontent.com/kA4Ob1EaxI_5auAAaB07cBo_feJv0yGg7UYGyRYnPpwhMMWrQOmXMJxpsnk-hgIC2noTmYTSBrCvbmIeRPX3SIRhG7KyE2oGPKVp29z6WdKiYTenDExqAN4Bv0mT9Q2p6vmF7wluG30ZNthsEFzPkYHrFJZyhSCqMfhcelgCkh-GBPU4__QDRmk1cAK5_7ZNiraaIeLSIDiEFL8DHYZEcvt2o0LxyqY-1AwcAejTlzn-X6AwVSXMB0IEc2ZO1J8VBbGXJxqRdIDoQpQBbNFvdaDbCJG3smoYueCZZuBOmnJq8rIn8W4sGpCQGyLjL7-Rv0VQB8rDOCwDH_75euOC7qamuYKRdu-sDrknaclZmF0qnb7U9uUyKmTwdtVnTbfDLLZsRbH-Mk_j0i_bXi3zDpfpNYAB92m6zkteGO8BGk_m5NGvYUtMXF9Dxy5lvY1-7Lf_-Zo8f1zxJVjGuXut5a5F8Aj8VkAhkJ7SnLbJvP9He1MnqCtdgxZevgOnaerLAkHaKOCd8OoXP71R-GUNrxuOb8VzbgavjcFUbPiUV914WkhNgkTAZwxiRhpr8HXFA1ULoWjSfgLPHsuQYAtUlf0cgZqC6DSJJf8QoWXxtJQdt-tEoDs_Ht_38nmMsgj6G2tP4R9DaCtVqENZdovwsEX92xbBzrR1jT-vhMFwj48FzCLuKCQuAWRi9_Pi81g=s1036-no' width="222"/>

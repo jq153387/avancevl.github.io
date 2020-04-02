@@ -55,9 +55,9 @@ description: Back-End Sample Exam
 請以下表單選任網頁功能實作，不用照順序。
 
 ### 1. 寄 Email 電子郵件 (必答題)
-* 這題是考後端的必答題
+* 這題是考後端的必答題。
 * 請設計一個簡單的功能讓使用者可以在網頁上填寫一個表格，並發送表格裡面的文字訊息到 hr@avancevl.com
-* 使用
+* 使用 https://nodemailer.com/usage/ 或 https://www.smtpjs.com/
 * 開發一個讓 user 可以填寫訊息的表格 或是 popup。
 * 需要 2 個欄位：subject 和 body (請參考前端圖片)
 * 前端的 UI 簡單、可以用就可以，不算分，應為是後端的考試。測試的是 user 的 email message 是否會成功的寄到 hr@avancevl.com 信箱裡。

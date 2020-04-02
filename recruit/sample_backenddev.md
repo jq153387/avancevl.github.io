@@ -57,7 +57,7 @@ description: Back-End Sample Exam
 ### 1. 寄 Email 電子郵件 (必答題)
 * 這題是考全、後端的必答題。
 * 請開發一個簡單的 send email message 功能，讓使用者可以在網頁上填寫一個表格，並發送欄位裡面的文字訊息到 hr@avancevl.com
-* 使用 https://nodemailer.com/usage/ 或 https://www.smtpjs.com/
+* 使用 [Node Mailer](https://nodemailer.com/usage/){:target="_blank"} 或 [SMTP JS](https://www.smtpjs.com/){:target="_blank"}
 * 簡單開發一個讓 user 可以填寫訊息的表格。
 * 需要 2 個文字欄位：subject 和 body (請參考前端類似的樣本圖片的 topic 和 content 欄位)。
 * 一個簡單的發送訊息按鈕。
@@ -160,7 +160,7 @@ description: Back-End Sample Exam
 ### 1. 寄 Email 电子邮件 (必答题) 
 * 这题是考全、后端的必答题。
 * 请开发一个简单的 send email message 功能，让使用者可以在网页上填写一个表格，并发送栏位里面的文字讯息到 hr@avancevl.com
-* 使用 https://nodemailer.com/usage/ 或 https://www.smtpjs.com/
+* 使用 [Node Mailer](https://nodemailer.com/usage/){:target="_blank"} 或 [SMTP JS](https://www.smtpjs.com/){:target="_blank"}
 * 简单开发一个让 user 可以填写讯息的表格。
 * 需要 2 个文字栏位：subject 和 body (请参考前端类似的样本图片的 topic 和 content 栏位)。
 * 一个简单的发送讯息按钮。
@@ -262,7 +262,7 @@ Choose any of the following features to implement. There is no required ordering
 ### 1. Sending Email (mandatory)
 * This question is required for all full-stack and back-end test takers.
 * Please develop a simple send email message function, so that users can fill out a form on the webpage and send the text message in the text fields to hr@avancevl.com
-* Use https://nodemailer.com/usage/ or https://www.smtpjs.com/
+* Use [Node Mailer](https://nodemailer.com/usage/){:target="_blank"} or [SMTP JS](https://www.smtpjs.com/){:target="_blank"}
 * Develop a simple form that allows users to fill out some messages.
 * 2 user-input text fields: subject and body (refer to the topic and content fields of a similiar front-end sample image).
 * A simple send message button.

@@ -42,7 +42,7 @@ description: Back-End Sample Exam
 
 | 滿分 | 網頁功能 |
 | --- | --- |
-| 90 | 寄 Email 電子郵件 ｜
+| 90 | 寄 Email 電子郵件 (必答題) ｜
 | 45 | 題目資料庫 |
 | 70 | 尋找題目 |
 | 35 | Google OAuth登入及使用者資料庫 |
@@ -54,7 +54,17 @@ description: Back-End Sample Exam
 
 請以下表單選任網頁功能實作，不用照順序。
 
-### 1. 
+### 1. 寄 Email 電子郵件 (必答題)
+* 這題是考後端的必答題
+* 請設計一個簡單的功能讓使用者可以在網頁上填寫一個表格，並發送表格裡面的文字訊息到 hr@avancevl.com
+* 使用
+* 開發一個讓 user 可以填寫訊息的表格 或是 popup。
+* 需要 2 個欄位：subject 和 body (請參考前端圖片)
+* 前端的 UI 簡單、可以用就可以，不算分，應為是後端的考試。測試的是 user 的 email message 是否會成功的寄到 hr@avancevl.com 信箱裡。
+
+<img src='https://photos.app.goo.gl/TutK7UfT8qaNeWLb9' />
+
+<img src='https://lh3.googleusercontent.com/lPVTMFeT3keoJP2mCmLcWbKyoWVmPnkG8mtiCdUGvKXaAfwdKK0rK-zQzhNm1CMyc6U2oxIgSqqWEk_H_T-yc7SVg_dsnCZrEduiExco_-lPX7UVnZEq-duD5agGLuvGdxwi05O26SOACrC58lWpyAd-qGOrq98H3GJ9Wfzi9fvUuhHDwgEqH0b2C5iq665mQmO15kCeNMJzZAJ07Qa4-TyC4BmdiIbJNXzowQ0Nw_YiPb4AUnLz_lbCPzCD4YNbn0Qls22WwrTRZlO013vztdU91J2qn7AvLQKt2GwXYLwAUPIDkBqnVvp_P5jgMHqQEn9AjK64RQmevaCdjUkYwfO7xwlnCMfPVYpgVSBUkI3wxIuLLLjkIzUtgqDQO62l9i51UfFPvLbQ79ikgJP4khydNnYnMvNQqhYcC8Gw6pTN-lPjA-kerRnKx8DOSXgzvhIqOhiqeWxpr6jwW7fhyh6oWKDgSVTxmvYsDBo3YLvomqtEfStQAoYIkph0Z_Q_Wv9CgQeuR8NbNScVQEWCYm6ZfD9k5ZdJEYyHzROq5kompXXbz7L0TRQUQE9XnmTdQjnlchQtzEtz0qvi0-kuH8Ym0FI5sTWKdt8Ihp3g_UmEVp0Hg5nJ9S1LcihpWqVsqXdqsOhWF4GlHK9GGDZYR88Ouy8J6p89FfM9K_nH_J09OFat5-Zi_cVUqBgfKkY=w1438-h914-no' />
 
 ### 2. 題目資料庫
 
@@ -135,7 +145,7 @@ description: Back-End Sample Exam
 
 | 满分 | 网页功能 |
 | --- | --- |
-| 90 | 寄 Email 电子邮件 ｜
+| 90 | 寄 Email 电子邮件 (必答题) ｜
 | 45 | 题目资料库 |
 | 70 | 寻找题目 |
 | 35 | Google OAuth登入及使用者资料库 |
@@ -147,7 +157,8 @@ description: Back-End Sample Exam
 
 请以下表单选任网页功能实作，不用照顺序。
 
-### 1. 
+### 1. 寄 Email 电子邮件 (必答题) 
+
 
 ### 2. 题目资料库
 
@@ -227,7 +238,7 @@ Please build the back-end for a question-and-answer app (Destkop UI mockup below
 
 | Score | Feature |
 | --- | --- |
-| 90 | Email sending｜
+| 90 | Sending Email (mandatory)｜
 | 45 | Question DB |
 | 70 | Query DB |
 | 35 | Google OAuth and User DB |
@@ -239,7 +250,8 @@ Please build the back-end for a question-and-answer app (Destkop UI mockup below
 
 Choose any of the following features to implement. There is no required ordering.
 
-### 1. 
+### 1. Sending Email (mandatory)
+
 
 ### 2. Question DB
 

@@ -93,8 +93,7 @@ _創辦人. 史丹佛校友. 技術熱愛者._
 _Co-founder. MIT alumnus. Entrepreneurship rockstar.
 _創辦人. 麻省理工校友. 新創熱愛者._
 
-### **[Huang]
-{:target="_blank"}**
+### **Huang**
 
 _Product Designer. UI/UX expert.
 _產品設計師. UI/UX 專家._

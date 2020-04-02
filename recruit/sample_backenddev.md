@@ -42,9 +42,10 @@ description: Back-End Sample Exam
 
 | 滿分 | 網頁功能 |
 | --- | --- |
-| 40 | 題目資料庫 |
+| 90 | 寄 Email 電子郵件 ｜
+| 45 | 題目資料庫 |
 | 70 | 尋找題目 |
-| 30 | Google OAuth登入及使用者資料庫 |
+| 35 | Google OAuth登入及使用者資料庫 |
 | 60 | 使用者答案及題目結果 |
 
 [測驗分數評估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
@@ -53,7 +54,9 @@ description: Back-End Sample Exam
 
 請以下表單選任網頁功能實作，不用照順序。
 
-### 1. 題目資料庫
+### 1. 
+
+### 2. 題目資料庫
 
 * 把[Google Sheet](https://docs.google.com/spreadsheets/d/1EmWraWzyvxt7km7MiPxU6PDTXzy05_jUyvwUqHc5nP0/edit?usp=sharing){:target="_blank"}的資料輸入到Firebase資料庫。
 * 每一題目，`question_text`欄位輸入到資料庫及顯示在網頁。
@@ -61,7 +64,7 @@ description: Back-End Sample Exam
 * 每一題目，`hashtags`欄位輸入到資料庫及顯示在網頁。
 * 每一題目，用`/problem/<question_id>`在routing網址。
 
-### 2. 尋找題目
+### 3. 尋找題目
 
 * 使用Firebase Queries及hashtags來query資料庫。
 * 在前端實作簡單的選項單，造query後端的URL。
@@ -71,13 +74,13 @@ description: Back-End Sample Exam
 
 <img src='https://lh3.googleusercontent.com/zeYaUx3W0Hb8yaiPLHyzTOI_ShGmEIQqTA_Q7b8hyGZ_bfeC8gSK4s6L1okbGhrFPf817zjp-RbRcDZzZ3p51Vv1QxUza9RGTDupaia0jRcepHtTUNAafjEXJBwhzKMnVC_az-nOAw=w370' />
 
-### 3. Google OAuth登入及使用者資料庫
+### 4. Google OAuth登入及使用者資料庫
 
 * 實作Google OAuth及使用者資料庫。
 * 把Google使用者的名稱及電子郵件網址存在資料庫及顯示在另張User Profile網頁。
 * User Profile請用`/user/<user_id>`的routing網址
 
-### 4. 使用者答案及題目結果
+### 5. 使用者答案及題目結果
 
 * 建立簡單的input box給使用者輸入題目答案。
 * 跟資料庫裡的`answer`欄位對使用者答案是對還是錯。
@@ -132,9 +135,10 @@ description: Back-End Sample Exam
 
 | 满分 | 网页功能 |
 | --- | --- |
-| 40 | 题目资料库 |
+| 90 | 寄 Email 电子邮件 ｜
+| 45 | 题目资料库 |
 | 70 | 寻找题目 |
-| 30 | Google OAuth登入及使用者资料库 |
+| 35 | Google OAuth登入及使用者资料库 |
 | 60 | 使用者答案及题目结果 |
 
 [测验分数评估]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
@@ -143,7 +147,9 @@ description: Back-End Sample Exam
 
 请以下表单选任网页功能实作，不用照顺序。
 
-### 1. 题目资料库
+### 1. 
+
+### 2. 题目资料库
 
 * 把[Google Sheet](https://docs.google.com/spreadsheets/d/1EmWraWzyvxt7km7MiPxU6PDTXzy05_jUyvwUqHc5nP0/edit?usp=sharing){:target="_blank"}的资料输入到Firebase资料库。
 * 每一题目，`question_text`栏位输入到资料库及显示在网页。
@@ -151,7 +157,7 @@ description: Back-End Sample Exam
 * 每一题目，`hashtags`栏位输入到资料库及显示在网页。
 * 每一题目，用`/problem/<question_id>`在routing网址。
 
-### 2. 寻找题目
+### 3. 寻找题目
 
 * 使用Firebase Queries及hashtags来query资料库。
 * 在前端实作简单的选项单，造query后端的URL。
@@ -161,13 +167,13 @@ description: Back-End Sample Exam
 
 <img src='https://lh3.googleusercontent.com/zeYaUx3W0Hb8yaiPLHyzTOI_ShGmEIQqTA_Q7b8hyGZ_bfeC8gSK4s6L1okbGhrFPf817zjp-RbRcDZzZ3p51Vv1QxUza9RGTDupaia0jRcepHtTUNAafjEXJBwhzKMnVC_az-nOAw=w370' />
 
-### 3. Google OAuth登入及使用者资料库
+### 4. Google OAuth登入及使用者资料库
 
 * 实作Google OAuth及使用者资料库。
 * 把Google使用者的名称及电子邮件网址存在资料库及显示在另张User Profile网页。
 * User Profile请用`/user/<user_id>`的routing网址
 
-### 4. 使用者答案及题目结果
+### 5. 使用者答案及题目结果
 
 * 建立简单的input box给使用者输入题目答案。
 * 跟资料库里的`answer`栏位对使用者答案是对还是错。
@@ -221,9 +227,10 @@ Please build the back-end for a question-and-answer app (Destkop UI mockup below
 
 | Score | Feature |
 | --- | --- |
-| 40 | Question DB |
+| 90 | Email sending｜
+| 45 | Question DB |
 | 70 | Query DB |
-| 30 | Google OAuth and User DB |
+| 35 | Google OAuth and User DB |
 | 60 | Track User Answer and Accuracy |
 
 [View Exam Rubric]({{ site.baseurl }}/recruit/exam_rubric.html){: .btn#page-btn}
@@ -232,7 +239,9 @@ Please build the back-end for a question-and-answer app (Destkop UI mockup below
 
 Choose any of the following features to implement. There is no required ordering.
 
-### 1. Question DB
+### 1. 
+
+### 2. Question DB
 
 * Populate Firebase DB with [Google Sheet](https://docs.google.com/spreadsheets/d/1EmWraWzyvxt7km7MiPxU6PDTXzy05_jUyvwUqHc5nP0/edit?usp=sharing){:target="_blank"}
 * Store and display `question_text` for each question.
@@ -240,7 +249,7 @@ Choose any of the following features to implement. There is no required ordering
 * Store and display all `hashtags` for each question.
 * Store and use `/problem/<question_id>` in routing URL.
 
-### 2. Query DB
+### 3. Query DB
 
 * Use Firebase Queries to query Question DB using hashtags.
 * Build very simple front-end selection boxes to build filter/search URL.
@@ -250,13 +259,13 @@ Choose any of the following features to implement. There is no required ordering
 
 <img src='https://lh3.googleusercontent.com/zeYaUx3W0Hb8yaiPLHyzTOI_ShGmEIQqTA_Q7b8hyGZ_bfeC8gSK4s6L1okbGhrFPf817zjp-RbRcDZzZ3p51Vv1QxUza9RGTDupaia0jRcepHtTUNAafjEXJBwhzKMnVC_az-nOAw=w370' />
 
-### 3. Google OAuth and User DB
+### 4. Google OAuth and User DB
 
 * Implement Google OAuth and user database in Firebase.
 * Store and display user name and email in a separate simple webpage.
 * Use `/user/<user_id>` in routing URL.
 
-### 4. Track User Answer and Accuracy
+### 5. Track User Answer and Accuracy
 
 * Create simple input box for user to input answer to each question.
 * Use the `answer` column to determine if question answered correctly.

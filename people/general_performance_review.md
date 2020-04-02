@@ -20,7 +20,7 @@ OKRs 是我們這季最關注的計劃。 每季發生的事情都使用 KPIs �
 
 ## 關鍵績效指標 KPI
 
-KPI是用數字客觀衡量每個 function 的有效結果的：銷售，行銷，人員，財務，產品和工程。關鍵績效指標是每月的，對公司整體績效有貢獻。 公司的每個function部門都有關鍵績效指標（KPI）。一個function可能跟踪許多性能指標（PI），但並非全部都是KPI。KPI應該是PI的一小部分，並用於指示要浮出水面的最重要的績效指標。
+KPI是用數字客觀衡量每個 function 的有效結果的：銷售，行銷，人員，財務，產品和工程。關鍵績效指標是每月的，對公司整體績效有貢獻。 公司的每個function部門都有關鍵績效指標（KPI）。一個function可能跟踪許多性能指標（PI），但並非全部都是KPI。KPI應該是PI的一小部分，並用於指示要浮出水面的最重要的績效指標。KPI 除了是工作分配責任上的表現績效 (品質、速度等)，也會包誇工作態度、盡責、專業、與遵守團隊期許，像是準時。
 
 ## 目標與關鍵結果 OKR
 
@@ -69,7 +69,7 @@ OKRs 是我们这季最关注的计划。每季发生的事情都使用 KPIs 关
 
 ## 关键绩效指标 KPI
 
-KPI是用数字客观衡量每个 function 的有效结果的：销售，行销，人员，财务，产品和工程。关键绩效指标是每月的，对公司整体绩效有贡献。公司的每个function部门都有关键绩效指标（KPI）。一个function可能跟踪许多性能指标（PI），但并非全部都是KPI。 KPI应该是PI的一小部分，并用于指示要浮出水面的最重要的绩效指标。
+KPI是用数字客观衡量每个 function 的有效结果的：销售，行销，人员，财务，产品和工程。关键绩效指标是每月的，对公司整体绩效有贡献。公司的每个function部门都有关键绩效指标（KPI）。一个function可能跟踪许多性能指标（PI），但并非全部都是KPI。 KPI应该是PI的一小部分，并用于指示要浮出水面的最重要的绩效指标。KPI 除了是工作分配责任上的表现绩效 (品质、速度等)，也会包夸工作态度、尽责、专业、与遵守团队期许，像是准时。
 
 ## 目标与关键结果 OKR
 
@@ -119,7 +119,7 @@ The OKRs are what initiatives we are focusing on this quarter specifically. Thin
 
 ## KPI
 
-KPIs are objective and numerical measurements of each function's effective result: Sales, Marketing, People, Finance, Product, and Engineering. KPIs are monthly and contribute to the overall company performance. Every part of the company has Key Performance Indicators (KPIs). A function may have many performance indicators (PIs) they track and not all of them will be KPIs. KPIs should be a subset of PIs and used to indicate the most important PIs to be surfaced to leadership.
+KPIs are objective and numerical measurements of each function's effective result: Sales, Marketing, People, Finance, Product, and Engineering. KPIs are monthly and contribute to the overall company performance. Every part of the company has Key Performance Indicators (KPIs). A function may have many performance indicators (PIs) they track and not all of them will be KPIs. KPIs should be a subset of PIs and used to indicate the most important PIs to be surfaced to leadership. In addition to work performance KPIs (quality, speed, etc.), KPIs also include work attitude, professionalism, and compliance with team expectations, such as on time meetings.
 
 ## OKR
 

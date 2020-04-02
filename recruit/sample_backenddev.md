@@ -55,13 +55,14 @@ description: Back-End Sample Exam
 請以下表單選任網頁功能實作，不用照順序。
 
 ### 1. 寄 Email 電子郵件 (必答題)
-* 這題是考後端的必答題。
-* 請開發一個簡單的 send email 功能，讓使用者可以在網頁上填寫一個表格，並發送表格裡面的文字訊息到 hr@avancevl.com
+* 這題是考全、後端的必答題。
+* 請開發一個簡單的 send email message 功能，讓使用者可以在網頁上填寫一個表格，並發送欄位裡面的文字訊息到 hr@avancevl.com
 * 使用 https://nodemailer.com/usage/ 或 https://www.smtpjs.com/
-* 簡單開發一個讓 user 可以填寫訊息的表格或是 popup。
-* 需要 2 個文字欄位：subject 和 body (請參考前端樣本圖片的 topic 和 content 欄位)。
-* 一個發送訊息的按鈕。
-* 前端的 UI 簡單、可以用就可以，不算分，因為是後端的考試。我們測試的標準是 user 寫的  message 是否會成功的寄 email 到 hr@avancevl.com 信箱裡。
+* 簡單開發一個讓 user 可以填寫訊息的表格。
+* 需要 2 個文字欄位：subject 和 body (請參考前端類似的樣本圖片的 topic 和 content 欄位)。
+* 一個簡單的發送訊息按鈕。
+* 前端的 UI 簡單、可以用就可以，不算分，因為是後端的功能。
+* 我們測試的標準是 user 寫的  message 是否會成功的寄 email 到 hr@avancevl.com 信箱裡。
 
 <img src='https://lh3.googleusercontent.com/lPVTMFeT3keoJP2mCmLcWbKyoWVmPnkG8mtiCdUGvKXaAfwdKK0rK-zQzhNm1CMyc6U2oxIgSqqWEk_H_T-yc7SVg_dsnCZrEduiExco_-lPX7UVnZEq-duD5agGLuvGdxwi05O26SOACrC58lWpyAd-qGOrq98H3GJ9Wfzi9fvUuhHDwgEqH0b2C5iq665mQmO15kCeNMJzZAJ07Qa4-TyC4BmdiIbJNXzowQ0Nw_YiPb4AUnLz_lbCPzCD4YNbn0Qls22WwrTRZlO013vztdU91J2qn7AvLQKt2GwXYLwAUPIDkBqnVvp_P5jgMHqQEn9AjK64RQmevaCdjUkYwfO7xwlnCMfPVYpgVSBUkI3wxIuLLLjkIzUtgqDQO62l9i51UfFPvLbQ79ikgJP4khydNnYnMvNQqhYcC8Gw6pTN-lPjA-kerRnKx8DOSXgzvhIqOhiqeWxpr6jwW7fhyh6oWKDgSVTxmvYsDBo3YLvomqtEfStQAoYIkph0Z_Q_Wv9CgQeuR8NbNScVQEWCYm6ZfD9k5ZdJEYyHzROq5kompXXbz7L0TRQUQE9XnmTdQjnlchQtzEtz0qvi0-kuH8Ym0FI5sTWKdt8Ihp3g_UmEVp0Hg5nJ9S1LcihpWqVsqXdqsOhWF4GlHK9GGDZYR88Ouy8J6p89FfM9K_nH_J09OFat5-Zi_cVUqBgfKkY=w1438-h914-no' />
 
@@ -157,7 +158,16 @@ description: Back-End Sample Exam
 请以下表单选任网页功能实作，不用照顺序。
 
 ### 1. 寄 Email 电子邮件 (必答题) 
+* 这题是考全、后端的必答题。
+* 请开发一个简单的 send email message 功能，让使用者可以在网页上填写一个表格，并发送栏位里面的文字讯息到 hr@avancevl.com
+* 使用 https://nodemailer.com/usage/ 或 https://www.smtpjs.com/
+* 简单开发一个让 user 可以填写讯息的表格。
+* 需要 2 个文字栏位：subject 和 body (请参考前端类似的样本图片的 topic 和 content 栏位)。
+* 一个简单的发送讯息按钮。
+* 前端的 UI 简单、可以用就可以，不算分，因为是后端的功能。
+* 我们测试的标准是 user 写的 message 是否会成功的寄 email 到 hr@avancevl.com 信箱里。
 
+<img src='https://lh3.googleusercontent.com/lPVTMFeT3keoJP2mCmLcWbKyoWVmPnkG8mtiCdUGvKXaAfwdKK0rK-zQzhNm1CMyc6U2oxIgSqqWEk_H_T-yc7SVg_dsnCZrEduiExco_-lPX7UVnZEq-duD5agGLuvGdxwi05O26SOACrC58lWpyAd-qGOrq98H3GJ9Wfzi9fvUuhHDwgEqH0b2C5iq665mQmO15kCeNMJzZAJ07Qa4-TyC4BmdiIbJNXzowQ0Nw_YiPb4AUnLz_lbCPzCD4YNbn0Qls22WwrTRZlO013vztdU91J2qn7AvLQKt2GwXYLwAUPIDkBqnVvp_P5jgMHqQEn9AjK64RQmevaCdjUkYwfO7xwlnCMfPVYpgVSBUkI3wxIuLLLjkIzUtgqDQO62l9i51UfFPvLbQ79ikgJP4khydNnYnMvNQqhYcC8Gw6pTN-lPjA-kerRnKx8DOSXgzvhIqOhiqeWxpr6jwW7fhyh6oWKDgSVTxmvYsDBo3YLvomqtEfStQAoYIkph0Z_Q_Wv9CgQeuR8NbNScVQEWCYm6ZfD9k5ZdJEYyHzROq5kompXXbz7L0TRQUQE9XnmTdQjnlchQtzEtz0qvi0-kuH8Ym0FI5sTWKdt8Ihp3g_UmEVp0Hg5nJ9S1LcihpWqVsqXdqsOhWF4GlHK9GGDZYR88Ouy8J6p89FfM9K_nH_J09OFat5-Zi_cVUqBgfKkY=w1438-h914-no' />
 
 ### 2. 题目资料库
 
@@ -250,7 +260,16 @@ Please build the back-end for a question-and-answer app (Destkop UI mockup below
 Choose any of the following features to implement. There is no required ordering.
 
 ### 1. Sending Email (mandatory)
+* This question is required for all full-stack and back-end test takers.
+* Please develop a simple send email message function, so that users can fill out a form on the webpage and send the text message in the text fields to hr@avancevl.com
+* Use https://nodemailer.com/usage/ or https://www.smtpjs.com/
+* Develop a simple form that allows users to fill out some messages.
+* 2 user-input text fields: subject and body (refer to the topic and content fields of a similiar front-end sample image).
+* A simple send message button.
+* The front-end UI is simple. The design does not count, because it is a full-stack/back-end exam; it only has to be functional.
+* Our test-passing criterion is whether the message written by user will be successfully emailed to hr@avancevl.com.
 
+<img src='https://lh3.googleusercontent.com/lPVTMFeT3keoJP2mCmLcWbKyoWVmPnkG8mtiCdUGvKXaAfwdKK0rK-zQzhNm1CMyc6U2oxIgSqqWEk_H_T-yc7SVg_dsnCZrEduiExco_-lPX7UVnZEq-duD5agGLuvGdxwi05O26SOACrC58lWpyAd-qGOrq98H3GJ9Wfzi9fvUuhHDwgEqH0b2C5iq665mQmO15kCeNMJzZAJ07Qa4-TyC4BmdiIbJNXzowQ0Nw_YiPb4AUnLz_lbCPzCD4YNbn0Qls22WwrTRZlO013vztdU91J2qn7AvLQKt2GwXYLwAUPIDkBqnVvp_P5jgMHqQEn9AjK64RQmevaCdjUkYwfO7xwlnCMfPVYpgVSBUkI3wxIuLLLjkIzUtgqDQO62l9i51UfFPvLbQ79ikgJP4khydNnYnMvNQqhYcC8Gw6pTN-lPjA-kerRnKx8DOSXgzvhIqOhiqeWxpr6jwW7fhyh6oWKDgSVTxmvYsDBo3YLvomqtEfStQAoYIkph0Z_Q_Wv9CgQeuR8NbNScVQEWCYm6ZfD9k5ZdJEYyHzROq5kompXXbz7L0TRQUQE9XnmTdQjnlchQtzEtz0qvi0-kuH8Ym0FI5sTWKdt8Ihp3g_UmEVp0Hg5nJ9S1LcihpWqVsqXdqsOhWF4GlHK9GGDZYR88Ouy8J6p89FfM9K_nH_J09OFat5-Zi_cVUqBgfKkY=w1438-h914-no' />
 
 ### 2. Question DB
 

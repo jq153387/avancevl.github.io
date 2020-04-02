@@ -42,7 +42,7 @@ description: Back-End Sample Exam
 
 | 滿分 | 網頁功能 |
 | --- | --- |
-| 90 | 寄 Email 電子郵件 (必答題) ｜
+| 90 | 寄 Email 電子郵件 (必答題) |
 | 45 | 題目資料庫 |
 | 70 | 尋找題目 |
 | 35 | Google OAuth登入及使用者資料庫 |
@@ -145,7 +145,7 @@ description: Back-End Sample Exam
 
 | 满分 | 网页功能 |
 | --- | --- |
-| 90 | 寄 Email 电子邮件 (必答题) ｜
+| 90 | 寄 Email 电子邮件 (必答题) |
 | 45 | 题目资料库 |
 | 70 | 寻找题目 |
 | 35 | Google OAuth登入及使用者资料库 |
@@ -247,7 +247,7 @@ Please build the back-end for a question-and-answer app (Destkop UI mockup below
 
 | Score | Feature |
 | --- | --- |
-| 90 | Sending Email (mandatory)｜
+| 90 | Sending Email (mandatory) |
 | 45 | Question DB |
 | 70 | Query DB |
 | 35 | Google OAuth and User DB |

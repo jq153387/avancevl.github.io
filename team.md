@@ -8,7 +8,7 @@ description: Team
 
 # 關於我們
 
-我們是麻省理工學院工程師與史丹佛電機碩士創辦的台北[精益新創](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A "精益創業定義"){:target="_blank"}公司，專門創造有用的軟體。在紐約、西雅圖、芝加哥、香港、上海，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。團隊辦公室在台北、香港、新加坡的 WeWork。目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行市場實驗，有成長也有盈利。我們重視創造影響力 impact 而不只是生產力 productivity。
+我們是麻省理工學院工程師與史丹佛電機碩士創辦的台北[精益新創](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A "精益創業定義"){:target="_blank"} startup 公司，專門創造有用的軟體。在紐約、西雅圖、芝加哥、香港、上海，擁有投資銀行、科技公司、對沖基金、管理諮詢顧問的大型企業經驗。也在矽谷和亞洲有金融科技創業成功的紀錄。團隊辦公室在台北、香港、新加坡的 WeWork。目前首創台灣第一個與眾不同的孵化 incubuation 團隊，加速 accelerate 內部自己創造的新點子，快速的執行市場實驗，有成長也有盈利。我們重視創造影響力 impact 而不只是生產力 productivity。
 
 <br>
 
@@ -73,7 +73,7 @@ description: Team
 * 策略/ 3年
 * 願景/ 10年
 * 使命/ 30年
-* 大毛茸茸的大膽目標
+* 高難度、大膽目標
 
 <br>
 
@@ -83,13 +83,22 @@ description: Team
 
 ### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary的LinkedIn"){:target="_blank"}**
 
+_Co-founder. Stanford alumnus. Tech genius.
 _創辦人. 史丹佛校友. 技術熱愛者._
 
 <img src='https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400' width="222"/>
 
 ### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan的LinkedIn"){:target="_blank"}**
 
+_Co-founder. MIT alumnus. Entrepreneurship rockstar.
 _創辦人. 麻省理工校友. 新創熱愛者._
+
+### **[Huang](https://www.linkedin.com/in/hsin-yi-huang-416792112/ "Huang的LinkedIn"){:target="_blank"}**
+
+_Product Designer. UI/UX expert.
+_產品設計師. UI/UX 專家._
+
+<img src='https://photos.google.com/share/AF1QipMf6EgYVrNsWmkneRgZOoR1bs2F1LMf-SLAYb2e3K4HD1qR7N85cLNYSKytuGzSbg/photo/AF1QipPozVmVJ7ekE-Yq4142KobO7bdBBUJl_r2DRFf7?key=dDBwYXFJell4dVJBUkl3SlBDZWViTXFRQVh5djZR' width="222"/>
 
 <br>
 
@@ -127,7 +136,7 @@ _創辦人. 麻省理工校友. 新創熱愛者._
 
 # 关于我们
 
-我们是麻省理工学院工程师与史丹佛电机硕士创办的台北[精益新创](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88% 9B%E4%B8%9A "精益创业定义"){:target="_blank"}公司，专门创造有用的软体。在纽约、西雅图、芝加哥、香港、上海，拥有投资银行、科技公司、对冲基金、管理咨询顾问的大型企业经验。也在矽谷和亚洲有金融科技创业成功的纪录。团队办公室在台北、香港、新加坡的 WeWork。目前首创台湾第一个与众不同的孵化 incubuation 团队，加速 accelerate 内部自己创造的新点子，快速的执行市场实验，有成长也有盈利。我们重视创造影响力 impact 而不只是生产力 productivity。
+我们是麻省理工学院工程师与史丹佛电机硕士创办的台北[精益新创](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88% 9B%E4%B8%9A "精益创业定义"){:target="_blank"} startup 公司，专门创造有用的软体。在纽约、西雅图、芝加哥、香港、上海，拥有投资银行、科技公司、对冲基金、管理咨询顾问的大型企业经验。也在矽谷和亚洲有金融科技创业成功的纪录。团队办公室在台北、香港、新加坡的 WeWork。目前首创台湾第一个与众不同的孵化 incubuation 团队，加速 accelerate 内部自己创造的新点子，快速的执行市场实验，有成长也有盈利。我们重视创造影响力 impact 而不只是生产力 productivity。
 
 <br>
 
@@ -192,7 +201,7 @@ _創辦人. 麻省理工校友. 新創熱愛者._
 * 策略/ 3年
 * 愿景/ 10年
 * 使命/ 30年
-* 大毛茸茸的大胆目标
+* 高难度、大胆目标
 
 <br>
 

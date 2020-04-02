@@ -93,12 +93,13 @@ _創辦人. 史丹佛校友. 技術熱愛者._
 _Co-founder. MIT alumnus. Entrepreneurship rockstar.
 _創辦人. 麻省理工校友. 新創熱愛者._
 
-### **[Huang](https://www.linkedin.com/in/hsin-yi-huang-416792112/ "Huang的LinkedIn"){:target="_blank"}**
+### **[Huang]
+{:target="_blank"}**
 
 _Product Designer. UI/UX expert.
 _產品設計師. UI/UX 專家._
 
-<img src='https://photos.google.com/share/AF1QipMf6EgYVrNsWmkneRgZOoR1bs2F1LMf-SLAYb2e3K4HD1qR7N85cLNYSKytuGzSbg/photo/AF1QipPozVmVJ7ekE-Yq4142KobO7bdBBUJl_r2DRFf7?key=dDBwYXFJell4dVJBUkl3SlBDZWViTXFRQVh5djZR' width="222"/>
+<img src='https://lh3.googleusercontent.com/k1f8c24InJkZOyj0DjrVOqPcOMs1C2q_nl7texhzn11thCNIRIFfxiSP_X_xPpC9_E8iyWuhVaRHyR1mJykdUw_XW8B2Ae7i78zVYpTVrGOAABdJI24qzL0YJgeAl3FCbQWu6OMuG5V92AZIJ5eJYKq2T9RTiPJKfvnWfpAMjwMoVBX3Ou65J82NyaB1pFH3h6Xd5bH6PqnZshCtCPCK7AKQRbZD6j6od-i1xWfnGAmTrngOjs9BPbYxkwOKd5InIqc1z66c_KS4X1n3niZAysdGKTLY5zvm2MzA1ALnXdw7DMkZ64hoNlHRPTR_Wk22J2HOttoCqfAEaPZcaVxd1ofirqCEev4UDHIsHUA9iqxUjpHaqwcAk8BMxV9NKOJtC3kh-KgDSOQPmdUBtbUQTzaPfxucA-gJzui-njH-JlrVPJ4mqsa3UYyynQkuOlmdyTvbPs4r_u2sEJZxgxkQ_GAGQ8rKV45rn7nmpF-jNqy-sFMZSJMdx4YTCj-p8edfds0eyRNWGZdoMLk_mWv2OEaDCNUhCscAc2JoNXtlbvHKG8LCqdRBjlhV5XoRBGVAVhMcc-xCv-llJhFe7X_jRbqpbzsuwobixDjvMSt7jhb1L5n9Kt05LawgQweF2UbxrWeZVl9XP7T9MT2c9GvA91QpvzTvivuCkBRktA5ufql_NUVdgqY2MWUxWedoBjMHdAoFeNMNGZeA51-qDfw4ZcuEjSPWfGupzzxXdCJOSUrc-tq8pF9kTZ5_=s657-no' width="222"/>
 
 <br>
 

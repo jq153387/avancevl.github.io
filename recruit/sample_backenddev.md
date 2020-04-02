@@ -63,8 +63,6 @@ description: Back-End Sample Exam
 * 一個發送訊息的按鈕。
 * 前端的 UI 簡單、可以用就可以，不算分，因為是後端的考試。我們測試的標準是 user 寫的  message 是否會成功的寄 email 到 hr@avancevl.com 信箱裡。
 
-<img src='https://photos.app.goo.gl/TutK7UfT8qaNeWLb9' />
-
 <img src='https://lh3.googleusercontent.com/lPVTMFeT3keoJP2mCmLcWbKyoWVmPnkG8mtiCdUGvKXaAfwdKK0rK-zQzhNm1CMyc6U2oxIgSqqWEk_H_T-yc7SVg_dsnCZrEduiExco_-lPX7UVnZEq-duD5agGLuvGdxwi05O26SOACrC58lWpyAd-qGOrq98H3GJ9Wfzi9fvUuhHDwgEqH0b2C5iq665mQmO15kCeNMJzZAJ07Qa4-TyC4BmdiIbJNXzowQ0Nw_YiPb4AUnLz_lbCPzCD4YNbn0Qls22WwrTRZlO013vztdU91J2qn7AvLQKt2GwXYLwAUPIDkBqnVvp_P5jgMHqQEn9AjK64RQmevaCdjUkYwfO7xwlnCMfPVYpgVSBUkI3wxIuLLLjkIzUtgqDQO62l9i51UfFPvLbQ79ikgJP4khydNnYnMvNQqhYcC8Gw6pTN-lPjA-kerRnKx8DOSXgzvhIqOhiqeWxpr6jwW7fhyh6oWKDgSVTxmvYsDBo3YLvomqtEfStQAoYIkph0Z_Q_Wv9CgQeuR8NbNScVQEWCYm6ZfD9k5ZdJEYyHzROq5kompXXbz7L0TRQUQE9XnmTdQjnlchQtzEtz0qvi0-kuH8Ym0FI5sTWKdt8Ihp3g_UmEVp0Hg5nJ9S1LcihpWqVsqXdqsOhWF4GlHK9GGDZYR88Ouy8J6p89FfM9K_nH_J09OFat5-Zi_cVUqBgfKkY=w1438-h914-no' />
 
 ### 2. 題目資料庫

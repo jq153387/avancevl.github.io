@@ -59,7 +59,8 @@ description: Back-End Sample Exam
 * 請開發一個簡單的 send email 功能，讓使用者可以在網頁上填寫一個表格，並發送表格裡面的文字訊息到 hr@avancevl.com
 * 使用 https://nodemailer.com/usage/ 或 https://www.smtpjs.com/
 * 簡單開發一個讓 user 可以填寫訊息的表格或是 popup。
-* 需要 2 個欄位：subject 和 body (請參考前端圖片)。
+* 需要 2 個文字欄位：subject 和 body (請參考前端樣本圖片的 topic 和 content 欄位)。
+* 一個發送訊息的按鈕。
 * 前端的 UI 簡單、可以用就可以，不算分，因為是後端的考試。我們測試的標準是 user 寫的  message 是否會成功的寄 email 到 hr@avancevl.com 信箱裡。
 
 <img src='https://photos.app.goo.gl/TutK7UfT8qaNeWLb9' />

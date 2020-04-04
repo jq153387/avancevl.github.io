@@ -31,3 +31,5 @@ var query = citiesRef.where("capital", "==", true);
 * [Perform simple and compound queries in Cloud Firestore](https://firebase.google.com/docs/firestore/query-data/queries){:target="_blank"}
 * [Query limitations](https://firebase.google.com/docs/firestore/query-data/queries#query_limitations){:target="_blank"}
 * [SO: Can I filter Multiple Fields in a Firestore search?](https://stackoverflow.com/questions/52277456/can-i-filter-multiple-fields-in-a-firestore-search){:target="_blank"}
+* [Order and limit data with Cloud Firestore](https://firebase.google.com/docs/firestore/query-data/order-limit-data){:target="_blank"}
+* [Paginate data with query custors](https://firebase.google.com/docs/firestore/query-data/query-cursors){:target="_blank"}

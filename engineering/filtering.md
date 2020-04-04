@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 過濾資料
-description: Filtering
+description: Filtering and Querying
 ---
 
 <a name="zh-tw"></a>

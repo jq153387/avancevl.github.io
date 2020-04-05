@@ -12,8 +12,9 @@ description: Front-End Testing
 
 - Is your front-end UI element pixel perfect to designer's mockup.
 - Did you check what happens when you rotate your phone's orientation to horizontal?
-- Did you check mobile iOS and Android?
-- Did you check desktop Chrome, Safari, Firebase?
+- Did you check mobile iOS (Safari, Chrome) and Android (Chrome)?
+- Did you check desktop Chrome, Safari, Firefox?
+- 
 
 ## Production Checklist
 

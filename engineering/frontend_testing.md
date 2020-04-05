@@ -11,6 +11,7 @@ description: Front-End Testing
 ## Checklist
 
 [x] Is your front-end pixel perfect to designer's mockup.
+[x] Did you check what happens when you rotate your phone's orientation to horizontal?
 [x] Did you check mobile iOS and Android?
 [x] Did you check desktop Chrome, Safari, Firebase?
 

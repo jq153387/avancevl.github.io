@@ -10,10 +10,12 @@ description: Front-End Testing
 
 ## Simple Checklist
 
+Before you change your front-end issues to `Ready to Review`, please check the following:
+
 - Is your front-end UI element pixel perfect to designer's mockup.
-- Did you check what happens when you rotate your phone's orientation to horizontal?
-- Did you check mobile iOS and Android?
-- Did you check desktop Chrome, Safari, Firebase?
+- What happens to your UI element when you rotate your phone's orientation to horizontal?
+- Did you check your UI element mobile iOS and Android?
+- Did you check your UI element in desktop Chrome, Safari, Firefox?
 
 ## Production Checklist
 

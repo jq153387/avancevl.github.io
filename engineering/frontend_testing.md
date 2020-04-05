@@ -10,9 +10,9 @@ description: Front-End Testing
 
 ## Checklist
 
-* Is your front-end pixel perfect to designer's mockup.
-* Did you check mobile iOS and Android?
-* Did you check desktop Chrome, Safari, Firebase?
+[x] Is your front-end pixel perfect to designer's mockup.
+[x] Did you check mobile iOS and Android?
+[x] Did you check desktop Chrome, Safari, Firebase?
 
 ## Online Resources
 

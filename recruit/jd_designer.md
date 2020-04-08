@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 前端軟體工程師
-description: Front End Developer
+title: UI/UX 網頁設計師 
+description: Web/App Designer
 ---
 
 <a name="zh-tw"></a>

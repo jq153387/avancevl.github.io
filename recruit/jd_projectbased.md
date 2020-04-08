@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 全端軟體工程師 (特案兼職)
+title: 全端軟體工程師 (特案)
 description: Project-Based/Part-Time Full Stack Web Developer
 ---
 
 <a name="zh-tw"></a>
 
-| **類別** | 特案兼職 |
+| **類別** | 特案、兼職 |
 | **地點** | 遠端工作制度，台北 |
 | **職缺** | 資深 |
 
@@ -17,7 +17,7 @@ description: Project-Based/Part-Time Full Stack Web Developer
 ## 工作資料
 - [**費用**]({{ site.baseurl }}{{ site.link_jd_projectfee}}): 資深全端網頁工程師：個案10～100萬。
 - [**面試過程**]({{ site.baseurl }}{{ site.link_jd_interview_process }}): 3 小時以內。
-- [**期望**]({{ site.baseurl }}{{ site.link_jd_expectations }}): 誠信。勤奮。有團隊精神。
+- [**期望**]({{ site.baseurl }}{{ site.link_jd_expectations }}): 誠信、勤奮、有團隊精神。
 
 <br>
 

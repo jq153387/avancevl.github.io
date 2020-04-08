@@ -103,9 +103,13 @@ toc:
             url: /recruit/jd_frontenddev.html
           - page: "後端軟體工程師 Back End Developer"
             url: /recruit/jd_backenddev.html
-          - page: 全端軟體工程師(特案兼職) Full Stack (Project-Based/Part-Time)
+          - page: 全端軟體工程師(特案) Full Stack (Project-Based)
             url: /recruit/jd_projectbased.html
-      - page: ":hourglass_flowing_sand: 面試過程 Interview Process"
+          - page: UI/UX Web/App 網頁設計師 Designer
+            url: /recruit/jd_designer.html
+          - page: SEO Specialist (Digital Marketing) 
+            url: /recruit/jd_seo.html
+      - page: ":hourglass_flowing_sand: 工程師面試過程 Developer Interview Process"
         url: /recruit/interview_process.html
         subsubfolderitems:
         - page: "申請職缺問卷（5分鐘）Job Application Survey"

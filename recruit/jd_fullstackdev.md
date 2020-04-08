@@ -17,9 +17,9 @@ description: Full Stack Web Developer
 ## 工作資料
 - [**薪資**]({{ site.baseurl }}{{ site.link_jd_salary}}): 資深全端網頁工程師年薪108～180萬。
 - [**團隊文化**]({{ site.baseurl }}{{ site.link_jd_culture }}): 矽谷新創文化。
-- [**員工福利**]({{ site.baseurl }}{{ site.link_jd_benefits }}): 遠端，彈性上下班。
+- [**員工福利**]({{ site.baseurl }}{{ site.link_jd_benefits }}): 遠端、彈性上下班。
 - [**面試過程**]({{ site.baseurl }}{{ site.link_jd_interview_process }}): 3 小時以內。
-- [**期望**]({{ site.baseurl }}{{ site.link_jd_expectations }}): 誠信。勤奮。有團隊精神。
+- [**期望**]({{ site.baseurl }}{{ site.link_jd_expectations }}): 誠信、勤奮、有團隊精神。
 
 <br>
 

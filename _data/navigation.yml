@@ -2,9 +2,9 @@ toc:
   - title: 介紹 Introduction
     url: /index.html
     subfolderitems:
-      - page: ":handshake: 團隊 Team" 
+      - page: ":couple: 團隊 Team" 
         url: /team.html
-      - page: ":iphone: 產品 Product"
+      - page: ":building_construction: 產品 Product"
         url: /product.html
       - page: ":new: 最新公告 Announcements"
         url: /announcements.html
@@ -94,14 +94,14 @@ toc:
     subfolderitems:
       - page: ":bar_chart: 申請數據 Application Data"
         url: /recruit/application_data.html
-      - page: ":boom: 職缺 Open Positions"
+      - page: ":handshake: 職缺 Open Positions"
         url: /recruit/open_positions.html
         subsubfolderitems:
-          - page: ":lion: 全端軟體工程師 Full Stack Developer"
+          - page: "全端軟體工程師 Full Stack Developer"
             url: /recruit/jd_fullstackdev.html
-          - page: ":dog: 前端軟體工程師 Front End Developer"
+          - page: "前端軟體工程師 Front End Developer"
             url: /recruit/jd_frontenddev.html
-          - page: ":octopus: 後端軟體工程師 Back End Developer"
+          - page: "後端軟體工程師 Back End Developer"
             url: /recruit/jd_backenddev.html
           - page: 全端軟體工程師(特案兼職) Full Stack (Project-Based/Part-Time)
             url: /recruit/jd_projectbased.html
@@ -110,18 +110,18 @@ toc:
         subsubfolderitems:
         - page: "申請職缺問卷（5分鐘）Job Application Survey"
           url: /recruit/survey.html
-        - page: ":100: 選項A：加速申請 - 線上測驗（2.5小時）Accelerated Take-Home Exam"
+        - page: "選項A：加速申請 - 線上測驗（2.5小時）Accelerated Take-Home Exam"
           url: /recruit/takehome.html
           subsubsubfolderitems:
             - page: "線上測驗指南 Web Developer Exam"
               url: /recruit/webdev.html
             - page: "測驗分數評估 Exam Rubric"
               url: /recruit/exam_rubric.html
-            - page: ":lion: 全端測驗樣本 Full Stack Sample Exam"
+            - page: "全端測驗樣本 Full Stack Sample Exam"
               url: /recruit/sample_fullstackdev.html
-            - page: ":dog: 前端測驗樣本 Front-End Sample Exam"
+            - page: "前端測驗樣本 Front-End Sample Exam"
               url: /recruit/sample_frontenddev.html
-            - page: ":octopus: 後端測驗樣本 Back-End Sample Exam"
+            - page: "後端測驗樣本 Back-End Sample Exam"
               url: /recruit/sample_backenddev.html
         - page: "選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteboard Interview"
           url: /recruit/whiteboard.html
@@ -140,7 +140,7 @@ toc:
   - title: 工程開發 Engineering
     url: /engineering/engineering.html
     subfolderitems:
-      - page: ":mag: 工程師入職流程 Engineer Onboarding"
+      - page: ":hammer: 工程師入職流程 Engineer Onboarding"
         url: /engineering/onboarding.html
         subsubfolderitems:
           - page: "破壞性更改 Breaking Changes"

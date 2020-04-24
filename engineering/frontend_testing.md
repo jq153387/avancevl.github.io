@@ -21,7 +21,7 @@ description: Front-End Testing
 
 ### Self-testing Steps
 
-1. Copy/paste screenshots to Figma (**PerfectScore Front-End Testing**)
+1. Copy/paste screenshots to Figma (**<Product Name> Front-End Testing**)
 1. Place screenshots side-by-side.
 1. Use this comparison to check exact pixel-perfect.
 1. Fix any differences.

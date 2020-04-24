@@ -8,21 +8,24 @@ description: Front-End Testing
 
 <br>
 
-## Simple Checklist
+## Required SOP
 
-Before you change your front-end issues to `Ready to Review`, please check the following:
+**Before you mark your GitHub issue `Ready to Review`...**
 
-- Is your front-end UI element pixel perfect to designer's mockup?
-- What happens to your UI element when you rotate your phone's orientation to horizontal?
-- Did you check your UI element mobile iOS and Android?
-- Did you check your UI element in desktop Chrome, Safari, Firefox?
-- Is your deliverable RWD?
-- Did you check the page and click/press through this function issue as a user?
-- Is there a next-page, a popup, or result transition that you need to check?
-- Did you test for bugs?
+### For each feature, take 4 screenshots
 
-## Production Checklist
+1. Your mobile app
+1. Designer's mobile mockup (Figma)
+1. Your desktop app
+1. Designer's desktop mockup (Figma)
 
-* [The Why & How to Create a Front-End Website Testing Plan](https://www.lambdatest.com/blog/the-why-how-to-create-a-front-end-website-testing-plan/){:target="_blank"}
-* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist){:target="_blank"}
-* [The Front-End Checklist](https://frontendchecklist.io/){:target="_blank"}
+### Self-testing Steps
+
+1. Copy/paste screenshots to Figma (PerfectScore Front-End Testing)
+1. Place screenshots side-by-side.
+1. Use this comparison to check exact pixel-perfect.
+1. Fix any differences.
+1. Copy/paste all 4 final fixed mockups to Figma.
+1. Mark GitHub issue as `Ready to Review` and notify `#1-eng` channel.
+1. Fix Figma/GitHub comments until manager marks "Ready to Merge".
+1. Merge to `develop` branch then deploy to both `demodevelop` and your own `demo` Heroku deployment.

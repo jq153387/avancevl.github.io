@@ -19,7 +19,7 @@ description: Front-End Testing
 1. Your desktop app
 1. Designer's desktop mockup (Figma)
 
-### Self-testing Steps
+### Self-Testing Steps
 
 1. Copy/paste screenshots to Figma (**<Product Name> Front-End Testing**)
 1. Place screenshots side-by-side.

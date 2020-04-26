@@ -19,3 +19,28 @@ link_sample_fullstackdev: "/recruit/sample_fullstackdev.html"
 link_engineering: "/engineering/engineering.html"
 user_g: G
 user_d: D
+exclude:
+    - _main/
+    - ie8n.py
+    - Gemfile
+    - Gemfile.lock
+#https://github.com/letrastudio/jekyll-i18n/blob/master/_config.yml
+
+locales:
+    default:
+        baseurl: ""
+        name: English
+        lang: en-US
+    pt:
+        baseurl: /pt
+        name: Português
+        lang: pt-PT
+    mo:
+        baseurl: /mo
+        name: 繁體中文
+        lang: zh-MO
+    ae:
+        baseurl: /ae
+        name: عربى
+        lang: ar-AE
+        direction: rtl

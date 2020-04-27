@@ -24,23 +24,41 @@ exclude:
     - ie8n.py
     - Gemfile
     - Gemfile.lock
+    - README.md
 #https://github.com/letrastudio/jekyll-i18n/blob/master/_config.yml
 
 locales:
     default:
         baseurl: ""
+        name: 繁體中文
+        lang: zh-tw
+    cn:
+        baseurl: /cn
+        name: 简体中文
+        lang: zh-cn
+    en:
+        baseurl: "/en"
         name: English
         lang: en-US
-    pt:
-        baseurl: /pt
-        name: Português
-        lang: pt-PT
-    mo:
-        baseurl: /mo
-        name: 繁體中文
-        lang: zh-MO
-    ae:
-        baseurl: /ae
-        name: عربى
-        lang: ar-AE
-        direction: rtl
+collections:
+    pages_tw:
+        output: true
+        permalink: /:path
+    pages_cn:
+        output: true
+        permalink: /cn/:path
+    pages_en:
+        output: true
+        permalink: /en/:path
+defaults:
+    # set page.collection_basename to match collections
+    - scope:
+          type: pages
+      values:
+          layout: page
+          collection_basename: pages
+    - scope:
+          path: "_pages*/"
+      values:
+          layout: page
+          collection_basename: pages

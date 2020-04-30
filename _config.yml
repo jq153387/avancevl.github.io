@@ -30,11 +30,11 @@ exclude:
 locales:
     default:
         baseurl: "/zh-tw"
-        name: 繁體中文
+        name: 繁體
         lang: zh-tw
     zh-cn:
         baseurl: /zh-cn
-        name: 简体中文
+        name: 简体
         lang: zh-cn
     en:
         baseurl: "/en"

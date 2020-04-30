@@ -1,148 +1,220 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+    <head>
 
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
+        {% if site.google_analytics %}
+            <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+            <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
       </script>
-    {% endif %}
-    <meta charset="UTF-8">
+        {% endif %}
+        <meta charset="UTF-8">
 
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="shortcut icon" href="https://static.wixstatic.com/media/877134_2808539891304c078530373769485c0d%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/877134_2808539891304c078530373769485c0d%7Emv2.png" type="image/png">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  </head>
+        {% seo %}
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta content="#157878" name="theme-color">
+        <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+        <link href="https://static.wixstatic.com/media/877134_2808539891304c078530373769485c0d%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/877134_2808539891304c078530373769485c0d%7Emv2.png" rel="shortcut icon" type="image/png">
+        <!-- Compiled and minified CSS -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
 
-  <body>
+        <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.description }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      
-      <a href="{{ site.baseurl }}/recruit/open_positions.html" class="btn" id="header-btn">{{ site.splash_btn_text }}</a>
-    </header>
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    </head>
 
-    <main id="content" class="main-content" role="main">
+    <body>
 
-      {% if site.data.navigation.toc[0] %}
-          {% for item in site.data.navigation.toc %}
-              {% if page.url == item.url %}
-                <a href="{{ site.baseurl }}{{ item.url }}" class="active">{{ item.title }}</a>
-              {% endif %}
-              {% if item.subfolderitems[0] %}
-                  {% for entry in item.subfolderitems %}
-                      {% if page.url == entry.url %}
-                        <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }} > </a>
-                        <a href="{{ site.baseurl }}{{ entry.url }}" class="active">{{ entry.page }}</a>
-                      {% endif %}
-                        {% if entry.subsubfolderitems[0] %}
-                          {% for subentry in entry.subsubfolderitems %}
-                              {% if page.url == subentry.url %}
-                                <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }} > </a>
-                                <a href="{{ site.baseurl }}{{ entry.url }}" class="nav">{{ entry.page }} > </a>
-                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="active">{{ subentry.page }}</a>
-                              {% endif %}
-                              {% if subentry.subsubsubfolderitems[0] %}
-                                {% for subsubentry in subentry.subsubsubfolderitems %}
-                                    {% if page.url == subsubentry.url %}
-                                      <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }} > </a>
-                                      <a href="{{ site.baseurl }}{{ entry.url }}" class="nav">{{ entry.page }} > </a>
-                                      <a href="{{ site.baseurl }}{{ subentry.url }}" class="nav">{{ subentry.page }} > </a>
-                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active">{{ subsubentry.page }}</a>
+        <header class="page-header" role="banner">
+            <h1 class="project-name">{{ page.title | default: site.title | default: site.description }}</h1>
+            <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
+            <a href="{{ site.baseurl }}/recruit/open_positions.html" class="btn" id="header-btn">{{ site.splash_btn_text }}</a>
+        </header>
+
+        <main class="main-content" id="content" role="main">
+
+            {% if site.data.navigation.toc[0] %}
+                {% for item in site.data.navigation.toc %}
+                    {% if page.url == item.url %}
+                        <a href="{{ site.baseurl }}{{ item.url }}" class="active">{{ item.title }}</a>
+                    {% endif %}
+                    {% if item.subfolderitems[0] %}
+                        {% for entry in item.subfolderitems %}
+                            {% if page.url == entry.url %}
+                                <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }}
+                                    >
+                                </a>
+                                <a href="{{ site.baseurl }}{{ entry.url }}" class="active">{{ entry.page }}</a>
+                            {% endif %}
+                            {% if entry.subsubfolderitems[0] %}
+                                {% for subentry in entry.subsubfolderitems %}
+                                    {% if page.url == subentry.url %}
+                                        <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }}
+                                            >
+                                        </a>
+                                        <a href="{{ site.baseurl }}{{ entry.url }}" class="nav">{{ entry.page }}
+                                            >
+                                        </a>
+                                        <a href="{{ site.baseurl }}{{ subentry.url }}" class="active">{{ subentry.page }}</a>
+                                    {% endif %}
+                                    {% if subentry.subsubsubfolderitems[0] %}
+                                        {% for subsubentry in subentry.subsubsubfolderitems %}
+                                            {% if page.url == subsubentry.url %}
+                                                <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }}
+                                                    >
+                                                </a>
+                                                <a href="{{ site.baseurl }}{{ entry.url }}" class="nav">{{ entry.page }}
+                                                    >
+                                                </a>
+                                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="nav">{{ subentry.page }}
+                                                    >
+                                                </a>
+                                                <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active">{{ subsubentry.page }}</a>
+                                            {% endif %}
+                                        {% endfor %}
                                     {% endif %}
                                 {% endfor %}
-                              {% endif %}
-                          {% endfor %}
-                        {% endif %}
-                  {% endfor %}
-              {% endif %}
-            {% endfor %}
-        {% endif %}
-      <br>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+            <br>
 
-      <p><code class="language-plaintext highlighter-rouge"><a href="#zh-tw" class="lang">繁體</a></code> | <code class="language-plaintext highlighter-rouge"><a href="#zh-cn" class="lang">简体</a></code> | <code class="language-plaintext highlighter-rouge"><a href="#en" class="lang">English</a></code></p>
+            <p>
 
-      <br>
-      
-      {{ content }}
+                <!-- {% for item in site.locales %}
+                    <code class="language-plaintext highlighter-rouge">
+                        <a class="lang" href="/{{ site.locales.item.baseurl }}">{{ item.name }}</a>
+                    </code>
+                {% endfor %} -->
+                                                
+                                                                 <!-- Dropdown Trigger -->
+                <a class="dropdown-trigger btn" data-target="dropdown1" href="#">Drop Me!</a>
 
-      <nav class="main-nav">
-        <br><br>
-        <hr />
-        <b>AVL 網頁指南</b>
-        <br><br>
-        {% if site.data.navigation.toc[0] %}
-          {% for item in site.data.navigation.toc %}
-            <b>
-              {% if page.url == item.url %}
-                <a href="{{ site.baseurl }}{{ item.url }}" class="active">{{ item.title }}</a>
-              {% else %}
-                <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }}</a>
-              {% endif %}
-            </b><br>
-              {% if item.subfolderitems[0] %}
-                <ul>
-                  {% for entry in item.subfolderitems %}
-                      <li>
-                      {% if page.url == entry.url %}
-                        <a href="{{ site.baseurl }}{{ entry.url }}" class="active">{{ entry.page }}</a>
-                      {% else %}
-                        <a href="{{ site.baseurl }}{{ entry.url }}" class="nav">{{ entry.page }}</a>
-                      {% endif %}
-                        {% if entry.subsubfolderitems[0] %}
-                          <ul>
-                          {% for subentry in entry.subsubfolderitems %}
-                              <li>
-                              {% if page.url == subentry.url %}
-                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="active">{{ subentry.page }}</a>
-                              {% else %}
-                                <a href="{{ site.baseurl }}{{ subentry.url }}" class="nav">{{ subentry.page }}</a>
-                              {% endif %}
-                              </li>
-                              {% if subentry.subsubsubfolderitems[0] %}
-                                <ul>
-                                {% for subsubentry in subentry.subsubsubfolderitems %}
+                <!-- Dropdown Structure -->
+                <ul class="dropdown-content" id="dropdown1">
+                    {% for locale in site.locales %}
+                        {% assign label = locale[0] %}
+                        {% assign locale_object = locale[1] %}
+                        <li lang="{{ locale_object.lang }}" class="language-plaintext highlighter-rouge">
+                            {% if label == page.locale %}
+                                <a href="{{ page.url | prepend: site.baseurl }}" class="lang" aria-current="true">{{ locale_object.name }}</a>
+                            {% else %}
+                                {% assign localized_page = localized_pages | where: "locale", label | first %}
+                                {% if localized_page %}
+                                    <a href="{{ localized_page.url | prepend: site.baseurl }}" class="lang" hreflang="{{ locale_object.lang }}">{{ locale_object.name }}</a>
+                                {% else %}
+                                    <a href="{{ locale_object.baseurl | prepend: site.baseurl }}/" class="lang" hreflang="{{ locale_object.lang }}">{{ locale_object.name }}</a>
+                                {% endif %}
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            </p>
+
+            <br>
+
+            {{ content }}
+
+            <nav class="main-nav">
+                <br><br>
+                <hr/>
+                <b>AVL 網頁指南</b>
+                <br><br>
+                {% if site.data.navigation.toc[0] %}
+                    {% for item in site.data.navigation.toc %}
+                        <b>
+                            {% if page.url == item.url %}
+                                <a href="{{ site.baseurl }}{{ item.url }}" class="active">{{ item.title }}</a>
+                            {% else %}
+                                <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }}</a>
+                            {% endif %}
+                        </b><br>
+                        {% if item.subfolderitems[0] %}
+                            <ul>
+                                {% for entry in item.subfolderitems %}
                                     <li>
-                                    {% if page.url == subsubentry.url %}
-                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active">{{ subsubentry.page }}</a>
-                                    {% else %}
-                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="nav">{{ subsubentry.page }}</a>
-                                    {% endif %}
+                                        {% if page.url == entry.url %}
+                                            <a href="{{ site.baseurl }}{{ entry.url }}" class="active">{{ entry.page }}</a>
+                                        {% else %}
+                                            <a href="{{ site.baseurl }}{{ entry.url }}" class="nav">{{ entry.page }}</a>
+                                        {% endif %}
+                                        {% if entry.subsubfolderitems[0] %}
+                                            <ul>
+                                                {% for subentry in entry.subsubfolderitems %}
+                                                    <li>
+                                                        {% if page.url == subentry.url %}
+                                                            <a href="{{ site.baseurl }}{{ subentry.url }}" class="active">{{ subentry.page }}</a>
+                                                        {% else %}
+                                                            <a href="{{ site.baseurl }}{{ subentry.url }}" class="nav">{{ subentry.page }}</a>
+                                                        {% endif %}
+                                                    </li>
+                                                    {% if subentry.subsubsubfolderitems[0] %}
+                                                        <ul>
+                                                            {% for subsubentry in subentry.subsubsubfolderitems %}
+                                                                <li>
+                                                                    {% if page.url == subsubentry.url %}
+                                                                        <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active">{{ subsubentry.page }}</a>
+                                                                    {% else %}
+                                                                        <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="nav">{{ subsubentry.page }}</a>
+                                                                    {% endif %}
+                                                                </li>
+                                                            {% endfor %}
+                                                        </ul>
+                                                    {% endif %}
+                                                {% endfor %}
+                                            </ul>
+                                        {% endif %}
                                     </li>
                                 {% endfor %}
-                                </ul>
-                              {% endif %}
-                          {% endfor %}
-                          </ul>
+                            </ul>
                         {% endif %}
-                      </li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            {% endfor %}
-        {% endif %}
-        <br>
-        <br>
-      </nav>
+                    {% endfor %}
+                {% endif %}
+                <br>
+                <br>
+            </nav>
 
-      <footer class="site-footer">
-        <span class="site-footer-owner"><b>AVL</b></span>
-        <span class="site-footer-owner">全遠端孵化新創 | All Remote Startup Incubator<a style="text-decoration: none"></a></span>
-        <span class="site-footer-owner">追蹤我們 Follow Us | <a href="https://www.facebook.com/Avance-Venture-Lab-108024397337673" style="text-decoration: none" target="_blank">Facebook</a> | <a href="https://www.instagram.com/avanceventurelab" style="text-decoration: none" target="_blank">Instagram</a> | <a href="https://www.linkedin.com/company/14631105" style="text-decoration: none" target="_blank">LinkedIn</a> | <a href="https://github.com/avancevl" style="text-decoration: none" target="_blank">GitHub</a></span>
-        <span class="site-footer-owner"><a href="mailto:hr@avancevl.com" style="text-decoration: none">聯絡我們 Contact Us</a></span>
-        <br>
-        <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
-    {% include analytics.html %}
-  </body>
+            <footer class="site-footer">
+                <span class="site-footer-owner">
+                    <b>AVL</b>
+                </span>
+                <span class="site-footer-owner">全遠端孵化新創 | All Remote Startup Incubator<a style="text-decoration: none"></a>
+                </span>
+                <span class="site-footer-owner">追蹤我們 Follow Us |
+                    <a href="https://www.facebook.com/Avance-Venture-Lab-108024397337673" style="text-decoration: none" target="_blank">Facebook</a>
+                    |
+                    <a href="https://www.instagram.com/avanceventurelab" style="text-decoration: none" target="_blank">Instagram</a>
+                    |
+                    <a href="https://www.linkedin.com/company/14631105" style="text-decoration: none" target="_blank">LinkedIn</a>
+                    |
+                    <a href="https://github.com/avancevl" style="text-decoration: none" target="_blank">GitHub</a>
+                </span>
+                <span class="site-footer-owner">
+                    <a href="mailto:hr@avancevl.com" style="text-decoration: none">聯絡我們 Contact Us</a>
+                </span>
+                <br>
+                <span class="site-footer-owner">
+                    <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
+                    is maintained by
+                    <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+                <span class="site-footer-credits">This page was generated by
+                    <a href="https://pages.github.com">GitHub Pages</a>.</span>
+            </footer>
+        </main>
+        {% include analytics.html %}
+        <script>
+          //select langauge
+            document.addEventListener('DOMContentLoaded', function() {
+              var elems = document.querySelectorAll('.dropdown-trigger');
+              var instances = M.Dropdown.init(elems);
+            });
+        </script>
+    </body>
 </html>

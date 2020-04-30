@@ -10,6 +10,9 @@ yapf = "*"
 [packages]
 requests = "*"
 beautifulsoup4 = "*"
+pyyaml = "*"
+python-frontmatter = "*"
+opencc-python-reimplemented = "*"
 
 [requires]
 python_version = "3.6"

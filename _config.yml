@@ -41,12 +41,6 @@ locales:
         name: English
         lang: en
 collections:
-    pages_zh-tw:
+    pages:
         output: true
-        permalink: /zh-tw/:path
-    pages_zh-cn:
-        output: true
-        permalink: /zh-cn/:path
-    pages_en:
-        output: true
-        permalink: /en/:path
+        permalink: /:path

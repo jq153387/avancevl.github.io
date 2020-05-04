@@ -40,12 +40,25 @@ def rfileDate(filepath, setlang, tag, attrname):
         for name in setlang:
             if lang.get(attrname) == name:
                 langname.append(name)
+    lang_content = {}
+    for value in langname:
+        now_lag_index = langname.index(value)
+        finds = soup.find(tag, {attrname: value}).prettify()
+        now_lang_index = soup.prettify().find(finds) + len(finds)
+        if now_lag_index + 1 < len(langname):
+            next_lang = langname[now_lag_index + 1]
+            next_lang_tag = soup.find(tag, {attrname: next_lang}).prettify()
+            next_lang_index = soup.prettify().find(next_lang_tag)
+            lang_content[value] = soup.prettify(
+            )[now_lang_index:next_lang_index]
+        else:
+            lang_content[value] = soup.prettify()[now_lang_index:-1]
 
-    # print(langname)
+    # print(lang_content)
+
     article_lang = {}
     # print(document_data)
     for value in langname:
-        atag = soup.find(tag, {attrname: value})
         article = []
 
         #print(document_data)
@@ -71,6 +84,8 @@ def rfileDate(filepath, setlang, tag, attrname):
         story = '\n'.join(lang_metadata)
         # print(data)
         article.append(story)
+        article.append(lang_content[value])
+        article_lang[value] = article
         ##第一的元素的之後的文字
 
         # print(soup.prettify().index('<a name="zh-tw"></a>'))
@@ -78,14 +93,14 @@ def rfileDate(filepath, setlang, tag, attrname):
         #     r'^(<a name="zh-tw"></a>)(.*)(<a name="zh-cn"></a>)$',
         #     soup.prettify())
         #print(soup.prettify())
-        match = re.findall(
-            r"(<a name=\"zh-tw\">[\s\S]</a>)([\s\S]+?)(<a name=\"zh-cn\">[\s\S]</a>)",
-            soup.prettify())
+
+        # print(soup.prettify()[1:finds2])
+        # regex = '(<a name=\"zh-tw\">[\s\S]</a>)([\s\S]+?)(<a name=\"zh-cn\">[\s\S]</a>)'
+        # match = re.findall(r"", soup.prettify())
 
         #print(ymd)
-        print(match[0][1])
+        # print(match[0][1])
         print("<======strip==========>")
-        article_lang[value] = soup.prettify()
     #     article.append(atag.next_sibling.strip() + "\n\n")
     #     atag_next_siblings = atag.find_next_siblings()
     #     print(atag_next_siblings)
@@ -122,7 +137,7 @@ def rfileDate(filepath, setlang, tag, attrname):
 #test
 filepath = "./_main/index.md"
 article_lang = rfileDate(filepath, setlang, tag, attrname)
-# print(article_lang)
+print(article_lang)
 print("============================================================>")
 
 

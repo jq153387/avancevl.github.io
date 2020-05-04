@@ -6,6 +6,8 @@ description: Team
 lang-ref: welcome-to-my-web
 ---
 
+
+
 # About Us
 
 We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, and Shanghai before building startups in Silicon Valley. We are now based in Hong Kong, Singapore, and Taipei. We create, build, and implement experiments quickly for profitable ideas. We make useful software. We value creating impact over being productive. 
@@ -71,24 +73,25 @@ We run our team according to the following rhythm:
 * Vision / 10 years
 * Mission / 30 years
 * Big Hairy Audacious Goal (BHAG)
+<!-- Our BHAG is to become the most popular X for Y in Z industry. For this to happen, we need to be best are making A much more B. -->
 
-<br/>
+<br>
 
 ## Founders
 
-<img src="https://lh3.googleusercontent.com/ZVYB3JbfI5u9VbujgpSpCpaspCzCXLaiqb4DcniQIdZDPoKqwEPdhhv3biEIccwTs0ac-SkW5iBTtS-NpPZx8K-WAAtF6zelbxQqHxmYsruIZqMq2XuA79jWpGFJ0r0bM-32PqQ4QPM=w2400" width="222"/>
+<img src='https://lh3.googleusercontent.com/ZVYB3JbfI5u9VbujgpSpCpaspCzCXLaiqb4DcniQIdZDPoKqwEPdhhv3biEIccwTs0ac-SkW5iBTtS-NpPZx8K-WAAtF6zelbxQqHxmYsruIZqMq2XuA79jWpGFJ0r0bM-32PqQ4QPM=w2400' width="222"/>
 
 ### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary's LinkedIn"){:target="_blank"}**
 
 _Co-Founder. Stanford-grad. Tech expert._
 
-<img src="https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400" width="222"/>
+<img src='https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400' width="222"/>
 
 ### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan's LinkedIn"){:target="_blank"}**
 
 _Co-Founder. MIT-grad. Startup enthusiast._
 
-<br/>
+<br>
 
 ## Our Advisors & Investors
 
@@ -110,6 +113,6 @@ Consultants we have worked with or are currently working with, formally and info
 * Transcend
 * Tencent
 
-<br/>
+<br>
 
-[Join us]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
+[Join us]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn

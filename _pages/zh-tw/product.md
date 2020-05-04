@@ -6,6 +6,8 @@ description: Product
 lang-ref: welcome-to-my-web
 ---
 
+
+
 ## 商品
 
 創造**有市場需求的非凡產品**是我們團隊的最終目的。我們努力不斷創造出客戶喜愛與珍重的商品和體驗。我們的團隊有多好，我們的商品就能有多好。所以我們重視專業人才的培養，重視開源文化。我們責任制，有透明的分享制度、透明的薪水、性別平等，對職場新人友善，重視學習新的技術，抱持開放的樂觀態度。我們支持職涯發展以及技術精進，不只是一份上下班的工作。有最佳的環境會、才會發展出最佳的產品。我們每一天，會用最好的態度面對市場的挑戰，達到市場最高的要求。我們用[unit economics](https://gust.com/launch/blog/unit-economics){:target="_blank"}來測量我們是否有成功執行產品。
@@ -18,12 +20,13 @@ lang-ref: welcome-to-my-web
 
 我們還有更多在RD研發的產品，希望可以與優秀的你一起完成，歡迎您分享您的想法與技能。
 
-<br/>
+<br>
 
 [一起創造奇蹟]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
 
-<br/>
+<br>
 
 ---
 
-<br/>
+<br>
+

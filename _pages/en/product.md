@@ -6,6 +6,8 @@ description: Product
 lang-ref: welcome-to-my-web
 ---
 
+
+
 ## Product & Service
 
 Our mission is to consistently create extraordinary products and experiences that customers love and value. Our product can only be as good as our people. We focus on our people so we can create th best products for our customers. We are currently working on a few interesting ideas in different industries:
@@ -17,5 +19,4 @@ This EdTech software helps students around the world prepare for exams thorough 
 We have many other ideas in the pipeline. We hope you consider joining us to complete them.
 
 
-[Let's create products together]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
-
+[Let's create products together]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn

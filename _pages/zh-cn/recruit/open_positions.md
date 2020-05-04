@@ -6,6 +6,8 @@ description: Open Positions
 lang-ref: welcome-to-my-web
 ---
 
+
+
 ## 我们不断的在征才.
 
 我们是一个对创业充满热情的科技新创，希望与创始员工一起建立我们的团队文化，以**风气自由、透明制度**为傲。
@@ -20,7 +22,7 @@ lang-ref: welcome-to-my-web
 
 因为我们团队精益、注重开发速度，我们希望每一位工程师可以会基本的全端开发，更了解其他队友的工作内容，帮助团队合作。所以我们有专门帮忙每一位前段与后端工程师成为全端的**培训计划**。详细资讯，请看[入职训练]({{ site.link_onboarding }})。
 
-<br/>
+<br>
 
 # 职缺
 
@@ -36,7 +38,7 @@ lang-ref: welcome-to-my-web
 
 [申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>
+<br>
 
 ### [前端工程师]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 
@@ -46,7 +48,7 @@ lang-ref: welcome-to-my-web
 
 [申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>
+<br>
 
 ### [后端工程师]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
@@ -56,8 +58,52 @@ lang-ref: welcome-to-my-web
 
 [申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>
-<br/>
+<br>
+
+<!--
+### [手机应用工程师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
+
+`全职` `远端`
+
+`资深工程师` `初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [DevOps工程师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
+
+`全职` `远端`
+
+`初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [QC/QA工程师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
+
+`全职` `远端` `台北`
+
+`初级工程师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+-->
+
+## 设计师
+
+### [网页设计师](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+
+`全职` `兼职` `远端`
+
+`初级设计师`
+
+[申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
 
 ## 实习生
 
@@ -69,7 +115,7 @@ lang-ref: welcome-to-my-web
 
 [申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>
+<br>
 
 ## 特案/兼职
 
@@ -81,8 +127,9 @@ lang-ref: welcome-to-my-web
 
 [申请]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>
+<br>
 
 ---
 
-<br/>
+<br>
+

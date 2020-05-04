@@ -6,6 +6,8 @@ description: Open Positions
 lang-ref: welcome-to-my-web
 ---
 
+
+
 ## We are always hiring.
 
 We incubate, accelerate, and implement ideas that our team create internally.
@@ -22,7 +24,7 @@ For job roles and responsibilities, please see [Engineering Levels]({{ site.link
 
 We are lean and value speed. Therefore, we wish our all our engineers to know basic full stack development. We have a dedicated onboarding program to help front- and back- end engineers learn the basics of full stack end-to-end development to faciliate team work, understanding, and collaboration. For details, please see [Onboarding Training]({{ site.link_onboarding }})。
 
-<br/>
+<br>
 
 # Open Positions
 
@@ -36,7 +38,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>
+<br>
 
 ### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 
@@ -46,7 +48,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>
+<br>
 
 ### [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
@@ -56,8 +58,52 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>
-<br/>
+<br>
+
+<!--
+### [iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
+
+`Full-Time`  `Remote`
+
+`Senior Engineer`
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
+
+`Full-Time`  `Remote`
+
+`Junior Engineer`
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
+
+`Full-Time`  `Remote`
+
+`Junior Engineer`
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+-->
+
+## Design
+
+### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
+
+`Full-Time` `Part-Time`  `Remote`
+
+`Junior Designer`
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
 
 ## Internship
 
@@ -69,7 +115,7 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>
+<br>
 
 ## Project-Based & Part-time
 
@@ -81,4 +127,4 @@ We are lean and value speed. Therefore, we wish our all our engineers to know ba
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br/>None
+<br

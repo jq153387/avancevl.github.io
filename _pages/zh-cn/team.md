@@ -6,11 +6,13 @@ description: Team
 lang-ref: welcome-to-my-web
 ---
 
+
+
 # 关于我们
 
 我们是麻省理工学院工程师与史丹佛电机硕士创办的台北[精益新创](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%9B%8A%E5%88% 9B%E4%B8%9A "精益创业定义"){:target="_blank"} startup 公司，专门创造有用的软体。在纽约、西雅图、芝加哥、香港、上海，拥有投资银行、科技公司、对冲基金、管理咨询顾问的大型企业经验。也在矽谷和亚洲有金融科技创业成功的纪录。团队办公室在台北、香港、新加坡的 WeWork。目前首创台湾第一个与众不同的孵化 incubuation 团队，加速 accelerate 内部自己创造的新点子，快速的执行市场实验，有成长也有盈利。我们重视创造影响力 impact 而不只是生产力 productivity。
 
-<br/>
+<br>
 
 ## 价值观
 
@@ -75,23 +77,23 @@ lang-ref: welcome-to-my-web
 * 使命/ 30年
 * 高难度、大胆目标
 
-<br/>
+<br>
 
 ## 创办团队
 
-<img src="https://lh3.googleusercontent.com/ZVYB3JbfI5u9VbujgpSpCpaspCzCXLaiqb4DcniQIdZDPoKqwEPdhhv3biEIccwTs0ac-SkW5iBTtS-NpPZx8K-WAAtF6zelbxQqHxmYsruIZqMq2XuA79jWpGFJ0r0bM-32PqQ4QPM=w2400" width="222"/>
+<img src='https://lh3.googleusercontent.com/ZVYB3JbfI5u9VbujgpSpCpaspCzCXLaiqb4DcniQIdZDPoKqwEPdhhv3biEIccwTs0ac-SkW5iBTtS-NpPZx8K-WAAtF6zelbxQqHxmYsruIZqMq2XuA79jWpGFJ0r0bM-32PqQ4QPM=w2400' width="222"/>
 
 ### **[Gary Chang](https://www.linkedin.com/in/gary-c-320b62b8/ "Gary的LinkedIn"){:target="_blank"}**
 
 _Co-founder 创办人. Stanford alumnus 史丹佛电机硕士. Tech genius 科技天才._
 
-<img src="https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400" width="222"/>
+<img src='https://lh3.googleusercontent.com/kutzZM0o3tyvvy8py06mwlWvJj6-gv4oXxv_h2ep34MUZ--KvtwzHtsmFr-aMLjj-pWq5IP7a1j50gVZTzGEsIS5l31BTjEkKIIHsN4cyw-rwjSI6hTUyNVRNo0_51EGxyr6t7vPYT4=w2400' width="222"/>
 
 ### **[Dan Chen](https://www.linkedin.com/in/danchen1013/ "Dan的LinkedIn"){:target="_blank"}**
 
 _Co-founder 创办人. MIT alumnus 麻省理工校友. Entrepreneurship rockstar 新创热爱者._
 
-<br/>
+<br>
 
 ## 顾问团队
 
@@ -113,12 +115,13 @@ _Co-founder 创办人. MIT alumnus 麻省理工校友. Entrepreneurship rockstar
 * 创建
 * 腾讯
 
-<br/>
+<br>
 
 [加入我们的旅程]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
 
-<br/>
+<br>
 
 ---
 
-<br/>
+<br>
+

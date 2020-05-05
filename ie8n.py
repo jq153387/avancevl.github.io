@@ -2,7 +2,7 @@ import os
 from bs4 import BeautifulSoup
 import frontmatter
 import yaml
-import re
+# import re
 mainPath = './_main'
 # filepath = "./_main/index.md"
 setlang = ["en", "zh-tw", "zh-cn"]
@@ -128,7 +128,6 @@ def creatFiles(article_lang, path, filename, falias):
         if not os.path.isdir(_path):
             os.mkdir(_path)
         with open(_path + "/" + filename, "w") as fp:
-            print("filename:", filename)
             for item in article_lang[key]:
                 print("filename:", filename)
                 fp.write(str(item))

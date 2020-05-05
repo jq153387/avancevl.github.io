@@ -19,9 +19,9 @@
         <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
         <link href="https://static.wixstatic.com/media/877134_2808539891304c078530373769485c0d%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/877134_2808539891304c078530373769485c0d%7Emv2.png" rel="shortcut icon" type="image/png">
         <!-- Compiled and minified CSS -->
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
-
-        <!-- Compiled and minified JavaScript -->
+                        <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet"> -->
+                
+                        <!-- Compiled and minified JavaScript -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
         <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -93,29 +93,9 @@
                         <a class="lang" href="/{{ site.locales.item.baseurl }}">{{ item.name }}</a>
                     </code>
                 {% endfor %} -->
-                                                
-                                                                 <!-- Dropdown Trigger -->
-                <a class="dropdown-trigger btn" data-target="dropdown1" href="#">Drop Me!</a>
+                                                                                
+                                                                                                 <!-- Dropdown Trigger -->
 
-                <!-- Dropdown Structure -->
-                <ul class="dropdown-content" id="dropdown1">
-                    {% for locale in site.locales %}
-                        {% assign label = locale[0] %}
-                        {% assign locale_object = locale[1] %}
-                        <li lang="{{ locale_object.lang }}" class="language-plaintext highlighter-rouge">
-                            {% if label == page.locale %}
-                                <a href="{{ page.url | prepend: site.baseurl }}" class="lang" aria-current="true">{{ locale_object.name }}</a>
-                            {% else %}
-                                {% assign localized_page = localized_pages | where: "locale", label | first %}
-                                {% if localized_page %}
-                                    <a href="{{ localized_page.url | prepend: site.baseurl }}" class="lang" hreflang="{{ locale_object.lang }}">{{ locale_object.name }}</a>
-                                {% else %}
-                                    <a href="{{ locale_object.baseurl | prepend: site.baseurl }}/" class="lang" hreflang="{{ locale_object.lang }}">{{ locale_object.name }}</a>
-                                {% endif %}
-                            {% endif %}
-                        </li>
-                    {% endfor %}
-                </ul>
             </p>
 
             <br>

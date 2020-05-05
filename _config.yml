@@ -26,7 +26,8 @@ exclude:
     - Gemfile.lock
     - README.md
 #https://github.com/letrastudio/jekyll-i18n/blob/master/_config.yml
-
+# sass:
+#     sass_dir: _sass
 locales:
     default:
         baseurl: "/zh-tw"

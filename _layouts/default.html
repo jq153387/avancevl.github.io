@@ -17,11 +17,12 @@
         <meta content="width=device-width, initial-scale=1" name="viewport">
         <meta content="#157878" name="theme-color">
         <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link href="https://static.wixstatic.com/media/877134_2808539891304c078530373769485c0d%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/877134_2808539891304c078530373769485c0d%7Emv2.png" rel="shortcut icon" type="image/png">
         <!-- Compiled and minified CSS -->
-                                <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet"> -->
-                        
-                                <!-- Compiled and minified JavaScript -->
+                                                                                                                                                                                                                                                                                                <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet"> -->
+                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                <!-- Compiled and minified JavaScript -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
         <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -29,7 +30,13 @@
 
     <body>
 
+
         <header class="page-header" role="banner">
+            <div class="nav-but">
+                <a class="sidenav-trigger top-nav" data-target="slide-out" href="#">
+                    <i class="material-icons">menu</i>
+                </a>
+            </div>
             <h1 class="project-name">{{ page.title | default: site.title | default: site.description }}</h1>
             <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
@@ -86,100 +93,8 @@
             {% endif %}
             <br>
 
-            <p>
-
-                <!-- {% for item in site.locales %}
-                    <code class="language-plaintext highlighter-rouge">
-                        <a class="lang" href="/{{ site.locales.item.baseurl }}">{{ item.name }}</a>
-                    </code>
-                {% endfor %} -->
-                                                                                                
-                                                                                                                 <!-- Dropdown Trigger -->
-                <a class="dropdown-trigger btn" data-target="dropdown1" href="#">Drop Me!</a>
-
-                <!-- Dropdown Structure -->
-                <ul class="dropdown-content" id="dropdown1">
-                    {% for locale in site.locales %}
-                        {% assign label = locale[0] %}
-                        {% assign locale_object = locale[1] %}
-                        <li lang="{{ locale_object.lang }}" class="language-plaintext highlighter-rouge">
-                            {% if label == page.locale %}
-                                <a href="{{ page.url | prepend: site.baseurl }}" class="lang" aria-current="true">{{ locale_object.name }}</a>
-                            {% else %}
-                                {% assign localized_page = localized_pages | where: "locale", label | first %}
-                                {% if localized_page %}
-                                    <a href="{{ localized_page.url | prepend: site.baseurl }}" class="lang" hreflang="{{ locale_object.lang }}">{{ locale_object.name }}</a>
-                                {% else %}
-                                    <a href="{{ locale_object.baseurl | prepend: site.baseurl }}/" class="lang" hreflang="{{ locale_object.lang }}">{{ locale_object.name }}</a>
-                                {% endif %}
-                            {% endif %}
-                        </li>
-                    {% endfor %}
-                </ul>
-            </p>
-
-            <br>
-
             {{ content }}
 
-            <nav class="main-nav">
-                <br><br>
-                <hr/>
-                <b>AVL 網頁指南</b>
-                <br><br>
-                {% if site.data.navigation.toc[0] %}
-                    {% for item in site.data.navigation.toc %}
-                        <b>
-                            {% if page.url == item.url %}
-                                <a href="{{ site.baseurl }}{{ item.url }}" class="active">{{ item.title }}</a>
-                            {% else %}
-                                <a href="{{ site.baseurl }}{{ item.url }}" class="nav">{{ item.title }}</a>
-                            {% endif %}
-                        </b><br>
-                        {% if item.subfolderitems[0] %}
-                            <ul>
-                                {% for entry in item.subfolderitems %}
-                                    <li>
-                                        {% if page.url == entry.url %}
-                                            <a href="{{ site.baseurl }}{{ entry.url }}" class="active">{{ entry.page }}</a>
-                                        {% else %}
-                                            <a href="{{ site.baseurl }}{{ entry.url }}" class="nav">{{ entry.page }}</a>
-                                        {% endif %}
-                                        {% if entry.subsubfolderitems[0] %}
-                                            <ul>
-                                                {% for subentry in entry.subsubfolderitems %}
-                                                    <li>
-                                                        {% if page.url == subentry.url %}
-                                                            <a href="{{ site.baseurl }}{{ subentry.url }}" class="active">{{ subentry.page }}</a>
-                                                        {% else %}
-                                                            <a href="{{ site.baseurl }}{{ subentry.url }}" class="nav">{{ subentry.page }}</a>
-                                                        {% endif %}
-                                                    </li>
-                                                    {% if subentry.subsubsubfolderitems[0] %}
-                                                        <ul>
-                                                            {% for subsubentry in subentry.subsubsubfolderitems %}
-                                                                <li>
-                                                                    {% if page.url == subsubentry.url %}
-                                                                        <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active">{{ subsubentry.page }}</a>
-                                                                    {% else %}
-                                                                        <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="nav">{{ subsubentry.page }}</a>
-                                                                    {% endif %}
-                                                                </li>
-                                                            {% endfor %}
-                                                        </ul>
-                                                    {% endif %}
-                                                {% endfor %}
-                                            </ul>
-                                        {% endif %}
-                                    </li>
-                                {% endfor %}
-                            </ul>
-                        {% endif %}
-                    {% endfor %}
-                {% endif %}
-                <br>
-                <br>
-            </nav>
 
             <footer class="site-footer">
                 <span class="site-footer-owner">
@@ -208,12 +123,47 @@
                     <a href="https://pages.github.com">GitHub Pages</a>.</span>
             </footer>
         </main>
+        <nav class="sidenav" id="slide-out">
+            <div class="sidenav-header">
+                <h2>AVL 網頁指南</h2>
+                <a class="dropdown-trigger btn droplang" data-target="dropdown1" href="#">語言</a>
+            </div>
+            <!-- Dropdown Structure -->
+            <ul class="dropdown-content" id="dropdown1">
+                {% for locale in site.locales %}
+                    {% assign label = locale[0] %}
+                    {% assign locale_object = locale[1] %}
+                    <li lang="{{ locale_object.lang }}" class="language-plaintext highlighter-rouge">
+                        {% if label == page.locale %}
+                            <a href="{{ page.url | prepend: site.baseurl }}" class="lang" aria-current="true">{{ locale_object.name }}</a>
+                        {% else %}
+                            {% assign localized_page = localized_pages | where: "locale", label | first %}
+                            {% if localized_page %}
+                                <a href="{{ localized_page.url | prepend: site.baseurl }}" class="lang" hreflang="{{ locale_object.lang }}">{{ locale_object.name }}</a>
+                            {% else %}
+                                <a href="{{ locale_object.baseurl | prepend: site.baseurl }}/" class="lang" hreflang="{{ locale_object.lang }}">{{ locale_object.name }}</a>
+                            {% endif %}
+                        {% endif %}
+                    </li>
+                {% endfor %}
+            </ul>
+            <div>
+                <!-- <!-- {% include i18n/i18n obj=page %} -->
+                {% include site-nav.html %}
+            </div>
+
+        </nav>
+
         {% include analytics.html %}
         <script>
           //select langauge
             document.addEventListener('DOMContentLoaded', function() {
-              var elems = document.querySelectorAll('.dropdown-trigger');
-              var instances = M.Dropdown.init(elems);
+                var elems = document.querySelectorAll('.dropdown-trigger');
+                var instances = M.Dropdown.init(elems);
+            });
+            document.addEventListener('DOMContentLoaded', function () {
+                var elems = document.querySelectorAll('.sidenav');
+                var instances = M.Sidenav.init(elems);
             });
         </script>
     </body>

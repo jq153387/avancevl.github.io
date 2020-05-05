@@ -102,7 +102,89 @@ a:active {
 .main-content hr {
     border: #b3cce6;
 }
+.page-header {
+    position: relative;
+}
+/**sidenav**/
+.nav-but {
+    height: 35px;
+    position: relative;
+}
+a.sidenav-trigger.top-nav {
+    text-align: left;
+    top: 10px;
+    padding: 5px;
+    left: 0;
+    float: left;
+    z-index: 2;
+    border: none;
+    border-radius: 3px;
+}
 
+.sidenav ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.sidenav li > a {
+    height: auto;
+    line-height: normal;
+    padding: 8px 25px 8px 25px;
+    display: block;
+}
+.sidenav > ul > li > ul > li > a {
+    padding-left: 45px;
+    font-size: 13px;
+}
+.sidenav > b {
+    display: block;
+    border-top: 1px solid rgba(0, 0, 0, 0.14);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.14);
+}
+.sidenav > b > a:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+.sidenav > b > a {
+    height: auto;
+    padding: 8px 25px 8px 15px;
+    line-height: normal;
+    display: block;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.87);
+}
+/*drop language*/
+.sidenav-header {
+    padding: 0 25px;
+}
+.sidenav-header > h2 {
+    text-align: center;
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.87);
+}
+.sidenav-header {
+    overflow: auto;
+}
+.droplang {
+    float: left;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.14);
+    padding: 0.3rem 0.6rem;
+}
+.droplang:hover {
+    color: #fc6969;
+    border-color: #fc6969;
+}
+.dropdown-content {
+    height: auto !important;
+}
+.dropdown-content li {
+    min-height: auto;
+}
+.dropdown-content li a {
+    font-size: 12px;
+}
 // .btn,
 // .btn-large,
 // .btn-small,

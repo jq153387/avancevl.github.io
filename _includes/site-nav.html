@@ -6,8 +6,8 @@
         {% for document_id in site.data.navigation.navigation %}
             {% for page in pages %}
                 {% include i18n/document_id obj=page %}
-                {{obj_document_id}}<br/>
-                {{document_id}}<br/>
+                {% assign page_lang = document_id prepend: page.lang %}
+                {{ page_lang }}
                 <hr>
                 {% if obj_document_id == document_id %}
                     <li>

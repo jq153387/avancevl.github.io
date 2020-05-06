@@ -33,27 +33,29 @@
                                             <a href="{{ item_url }}" class="nav">{{ subentry.page[page.lang] }}</a>
                                         {% endif %}
                                     </li>
-                                    {% if subentry.subsubsubfolderitems[0] %}
-                                        <ul>
-                                            {% for subsubentry in subentry.subsubsubfolderitems %}
-                                                {% assign lang = {{page.lang | prepend:"/"}} %}
-                                                {% assign item_url= {{subsubentry.url | prepend: lang }} %}
-                                                <li>
-                                                    {% if page.url == subsubentry.url %}
-                                                        <a href="{{item_url}}" class="active">{{ subsubentry.page[page.lang] }}</a>
-                                                    {% else %}
-                                                        <a href="{{item_url}}" class="nav">{{ subsubentry.page[page.lang] }}</a>
-                                                    {% endif %}
-                                                </li>
-                                            {% endfor %}
-                                        </ul>
-                                    {% endif %}
                                 {% endfor %}
+                                {% if subentry.subsubsubfolderitems[0] %}
+                                    <ul>
+                                        {% for subsubentry in subentry.subsubsubfolderitems %}
+                                            {% assign lang = {{page.lang | prepend:"/"}} %}
+                                            {% assign item_url= {{subsubentry.url | prepend: lang }} %}
+                                            <li>
+                                                {% if page.url == subsubentry.url %}
+                                                    <a href="{{item_url}}" class="active">{{ subsubentry.page[page.lang] }}</a>
+                                                {% else %}
+                                                    <a href="{{item_url}}" class="nav">{{ subsubentry.page[page.lang] }}</a>
+                                                {% endif %}
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
+                                {% endif %}
+
                             </ul>
                         {% endif %}
                     </li>
-                {% endfor %}
-            </ul>
+
+                </ul>
+            {% endfor %}
         {% endif %}
     {% endfor %}
 {% endif %}

@@ -127,25 +127,29 @@ a.sidenav-trigger.top-nav {
     list-style-type: none;
 }
 
-.sidenav > .nav-list li > a {
+.sidenav > .nav-list ul a {
     height: auto;
     line-height: normal;
     padding: 8px 25px 8px 25px;
     display: block;
 }
-.sidenav > .nav-list > ul > li > ul > li > a {
+.sidenav > .nav-list ul ul a {
     padding-left: 45px;
     font-size: 13px;
 }
-.sidenav > .nav-list > b {
+.sidenav > .nav-list ul ul ul a {
+    padding-left: 60px;
+    font-size: 12px;
+}
+.sidenav > .nav-list b {
     display: block;
     border-top: 1px solid rgba(0, 0, 0, 0.14);
     border-bottom: 1px solid rgba(0, 0, 0, 0.14);
 }
-.sidenav > .nav-list > b > a:hover {
+.sidenav > .nav-list b a:hover {
     background-color: rgba(0, 0, 0, 0.05);
 }
-.sidenav > .nav-list > b > a {
+.sidenav > .nav-list b a {
     height: auto;
     padding: 8px 25px 8px 15px;
     line-height: normal;
@@ -178,6 +182,9 @@ a.sidenav-trigger.top-nav {
 }
 .dropdown-content {
     height: auto !important;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
 }
 .dropdown-content li {
     min-height: auto;
@@ -185,6 +192,7 @@ a.sidenav-trigger.top-nav {
 .dropdown-content li a {
     font-size: 12px;
 }
+
 // .btn,
 // .btn-large,
 // .btn-small,

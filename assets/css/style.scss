@@ -149,6 +149,9 @@ a.sidenav-trigger.top-nav {
 .sidenav > .nav-list b a:hover {
     background-color: rgba(0, 0, 0, 0.05);
 }
+.sidenav > .nav-list a.active {
+    background-color: rgba(0, 0, 0, 0.05);
+}
 .sidenav > .nav-list b a {
     height: auto;
     padding: 8px 25px 8px 15px;

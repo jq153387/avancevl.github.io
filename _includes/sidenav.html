@@ -4,9 +4,9 @@
             {% assign lang = {{page.lang | prepend:"/"}} %}
             {% assign item_url= {{item.url | prepend: lang }} %}
             {% if page.url == item_url %}
-                <a href="{{ item_url }}" class="active">{{ item.title[page.lang] }}</a>
+                <a href="{{ site.baseurl }}{{ item_url }}" class="active">{{ item.title[page.lang] }}</a>
             {% else %}
-                <a href="{{ item_url }}" class="nav">{{ item.title[page.lang] }}</a>
+                <a href="{{ site.baseurl }}{{ item_url }}" class="nav">{{ item.title[page.lang] }}</a>
             {% endif %}
         </b>
 
@@ -17,9 +17,9 @@
                     {% assign item_url= {{entry.url | prepend: lang }} %}
                     <li>
                         {% if page.url == item_url %}
-                            <a href="{{ item_url }}" class="active">{{ entry.page[page.lang] }}</a>
+                            <a href="{{ site.baseurl }}{{ item_url }}" class="active">{{ entry.page[page.lang] }}</a>
                         {% else %}
-                            <a href="{{ item_url }}" class="nav">{{ entry.page[page.lang] }}</a>
+                            <a href="{{ site.baseurl }}{{ item_url }}" class="nav">{{ entry.page[page.lang] }}</a>
                         {% endif %}
                         {% if entry.subsubfolderitems[0] %}
                             <ul>
@@ -28,9 +28,9 @@
                                     {% assign item_url= {{subentry.url | prepend: lang }} %}
                                     <li>
                                         {% if page.url == item_url %}
-                                            <a href="{{ item_url }}" class="active">{{ subentry.page[page.lang] }}</a>
+                                            <a href="{{ site.baseurl }}{{ item_url }}" class="active">{{ subentry.page[page.lang] }}</a>
                                         {% else %}
-                                            <a href="{{ item_url }}" class="nav">{{ subentry.page[page.lang] }}</a>
+                                            <a href="{{ site.baseurl }}{{ item_url }}" class="nav">{{ subentry.page[page.lang] }}</a>
                                         {% endif %}
                                     </li>
                                 {% endfor %}
@@ -41,9 +41,9 @@
                                             {% assign item_url= {{subsubentry.url | prepend: lang }} %}
                                             <li>
                                                 {% if page.url == subsubentry.url %}
-                                                    <a href="{{item_url}}" class="active">{{ subsubentry.page[page.lang] }}</a>
+                                                    <a href="{{ site.baseurl }}{{item_url}}" class="active">{{ subsubentry.page[page.lang] }}</a>
                                                 {% else %}
-                                                    <a href="{{item_url}}" class="nav">{{ subsubentry.page[page.lang] }}</a>
+                                                    <a href="{{ site.baseurl }}{{item_url}}" class="nav">{{ subsubentry.page[page.lang] }}</a>
                                                 {% endif %}
                                             </li>
                                         {% endfor %}

@@ -7,8 +7,8 @@ locales:
         title: 與眾不同的新創孵化
         description: 與眾不同的新創孵化
     zh-cn:
-        title: 與眾不同的新創孵化
-        description: 與眾不同的新創孵化
+        title: 与众不同的新创孵化
+        description: 与众不同的新创孵化
     en:
         title: A Different Breed of Startup Incubator
         description: A Different Breed of Startup Incubator

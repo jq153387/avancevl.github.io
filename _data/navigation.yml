@@ -1,3 +1,254 @@
-navigation:
-    - index
-      - growth
+toc:
+  - title:
+      zh-tw: 介紹
+      zh-cn: 介绍
+      en: Introduction
+    url: /index
+    subfolderitems:
+      - page:
+          zh-tw: "couple: 團隊"
+          zh-cn: "couple: 团队"
+          en: ":couple: Team"
+        url: /team
+      - page:
+          zh-tw: ":building_construction: 產品"
+          zh-cn: ":building_construction: 产品"
+          en: ":building_construction: Product"
+        url: /product.html
+      - page:
+          zh-tw: ":new: 最新公告"
+          zh-cn: ":new: 最新公告"
+          en: ":new: Announcements"
+        url: /announcements.html
+  - title: 公司理念 Principles
+    url: /principles/principles.html
+    subfolderitems:
+      - page: ":100: 團隊期望 Expectations"
+        url: /principles/expectations.html
+        subsubfolderitems:
+          - page: "有效溝通 Effective Communication"
+            url: /principles/communication.html
+          - page: "團隊互動 Team Dynamics"
+            url: /principles/team_dynamics.html
+          - page: "會議流程 Protocol for Meetings"
+            url: /principles/meetings.html
+          - page: "書面交流 Written Communication"
+            url: /principles/written_communication.html
+          - page: "執行SOP Deliverables Etiquette"
+            url: /principles/deliverables.html
+          - page: "對外會議 External Meetings"
+            url: /principles/external_meetings.html
+      - page: ":chart_with_upwards_trend: 執行策略 Execution Strategy"
+        url: /principles/strategy.html
+        subsubfolderitems:
+          - page: "敏捷流程 Agile"
+            url: /principles/agile.html
+          - page: "遠端工作 Remote"
+            url: /principles/remote.html
+          - page: "工作語言 Language"
+            url: /principles/language.html
+          - page: 職場新人 No Experience Required
+            url: /principles/inexperience.html
+      - page: ":pushpin: 管理方式 Management"
+        url: /principles/management.html
+        subsubfolderitems:
+          - page: 責任分配 Areas of Responsibility
+            url: /principles/areas_responsibility.html
+          - page: 管理KPI及OKR Management KPI & OKR
+            url: /principles/management_kpi_okr.html
+  - title: 人資管理 People
+    url: /people/people.html
+    subfolderitems:
+      - page: ":moneybag: 績效薪資制度 Performance-Based Compensation"
+        url: /people/compensation.html
+        subsubfolderitems:
+          - page: "全職工程師薪水 Full-Time Engineering Levels"
+            url: /people/engineering_level.html
+          - page: "特案兼職費用 Project-Based/Part-Time Engineering Levels"
+            url: /people/projectbased_level.html
+      - page: ":cookie: 員工福利 Benefits"
+        url: /people/benefits.html
+        subsubfolderitems:
+          - page: 團隊活動 Team Events
+            url: /people/team_events.html
+      - page: ":computer: 學習培訓 Learning & Training"
+        url: /people/learning_training.html
+        subsubfolderitems:
+          - page: 全端培訓計劃 Full Stack Training Program
+            url: /people/fullstack_training.html
+          - page: 線上資源 Online Resources
+            url: /people/online_resources.html
+          - page: 讀書會 Book Club
+            url: /people/bookclub.html
+      - page: ":alarm_clock: 規範及合約 Policies & Legal"
+        url: /people/policy_legal.html
+        subsubfolderitems:
+          - page: 保密協議 Non-Disclosure Agreement (NDA)
+            url: /people/nda.html
+          - page: 聘用協議 Retainer Agreement (RA)
+            url: /people/ra.html
+          - page: 員工協議 Employment Agreement (EA)
+            url: /people/ea.html
+          - page: "工作時間 Working Hours"
+            url: /people/work_hours.html
+          - page: "給假原則 Vacation Policy (PTO)"
+            url: /people/pto.html
+          - page: 職場性騷擾政策 Workplace Policy
+            url: /people/workplace_policy.html
+          - page: 補貼規範 Reimbursement Policy
+            url: /people/reimbursement_policy.html
+      - page: ":memo: 入職流程 Onboarding"
+        url: /people/onboarding.html
+      - page: ":fire: 績效評估 General Performance Review"
+        url: /people/general_performance_review.html
+  - title: 徵才 Recruiting
+    url: /recruit/recruit.html
+    subfolderitems:
+      - page: ":bar_chart: 申請數據 Application Data"
+        url: /recruit/application_data.html
+      - page: ":handshake: 職缺 Open Positions"
+        url: /recruit/open_positions.html
+        subsubfolderitems:
+          - page: "全端軟體工程師 Full Stack Developer"
+            url: /recruit/jd_fullstackdev.html
+          - page: "前端軟體工程師 Front End Developer"
+            url: /recruit/jd_frontenddev.html
+          - page: "後端軟體工程師 Back End Developer"
+            url: /recruit/jd_backenddev.html
+          - page: 全端軟體工程師(特案) Full Stack (Project-Based)
+            url: /recruit/jd_projectbased.html
+          - page: 網頁設計師 UI/UX Web/App Designer
+            url: /recruit/jd_designer.html
+          - page: SEO Specialist (Digital Marketing)
+            url: /recruit/jd_seo.html
+      - page: ":hourglass_flowing_sand: 工程師面試過程 Developer Interview Process"
+        url: /recruit/interview_process.html
+        subsubfolderitems:
+          - page: "申請職缺問卷（5分鐘）Job Application Survey"
+            url: /recruit/survey.html
+          - page: "選項A：加速申請 - 線上測驗（2.5小時）Accelerated Take-Home Exam"
+            url: /recruit/takehome.html
+            subsubsubfolderitems:
+              - page: "線上測驗指南 Web Developer Exam"
+                url: /recruit/webdev.html
+              - page: "測驗分數評估 Exam Rubric"
+                url: /recruit/exam_rubric.html
+              - page: "全端測驗樣本 Full Stack Sample Exam"
+                url: /recruit/sample_fullstackdev.html
+              - page: "前端測驗樣本 Front-End Sample Exam"
+                url: /recruit/sample_frontenddev.html
+              - page: "後端測驗樣本 Back-End Sample Exam"
+                url: /recruit/sample_backenddev.html
+          - page: "選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteboard Interview"
+            url: /recruit/whiteboard.html
+          - page: "選項C：資歷查核 - 取代技術測驗（5分鐘）Technical Reference Check"
+            url: /recruit/referencecheck.html
+      - page: ":bulb: 入職訓練 Onboarding Training"
+        url: /recruit/onboarding.html
+      - page: ":handshake: 性別平等就業機會 Equal Opportunity Employment"
+        url: /recruit/women.html
+      - page: ":unlock: 源貢獻 Open Source Contribution"
+        url: /recruit/open_sourced.html
+      - page: ":hatched_chick: 實習生計劃 : 學生及職場新人 Students & New Graduates"
+        url: /recruit/students.html
+      - page: ":moneybag: 推薦獎金 Referral Program"
+        url: /recruit/referral.html
+  - title: 工程開發 Engineering
+    url: /engineering/engineering.html
+    subfolderitems:
+      - page: ":hammer: 工程師入職流程 Engineer Onboarding"
+        url: /engineering/onboarding.html
+        subsubfolderitems:
+          - page: "破壞性更改 Breaking Changes"
+            url: /engineering/breaking_changes.html
+          - page: "Git管理規範 Git Rules"
+            url: /engineering/git_rules.html
+      - page: ":zap: 技術架構 Tech Stack"
+        url: /engineering/tech_stack.html
+        subsubfolderitems:
+          - page: "生產架構 Production Infrastructure"
+            url: /engineering/prod_infra.html
+          - page: 使用者分析 User Analytics
+            url: /engineering/analytics.html
+          - page: 桌面程式架構 Desktop App Stack
+            url: /engineering/desktop_stack.html
+          - page: 即時網路架構 Realtime Web Stack
+            url: /engineering/realtime_stack.html
+          - page: "開發環境 Development Environment"
+            url: /engineering/devenv.html
+      - page: ":hamburger: 前端架構 Front-End Stack"
+        url: /engineering/frontend_stack.html
+        subsubfolderitems:
+          - page: "SSR前端架構 Server Side Rendering"
+            url: /engineering/ssr.html
+          - page: AMP前端架構 Accelerated Mobile Pages
+            url: /engineering/amp.html
+          - page: PWA前端架構 Progressive Web Application
+            url: /engineering/pwa.html
+          - page: 手機應用程式架構 Mobile Application Framework
+            url: /engineering/mobile.html
+          - page: UI設計原則 UI Design
+            url: /engineering/ui_design.html
+          - page: HTML5架構 HMTL5 Framework
+            url: /engineering/html5.html
+          - page: 國際化 Internationalization
+            url: /engineering/internationalization.html
+          - page: 數學公式前端 Math Latex
+            url: /engineering/math.html
+      - page: ":cow: 後端架構 Back-End Stack"
+        url: /engineering/backend_stack.html
+        subsubfolderitems:
+          - page: 使用者轉介架構 User Referral
+            url: /engineering/referral.html
+          - page: 資料庫架構 Database-as-a-Service
+            url: /engineering/db.html
+          - page: 過濾資料 Filtering and Querying
+            url: /engineering/filtering.html
+      - page: ":rocket: 工作速率 Velocity of Work"
+        url: /engineering/velocity_work.html
+        subsubfolderitems:
+          - page: "產品開發流程 Product Cycle"
+            url: /engineering/product_cycle.html
+          - page: "計畫Scrum會議 Scrum Planning Meetings"
+            url: /engineering/scrum_meeting.html
+          - page: "每日報告 Daily Updates"
+            url: /engineering/daily_scrum.html
+          - page: "問題追中 Issue Tracking"
+            url: /engineering/issue_tracking.html
+      - page: ":thumbsup: 績效評估 Performance Review"
+        url: /engineering/performance_review.html
+      - page: ":link: 程式代碼規範 Code Styles"
+        url: /engineering/code_styles.html
+      - page: ":bangbang: 程式代碼審核 Code Review"
+        url: /engineering/code_review.html
+      - page: ":warning: 品質管制及測試 Quality Control & Testing"
+        url: /engineering/qc_testing.html
+        subsubfolderitems:
+          - page: JS測試 JavaScript Testing
+            url: /engineering/js_testing.html
+          - page: 前端測試 Front-End Testing
+            url: /engineering/frontend_testing.html
+      - page: ":muscle: 網頁可靠性 DevOps & Site Reliability"
+        url: /engineering/devops_sre.html
+  - title: 產品研發流程 Product
+    url: /product/product.html
+    subfolderitems:
+      - page: ":art: 設計流程 Design"
+        url: /product/design.html
+        subsubfolderitems:
+          - page: ":rainbow: 顏色 Colors"
+            url: /product/color.html
+          - page: ":a: 字體 Fonts"
+            url: /product/font.html
+          - page: ":balloon: 設計表 Style Guides"
+            url: /product/style_guide.html
+      - page: ":oncoming_automobile: 產品研發流程 Roadmap"
+        url: /product/roadmap.html
+        subsubfolderitems:
+          - page: 教育科技 EdTech
+            url: /product/edtech.html
+  - title: 業務行銷流程 Growth
+    url: /growth/growth.html
+    subfolderitems:
+      - page: ":rocket: 搜尋引擎最佳化 SEO"
+        url: /growth/seo.html

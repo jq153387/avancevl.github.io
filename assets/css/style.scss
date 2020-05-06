@@ -121,31 +121,31 @@ a.sidenav-trigger.top-nav {
     border-radius: 3px;
 }
 
-.sidenav ul {
+.sidenav > .nav-list ul {
     padding: 0;
     margin: 0;
     list-style-type: none;
 }
 
-.sidenav li > a {
+.sidenav > .nav-list li > a {
     height: auto;
     line-height: normal;
     padding: 8px 25px 8px 25px;
     display: block;
 }
-.sidenav > ul > li > ul > li > a {
+.sidenav > .nav-list > ul > li > ul > li > a {
     padding-left: 45px;
     font-size: 13px;
 }
-.sidenav > b {
+.sidenav > .nav-list > b {
     display: block;
     border-top: 1px solid rgba(0, 0, 0, 0.14);
     border-bottom: 1px solid rgba(0, 0, 0, 0.14);
 }
-.sidenav > b > a:hover {
+.sidenav > .nav-list > b > a:hover {
     background-color: rgba(0, 0, 0, 0.05);
 }
-.sidenav > b > a {
+.sidenav > .nav-list > b > a {
     height: auto;
     padding: 8px 25px 8px 15px;
     line-height: normal;

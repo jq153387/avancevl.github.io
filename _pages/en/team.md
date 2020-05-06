@@ -3,7 +3,6 @@ layout: default
 title: 團隊
 lang: en
 description: Team
-lang-ref: welcome-to-my-web
 ---
 
 

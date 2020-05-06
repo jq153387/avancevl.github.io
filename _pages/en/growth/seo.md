@@ -3,7 +3,6 @@ layout: default
 title: 搜尋引擎最佳化
 lang: en
 description: SEO
-lang-ref: welcome-to-my-web
 ---
 
 

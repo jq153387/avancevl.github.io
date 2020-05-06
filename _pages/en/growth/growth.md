@@ -3,7 +3,6 @@ layout: default
 title: 業務行銷
 lang: en
 description: Growth
-lang-ref: welcome-to-my-web
 ---
 
 

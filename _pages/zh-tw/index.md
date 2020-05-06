@@ -3,7 +3,6 @@ layout: default
 title: 與眾不同的新創孵化
 lang: zh-tw
 description: 與眾不同的新創孵化
-lang-ref: welcome-to-my-web
 ---
 
 

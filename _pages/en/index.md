@@ -3,7 +3,6 @@ layout: default
 title: A Different Breed of Startup Incubator
 lang: en
 description: A Different Breed of Startup Incubator
-lang-ref: welcome-to-my-web
 ---
 
 

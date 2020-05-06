@@ -83,8 +83,7 @@ def rfileDate(filepath, setlang, tag, attrname):
 
         lang_metadata = [
             '---', 'layout: ' + metadata['layout'], 'title: ' + post_title,
-            'lang: ' + value, 'description: ' + post_description,
-            'lang-ref: welcome-to-my-web', '---\n\n'
+            'lang: ' + value, 'description: ' + post_description, '---\n\n'
         ]
         # data = list(yaml.load_all(f, Loader=yaml.FullLoader))
         story = '\n'.join(lang_metadata)

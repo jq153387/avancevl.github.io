@@ -3,7 +3,6 @@ layout: default
 title: 產品
 lang: en
 description: Product
-lang-ref: welcome-to-my-web
 ---
 
 

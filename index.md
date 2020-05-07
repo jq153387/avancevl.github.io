@@ -5,4 +5,6 @@ lang: zh-tw
 lang-ref: welcome-to-my-web
 ---
 
-歡迎來到我的網站!
+<script type="text/javascript">
+window.location = "zh-tw"
+</script>

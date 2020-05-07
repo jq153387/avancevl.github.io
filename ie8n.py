@@ -46,10 +46,10 @@ def rfileDate(filepath, setlang, tag, attrname):
         now_lag_index = langname.index(value)
         finds = soup.find(tag, {attrname: value}).prettify()
         now_lang_tag = finds.replace('\n', '')
-        print(content)
+        # print(content)
         # re.search(r'^<a name=[\"|']zh-cn[\"|']>[\s\S]</a>'',content)
         now_lang_index = content.find(now_lang_tag) + len(now_lang_tag)
-        print(now_lang_index)
+        # print(now_lang_index)
         if now_lag_index + 1 < len(langname):
             next_lang = langname[now_lag_index + 1]
             next_lang_tag = soup.find(tag, {

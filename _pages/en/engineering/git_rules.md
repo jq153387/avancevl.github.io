@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Git管理規範
+lang: en
 description: Git Rules
 ---
 
-<a name="en"></a>
+
 
 # Development vs Main Branches
 
@@ -44,4 +45,4 @@ description: Git Rules
 
 1. Engineer merge changes to master branch.
 1. Engineer deploy changes to master deployment.
-1. Engineer closes git issue. 
+1. Engineer closes git issue

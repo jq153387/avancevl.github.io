@@ -17,13 +17,11 @@ description: Full-Time Engineering Levels
 | E4 | 資深工程師 I | 108～132萬 | 75～88 |
 | E5 | 資深工程師 II | 132～156萬 | 88～101 |
 | E6 | 資深工程師 III | 156～180萬 | 101～111 |
-
-<!--
 | E7 | 首席工程師 I | 180～204萬 | 111～125 |
 | E8 | 首席工程師 II | 204～228萬 | 125～150 |
 | E9 | 首席工程師 III | 228～264萬 | 150～200 |
 | E10 | 技術長 | 264～312萬 | 200+ |
--->
+
 
 <br>
 
@@ -43,7 +41,6 @@ description: Full-Time Engineering Levels
 * 協助初級工程師解決問題，幫忙首席工程師完成開發。
 * 可以選擇自己想要開發的項目與合作團隊人員。
 
-<!--
 #### 首席工程師 I～III
 
 * 團隊中最專業的工程師。
@@ -51,7 +48,6 @@ description: Full-Time Engineering Levels
 * 可以比任何人更快更完善的執行全端整個產品的開發。
 * 有責任設計並執行開發規劃，分配團隊工作，保持開發進度。
 * 有義務幫忙團隊其他工程師完成開發項目並給予建議，決定公司科技使用的方向、策略、團隊架構。
--->
 
 <br>
 
@@ -150,13 +146,11 @@ description: Full-Time Engineering Levels
 | E4 | 资深工程师 I | 25～31万 | 75～88 |
 | E5 | 资深工程师 II | 31～36万 | 88～101 |
 | E6 | 资深工程师 III | 36～42万 | 101～111 |
-
-<!--
 | E7 | 首席工程师 I | 42～47万 | 111～125 |
 | E8 | 首席工程师 II | 47～53万 | 125～150 |
 | E9 | 首席工程师 III | 53～61万 | 150～200 |
 | E10 | 技术长 | 61～72万 | 200+ |
--->
+
 
 <br>
 
@@ -176,7 +170,6 @@ description: Full-Time Engineering Levels
 * 协助初级工程师解决问题，帮忙首席工程师完成开发。
 * 可以选择自己想要开发的项目与合作团队人员。
 
-<!--
 #### 首席工程师 I～III
 
 * 团队中最专业的工程师。
@@ -184,7 +177,7 @@ description: Full-Time Engineering Levels
 * 可以比任何人更快更完善的执行全端整个产品的开发。
 * 有责任设计并执行开发规划，分配团队工作，保持开发进度。
 * 有义务帮忙团队其他工程师完成开发项目并给予建议，决定公司科技使用的方向、策略、团队架构。
--->
+
 <br>
 
 由考试表现决定职级与薪资。
@@ -282,13 +275,10 @@ description: Full-Time Engineering Levels
 | E4 | Senior Engineer I | 36K-44K |
 | E5 | Senior Engineer II | 44K～52K |
 | E6 | Senior Engineer III | 52K～60K |
-
-<!--
 | E7 | Lead Engineer I | 60～64K |
 | E8 | Lead Engineer II | 64～76K |
 | E9 | Lead Engineer III | 76～88K |
 | E10 | CTO | 88～104K |
--->
 
 <br>
 
@@ -305,13 +295,11 @@ description: Full-Time Engineering Levels
 * Self proficient in accomplishing every single technical task assigned.
 * Fully capable to implement entire product end-to-end.
 
-<!--
 #### Lead Engineer I～III
 
 * Recognized by peers as one of the truly best engineers in the team.
 * Expert and technical leader in driving architecture and engineering design.
 * Can implement entire product end-to-end faster than anyone else.
--->
 
 <br>
 

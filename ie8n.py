@@ -152,8 +152,7 @@ for root, dirs, files in allList:
             filepath = root + '/' + i
             filename = i
             # print("root:", root)
-            path = root.replace(mainPath +
-                                "/", "") if root != mainPath else "/"
+            path = root.replace(mainPath + "/", "") if root != mainPath else ""
             # print("filename:", i)
             # print("filepath:", path)
             article_lang = rfileDate(filepath, setlang, tag, attrname)

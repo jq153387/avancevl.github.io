@@ -20,13 +20,10 @@ description: Full-Time Engineering Levels
 | E4 | Senior Engineer I | 36K-44K |
 | E5 | Senior Engineer II | 44K～52K |
 | E6 | Senior Engineer III | 52K～60K |
-
-<!--
 | E7 | Lead Engineer I | 60～64K |
 | E8 | Lead Engineer II | 64～76K |
 | E9 | Lead Engineer III | 76～88K |
 | E10 | CTO | 88～104K |
--->
 
 <br>
 
@@ -43,13 +40,11 @@ description: Full-Time Engineering Levels
 * Self proficient in accomplishing every single technical task assigned.
 * Fully capable to implement entire product end-to-end.
 
-<!--
 #### Lead Engineer I～III
 
 * Recognized by peers as one of the truly best engineers in the team.
 * Expert and technical leader in driving architecture and engineering design.
 * Can implement entire product end-to-end faster than anyone else.
--->
 
 <br>
 

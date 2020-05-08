@@ -34,8 +34,8 @@ description: 與眾不同的新創孵化
 -   [台灣新創工作機會社團 :rocket:](https://021tw.github.io/021tw.github.io/){:target="\_blank"}
 -   [台灣全端工程師社團 :star:](https://stacktw.github.io/stacktw.github.io/){:target="\_blank"}
 -   [台灣遠端軟體工程師徵才 :palm_tree:](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
-    _ [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
-    _ [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
+    -   [LinkedIn](https://www.linkedin.com/groups/10525064/){:target="\_blank"}
+    -   [Facebook](https://www.facebook.com/groups/489046765360247/){:target="\_blank"}
 
 <br>
 
@@ -46,9 +46,5 @@ description: 與眾不同的新創孵化
 -   請由 [git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
 -   請由 [git issue]({{ site.github.repository_url }}/issues/new)投入您的疑問。
 
-<br>
-
----
-
-<br>
+<br/>
 

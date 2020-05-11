@@ -268,9 +268,9 @@ toc:
                       en: "Job Application Survey"
                   url: /recruit/survey
                 - page:
-                      zh-tw: "選項A：加速申請 - 線上測驗（2.5小時）"
+                      zh-tw: "選項A選項A：加速申請 - 線上測驗（2.5小時）"
                       zh-cn: "選項A：加速申請 - 線上測驗（2.5小時）"
-                      en: "選項A：Accelerated Take-Home Exam"
+                      en: "A：Accelerated Take-Home Exam"
                   url: /recruit/takehome
                   subsubsubfolderitems:
                       - page:

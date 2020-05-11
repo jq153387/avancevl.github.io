@@ -106,6 +106,7 @@ a:active {
     position: relative;
 }
 /**sidenav**/
+
 .nav-but {
     height: 35px;
     position: relative;
@@ -120,7 +121,10 @@ a.sidenav-trigger.top-nav {
     border: none;
     border-radius: 3px;
 }
-
+.sidenav {
+    background-color: #0e2539;
+    padding-bottom: 100px;
+}
 .sidenav > .nav-list ul {
     padding: 0;
     margin: 0;
@@ -132,25 +136,34 @@ a.sidenav-trigger.top-nav {
     line-height: normal;
     padding: 8px 25px 8px 25px;
     display: block;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
 }
 .sidenav > .nav-list ul ul a {
-    padding-left: 45px;
+    padding-left: 60px;
+    color: #b3cce6;
     font-size: 13px;
 }
 .sidenav > .nav-list ul ul ul a {
-    padding-left: 60px;
+    padding-left: 70px;
     font-size: 12px;
 }
 .sidenav > .nav-list b {
     display: block;
-    border-top: 1px solid rgba(0, 0, 0, 0.14);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.14);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    // border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
-.sidenav > .nav-list b a:hover {
-    background-color: rgba(0, 0, 0, 0.05);
+.sidenav > .nav-list b a:hover,
+.sidenav li > a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.sidenav > .nav-list ul a img,
+.sidenav > .nav-list b a img {
+    margin-right: 5px;
 }
 .sidenav > .nav-list a.active {
-    background-color: rgba(0, 0, 0, 0.05);
+    background-color: rgba(255, 255, 255, 0.1);
 }
 .sidenav > .nav-list b a {
     height: auto;
@@ -158,11 +171,13 @@ a.sidenav-trigger.top-nav {
     line-height: normal;
     display: block;
     font-size: 14px;
-    color: rgba(0, 0, 0, 0.87);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
 }
 /*drop language*/
 .sidenav-header {
-    padding: 0 25px;
+    padding: 28px 25px;
 }
 .sidenav-header > h2 {
     text-align: center;
@@ -174,16 +189,19 @@ a.sidenav-trigger.top-nav {
 }
 .droplang {
     float: left;
-    color: rgba(0, 0, 0, 0.5);
     font-size: 12px;
-    border: 1px solid rgba(0, 0, 0, 0.14);
+    border: 1.5px solid rgba(255, 255, 255, 0.2);
     padding: 0.3rem 0.6rem;
+    margin: 0;
+    background-color: #20364d;
+    color: rgba(255, 255, 255, 0.7);
 }
 .droplang:hover {
     color: #fc6969;
     border-color: #fc6969;
 }
 .dropdown-content {
+    border-radius: 3px;
     height: auto !important;
     padding: 0;
     margin: 0;
@@ -195,7 +213,16 @@ a.sidenav-trigger.top-nav {
 .dropdown-content li a {
     font-size: 12px;
 }
-
+.dropdown-content {
+    background-color: #20364d;
+    li > a {
+        color: #ffffff;
+    }
+    li:hover,
+    li.active {
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+}
 // .btn,
 // .btn-large,
 // .btn-small,
@@ -224,10 +251,4 @@ a.sidenav-trigger.top-nav {
 // ul:not(.browser-default) {
 //     padding-left: 0;
 //     list-style-type: none;
-// }
-// .dropdown-content {
-//     background-color: #20364d;
-//     li > a {
-//         color: #ffffff;
-//     }
 // }

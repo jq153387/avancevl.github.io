@@ -33,7 +33,7 @@
                 <a class="sidenav-trigger top-nav" data-target="slide-out" href="#">
                     <i class="material-icons">menu</i>
                 </a>
-                <a class="dropdown-trigger btn droplang nav-droplang" data-target="dropdown2" href="#">語言</a>
+                <a class="dropdown-trigger btn droplang nav-droplang" data-target="dropdown2" href="#">{{ site.data.language[page.lang].SELECT_LANGUAGE }}</a>
                 <!-- Dropdown Structure -->
                 <ul class="dropdown-content" id="dropdown2">
                     {% include droplang.html %}
@@ -60,9 +60,10 @@
                 <span class="site-footer-owner">
                     <b>AVL</b>
                 </span>
-                <span class="site-footer-owner">全遠端孵化新創 | All Remote Startup Incubator<a style="text-decoration: none"></a>
+                <span class="site-footer-owner">{{ site.data.language[page.lang].ALL_REMOTE_STARTUP_IN }}<a style="text-decoration: none"></a>
                 </span>
-                <span class="site-footer-owner">追蹤我們 Follow Us |
+                <span class="site-footer-owner">{{ site.data.language[page.lang].FOLLOW_US }}
+                    |
                     <a href="https://www.facebook.com/Avance-Venture-Lab-108024397337673" style="text-decoration: none" target="_blank">Facebook</a>
                     |
                     <a href="https://www.instagram.com/avanceventurelab" style="text-decoration: none" target="_blank">Instagram</a>
@@ -72,7 +73,7 @@
                     <a href="https://github.com/avancevl" style="text-decoration: none" target="_blank">GitHub</a>
                 </span>
                 <span class="site-footer-owner">
-                    <a href="mailto:hr@avancevl.com" style="text-decoration: none">聯絡我們 Contact Us</a>
+                    <a href="mailto:hr@avancevl.com" style="text-decoration: none">{{ site.data.language[page.lang].CONTACT_US }}</a>
                 </span>
                 <br>
                 <span class="site-footer-owner">
@@ -86,7 +87,7 @@
         <!--mobile nav list-->
         <nav class="sidenav sidenav-style" id="slide-out">
             <div class="sidenav-header">
-                <a class="dropdown-trigger btn droplang" data-target="dropdown1" href="#">語言</a>
+                <a class="dropdown-trigger btn droplang" data-target="dropdown1" href="#">{{ site.data.language[page.lang].SELECT_LANGUAGE }}</a>
                 <!-- Dropdown Structure -->
                 <ul class="dropdown-content" id="dropdown1">
                     {% include droplang.html %}

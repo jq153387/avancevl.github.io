@@ -5,8 +5,6 @@ lang: en
 description: A Different Breed of Startup Incubator
 ---
 
-
-
 ## All Remote Team, Incubate New Ideas
 
 We incubate, accelerate, and implement ideas that our team create internally.
@@ -45,5 +43,3 @@ We welcome feedback.
 
 -   Please make a [pull request]({{ site.github.repository_url }}/pull/new/master) to suggest improvements or add clarification.
 -   Please create a [issue]({{ site.github.repository_url }}/issues/new) to ask questions.
-
-<br

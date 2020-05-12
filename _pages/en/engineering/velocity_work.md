@@ -38,4 +38,4 @@ We believe in launching an imperfect product fast over delivering a perfect prod
 
 Our philosophy on refactoring is that it must serve our customers. If refactoring will demomnstratably allow us serve our customers better, then we will refactor.
 
-In our experience, the best time to refactor is immmediately after a big product launch. Refactoring should be done *before* adding any updates or new features to existing code. Developers also have more time to refactor immediatley after delivering a product to market
+In our experience, the best time to refactor is immmediately after a big product launch. Refactoring should be done *before* adding any updates or new features to existing code. Developers also have more time to refactor immediatley after delivering a product to market.

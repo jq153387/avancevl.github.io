@@ -55,4 +55,4 @@ description: Digital Marketing
 
 [現在就申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br
+<br>

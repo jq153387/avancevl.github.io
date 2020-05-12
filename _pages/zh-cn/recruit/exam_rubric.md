@@ -258,4 +258,4 @@ Your Engineer Level (E0-10) and therefore salary package will be roughly be deci
 
 ### Example Calculations
 
-[See Example Calculations]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn
+[See Example Calculations]({{ site.baseurl }}/recruit/webdev_sample.html){: .btn#page-btn}

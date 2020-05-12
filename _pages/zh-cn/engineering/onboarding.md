@@ -72,4 +72,4 @@ description: Engineer Onboarding
 | JS Package | npm |
 | JS Builder | Gulp |
 | JS Testing | Jest |
-| JS Tools | EJS, Motion UI 
+| JS Tools | EJS, Motion UI |

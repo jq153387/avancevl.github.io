@@ -37,4 +37,4 @@ How is the individual contributor reviewed by his or her peers?
 #### 3. Manager Performance Review
 How does the individual contributor's manager review his or her performance for the year?
 
-<br
+<br>

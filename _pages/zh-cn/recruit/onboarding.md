@@ -35,4 +35,4 @@ When you onboard, you will be given materials to review and complete the followi
 1. If an engineer, know [Enigneering]({{ site.link_engineering }}) expectations.
 1. If you're a front-end or a back-end engineering, you will go through a 3-6 month **[Full Stack Training Program]({{ site.link_fullstack_training }})**.
 
-[Onboarding Process]({{ site.baseurl }}/people/onboarding.html){: .btn#page-btn
+[Onboarding Process]({{ site.baseurl }}/people/onboarding.html){: .btn#page-btn}

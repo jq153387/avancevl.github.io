@@ -16,4 +16,4 @@ description: Non-Disclosure Agreement (NDA)
 * 全職員工
 * 兼職員工
 * 專案合作
-* 實習
+* 實習生

@@ -97,4 +97,4 @@ description: Front-End Stack
 * [React UI components collection](https://react-rainbow.web.app/){:target="_blank"}
 * [JavaScript Graphics](https://www.chartjs.org/){:target="_blank"}
 * [Font Scripts](https://developers.google.com/fonts/docs/developer_api){:target="_blank"}
-* [Polyfill](https://github.com/financial-times/polyfill-service){:target="_blank"
+* [Polyfill](https://github.com/financial-times/polyfill-service){:target="_blank"}

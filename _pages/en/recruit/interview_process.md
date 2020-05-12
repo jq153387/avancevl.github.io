@@ -45,4 +45,4 @@ If you already have an exploding offer, please let us know and we can expediate 
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

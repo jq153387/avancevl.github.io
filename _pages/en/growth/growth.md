@@ -31,4 +31,4 @@ description: Growth
 
 <br>
 
-[Our Agile Process]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn
+[Our Agile Process]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}

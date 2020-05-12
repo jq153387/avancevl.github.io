@@ -50,4 +50,4 @@ description: Management KPI & OKR
 ## 4. Fundraising
 
 * Raise capital at typical YC-company seed valuation.
-* 2-3 million raised at 10-20 million pre-seed
+* 2-3 million raised at 10-20 million pre-seed.

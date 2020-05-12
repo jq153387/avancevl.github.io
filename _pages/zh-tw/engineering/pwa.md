@@ -53,4 +53,4 @@ serviceWorker.register();
 * [Convert React App into a PWA](https://dev.to/phonerefer/convert-react-app-into-a-progressive-web-app-pwa-b0f){:target="_blank"}
 * [From create-react-app to PWA](https://blog.logrocket.com/from-create-react-app-to-pwa/){:target="_blank"}
 * [Build a Realtime PWA with React](https://medium.com/better-programming/build-a-realtime-pwa-with-react-99e7b0fd3270){:target="_blank"}
-* [GitHub: Create React App](https://github.com/facebook/create-react-app){:target="_blank"
+* [GitHub: Create React App](https://github.com/facebook/create-react-app){:target="_blank"}

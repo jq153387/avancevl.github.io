@@ -95,4 +95,4 @@ We offer year-round internships, though summer is the most popular. We hire on a
 
 ​**How are interns placed on teams?**
 
-​We look at your background and preferences, factor in team bandwidth, and then assign you a team that will be the best fit for everyone involved
+​We look at your background and preferences, factor in team bandwidth, and then assign you a team that will be the best fit for everyone involved.

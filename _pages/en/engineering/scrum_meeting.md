@@ -32,4 +32,4 @@ description: Scrum Planning Meeting
 ## Scrums
 
 * Management (Sunday)
-* Engineerin
+* Engineering

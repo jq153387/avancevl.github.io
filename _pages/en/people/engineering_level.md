@@ -122,4 +122,4 @@ While this value may seem high, it is modest in SV.
 
 [View Silicon Valley Software Salaries](https://www.levels.fyi/){: .btn#page-btn}{:target="_blank"}
 -->
-<br
+<br>

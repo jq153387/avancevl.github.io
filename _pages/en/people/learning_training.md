@@ -59,4 +59,4 @@ Engineers who have passion in startups will have the opportunity to learn more a
 * Marketing
 * Growth hacking and engineering
 
-Our ideal engineer is someone who is passionate about startups, so trying on different hats is something we highly, highly encourage
+Our ideal engineer is someone who is passionate about startups, so trying on different hats is something we highly, highly encourage.

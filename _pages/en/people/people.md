@@ -14,4 +14,4 @@ description: People
 	* [Engineering Levels]({{ site.baseurl }}/people/engineering_level.html)
 * [Working Hours]({{ site.baseurl }}/people/work_hours.html)
 * [Team Events]({{ site.baseurl }}/people/team_events.html)
-* [Learning & Training]({{ site.baseurl }}/people/learning_training.html
+* [Learning & Training]({{ site.baseurl }}/people/learning_training.html)

@@ -27,4 +27,4 @@ description: SEO
 
 * [Stop Blogging and Startup Building Tools (thinkgrowth.org)](https://thinkgrowth.org/building-tools-can-provide-better-roi-than-blogging-ec87e304c47d){:target="_blank"}
 * [Backlink - The Definitive Guide (Backlinko)](https://backlinko.com/backlinks-guide){:target="_blank"}
-* [Ahrefs](https://ahrefs.com/){:target="_blank"
+* [Ahrefs](https://ahrefs.com/){:target="_blank"}

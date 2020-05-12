@@ -91,4 +91,4 @@ description: UI Design
 
 # Icon Design
 
-* [Inside Design by Invision](https://www.invisionapp.com/inside-design/design-resources/essentials-icon-pack/){:target="_blank"
+* [Inside Design by Invision](https://www.invisionapp.com/inside-design/design-resources/essentials-icon-pack/){:target="_blank"}

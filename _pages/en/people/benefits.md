@@ -45,4 +45,4 @@ description: Benefits
 	* Represent the companies at recruiting events
 * Company outings
 	* Vote on end of the year events, trips
-	* Leadership retreat
+	* Leadership retreats

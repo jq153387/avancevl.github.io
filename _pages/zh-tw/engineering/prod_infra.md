@@ -137,4 +137,4 @@ description: Production Infrastructure
 
 # 歡迎建議
 
-如果有其他對生產架構看法或建議，請由[git issue]({{ site.github.repository_url }}/issues/new)分享，謝謝
+如果有其他對生產架構看法或建議，請由[git issue]({{ site.github.repository_url }}/issues/new)分享，謝謝！

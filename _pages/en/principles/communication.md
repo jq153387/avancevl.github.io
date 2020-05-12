@@ -36,4 +36,4 @@ description: Effective Communication
 
 ### 9. Avoid speaking in pronouns
 * Clearly state who or what you are talking about by name to avoid confusion
-* Profanity is OK only when not used to threaten or intimidat
+* Profanity is OK only when not used to threaten or intimidate

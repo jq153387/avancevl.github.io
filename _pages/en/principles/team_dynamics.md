@@ -59,4 +59,4 @@ Over half of the respondents believe **subtle hinting** is an effective communic
 ### 7. Phone calls 
 * Never decline a call from your mother (the woman who gave birth to you) or grandmother (the woman who spoils you the most) in a team meeting, but do tell them you are busy and will call them back; no one else is granted this exception
 
-### 8. Aggressively integrate yourself into the team and other new joiner
+### 8. Aggressively integrate yourself into the team and other new joiners

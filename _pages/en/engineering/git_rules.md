@@ -45,4 +45,4 @@ description: Git Rules
 
 1. Engineer merge changes to master branch.
 1. Engineer deploy changes to master deployment.
-1. Engineer closes git issue
+1. Engineer closes git issue.

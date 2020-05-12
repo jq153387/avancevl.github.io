@@ -90,4 +90,4 @@ Currently, the navigation tree is at the bottom of our pages. Some of these are 
 
 Shout out and thanks to our GitHub contributors:
 * [0t2 (Jesse)](https://github.com/0t2){:target="_blank"}
-* [da21510](https://github.com/da21510){:target="_blank"
+* [da21510](https://github.com/da21510){:target="_blank"}

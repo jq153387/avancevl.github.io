@@ -42,4 +42,4 @@ Secondary colors are best for:
 * Progress bars
 * Links and headlines
 * Dark and light secondary variants
-* Just like the primary color, your secondary color can have dark and light variants. You can make a color theme by using your primary color, secondary color, and dark and light variants of each color
+* Just like the primary color, your secondary color can have dark and light variants. You can make a color theme by using your primary color, secondary color, and dark and light variants of each color.

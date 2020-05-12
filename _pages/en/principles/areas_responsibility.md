@@ -16,4 +16,4 @@ description: Areas of Responsibility
 | Product | Signups, strategy, TA | {{ site.user_d }}, {{ site. user_g }} |
 | Engineering | QC, production | {{ site.user_g }} |
 | HR | Recruiting, office | {{ site.user_d }} |
-| Admin | Fundraising, accounting, legal | {{ site.user_d }}, {{ site.user_g }} 
+| Admin | Fundraising, accounting, legal | {{ site.user_d }}, {{ site.user_g }} |

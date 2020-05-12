@@ -31,4 +31,4 @@ description: Written Communication Etiquette
 * When sending attachments, consider file formats so recipients can view the files without formatting issues (e.g., PDF)
 
 ### 7. E-mail signatures
-* Set your email signature on desktop and phone to reflect the team’s forma
+* Set your email signature on desktop and phone to reflect the team’s format

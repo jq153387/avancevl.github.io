@@ -13,4 +13,4 @@ description: Internationalization
 
 ## React i18n
 
-* [`github: react-i18next`](https://github.com/i18next/react-i18next){:target="_blank"
+* [`github: react-i18next`](https://github.com/i18next/react-i18next){:target="_blank"}

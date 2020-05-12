@@ -45,4 +45,4 @@ description: Design Process
 <img src='https://lh3.googleusercontent.com/8erfIs8h5rNc-Kk9h1CV4G9yanbaHKRcJCFqWZoh_3vl3PX5dI_T2jvHedm4GOhAjHUKfs1ftPPi8HqFD6kVmOubMZgImia6B9k4RSIk1CK--Q0e5NUcI7pgBcchRm6LM0o5Orf0PQ=w500' />
 
 
-## Step 7. Iterate Steps 5, 
+## Step 7. Iterate Steps 5, 6

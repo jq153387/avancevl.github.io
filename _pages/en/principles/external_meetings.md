@@ -36,4 +36,4 @@ description: External Meetings
   * What will get him/her fired: address and mitigate  
 
 ### 8. Contract Management  
-* Ambiguity in contracts can be good if you are the one with the checkbook — if you have the checkbook, you have the leverag
+* Ambiguity in contracts can be good if you are the one with the checkbook — if you have the checkbook, you have the leverage

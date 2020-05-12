@@ -164,4 +164,4 @@ Great expectations create great capabilities.
 * “It does not do to dwell on dreams and forget to live”
 * Your work is going to fill a large part of your life; the only way to be truly satisfied is to do what you believe is great work; the only way to do great work is to love what you do
 * What we do matters to people other than ourselves
-* We make a living by what we get, but we make a life by what we giv
+* We make a living by what we get, but we make a life by what we give

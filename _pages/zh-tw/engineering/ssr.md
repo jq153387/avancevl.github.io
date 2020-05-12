@@ -104,4 +104,4 @@ description: Server Side Rendering
 
 #### Redux如何資源Server Side Render
 
-* [Server Side Rendering with Redux](https://redux.js.org/recipes/server-rendering/){:target="_blank"
+* [Server Side Rendering with Redux](https://redux.js.org/recipes/server-rendering/){:target="_blank"}

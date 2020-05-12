@@ -54,4 +54,4 @@ description: Protocol for Meetings
 * Email a memo highlighting what was accomplished and next steps to all who attended within 24 hours after the meeting
 
 ### 14. Have fun
-* Meetings are where you can have interaction with people and solve problems creatively and collaborativel
+* Meetings are where you can have interaction with people and solve problems creatively and collaboratively

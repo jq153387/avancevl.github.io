@@ -21,4 +21,4 @@ description: Code Review
 * Committers are motivated to write better code knowing if someone will look at it.
 * Learning and sharing knowledge on how to write better code.
 * Consistency in design and coding style.
-* Catching bugs, anti-patterns, and design flaws early
+* Catching bugs, anti-patterns, and design flaws early.

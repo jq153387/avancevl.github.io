@@ -37,4 +37,4 @@ Our take-home exam is an accurate reflection of daily work at our company. The t
 * We want hungry people who love coding and learning new things.
 
 ### 7. Build up your own open source portfolio
-* Publish your exam on github and build up your github presence
+* Publish your exam on github and build up your github presence.

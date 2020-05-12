@@ -5,6 +5,8 @@ lang: en
 description: Team
 ---
 
+
+
 # About Us
 
 We are a team of entrepreneurs from MIT and Stanford. We studied engineering as undergraduates and worked in the world of banking, tech, and consulting in New York, Seattle, San Francisco, Chicago, and Shanghai before building startups in Silicon Valley. We are now based in Hong Kong, Singapore, and Taipei. We create, build, and implement experiments quickly for profitable ideas. We make useful software. We value creating impact over being productive.

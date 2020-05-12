@@ -39,4 +39,4 @@ description: Execution Strategy
 * Solid, robust engineering talent and management is absolutely necessary to execute fast and efficiently.
 	* Technical debt will slow down our ability to release new features to customers.
 	* Refactoring costs due to poor technical foundations will add up over time.
-	* **Robust technical design and direction is absolutely critical for fast execution and effective cost control.*
+	* **Robust technical design and direction is absolutely critical for fast execution and effective cost control.**

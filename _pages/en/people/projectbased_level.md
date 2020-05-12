@@ -46,4 +46,4 @@ description: Project-Based/Part-Time Levels
 
 [View Take Home Exam]({{ site.baseurl }}/recruit/takehome.html){: .btn#page-btn}
 
-<br
+<br>

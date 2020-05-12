@@ -56,4 +56,4 @@ Cloud Firestore的擴展能力將優於實時數據庫。重要的是要注意�
 * [SO: What's the difference between Cloud Firestore and the Firebase Realtime Database?](https://stackoverflow.com/questions/46549766/whats-the-difference-between-cloud-firestore-and-the-firebase-realtime-database){:target="_blank"}
 * [Realtime Database vs. Cloud Firestore — Which Database is Suitable for your Mobile App](https://medium.com/datadriveninvestor/realtime-database-vs-cloud-firestore-which-database-is-suitable-for-your-mobile-app-87e11b56f50f){:target="_blank"}
 * [Firebase Cloud Firestore v/s Firebase Realtime Database](https://medium.com/@beingrahul/firebase-cloud-firestore-v-s-firebase-realtime-database-931d4265d4b0){:target="_blank"}
-* [Choose a Database: Cloud Firestore or Realtime Database](https://firebase.google.com/docs/database/rtdb-vs-firestore){:target="_blank"
+* [Choose a Database: Cloud Firestore or Realtime Database](https://firebase.google.com/docs/database/rtdb-vs-firestore){:target="_blank"}

@@ -64,4 +64,4 @@ description: Mobile Application Framework
 
 ### 線上資源
 
-* [AMP](https://amp.dev/zh_cn/documentation/?format=websites){:target="_blank"
+* [AMP](https://amp.dev/zh_cn/documentation/?format=websites){:target="_blank"}

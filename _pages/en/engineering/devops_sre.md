@@ -53,4 +53,4 @@ App infrastructure monitoring is very crucial to optimize the application perfor
 ## 8. Automated Dashboards
 Leverage the DevOps intelligence with the automated dashboard. It will provide the data along with detailed insights and reports of every operation such as the number of tests run, tests’ durations, the number of failure and success in testing. It allows to review configuration changes made to the database and server and deployments that have taken place across the system.  
 
-The dashboard acts as a centralized hub that enables the operations team with real-time data insights which help them in selecting the right set of automation tools testings. Moreover, there are varied logs, graphs, and metrics that enable operations teams with a holistic view of changes happening in the system
+The dashboard acts as a centralized hub that enables the operations team with real-time data insights which help them in selecting the right set of automation tools testings. Moreover, there are varied logs, graphs, and metrics that enable operations teams with a holistic view of changes happening in the system.

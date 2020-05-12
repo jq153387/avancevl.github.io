@@ -29,4 +29,4 @@ description: Product Development Roadmap
 
 4. Iterate Product Design
 
-5. Build and Repea
+5. Build and Repeat

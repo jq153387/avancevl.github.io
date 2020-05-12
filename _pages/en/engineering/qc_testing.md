@@ -80,4 +80,4 @@ Read this excellent resource on [**Testing Anti-Patterns**](http://blog.codepipe
 1. Not converting production bugs to tests
 1. Treating Test Driven Design (TDD) as a religion
 1. Writing tests without reading documentation first
-1. Giving testing a bad reputation out of ignoranc
+1. Giving testing a bad reputation out of ignorance

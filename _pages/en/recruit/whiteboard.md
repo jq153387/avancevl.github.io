@@ -45,4 +45,4 @@ Favors young engineers and recent grads because basic computer science concepts 
 The entire process is 2 full days, which is much longer than our **[Accelerated Take Home Exam]({{ site.baseurl }}/recruit/takehome.html).**
 
 ### 5. Longer preparation time.
-Candidates will need to memorize and review algorithms. This is a lot of unnecessary extra work that won't be relevant to your day-to-day job
+Candidates will need to memorize and review algorithms. This is a lot of unnecessary extra work that won't be relevant to your day-to-day job.

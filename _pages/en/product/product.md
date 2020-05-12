@@ -58,4 +58,4 @@ This page is to outline our product development cycle and process. For informati
 
 * [Deciding which features to build and how to prioritize them](https://medium.com/pminsider/deciding-which-features-to-build-and-how-to-prioritize-them-e6cf22005cb1){:target="_blank"}
 * [Decide what to build](https://www.productboard.com/pm-101/decide-what-to-build/){:target="_blank"}
-* [How to know what product feature you should build next](https://thepathforward.io/how-know-what-product-feature-you-should-build-next/){:target="_blank"
+* [How to know what product feature you should build next](https://thepathforward.io/how-know-what-product-feature-you-should-build-next/){:target="_blank"}

@@ -80,4 +80,4 @@ import {Text, View} from 'react-native';
 // Redux
 import { Provider } from 'react-redux';
 import { createStore } from 'reduce';
-``
+```

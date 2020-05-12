@@ -21,4 +21,4 @@ Firebase就已經很多內建的使用者分析工具
 我們也使用
 
 * Flurry
-* Mixpane
+* Mixpanel

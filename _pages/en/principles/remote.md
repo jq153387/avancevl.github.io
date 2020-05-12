@@ -92,4 +92,4 @@ All-remote work promotes:
 ### Great Examples of Remote Teams
 
 * [GitLab](https://about.gitlab.com/company/culture/all-remote/){:target="_blank"}
-* [Zapier](https://zapier.com/learn/remote-work/){:target="_blank"
+* [Zapier](https://zapier.com/learn/remote-work/){:target="_blank"}

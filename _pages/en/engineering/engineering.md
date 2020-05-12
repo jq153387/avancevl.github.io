@@ -42,4 +42,4 @@ Product release cycles are organized around 1 sprint. At the end of every sprint
 
 <br>
 
-[Agile]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}{:target="_blank"
+[Agile]({{ site.baseurl }}/principles/agile.html){: .btn#page-btn}{:target="_blank"}

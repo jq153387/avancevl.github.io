@@ -18,4 +18,4 @@ This EdTech software helps students around the world prepare for exams thorough 
 We have many other ideas in the pipeline. We hope you consider joining us to complete them.
 
 
-[Let's create products together]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn
+[Let's create products together]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}

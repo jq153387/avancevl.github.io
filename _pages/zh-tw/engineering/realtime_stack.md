@@ -29,4 +29,4 @@ description: Realtime Web Stack
 
 ### InfluxDB
 
-* [Storing and Processing Billions of Cryptocurrency Market Data Using InfluxDB](https://medium.com/coinograph/storing-and-processing-billions-of-cryptocurrency-market-data-using-influxdb-f9f670b50bbd){:target="_blank"
+* [Storing and Processing Billions of Cryptocurrency Market Data Using InfluxDB](https://medium.com/coinograph/storing-and-processing-billions-of-cryptocurrency-market-data-using-influxdb-f9f670b50bbd){:target="_blank"}

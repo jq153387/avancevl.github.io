@@ -145,4 +145,4 @@ export default HiThere
 
 * [github: AMP: styles missing when importing standard css files in a project using styled components](https://github.com/zeit/next.js/issues/7121){:target="_blank"}
 * [zeit: Built-In CSS Support](https://nextjs.org/docs/basic-features/built-in-css-support){:target="_blank"}
-* [`github: withAmpSass`](https://gist.github.com/blech75/b9238c5569e03a637c9cd21d596e80f0){:target="_blank"
+* [`github: withAmpSass`](https://gist.github.com/blech75/b9238c5569e03a637c9cd21d596e80f0){:target="_blank"}

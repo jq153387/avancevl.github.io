@@ -45,4 +45,4 @@ The focus after the product meeting is to get product out the door, nothing else
 
 ## Product Testing
 
-* Testing requirements are part of each product cycle's lis
+* Testing requirements are part of each product cycle's list

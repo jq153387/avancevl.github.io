@@ -39,4 +39,4 @@ We are also building a Full Stack Developer community in Taiwan, with the missio
 * Discuss and understand synergies between front-end and back-end frameworks.
 * Build out an open sourced solution that is free forever for startup job seeking and hiring.
 
-[Join Now](https://stacktw.github.io/){: .btn#page-btn}{:target="_blank"
+[Join Now](https://stacktw.github.io/){: .btn#page-btn}{:target="_blank"}

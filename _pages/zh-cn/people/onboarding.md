@@ -59,4 +59,4 @@ description: Onboarding
 
 ## GitLab
 
-已用Email加入相关GitLab group
+已用Email加入相关GitLab group。

@@ -20,4 +20,4 @@ description: JavaScript Testing
 1. 臉書團隊維護
 1. React團隊建議使用
 1. 效能高
-1. 使用文件
+1. 使用文件多

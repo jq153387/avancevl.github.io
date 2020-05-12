@@ -35,4 +35,4 @@ description: Tech Stack
 
 | [前端AMP架构]({{ site.baseurl }}/engineering/amp.html) | **Next.js** |
 | [前端PWA架构]({{ site.baseurl }}/engineering/pwa.html) | **React.js** |
-| [手机前端画面架构]({{ site.baseurl }}/engineering/mobile.html) | **ReactNative** 
+| [手机前端画面架构]({{ site.baseurl }}/engineering/mobile.html) | **ReactNative** |

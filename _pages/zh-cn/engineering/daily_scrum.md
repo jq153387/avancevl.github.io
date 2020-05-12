@@ -55,4 +55,4 @@ git commit -m "Fixed bug in mobile RWD window (Fixes #168)"
 <img src='https://lh3.googleusercontent.com/4tSI6OvfmNu-ZrrgNGl8iL6hgsdC4_IPOesghAL9uxuHLOnB2yZxkWpTONFk2NXXv8LbSm2UYVONVWafrrX6c8D-SNROLS8DkKybwsPwk8w9yn8xx6mRTzSTzo8Hwq8y0hjeuJ5mRg=w800' />
 
 * 尽量会议维持5到15分钟
-* 太长的会议其实就不是Scrum了
+* 太长的会议其实就不是Scrum了！

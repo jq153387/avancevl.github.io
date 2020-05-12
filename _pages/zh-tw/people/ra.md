@@ -13,4 +13,4 @@ description: Retainer Agreement (RA)
 
 ## 簽署人員
 
-* 兼職員
+* 兼職員工

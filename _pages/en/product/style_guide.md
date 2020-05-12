@@ -48,4 +48,4 @@ description: Style Guide
 
 ### Styled Components
 
-* [Styled Components](https://styled-components.com/){:target="_blank"
+* [Styled Components](https://styled-components.com/){:target="_blank"}

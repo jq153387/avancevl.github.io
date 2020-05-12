@@ -180,4 +180,4 @@ yarn add eslint-plugin-prettier --dev
 
 ## 例外格式
 
-* tab一定要用space取代
+* tab一定要用space取代。

@@ -43,4 +43,4 @@ Title 3: Key result 3 => Outcome 3
 ```
 
 ## 360 Feedback
-360 Feedback occurs annually during the first quarter. This is an opportunity where managers, direct reports, and cross functional team members will give feedback to one another. This is about helping our team members succeed and grow. Everyone in the company is required to  provide and receive feedback
+360 Feedback occurs annually during the first quarter. This is an opportunity where managers, direct reports, and cross functional team members will give feedback to one another. This is about helping our team members succeed and grow. Everyone in the company is required to  provide and receive feedback.

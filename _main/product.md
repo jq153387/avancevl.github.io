@@ -2,6 +2,16 @@
 layout: default
 title: 產品
 description: Product
+locales:
+    zh-tw:
+        title: 產品
+        description: 創造使用者要的東西
+    zh-cn:
+        title: 产品
+        description: 创造使用者要的东西
+    en:
+        title: Product
+        description: "Make something people want"
 ---
 
 <a name="zh-tw"></a>
@@ -24,10 +34,6 @@ description: Product
 
 <br>
 
----
-
-<br>
-
 <a name="zh-cn"></a>
 
 ## 商品
@@ -45,10 +51,6 @@ description: Product
 <br>
 
 [一起创造奇迹]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
-
-<br>
-
----
 
 <br>
 

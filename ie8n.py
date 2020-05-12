@@ -58,7 +58,7 @@ def rfileDate(filepath, setlang, tag, attrname):
             next_lang_index = content.find(next_lang_tag)
             lang_content[value] = content[now_lang_index:next_lang_index]
         else:
-            lang_content[value] = content[now_lang_index:-1]
+            lang_content[value] = content[now_lang_index:len(content)]
 
     # print(lang_content)
 
@@ -91,7 +91,6 @@ def rfileDate(filepath, setlang, tag, attrname):
         article.append(story)
         article.append(lang_content[value])
         article_lang[value] = article
-        print("<======strip==========>")
 
     return article_lang
 
@@ -121,14 +120,13 @@ def creatFiles(article_lang, path, filename, falias):
         如果指定目錄不存在就建立目錄
         要不然的話就直接開檔案
         """
-        print(key + ":", path)
         _path = "./" + falias + "/" + key + "/" + path
-        print(_path)
+
         if not os.path.isdir(_path):
             os.mkdir(_path)
         with open(_path + "/" + filename, "w") as fp:
             for item in article_lang[key]:
-                print("filename:", filename)
+                # print("filename:", filename)
                 fp.write(str(item))
 
 
@@ -138,14 +136,11 @@ allList = os.walk(mainPath)
 # 列出所有子目錄與子目錄底下所有的檔案
 for root, dirs, files in allList:
     #   列出目前讀取到的路徑
-    print("path：", root)
+    # print("path：", root)
     #   列出在這個路徑下讀取到的資料夾(第一層讀完才會讀第二層)
-    print("directory：", dirs)
+    # print("directory：", dirs)
     #   列出在這個路徑下讀取到的所有檔案
-    print("files：", files)
-    # mdfiles = [
-    #     i for i in files if os.path.splitext(root + '/' + i)[-1] == '.md'
-    # ]
+    # print("files：", files)
 
     for i in files:
         if os.path.splitext(root + '/' + i)[-1] == '.md':
@@ -158,4 +153,4 @@ for root, dirs, files in allList:
             article_lang = rfileDate(filepath, setlang, tag, attrname)
             # print(article_lang)
             creatFiles(article_lang, path, filename, falias)
-print("end============================================================>")
+print("成功完成!============================================================>")

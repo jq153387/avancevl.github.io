@@ -2,7 +2,7 @@
 layout: default
 title: 產品
 lang: zh-tw
-description: Product
+description: 創造使用者要的東西
 ---
 
 
@@ -22,10 +22,6 @@ description: Product
 <br>
 
 [一起創造奇蹟]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
-
-<br>
-
----
 
 <br>
 

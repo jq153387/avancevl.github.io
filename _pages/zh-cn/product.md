@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 產品
+title: 产品
 lang: zh-cn
-description: Product
+description: 创造使用者要的东西
 ---
 
 
@@ -22,10 +22,6 @@ description: Product
 <br>
 
 [一起创造奇迹]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
-
-<br>
-
----
 
 <br>
 

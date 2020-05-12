@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 產品
+title: Product
 lang: en
-description: Product
+description: Make something people want
 ---
 
 

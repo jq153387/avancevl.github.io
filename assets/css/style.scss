@@ -185,6 +185,7 @@ a.sidenav-trigger.top-nav {
     float: right;
     line-height: normal;
     cursor: pointer;
+    color: rgb(179, 204, 230);
 }
 .side-navbar i.material-icons:hover {
     color: #fc6969;
@@ -200,7 +201,7 @@ a.sidenav-trigger.top-nav {
     margin-bottom: 5px;
     // display: inline-flex;
     // text-overflow: ellipsis;
-    width: 170px;
+    width: 152px;
 }
 .side-navbar > .nav-list ul a:hover {
     background-color: transparent;
@@ -211,7 +212,7 @@ a.sidenav-trigger.top-nav {
     padding: 0px 0px 0px 10px;
     border: none;
     display: block;
-    font-size: 12px;
+    font-size: 14px;
     display: inline-flex;
 }
 .side-navbar > .nav-list ul {
@@ -225,6 +226,13 @@ a.sidenav-trigger.top-nav {
 }
 .side-navbar > .nav-list ul ul a {
     padding-left: 48px;
+    border: none;
+    background-color: transparent;
+}
+.side-navbar > .nav-list ul ul a.active {
+    border-left: 2px solid #e6375a;
+    background-color: transparent;
+    padding-left: 46px;
 }
 .side-navbar > .nav-list b a:hover {
     background-color: transparent;
@@ -242,6 +250,11 @@ a.sidenav-trigger.top-nav {
 .side-navbar {
     padding-bottom: 30px;
 }
+/*side main menu*/
+.side-navbar .nav-list ul {
+    display: none;
+}
+
 /*drop language*/
 .sidenav-header {
     padding: 28px 25px;
@@ -299,18 +312,23 @@ a.sidenav-trigger.top-nav {
     background-color: #0e2539;
 }
 
-/*main sidenav*/
+/*main*/
 .container-content {
     display: flex;
     flex-direction: row;
     align-items: stretch;
 }
 .maincontent {
-    width: 80%;
+    width: 75%;
     padding: 0 25px;
 }
 .side-navbar {
     width: 20%;
+    padding: 0 0 0 20px;
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+.site-footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
 }
 nav {
     background-color: transparent;

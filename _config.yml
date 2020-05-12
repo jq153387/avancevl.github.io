@@ -25,6 +25,8 @@ exclude:
     - Gemfile
     - Gemfile.lock
     - README.md
+    - Pipfile
+    - Pipfile.lock
 #https://github.com/letrastudio/jekyll-i18n/blob/master/_config.yml
 sass:
     sass_dir: _sass

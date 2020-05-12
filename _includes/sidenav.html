@@ -1,6 +1,6 @@
 {% if site.data.navigation.toc[0] %}
     {% for item in site.data.navigation.toc %}
-        <div>
+        <div class="navs">
             <b>
                 {% assign lang = {{page.lang | prepend:"/"}} %}
                 {% assign item_url= {{item.url | prepend: lang }} %}
